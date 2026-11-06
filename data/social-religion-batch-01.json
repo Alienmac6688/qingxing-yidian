@@ -505,6 +505,156 @@
       ],
       "evidenceStatus": "文章主题已核对；情境与机制属于原创教育性分析；意识强度仪器和数值未获独立科学验证",
       "revision": 1
+    },
+    {
+      "id": "sr-20261107-21",
+      "category": "社会",
+      "title": "成功经验万能论",
+      "prompt": "创业导师说：‘我靠每天凌晨四点起床成功，你不照做就永远没机会。’",
+      "check": "辨识导师经验、行业条件、资源和个人差异；一个人的成功路径是否可直接复制？",
+      "risk": "把个人经验包装成人人适用的唯一标准，可能让学习者放弃适合自己的选择。",
+      "wake": "提取可测试的方法，做小规模实验；根据自身约束调整，而非盲从成功者。",
+      "counter": "规律作息对部分人有帮助，但不证明凌晨四点适合所有人。",
+      "tags": [
+        "社会",
+        "成功经验万能论",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "Awakenology 文章概念启发的原创模拟案例，非原文事实或真实事件",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文，使用原创改写",
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+        }
+      ],
+      "evidenceStatus": "来源文章观点已核对；生活情境为模拟；心理机制为可能性，非个案实证；原文超自然及量化断言未独立验证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-22",
+      "category": "宗教",
+      "title": "觉醒导师的唯一道路",
+      "prompt": "某灵修导师说：‘只有我知道你觉醒的正确路线；照我的课程逐级缴费即可。’",
+      "check": "导师能否事前证明其路线适合每个人？费用、效果和退出规则是否透明？",
+      "risk": "以独占真理和确定性承诺建立权威依赖，可能诱导持续付费。",
+      "wake": "保留对方法的独立评价，设定预算与退出条件，比较不同实践和解释。",
+      "counter": "有经验的指导者可能提供帮助，但帮助不等于保证结果。",
+      "tags": [
+        "宗教",
+        "觉醒导师的唯一道路",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "Awakenology 文章概念启发的原创模拟案例，非原文事实或真实事件",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文，使用原创改写",
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+        }
+      ],
+      "evidenceStatus": "来源文章观点已核对；生活情境为模拟；心理机制为可能性，非个案实证；原文超自然及量化断言未独立验证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-23",
+      "category": "社会",
+      "title": "社会标准换新包装",
+      "prompt": "平台热传：‘以前拼学历已经过时，现在必须拥有五项AI证书才配找工作。’",
+      "check": "证书是否确有岗位需求？新标准由谁提出、受益者是谁？",
+      "risk": "不断更换社会评价标准可能制造追赶焦虑，驱动无效消费。",
+      "wake": "查询真实招聘条件和技能考核；以实际能力与目标决定是否学习。",
+      "counter": "新技术确实会改变岗位需求，但不能从趋势推导人人必须买证书。",
+      "tags": [
+        "社会",
+        "社会标准换新包装",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "Awakenology 文章概念启发的原创模拟案例，非原文事实或真实事件",
+      "sourceTitle": "意識强度檢測點（5）左方區：舊有慣性區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%B7%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E5%E5%B7%A6%E6%96%B9%E5%8D%80%E8%88%8A%E6%9C%89%E6%85%A3%E6%80%A7%E5%8D%80/",
+      "sourceDate": "2018–2019年第三版",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文，使用原创改写",
+      "references": [
+        {
+          "title": "意識强度檢測點（5）左方區：舊有慣性區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%B7%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E5%E5%B7%A6%E6%96%B9%E5%8D%80%E8%88%8A%E6%9C%89%E6%85%A3%E6%80%A7%E5%8D%80/"
+        }
+      ],
+      "evidenceStatus": "来源文章观点已核对；生活情境为模拟；心理机制为可能性，非个案实证；原文超自然及量化断言未独立验证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-24",
+      "category": "社会",
+      "title": "情绪解释被预设",
+      "prompt": "短视频说：‘别人回你一个“哦”，就是瞧不起你，你应该马上拉黑。’",
+      "check": "一句简短回复能否确定对方意图？有没有其他语境？",
+      "risk": "把模糊信号解释为冒犯，可能激发固定的愤怒反应。",
+      "wake": "先询问、观察长期行为，避免用单一表情或字词替代事实。",
+      "counter": "有些简短回复确实可能表达不满，但不能据此一概判断。",
+      "tags": [
+        "社会",
+        "情绪解释被预设",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "Awakenology 文章概念启发的原创模拟案例，非原文事实或真实事件",
+      "sourceTitle": "意識强度檢測點（5）左方區：舊有慣性區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%B7%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E5%E5%B7%A6%E6%96%B9%E5%8D%80%E8%88%8A%E6%9C%89%E6%85%A3%E6%80%A7%E5%8D%80/",
+      "sourceDate": "2018–2019年第三版",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文，使用原创改写",
+      "references": [
+        {
+          "title": "意識强度檢測點（5）左方區：舊有慣性區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%B7%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E5%E5%B7%A6%E6%96%B9%E5%8D%80%E8%88%8A%E6%9C%89%E6%85%A3%E6%80%A7%E5%8D%80/"
+        }
+      ],
+      "evidenceStatus": "来源文章观点已核对；生活情境为模拟；心理机制为可能性，非个案实证；原文超自然及量化断言未独立验证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-25",
+      "category": "宗教",
+      "title": "修行必须无愤怒",
+      "prompt": "团体成员在被辱骂后感到愤怒，负责人说：‘有愤怒就说明你修行失败，必须接受惩罚性训练。’",
+      "check": "区分情绪的自然出现、行为是否伤人以及组织是否滥用惩罚。",
+      "risk": "把情绪当作道德或灵性失败，可能让成员隐藏真实感受并服从处罚。",
+      "wake": "承认情绪存在，选择不伤人的回应；核实规则和申诉渠道。",
+      "counter": "修行传统可能鼓励情绪调节，但不能据此合理化羞辱或强迫。",
+      "tags": [
+        "宗教",
+        "修行必须无愤怒",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "Awakenology 文章概念启发的原创模拟案例，非原文事实或真实事件",
+      "sourceTitle": "意識强度檢測點（5）左方區：舊有慣性區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%B7%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E5%E5%B7%A6%E6%96%B9%E5%8D%80%E8%88%8A%E6%9C%89%E6%85%A3%E6%80%A7%E5%8D%80/",
+      "sourceDate": "2018–2019年第三版",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文，使用原创改写",
+      "references": [
+        {
+          "title": "意識强度檢測點（5）左方區：舊有慣性區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%B7%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E5%E5%B7%A6%E6%96%B9%E5%8D%80%E8%88%8A%E6%9C%89%E6%85%A3%E6%80%A7%E5%8D%80/"
+        }
+      ],
+      "evidenceStatus": "来源文章观点已核对；生活情境为模拟；心理机制为可能性，非个案实证；原文超自然及量化断言未独立验证",
+      "revision": 1
     }
   ]
 }
