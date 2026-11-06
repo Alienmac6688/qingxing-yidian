@@ -811,12 +811,26 @@
           "published": "2018–2019年第三版（具体发布日期未见）",
           "verified": "2026-11-07网页正文已读取",
           "originalQuote": "保持合理懷疑，不輕易下判斷。"
+        },
+        {
+          "title": "When Action-Inaction Framing Leads to Higher Escalation of Commitment: A New Inaction-Effect Perspective on the Sunk-Cost Fallacy",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/29401001/",
+          "published": "2018-02-05（在线发表；期刊2018年4月）",
+          "verified": "2026-11-07 已核对 PubMed 摘要；研究为一般决策实验，未直接研究宗教团体",
+          "originalQuote": ""
+        },
+        {
+          "title": "The Lingering Effects of Our Past Experiences: The Sunk-Cost Fallacy and the Inaction-Inertia Effect",
+          "url": "https://doi.org/10.1111/j.1751-9004.2011.00369.x",
+          "published": "2011-09-02",
+          "verified": "2026-11-07 已核对论文摘要；强调过去投入影响决策不一定不合理",
+          "originalQuote": ""
         }
       ],
       "originalQuote": "保持合理懷疑，不輕易下判斷。",
       "published": "2018–2019年第三版（具体发布日期未见）",
-      "evidenceStatus": "原文已核对；情境和心理机制为教育性分析，非对任何具体组织或人物的事实指控；意识强度数值不作为科学测量结论",
-      "revision": 1
+      "evidenceStatus": "Awakenology 原文核验状态沿用此前记录，本轮未重新读取；2026-11-07 独立核对两篇学术论文摘要，支持一般情境下沉没成本及行动框架可能影响决策，但不证明该模拟场景中的组织存在操纵；意识强度数值非科学测量结论",
+      "revision": 2
     },
     {
       "id": "sr-20261107-31",
