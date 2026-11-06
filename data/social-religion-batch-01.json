@@ -655,6 +655,108 @@
       ],
       "evidenceStatus": "来源文章观点已核对；生活情境为模拟；心理机制为可能性，非个案实证；原文超自然及量化断言未独立验证",
       "revision": 1
+    },
+    {
+      "id": "sr-20261107-c01",
+      "category": "社会",
+      "title": "AI答案成为新权威",
+      "prompt": "同事把AI生成的合同摘要发到群里：‘AI都说没问题了，你还要看原文，是不是不信科学？’",
+      "check": "核对AI是否引用合同原条款、是否遗漏限制条件，区分工具输出与法律意见。",
+      "risk": "把技术工具包装成不可质疑的权威，可能让人放弃原始证据核查。",
+      "wake": "逐条比对合同原文；高风险条款请有资质人士复核。",
+      "counter": "AI摘要可能确实节省时间，但效率不等于保证准确。",
+      "tags": [
+        "社会",
+        "权威与自主判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；基于已记录的 Awakenology 主题进行延伸，不是原文真实案例",
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "published": "2026-10-25",
+          "verification": "本轮网页无法重新获取；依据此前已核对的篇章主题，不作逐字引用"
+        },
+        {
+          "title": "意識強度檢測點（2）：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "verification": "本轮网页无法重新获取；依据仓库此前核对的篇章主题"
+        }
+      ],
+      "originalQuote": null,
+      "published": null,
+      "evidenceStatus": "场景为模拟；本轮无法重新打开源站，未新增原文摘录；心理机制属于待进一步交叉核验的教育性解释",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-c02",
+      "category": "宗教",
+      "title": "灵修等级与发言权",
+      "prompt": "某灵修小组要求成员佩戴等级徽章：‘低级学员没有资格讨论导师的收费政策。’",
+      "check": "判断修行等级是否被用于排除财务监督和普通成员的知情权。",
+      "risk": "以精神等级替代事实论证，可能制造不对等的服从关系。",
+      "wake": "把课程资历与消费者权利分开，要求清晰的收费、退款和申诉规则。",
+      "counter": "学习分级可以用于课程安排，但不应剥夺合理提问权。",
+      "tags": [
+        "宗教",
+        "权威与自主判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；基于已记录的 Awakenology 主题进行延伸，不是原文真实案例",
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "published": "2026-10-25",
+          "verification": "本轮网页无法重新获取；依据此前已核对的篇章主题，不作逐字引用"
+        },
+        {
+          "title": "意識強度檢測點（2）：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "verification": "本轮网页无法重新获取；依据仓库此前核对的篇章主题"
+        }
+      ],
+      "originalQuote": null,
+      "published": null,
+      "evidenceStatus": "场景为模拟；本轮无法重新打开源站，未新增原文摘录；心理机制属于待进一步交叉核验的教育性解释",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-c03",
+      "category": "社会",
+      "title": "算法推荐误当社会共识",
+      "prompt": "你连续刷到十条‘年轻人都该辞职创业’的视频，于是觉得全国人都在辞职。",
+      "check": "检查推荐流是否代表随机样本，是否有真实就业统计支持。",
+      "risk": "个性化重复曝光可能造成社会共识的错觉。",
+      "wake": "主动搜索不同立场和官方统计，按自己的财务条件决定。",
+      "counter": "创业趋势可能真实存在，但个人推荐流无法证明其普遍程度。",
+      "tags": [
+        "社会",
+        "权威与自主判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；基于已记录的 Awakenology 主题进行延伸，不是原文真实案例",
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "published": "2026-10-25",
+          "verification": "本轮网页无法重新获取；依据此前已核对的篇章主题，不作逐字引用"
+        },
+        {
+          "title": "意識強度檢測點（2）：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "verification": "本轮网页无法重新获取；依据仓库此前核对的篇章主题"
+        }
+      ],
+      "originalQuote": null,
+      "published": null,
+      "evidenceStatus": "场景为模拟；本轮无法重新打开源站，未新增原文摘录；心理机制属于待进一步交叉核验的教育性解释",
+      "revision": 1
     }
   ]
 }
