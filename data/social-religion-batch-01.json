@@ -1,0 +1,294 @@
+{
+  "schema": 1,
+  "batch": "2026-11-07",
+  "cases": [
+    {
+      "id": "sr-20261107-01",
+      "category": "社会",
+      "title": "公益募捐",
+      "prompt": "社区群管理员说：‘真正有爱心的人必须马上捐500元，不捐就是冷血。’",
+      "check": "区分公益项目真实性、个人支付能力与道德评价。",
+      "risk": "道德绑架和群体羞耻可能压缩自愿捐赠空间。",
+      "wake": "查项目资质、用途与收支公开情况；金额和是否捐赠由本人决定。",
+      "counter": "组织者也可能真心希望筹款，但不能因此取消核验。",
+      "tags": [
+        "社会",
+        "公益募捐",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实个案）；概念参考 Awakenology；现实风险核验参考 Stanford/APA",
+      "references": [
+        "https://www.awakenology.org/Chinese/",
+        "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+        "https://www.apa.org/ed/schools/science-persuasion"
+      ],
+      "evidenceStatus": "情境为教学模拟；不构成对具体宗教或组织的事实指控",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-02",
+      "category": "社会",
+      "title": "舆论从众",
+      "prompt": "群聊里有人转发一段剪辑：‘全网都在骂他，你还敢替他说话？’",
+      "check": "检查完整视频、事件时间线与原始出处。",
+      "risk": "多数意见和社交排斥压力可能代替事实判断。",
+      "wake": "看完整语境，允许不确定和不同意见。",
+      "counter": "集体批评也可能基于真实问题，需要独立查证。",
+      "tags": [
+        "社会",
+        "舆论从众",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实个案）；概念参考 Awakenology；现实风险核验参考 Stanford/APA",
+      "references": [
+        "https://www.awakenology.org/Chinese/",
+        "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+        "https://www.apa.org/ed/schools/science-persuasion"
+      ],
+      "evidenceStatus": "情境为教学模拟；不构成对具体宗教或组织的事实指控",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-03",
+      "category": "社会",
+      "title": "职场忠诚测试",
+      "prompt": "公司群公告：‘周末自愿团建，不参加的同事将被记录为团队意识不足。’",
+      "check": "观察‘自愿’是否附带实际惩罚。",
+      "risk": "将忠诚与服从绑定，可能造成隐性强迫。",
+      "wake": "明确参加规则和后果，保留合理拒绝与申诉渠道。",
+      "counter": "团建可能确有协作目的，关键是是否真正自愿。",
+      "tags": [
+        "社会",
+        "职场忠诚测试",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实个案）；概念参考 Awakenology；现实风险核验参考 Stanford/APA",
+      "references": [
+        "https://www.awakenology.org/Chinese/",
+        "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+        "https://www.apa.org/ed/schools/science-persuasion"
+      ],
+      "evidenceStatus": "情境为教学模拟；不构成对具体宗教或组织的事实指控",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-04",
+      "category": "社会",
+      "title": "老人保健骗局",
+      "prompt": "销售人员对老人说：‘不买这套保健品，三个月后可能就晚了。’",
+      "check": "核对医学证据、产品资质及是否存在急迫风险。",
+      "risk": "恐惧和紧迫感可能诱导高额消费。",
+      "wake": "咨询独立医生，比较证据，不因销售话术停用正规治疗。",
+      "counter": "有些健康风险确实需要及时处理，但应由专业评估支持。",
+      "tags": [
+        "社会",
+        "老人保健骗局",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实个案）；概念参考 Awakenology；现实风险核验参考 Stanford/APA",
+      "references": [
+        "https://www.awakenology.org/Chinese/",
+        "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+        "https://www.apa.org/ed/schools/science-persuasion"
+      ],
+      "evidenceStatus": "情境为教学模拟；不构成对具体宗教或组织的事实指控",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-05",
+      "category": "社会",
+      "title": "网络标签化",
+      "prompt": "博主说：‘不同意我的观点的人，都是被洗脑的。’",
+      "check": "判断对方是否回应论据，还是给异议者贴标签。",
+      "risk": "标签化可能把正常分歧变成身份对立。",
+      "wake": "要求具体证据，允许部分同意和不同意。",
+      "counter": "有人确实可能受错误信息影响，但不能仅凭不同意认定。",
+      "tags": [
+        "社会",
+        "网络标签化",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实个案）；概念参考 Awakenology；现实风险核验参考 Stanford/APA",
+      "references": [
+        "https://www.awakenology.org/Chinese/",
+        "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+        "https://www.apa.org/ed/schools/science-persuasion"
+      ],
+      "evidenceStatus": "情境为教学模拟；不构成对具体宗教或组织的事实指控",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-06",
+      "category": "社会",
+      "title": "集体归责",
+      "prompt": "某社区会议说：‘环境变差全是外来居民造成的，大家都知道。’",
+      "check": "检查数据、其他因素及群体概括是否成立。",
+      "risk": "寻找替罪羊可能把复杂问题简化为敌我叙事。",
+      "wake": "核实污染来源和管理责任，避免按身份集体归罪。",
+      "counter": "居民的具体投诉可能真实，应针对行为而非身份核查。",
+      "tags": [
+        "社会",
+        "集体归责",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实个案）；概念参考 Awakenology；现实风险核验参考 Stanford/APA",
+      "references": [
+        "https://www.awakenology.org/Chinese/",
+        "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+        "https://www.apa.org/ed/schools/science-persuasion"
+      ],
+      "evidenceStatus": "情境为教学模拟；不构成对具体宗教或组织的事实指控",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-07",
+      "category": "宗教",
+      "title": "捐献与祝福",
+      "prompt": "一位宗教团体负责人说：‘只有捐出一个月工资，神才会保护你的家人。’",
+      "check": "区分自愿奉献与以家人安全相威胁的条件。",
+      "risk": "超自然后果与经济压力绑定，可能削弱拒绝权。",
+      "wake": "先了解财务透明度与捐献规则；有权不捐或少捐。",
+      "counter": "自愿捐献是许多宗教的正常实践，不等于强迫。",
+      "tags": [
+        "宗教",
+        "捐献与祝福",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实个案）；概念参考 Awakenology；现实风险核验参考 Stanford/APA",
+      "references": [
+        "https://www.awakenology.org/Chinese/",
+        "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+        "https://www.apa.org/ed/schools/science-persuasion"
+      ],
+      "evidenceStatus": "情境为教学模拟；不构成对具体宗教或组织的事实指控",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-08",
+      "category": "宗教",
+      "title": "质疑与权威",
+      "prompt": "聚会中有人问财务去向，带领者回答：‘怀疑我就是怀疑神。’",
+      "check": "观察是否用神圣权威回避可核实的财务问题。",
+      "risk": "神圣化个人权威可能压制正当监督。",
+      "wake": "区分信仰教义与组织财务，要求可审查账目。",
+      "counter": "宗教权威有教义角色，但不意味着免于财务问责。",
+      "tags": [
+        "宗教",
+        "质疑与权威",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实个案）；概念参考 Awakenology；现实风险核验参考 Stanford/APA",
+      "references": [
+        "https://www.awakenology.org/Chinese/",
+        "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+        "https://www.apa.org/ed/schools/science-persuasion"
+      ],
+      "evidenceStatus": "情境为教学模拟；不构成对具体宗教或组织的事实指控",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-09",
+      "category": "宗教",
+      "title": "限制亲友往来",
+      "prompt": "新加入团体的成员被要求：‘以后少见家人，他们会阻碍你的灵性成长。’",
+      "check": "检查是否存在持续孤立、监控与退出惩罚。",
+      "risk": "切断外部支持网络可能增加依赖。",
+      "wake": "维持安全的外部关系，了解独立求助与退出渠道。",
+      "counter": "某些修行会自愿短期静修，不能直接等同强制隔离。",
+      "tags": [
+        "宗教",
+        "限制亲友往来",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实个案）；概念参考 Awakenology；现实风险核验参考 Stanford/APA",
+      "references": [
+        "https://www.awakenology.org/Chinese/",
+        "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+        "https://www.apa.org/ed/schools/science-persuasion"
+      ],
+      "evidenceStatus": "情境为教学模拟；不构成对具体宗教或组织的事实指控",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-10",
+      "category": "宗教",
+      "title": "预言与恐惧",
+      "prompt": "有人说：‘下个月灾难必然发生，只有加入我们才有救。’",
+      "check": "核实预言可检验性及加入要求、金钱代价。",
+      "risk": "灾难恐惧与唯一救赎承诺可能制造紧迫服从。",
+      "wake": "保留核验与拒绝权，不因未经证实的预言交出财产。",
+      "counter": "宗教末世叙事可以是信仰表达，但具体强迫行为须单独判断。",
+      "tags": [
+        "宗教",
+        "预言与恐惧",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实个案）；概念参考 Awakenology；现实风险核验参考 Stanford/APA",
+      "references": [
+        "https://www.awakenology.org/Chinese/",
+        "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+        "https://www.apa.org/ed/schools/science-persuasion"
+      ],
+      "evidenceStatus": "情境为教学模拟；不构成对具体宗教或组织的事实指控",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-11",
+      "category": "宗教",
+      "title": "神秘体验解释",
+      "prompt": "一次集体祈祷后有人哭泣，组织者说：‘这证明我们的方法能治好所有疾病。’",
+      "check": "区分情绪体验与疾病疗效证据。",
+      "risk": "把主观体验扩展为普遍医疗承诺可能误导决定。",
+      "wake": "尊重体验，但医疗效果需可靠研究，不应替代正规治疗。",
+      "counter": "祈祷可能提供情绪支持，不能据此推断普遍疗效。",
+      "tags": [
+        "宗教",
+        "神秘体验解释",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实个案）；概念参考 Awakenology；现实风险核验参考 Stanford/APA",
+      "references": [
+        "https://www.awakenology.org/Chinese/",
+        "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+        "https://www.apa.org/ed/schools/science-persuasion"
+      ],
+      "evidenceStatus": "情境为教学模拟；不构成对具体宗教或组织的事实指控",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-12",
+      "category": "宗教",
+      "title": "退出权",
+      "prompt": "某组织说：‘你可以自由离开，但离开后所有朋友都不得与你联系。’",
+      "check": "检查自由退出是否伴随关系惩罚。",
+      "risk": "利用归属需求与失去社交支持的恐惧施压。",
+      "wake": "事先了解退出条件，保留组织外的关系和资源。",
+      "counter": "成员有交友自由，但系统性威胁孤立需要单独审查。",
+      "tags": [
+        "宗教",
+        "退出权",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实个案）；概念参考 Awakenology；现实风险核验参考 Stanford/APA",
+      "references": [
+        "https://www.awakenology.org/Chinese/",
+        "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+        "https://www.apa.org/ed/schools/science-persuasion"
+      ],
+      "evidenceStatus": "情境为教学模拟；不构成对具体宗教或组织的事实指控",
+      "revision": 1
+    }
+  ]
+}
