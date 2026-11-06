@@ -1,5 +1,5 @@
 (function(){'use strict';
-const seed=JSON.parse(document.getElementById('seed').textContent),KEY='qingxing-v12',legacy='qingxing-review-v1';
+let seed=JSON.parse(document.getElementById('seed').textContent);const KEY='qingxing-v12',legacy='qingxing-review-v1';
 const $=id=>document.getElementById(id),today=()=>new Date().toLocaleDateString('sv-SE');
 const defaultState=()=>({version:2,memory:{},discern:[],custom:[],revision:1});
 let state=defaultState(),active=null,first='',after='',stage=0,choices=[];
@@ -35,5 +35,7 @@ $('import').onclick=()=>$('import-file').click();$('import-file').onchange=async
 $('anki').onclick=()=>{const esc=x=>'"'+String(x).replaceAll('"','""').replaceAll('\n','<br>')+'"';download('qingxing-anki.csv','Front,Back,Tags\n'+all().map(c=>[c.prompt,`检测：${c.check}<br>可能影响：${c.risk}<br>另一面：${counter(c)}<br>应对：${c.wake}`,c.tags.join(' ')].map(esc).join(',')).join('\n'),'text/csv;charset=utf-8')};
 // V1.1 progress is deliberately not converted into FSRS history: intervals/ease are incompatible.
 try{if(!localStorage.getItem(KEY)&&localStorage.getItem(legacy))console.info('V1.1 review data detected; export it from V1.1 separately. No automatic FSRS conversion.')}catch{}
-filters();stats();next();nav('home');if('serviceWorker'in navigator&&location.protocol.startsWith('http'))navigator.serviceWorker.register('./sw.js').catch(()=>{});
+filters();stats();next();nav('home');
+// G2原表摘录单独加载：保留原有30张通用卡与用户本地学习记录。
+fetch('./data/g2-reviewed-batch-01.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{if(!Array.isArray(data.cases))throw Error('G2 schema mismatch');const known=new Set(seed.map(c=>c.id));seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)));filters();stats();renderCases();}).catch(e=>console.warn('G2案例库加载失败，仍可使用原30张卡片',e));if('serviceWorker'in navigator&&location.protocol.startsWith('http'))navigator.serviceWorker.register('./sw.js').catch(()=>{});
 })();
