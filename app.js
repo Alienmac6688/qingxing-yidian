@@ -28,7 +28,7 @@ function choose(card){
  $('analysis').hidden=true;$('memory').hidden=true;$('p-empty').hidden=true;
  $('p-title').textContent=card.title;$('p-prompt').textContent=card.prompt;
  $('p-meta').textContent=card.category+' · '+card.tags.join(' / ');
- $('p-type').textContent='三点辨识';$('p-count').textContent=card.id;
+ $('p-type').textContent='三点辨识';$('p-count').textContent=card.id;$('p-source').textContent=card.id.startsWith('g2-')?'G2课程原文分析 · 原始材料待逐条核验':'原创模拟生活场景 · 概念参考 Awakenology；影响机制参考心理学资料';
  $('p-question').textContent='辨识点：这段话有哪些值得核实或留意的地方？';
  $('p-options').replaceChildren();$('p-answer').hidden=true;
  $('analyze').disabled=false;$('finish').disabled=true;
