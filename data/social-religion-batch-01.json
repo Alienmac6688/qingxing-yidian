@@ -11317,6 +11317,468 @@
       ],
       "evidenceStatus": "原创模拟，非真实事件；具体心理机制未独立实证；不得因宗教身份或不同意见推断操纵",
       "revision": 1
+    },
+    {
+      "id": "sr-20261108-r10-001",
+      "category": "社会",
+      "title": "二手交易的远程验货插件",
+      "prompt": "买家称必须安装陌生屏幕共享软件才能验货，拒绝就举报卖家。",
+      "check": "确认平台是否真的要求安装软件，以及权限范围。",
+      "risk": "利用交易焦虑索取设备控制权。",
+      "wake": "只用平台内置交易功能，不安装不明远控工具。",
+      "counter": "买家可能确实需要看商品细节，可用平台视频替代。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；学术指南仅作一般行为边界参考，非事件证据",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；未验证具体事件",
+      "originalRewrite": "辨识点：确认平台是否真的要求安装软件，以及权限范围。 催眠点：利用交易焦虑索取设备控制权。 催醒点：只用平台内置交易功能，不安装不明远控工具。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "一般行为边界参考，非案例证据；本轮未重新核验正文"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；心理机制未独立实证；不得因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r10-002",
+      "category": "社会",
+      "title": "学校家长群的统一签名",
+      "prompt": "家委会要求所有家长签署同意书，拒签者孩子将被公开点名。",
+      "check": "查明签名是否自愿以及是否影响学生待遇。",
+      "risk": "借孩子的归属焦虑迫使家长表态。",
+      "wake": "索取正式通知，单独沟通并保护学生信息。",
+      "counter": "统一收集意见可能便于管理，但不应惩罚异议。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；学术指南仅作一般行为边界参考，非事件证据",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；未验证具体事件",
+      "originalRewrite": "辨识点：查明签名是否自愿以及是否影响学生待遇。 催眠点：借孩子的归属焦虑迫使家长表态。 催醒点：索取正式通知，单独沟通并保护学生信息。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "一般行为边界参考，非案例证据；本轮未重新核验正文"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；心理机制未独立实证；不得因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r10-003",
+      "category": "社会",
+      "title": "家政平台的评价交换",
+      "prompt": "保洁员被要求先给雇主五星评价，否则平台不给结算。",
+      "check": "核对评价与结算的真实规则。",
+      "risk": "把劳动报酬和不真实评价绑定。",
+      "wake": "保存工单并向平台申诉，独立评价服务。",
+      "counter": "平台可能设有服务确认步骤，但不应强制好评。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；学术指南仅作一般行为边界参考，非事件证据",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；未验证具体事件",
+      "originalRewrite": "辨识点：核对评价与结算的真实规则。 催眠点：把劳动报酬和不真实评价绑定。 催醒点：保存工单并向平台申诉，独立评价服务。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "一般行为边界参考，非案例证据；本轮未重新核验正文"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；心理机制未独立实证；不得因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r10-004",
+      "category": "社会",
+      "title": "宠物领养的押金返还条件",
+      "prompt": "领养人被要求每周公开视频家中所有房间，否则押金不退。",
+      "check": "区分动物福利回访与过度家庭监控。",
+      "risk": "利用爱护动物的责任感扩大隐私授权。",
+      "wake": "协商有限的宠物近况照片与明确押金条款。",
+      "counter": "救助方确实可能需要确认动物安全。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；学术指南仅作一般行为边界参考，非事件证据",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；未验证具体事件",
+      "originalRewrite": "辨识点：区分动物福利回访与过度家庭监控。 催眠点：利用爱护动物的责任感扩大隐私授权。 催醒点：协商有限的宠物近况照片与明确押金条款。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "一般行为边界参考，非案例证据；本轮未重新核验正文"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；心理机制未独立实证；不得因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r10-005",
+      "category": "社会",
+      "title": "社区志愿服务的公开排行榜",
+      "prompt": "志愿者负责人把未参加者姓名和家庭住址发到群里，称要鼓励奉献。",
+      "check": "核对公开个人资料是否获得同意。",
+      "risk": "以公益名义制造羞耻和隐私压力。",
+      "wake": "要求撤下住址，采用匿名或自愿统计。",
+      "counter": "公开参与人数有管理用途，但不需要暴露住址。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；学术指南仅作一般行为边界参考，非事件证据",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；未验证具体事件",
+      "originalRewrite": "辨识点：核对公开个人资料是否获得同意。 催眠点：以公益名义制造羞耻和隐私压力。 催醒点：要求撤下住址，采用匿名或自愿统计。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "一般行为边界参考，非案例证据；本轮未重新核验正文"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；心理机制未独立实证；不得因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r10-006",
+      "category": "社会",
+      "title": "AI客服的语音授权扩张",
+      "prompt": "客服称仅验证退款身份，却要求永久保存声音用于所有未来营销。",
+      "check": "核对身份验证目的与营销授权是否分开。",
+      "risk": "将一次必要操作包装成无限期授权。",
+      "wake": "选择替代验证方式并拒绝非必要营销授权。",
+      "counter": "语音验证可能提高便利性，但授权应具体。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；学术指南仅作一般行为边界参考，非事件证据",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；未验证具体事件",
+      "originalRewrite": "辨识点：核对身份验证目的与营销授权是否分开。 催眠点：将一次必要操作包装成无限期授权。 催醒点：选择替代验证方式并拒绝非必要营销授权。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "一般行为边界参考，非案例证据；本轮未重新核验正文"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；心理机制未独立实证；不得因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r10-007",
+      "category": "社会",
+      "title": "合租室友的智能门锁日志",
+      "prompt": "室友要求所有人共享每天出入门锁记录，称是为了防盗。",
+      "check": "确认日志用途、保留期限与谁可访问。",
+      "risk": "以安全为由默认取消居住者的行动隐私。",
+      "wake": "讨论最小化访问和紧急事件查看规则。",
+      "counter": "门锁记录可用于调查失窃，但不代表应常态监控。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；学术指南仅作一般行为边界参考，非事件证据",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；未验证具体事件",
+      "originalRewrite": "辨识点：确认日志用途、保留期限与谁可访问。 催眠点：以安全为由默认取消居住者的行动隐私。 催醒点：讨论最小化访问和紧急事件查看规则。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "一般行为边界参考，非案例证据；本轮未重新核验正文"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；心理机制未独立实证；不得因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r10-008",
+      "category": "社会",
+      "title": "培训机构的保过录音",
+      "prompt": "机构承诺保过考试，却要求学员录下自己承认失败全是个人不努力。",
+      "check": "核对退款合同与录音的法律用途。",
+      "risk": "预先转嫁机构承诺的责任。",
+      "wake": "保存宣传及合同，拒绝不合理免责。",
+      "counter": "成绩确实受个人努力影响，但不能替代合同责任。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；学术指南仅作一般行为边界参考，非事件证据",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；未验证具体事件",
+      "originalRewrite": "辨识点：核对退款合同与录音的法律用途。 催眠点：预先转嫁机构承诺的责任。 催醒点：保存宣传及合同，拒绝不合理免责。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "一般行为边界参考，非案例证据；本轮未重新核验正文"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；心理机制未独立实证；不得因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r10-009",
+      "category": "宗教",
+      "title": "寺院义工的个人定位",
+      "prompt": "义工组织者要求参与者在活动结束后仍持续共享手机实时定位。",
+      "check": "区分活动期间安全协调与活动外追踪。",
+      "risk": "把志愿服务责任扩大为持续监控。",
+      "wake": "限定共享时段，结束后关闭定位。",
+      "counter": "大型活动短时定位可能有安全用途。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；学术指南仅作一般行为边界参考，非事件证据",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；未验证具体事件",
+      "originalRewrite": "辨识点：区分活动期间安全协调与活动外追踪。 催眠点：把志愿服务责任扩大为持续监控。 催醒点：限定共享时段，结束后关闭定位。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "一般行为边界参考，非案例证据；本轮未重新核验正文"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；心理机制未独立实证；不得因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r10-010",
+      "category": "宗教",
+      "title": "教会互助群的病历公开",
+      "prompt": "互助群要求病人公开完整病历才可以代祷或接受探访。",
+      "check": "区分自愿分享祈祷需求与医疗隐私披露。",
+      "risk": "利用求助需要迫使成员公开敏感资料。",
+      "wake": "仅分享愿意公开的信息，另设私密求助渠道。",
+      "counter": "照护人员可能需要了解部分病情，但范围应最小化。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；学术指南仅作一般行为边界参考，非事件证据",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；未验证具体事件",
+      "originalRewrite": "辨识点：区分自愿分享祈祷需求与医疗隐私披露。 催眠点：利用求助需要迫使成员公开敏感资料。 催醒点：仅分享愿意公开的信息，另设私密求助渠道。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "一般行为边界参考，非案例证据；本轮未重新核验正文"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；心理机制未独立实证；不得因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r10-011",
+      "category": "宗教",
+      "title": "跨宗教对话的录像授权",
+      "prompt": "对话活动现场允许自由交流，事后主办方将参与者发言剪成宣传片并暗示其已改宗。",
+      "check": "核对拍摄授权与剪辑是否忠实语境。",
+      "risk": "把参与对话误写成身份承诺。",
+      "wake": "要求更正说明、撤回未经许可片段。",
+      "counter": "主办方可能出于传播活动成果，但不能歪曲个人立场。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；学术指南仅作一般行为边界参考，非事件证据",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；未验证具体事件",
+      "originalRewrite": "辨识点：核对拍摄授权与剪辑是否忠实语境。 催眠点：把参与对话误写成身份承诺。 催醒点：要求更正说明、撤回未经许可片段。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "一般行为边界参考，非案例证据；本轮未重新核验正文"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；心理机制未独立实证；不得因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r10-012",
+      "category": "宗教",
+      "title": "祈福名册的亲属电话",
+      "prompt": "祈福登记表要求填报所有亲属电话并默认加入商业推广群。",
+      "check": "检查祈福目的与营销用途是否分离。",
+      "risk": "以善意祝愿包装第三方信息收集。",
+      "wake": "只提供本人必要信息，拒绝替亲属授权。",
+      "counter": "组织者可能需要通知活动变更，但不必收集所有亲属号码。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；学术指南仅作一般行为边界参考，非事件证据",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；未验证具体事件",
+      "originalRewrite": "辨识点：检查祈福目的与营销用途是否分离。 催眠点：以善意祝愿包装第三方信息收集。 催醒点：只提供本人必要信息，拒绝替亲属授权。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "一般行为边界参考，非案例证据；本轮未重新核验正文"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；心理机制未独立实证；不得因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r10-013",
+      "category": "宗教",
+      "title": "斋戒活动的健康豁免",
+      "prompt": "活动负责人要求所有人隐瞒医生建议坚持斋戒，否则在群内通报。",
+      "check": "区分个人自愿实践与对健康限制的强制。",
+      "risk": "将身体风险包装成忠诚信仰的证明。",
+      "wake": "尊重个人健康决定，必要时咨询医生并退出活动。",
+      "counter": "斋戒可有自愿的宗教意义，也常存在健康例外。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；学术指南仅作一般行为边界参考，非事件证据",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；未验证具体事件",
+      "originalRewrite": "辨识点：区分个人自愿实践与对健康限制的强制。 催眠点：将身体风险包装成忠诚信仰的证明。 催醒点：尊重个人健康决定，必要时咨询医生并退出活动。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "一般行为边界参考，非案例证据；本轮未重新核验正文"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；心理机制未独立实证；不得因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r10-014",
+      "category": "宗教",
+      "title": "宗教图书借阅的思想档案",
+      "prompt": "借书管理员记录每位读者的疑问并定期发给其家属，称帮助信仰成长。",
+      "check": "核对借阅记录和私人讨论的保密约定。",
+      "risk": "把学习中的疑问转成家庭监督材料。",
+      "wake": "明确资料用途，要求停止未经同意的转发。",
+      "counter": "家属支持可能出于善意，但仍需尊重读者自主。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；学术指南仅作一般行为边界参考，非事件证据",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；未验证具体事件",
+      "originalRewrite": "辨识点：核对借阅记录和私人讨论的保密约定。 催眠点：把学习中的疑问转成家庭监督材料。 催醒点：明确资料用途，要求停止未经同意的转发。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "一般行为边界参考，非案例证据；本轮未重新核验正文"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；心理机制未独立实证；不得因宗教身份或不同意见推断操纵",
+      "revision": 1
     }
   ]
 }
