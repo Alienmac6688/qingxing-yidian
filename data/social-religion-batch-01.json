@@ -12787,6 +12787,398 @@
       ],
       "evidenceStatus": "原创模拟，非真实个案；具体事件及心理机制未经独立实证",
       "revision": 1
+    },
+    {
+      "id": "sr-20261108-r14-001",
+      "category": "社会",
+      "title": "灾后募捐二维码被临时替换",
+      "prompt": "社区公告栏的赈灾二维码被人贴上新码，志愿者催促大家立即扫码捐款。",
+      "check": "核对收款主体与官方公告是否一致",
+      "risk": "紧迫感可能压过收款信息核验",
+      "wake": "通过官方渠道核对账户，避免扫描来源不明的覆盖码",
+      "counter": "二维码也可能由组织合法更新，应询问公告负责人",
+      "tags": [
+        "社会",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；学术资料仅为分析框架参考",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；具体事件非来源记载",
+      "originalRewrite": "原创模拟：社区公告栏的赈灾二维码被人贴上新码，志愿者催促大家立即扫码捐款。 辨识时需检查：核对收款主体与官方公告是否一致。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟；非真实事件；可能机制仅作分析假设，未经个案实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r14-002",
+      "category": "社会",
+      "title": "实习评价表的隐形授权",
+      "prompt": "实习单位让学生填写评价表，表尾却默认勾选同意公开姓名与工作照片。",
+      "check": "区分工作评价与肖像公开授权",
+      "risk": "把非必要授权夹带在必填表中可能削弱知情选择",
+      "wake": "单独确认授权用途、范围和撤回方式",
+      "counter": "表格可能沿用旧模板，并非刻意诱导",
+      "tags": [
+        "社会",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；学术资料仅为分析框架参考",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；具体事件非来源记载",
+      "originalRewrite": "原创模拟：实习单位让学生填写评价表，表尾却默认勾选同意公开姓名与工作照片。 辨识时需检查：区分工作评价与肖像公开授权。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟；非真实事件；可能机制仅作分析假设，未经个案实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r14-003",
+      "category": "社会",
+      "title": "亲友群里的代办社保链接",
+      "prompt": "亲戚群有人声称可免费代办社保认证，要求每个人上传身份证正反面。",
+      "check": "核对办理渠道与个人信息最小必要性",
+      "risk": "借熟人群信任降低信息安全警惕",
+      "wake": "通过官方服务渠道办理，不向群聊陌生链接上传证件",
+      "counter": "发链接的人可能误信了非官方教程",
+      "tags": [
+        "社会",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；学术资料仅为分析框架参考",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；具体事件非来源记载",
+      "originalRewrite": "原创模拟：亲戚群有人声称可免费代办社保认证，要求每个人上传身份证正反面。 辨识时需检查：核对办理渠道与个人信息最小必要性。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟；非真实事件；可能机制仅作分析假设，未经个案实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r14-004",
+      "category": "社会",
+      "title": "停车场赔偿的口头免责",
+      "prompt": "停车场工作人员称车辆刮擦赔偿必须先签署放弃后续追偿声明才可查看监控。",
+      "check": "核对监控查询流程与权利放弃是否相关",
+      "risk": "以获取证据为条件迫使提前放弃权利",
+      "wake": "索取书面规定，保留事故证据并咨询正规渠道",
+      "counter": "工作人员可能误解内部流程而非有意施压",
+      "tags": [
+        "社会",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；学术资料仅为分析框架参考",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；具体事件非来源记载",
+      "originalRewrite": "原创模拟：停车场工作人员称车辆刮擦赔偿必须先签署放弃后续追偿声明才可查看监控。 辨识时需检查：核对监控查询流程与权利放弃是否相关。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟；非真实事件；可能机制仅作分析假设，未经个案实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r14-005",
+      "category": "社会",
+      "title": "线上互助群的公开求助门槛",
+      "prompt": "互助群管理员要求困难成员先公开视频讲述家庭债务，否则不给转介援助。",
+      "check": "辨别援助资格审核与公开隐私是否必要",
+      "risk": "把求助与公开羞耻性信息捆绑",
+      "wake": "询问私密核验途径及数据保留期限",
+      "counter": "组织可能需要防止虚假求助，但不必公开所有细节",
+      "tags": [
+        "社会",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；学术资料仅为分析框架参考",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；具体事件非来源记载",
+      "originalRewrite": "原创模拟：互助群管理员要求困难成员先公开视频讲述家庭债务，否则不给转介援助。 辨识时需检查：辨别援助资格审核与公开隐私是否必要。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟；非真实事件；可能机制仅作分析假设，未经个案实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r14-006",
+      "category": "社会",
+      "title": "AI面试练习的录音二次利用",
+      "prompt": "求职平台免费提供AI面试训练，却在小字里允许将录音用于公开产品演示。",
+      "check": "核对训练所需数据与公开传播授权",
+      "risk": "以免费功能换取未充分理解的长期授权",
+      "wake": "查看隐私条款并选择限制或删除录音",
+      "counter": "平台可能为改进服务收集数据，但公开展示应另行明确同意",
+      "tags": [
+        "社会",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；学术资料仅为分析框架参考",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；具体事件非来源记载",
+      "originalRewrite": "原创模拟：求职平台免费提供AI面试训练，却在小字里允许将录音用于公开产品演示。 辨识时需检查：核对训练所需数据与公开传播授权。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟；非真实事件；可能机制仅作分析假设，未经个案实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r14-007",
+      "category": "社会",
+      "title": "社区志愿积分的排名压力",
+      "prompt": "社区将志愿服务小时数公开排名，并暗示低排名居民不够关心邻里。",
+      "check": "区分自愿服务与公开道德评价",
+      "risk": "公开排名可能让自愿行为变成羞耻驱动",
+      "wake": "提出匿名统计或按个人意愿展示",
+      "counter": "排名也可能旨在鼓励参与，未必针对任何个人",
+      "tags": [
+        "社会",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；学术资料仅为分析框架参考",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；具体事件非来源记载",
+      "originalRewrite": "原创模拟：社区将志愿服务小时数公开排名，并暗示低排名居民不够关心邻里。 辨识时需检查：区分自愿服务与公开道德评价。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟；非真实事件；可能机制仅作分析假设，未经个案实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r14-008",
+      "category": "社会",
+      "title": "家族聚餐的医疗决定投票",
+      "prompt": "家人准备在聚餐时投票决定长辈是否接受某项治疗，未先询问长辈本人意愿。",
+      "check": "确认患者本人知情与决策能力",
+      "risk": "多数人的好意可能掩盖当事人选择权",
+      "wake": "优先听取本人及专业医疗建议，明确授权范围",
+      "counter": "家人可能因担忧而寻求共识，并非故意剥夺权利",
+      "tags": [
+        "社会",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；学术资料仅为分析框架参考",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；具体事件非来源记载",
+      "originalRewrite": "原创模拟：家人准备在聚餐时投票决定长辈是否接受某项治疗，未先询问长辈本人意愿。 辨识时需检查：确认患者本人知情与决策能力。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟；非真实事件；可能机制仅作分析假设，未经个案实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r14-009",
+      "category": "宗教",
+      "title": "礼拜直播的未成年人镜头",
+      "prompt": "宗教团体准备直播活动，要求所有参加的孩子都站在镜头前，未说明家长是否可拒绝。",
+      "check": "区分参加礼拜与公开儿童影像",
+      "risk": "群体参与氛围可能压低拒绝公开的意愿",
+      "wake": "提供镜头外区域及监护人明确同意选项",
+      "counter": "拍摄者可能仅为记录活动而忽略隐私",
+      "tags": [
+        "宗教",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；学术资料仅为分析框架参考",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；具体事件非来源记载",
+      "originalRewrite": "原创模拟：宗教团体准备直播活动，要求所有参加的孩子都站在镜头前，未说明家长是否可拒绝。 辨识时需检查：区分参加礼拜与公开儿童影像。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟；非真实事件；可能机制仅作分析假设，未经个案实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r14-010",
+      "category": "宗教",
+      "title": "宗教食堂的援助名单公示",
+      "prompt": "宗教慈善食堂打算张贴受助者姓名与领取次数，称这样能证明捐款使用透明。",
+      "check": "区分财务透明与受助者隐私",
+      "risk": "把受助者曝光包装成捐款问责的唯一方式",
+      "wake": "建议匿名统计与独立审计替代实名公示",
+      "counter": "组织可能确实希望向捐赠者说明资源流向",
+      "tags": [
+        "宗教",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；学术资料仅为分析框架参考",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；具体事件非来源记载",
+      "originalRewrite": "原创模拟：宗教慈善食堂打算张贴受助者姓名与领取次数，称这样能证明捐款使用透明。 辨识时需检查：区分财务透明与受助者隐私。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟；非真实事件；可能机制仅作分析假设，未经个案实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r14-011",
+      "category": "宗教",
+      "title": "祷告小组的私人录音转发",
+      "prompt": "祷告小组有人未经同意把成员分享的家庭困境录音转发给外部志愿者。",
+      "check": "核对分享时的保密约定和二次传播同意",
+      "risk": "以帮助为名扩大敏感信息传播",
+      "wake": "要求停止转发并约定最小范围的知情共享",
+      "counter": "转发者可能希望协调援助但忽略隐私",
+      "tags": [
+        "宗教",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；学术资料仅为分析框架参考",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；具体事件非来源记载",
+      "originalRewrite": "原创模拟：祷告小组有人未经同意把成员分享的家庭困境录音转发给外部志愿者。 辨识时需检查：核对分享时的保密约定和二次传播同意。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟；非真实事件；可能机制仅作分析假设，未经个案实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r14-012",
+      "category": "宗教",
+      "title": "宗教课程的捐赠等级座位",
+      "prompt": "某宗教讲座将捐款较多者安排在前排，并称后排学员的诚心还需证明。",
+      "check": "区分筹款安排与个人信仰价值判断",
+      "risk": "把座位和捐款等级等同于精神价值",
+      "wake": "询问公开规则并拒绝以捐款衡量个人信念",
+      "counter": "前排座位也可能是赞助权益，但不应贬低他人",
+      "tags": [
+        "宗教",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；学术资料仅为分析框架参考",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；具体事件非来源记载",
+      "originalRewrite": "原创模拟：某宗教讲座将捐款较多者安排在前排，并称后排学员的诚心还需证明。 辨识时需检查：区分筹款安排与个人信仰价值判断。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟；非真实事件；可能机制仅作分析假设，未经个案实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r14-013",
+      "category": "宗教",
+      "title": "节庆活动的志愿退出惩罚",
+      "prompt": "宗教节庆志愿者因考试想退出，负责人称将向整个群公布其不守承诺。",
+      "check": "核对原有服务约定与合理退出机制",
+      "risk": "公开羞辱威胁可能替代正常排班协商",
+      "wake": "提前说明困难并提出交接，要求私下处理争议",
+      "counter": "负责人可能确有临时人手压力，需协调替补",
+      "tags": [
+        "宗教",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；学术资料仅为分析框架参考",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；具体事件非来源记载",
+      "originalRewrite": "原创模拟：宗教节庆志愿者因考试想退出，负责人称将向整个群公布其不守承诺。 辨识时需检查：核对原有服务约定与合理退出机制。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟；非真实事件；可能机制仅作分析假设，未经个案实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r14-014",
+      "category": "宗教",
+      "title": "宗教咨询中的单一转介要求",
+      "prompt": "信徒寻求家庭冲突帮助时，被告知只能咨询团体指定顾问，不得听取外部意见。",
+      "check": "检查建议是否限制获得独立帮助",
+      "risk": "独占信息渠道可能削弱对建议的检验",
+      "wake": "保留选择其他合格专业人士的自由",
+      "counter": "指定顾问可能熟悉文化背景，但不应排除其他资源",
+      "tags": [
+        "宗教",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；学术资料仅为分析框架参考",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；具体事件非来源记载",
+      "originalRewrite": "原创模拟：信徒寻求家庭冲突帮助时，被告知只能咨询团体指定顾问，不得听取外部意见。 辨识时需检查：检查建议是否限制获得独立帮助。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟；非真实事件；可能机制仅作分析假设，未经个案实证",
+      "revision": 1
     }
   ]
 }
