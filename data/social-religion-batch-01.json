@@ -12115,6 +12115,230 @@
       ],
       "evidenceStatus": "原创模拟，非真实事件；源文仅支持经验不可简单普遍化的观点，不证明该情境发生或具体心理机制",
       "revision": 1
+    },
+    {
+      "id": "sr-20261108-r12-001",
+      "category": "社会",
+      "title": "小区电梯维修投票的默认同意",
+      "prompt": "物业将未回复的住户自动计为赞成更换指定承包商，并称反对者会拖延维修。",
+      "check": "确认投票规则、报价比较及沉默是否具有授权效力",
+      "risk": "将沉默视为同意，并以安全焦虑压缩选择",
+      "wake": "要求公开招标资料、有效票计算和独立监督",
+      "counter": "紧急维修确实可能需要快速决策，但仍需遵守合法程序",
+      "tags": [
+        "社会",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考 Awakenology 中文目录的自主辨识主题，非真实事件",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未能重新读取正文；无原文摘录",
+      "originalRewrite": "物业将未回复的住户自动计为赞成更换指定承包商，并称反对者会拖延维修。 辨识时应区分自愿选择与附带压力的要求。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；参考来源仅用于概念定位，具体心理机制及事件均未独立实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r12-002",
+      "category": "社会",
+      "title": "亲友代办贷款的空白授权书",
+      "prompt": "亲戚称为了帮忙周转，先签空白授权书，具体贷款额度以后再填。",
+      "check": "核实授权范围、金额、责任和撤销机制",
+      "risk": "借亲情信任转移不可控财务风险",
+      "wake": "拒签空白文件，保留书面条款并独立咨询",
+      "counter": "亲戚可能确有融资困难，但不能代替知情同意",
+      "tags": [
+        "社会",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考 Awakenology 中文目录的自主辨识主题，非真实事件",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未能重新读取正文；无原文摘录",
+      "originalRewrite": "亲戚称为了帮忙周转，先签空白授权书，具体贷款额度以后再填。 辨识时应区分自愿选择与附带压力的要求。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；参考来源仅用于概念定位，具体心理机制及事件均未独立实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r12-003",
+      "category": "社会",
+      "title": "社区志愿积分与居民隐私",
+      "prompt": "志愿队要求公开上传独居老人门牌和日常作息，称这样更便于积分考核。",
+      "check": "区分服务记录与敏感生活信息的必要性",
+      "risk": "将公益考核转化为过度收集隐私",
+      "wake": "使用最少信息和受控访问，征得明确同意",
+      "counter": "服务调度可能需要地址，但不意味着公开给所有人",
+      "tags": [
+        "社会",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考 Awakenology 中文目录的自主辨识主题，非真实事件",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未能重新读取正文；无原文摘录",
+      "originalRewrite": "志愿队要求公开上传独居老人门牌和日常作息，称这样更便于积分考核。 辨识时应区分自愿选择与附带压力的要求。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；参考来源仅用于概念定位，具体心理机制及事件均未独立实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r12-004",
+      "category": "社会",
+      "title": "培训结业证的隐藏续费",
+      "prompt": "职业培训机构宣布只有购买下一期会员才能领取已完成课程的结业证明。",
+      "check": "查看最初合同与证书发放条件",
+      "risk": "事后改变交付条件制造沉没成本压力",
+      "wake": "保存宣传和合同，要求按原约履行",
+      "counter": "某些认证另有合法考试费，但应事先透明告知",
+      "tags": [
+        "社会",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考 Awakenology 中文目录的自主辨识主题，非真实事件",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未能重新读取正文；无原文摘录",
+      "originalRewrite": "职业培训机构宣布只有购买下一期会员才能领取已完成课程的结业证明。 辨识时应区分自愿选择与附带压力的要求。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；参考来源仅用于概念定位，具体心理机制及事件均未独立实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r12-005",
+      "category": "社会",
+      "title": "公司内部举报的实名群公告",
+      "prompt": "主管要求员工把骚扰投诉直接发到全员群，称公开才算勇敢。",
+      "check": "核实是否有保密举报渠道和反报复措施",
+      "risk": "以道德勇气之名迫使当事人公开敏感经历",
+      "wake": "选择安全、保密且可追踪的申诉方式",
+      "counter": "公开讨论可能有倡议价值，但不能剥夺当事人的选择",
+      "tags": [
+        "社会",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考 Awakenology 中文目录的自主辨识主题，非真实事件",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未能重新读取正文；无原文摘录",
+      "originalRewrite": "主管要求员工把骚扰投诉直接发到全员群，称公开才算勇敢。 辨识时应区分自愿选择与附带压力的要求。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；参考来源仅用于概念定位，具体心理机制及事件均未独立实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r12-006",
+      "category": "宗教",
+      "title": "礼拜场所无障碍座位的捐款门槛",
+      "prompt": "活动负责人称只有固定捐款者才能使用轮椅无障碍入口。",
+      "check": "区分自愿奉献与基本无障碍安排",
+      "risk": "将基本参与条件与金钱奉献绑定",
+      "wake": "询问公开政策、合理便利及其他无障碍入口",
+      "counter": "场所可能面临设施限制，但不应以捐款替代合理安排",
+      "tags": [
+        "宗教",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考 Awakenology 中文目录的自主辨识主题，非真实事件",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未能重新读取正文；无原文摘录",
+      "originalRewrite": "活动负责人称只有固定捐款者才能使用轮椅无障碍入口。 辨识时应区分自愿选择与附带压力的要求。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；参考来源仅用于概念定位，具体心理机制及事件均未独立实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r12-007",
+      "category": "宗教",
+      "title": "信仰见证视频的永久授权",
+      "prompt": "聚会主持要求新成员签署不可撤销的公开视频许可，拒绝者被称为信心不足。",
+      "check": "区分个人信仰表达与肖像、隐私授权",
+      "risk": "利用群体归属压力索取永久传播许可",
+      "wake": "明确发布范围、保存期限与撤回途径",
+      "counter": "传播见证可能有积极目的，但必须尊重自愿",
+      "tags": [
+        "宗教",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考 Awakenology 中文目录的自主辨识主题，非真实事件",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未能重新读取正文；无原文摘录",
+      "originalRewrite": "聚会主持要求新成员签署不可撤销的公开视频许可，拒绝者被称为信心不足。 辨识时应区分自愿选择与附带压力的要求。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；参考来源仅用于概念定位，具体心理机制及事件均未独立实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r12-008",
+      "category": "宗教",
+      "title": "宗教节庆摊位的排他性供应商",
+      "prompt": "筹备组称神圣传统要求摊主只能向组长亲属购买原料，拒绝提供账目。",
+      "check": "区分仪式传统与采购利益冲突",
+      "risk": "以神圣理由掩盖商业排他和不透明交易",
+      "wake": "要求公开采购标准、利益关系及替代方案",
+      "counter": "统一原料可能出于仪式规范或质量控制，但仍可透明说明",
+      "tags": [
+        "宗教",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考 Awakenology 中文目录的自主辨识主题，非真实事件",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未能重新读取正文；无原文摘录",
+      "originalRewrite": "筹备组称神圣传统要求摊主只能向组长亲属购买原料，拒绝提供账目。 辨识时应区分自愿选择与附带压力的要求。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；参考来源仅用于概念定位，具体心理机制及事件均未独立实证",
+      "revision": 1
     }
   ]
 }
