@@ -9139,6 +9139,204 @@
       ],
       "evidenceStatus": "原创模拟，非真实个案；斯坦福网页正文已核验，但模拟事件及具体机制未经独立实证；不以宗教身份或不同意见本身推断操纵",
       "revision": 1
+    },
+    {
+      "id": "sr-20261107-l001",
+      "category": "社会",
+      "title": "远程兼职的设备押金",
+      "prompt": "招聘人员承诺高薪远程工作，却要求入职前向个人二维码缴设备押金。",
+      "check": "核查雇主身份、劳动条件及费用依据。",
+      "risk": "用高薪承诺诱导提前付款。",
+      "wake": "索要书面合同并拒绝未经核实的私人转账。",
+      "counter": "正规岗位可能有设备租赁方案，但须审查合同。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟；斯坦福宗教组织行为指南仅为概念参考，本轮未重新核实网页正文",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实正文",
+      "originalRewrite": "辨识：核查雇主身份、劳动条件及费用依据。 催眠风险：用高薪承诺诱导提前付款。 催醒行动：索要书面合同并拒绝未经核实的私人转账。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "仅概念参考，不证明模拟事件"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；机制未经独立实证；不以宗教身份或不同意见认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-l002",
+      "category": "社会",
+      "title": "社区停电谣言与充电卡",
+      "prompt": "群管理员称全区即将停电三天，同时出售高价应急充电卡。",
+      "check": "核实供电公司公告与卖家的利益关系。",
+      "risk": "用灾情恐惧制造抢购压力。",
+      "wake": "先查官方通知，按实际需要备灾。",
+      "counter": "合理备灾并非操纵，关键在于信息真实。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟；斯坦福宗教组织行为指南仅为概念参考，本轮未重新核实网页正文",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实正文",
+      "originalRewrite": "辨识：核实供电公司公告与卖家的利益关系。 催眠风险：用灾情恐惧制造抢购压力。 催醒行动：先查官方通知，按实际需要备灾。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "仅概念参考，不证明模拟事件"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；机制未经独立实证；不以宗教身份或不同意见认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-l003",
+      "category": "社会",
+      "title": "培训证书的就业保证",
+      "prompt": "机构承诺购买课程和证书后一定被指定企业录用。",
+      "check": "核实企业授权和证书认可范围。",
+      "risk": "用确定性承诺掩盖录用不确定性。",
+      "wake": "向企业独立核实，要求书面退款条款。",
+      "counter": "培训可能提高竞争力，但不能自动保证录用。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟；斯坦福宗教组织行为指南仅为概念参考，本轮未重新核实网页正文",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实正文",
+      "originalRewrite": "辨识：核实企业授权和证书认可范围。 催眠风险：用确定性承诺掩盖录用不确定性。 催醒行动：向企业独立核实，要求书面退款条款。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "仅概念参考，不证明模拟事件"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；机制未经独立实证；不以宗教身份或不同意见认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-l004",
+      "category": "宗教",
+      "title": "静修报名的药物停用承诺",
+      "prompt": "静修报名表要求参加者承诺停用处方药，否则被称为修行不诚。",
+      "check": "区分活动安排与专业医疗决定。",
+      "risk": "将医疗风险与精神评价绑定。",
+      "wake": "未经医生评估不停止用药，要求安全替代方案。",
+      "counter": "静修可以有作息要求，但不应替代医生。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟；斯坦福宗教组织行为指南仅为概念参考，本轮未重新核实网页正文",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实正文",
+      "originalRewrite": "辨识：区分活动安排与专业医疗决定。 催眠风险：将医疗风险与精神评价绑定。 催醒行动：未经医生评估不停止用药，要求安全替代方案。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "仅概念参考，不证明模拟事件"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；机制未经独立实证；不以宗教身份或不同意见认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-l005",
+      "category": "宗教",
+      "title": "礼拜接送车的退出条件",
+      "prompt": "免费接送车司机称参加者必须留到整场结束，否则不负责返程。",
+      "check": "核实接送条件是否提前披露及安全安排。",
+      "risk": "利用交通依赖限制退出。",
+      "wake": "事先确认返程时间，保留独立交通方案。",
+      "counter": "固定班车的发车时间可能只是正常运营。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟；斯坦福宗教组织行为指南仅为概念参考，本轮未重新核实网页正文",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实正文",
+      "originalRewrite": "辨识：核实接送条件是否提前披露及安全安排。 催眠风险：利用交通依赖限制退出。 催醒行动：事先确认返程时间，保留独立交通方案。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "仅概念参考，不证明模拟事件"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；机制未经独立实证；不以宗教身份或不同意见认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-l006",
+      "category": "宗教",
+      "title": "祈福直播的银行卡验证",
+      "prompt": "直播主持人要求上传银行卡正反面才能领取免费祈福名额。",
+      "check": "判断金融信息与活动是否相关。",
+      "risk": "借精神寄托索取敏感资料。",
+      "wake": "不上传银行卡资料，向平台举报可疑请求。",
+      "counter": "正常线上报名不等于要求银行卡安全信息。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟；斯坦福宗教组织行为指南仅为概念参考，本轮未重新核实网页正文",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实正文",
+      "originalRewrite": "辨识：判断金融信息与活动是否相关。 催眠风险：借精神寄托索取敏感资料。 催醒行动：不上传银行卡资料，向平台举报可疑请求。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "仅概念参考，不证明模拟事件"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；机制未经独立实证；不以宗教身份或不同意见认定操纵",
+      "revision": 1
     }
   ]
 }
