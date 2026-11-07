@@ -3111,6 +3111,806 @@
       ],
       "evidenceStatus": "原创模拟情境；对应来源一般原则已核对；特定事件不存在事实核验；心理机制未独立实证；尊重宗教自由",
       "revision": 1
+    },
+    {
+      "id": "sr-20261107-batch3-01",
+      "category": "社会",
+      "title": "兼职工资单的模糊扣款",
+      "prompt": "兼职结算时老板说‘大家都这么扣’，拒绝解释工资单上的管理费。",
+      "check": "要求逐项说明扣款依据和事前约定。",
+      "risk": "用行业惯例代替明确合同可能抑制追问。",
+      "wake": "保存合同、排班与工资记录，向适当咨询机构核对。",
+      "counter": "有些扣款可能合法合理，需按具体约定判断。",
+      "tags": [
+        "社会",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；依据已核验Awakenology自主意识区的独立思考、尊重他人、信息过滤原则设计；组织相关行为另参考斯坦福指南；非原文真实案例",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "sourceEdition": "2018–2019年第三版",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalQuote": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已核验原文短摘录；仅作概念参考，不是场景出处",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "edition": "2018–2019年第三版",
+          "published": null
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "note": "宗教组织行为的交叉参考，不证明个别模拟场景"
+        }
+      ],
+      "evidenceStatus": "来源文章正文已核验；情境为原创模拟，心理机制为可能性分析，未作个案实证；宗教身份或异议本身不是操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-batch3-02",
+      "category": "社会",
+      "title": "求职群的假面试反馈",
+      "prompt": "招聘群管理员说‘不买我们的修改服务，企业就不会看你的简历’，却拿不出企业要求。",
+      "check": "区分招聘方真实标准与第三方销售话术。",
+      "risk": "把求职不确定性包装成唯一付费解法。",
+      "wake": "直接核对岗位要求，比较免费和付费帮助。",
+      "counter": "专业简历辅导可能有价值，但不能保证录用。",
+      "tags": [
+        "社会",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；依据已核验Awakenology自主意识区的独立思考、尊重他人、信息过滤原则设计；组织相关行为另参考斯坦福指南；非原文真实案例",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "sourceEdition": "2018–2019年第三版",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalQuote": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已核验原文短摘录；仅作概念参考，不是场景出处",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "edition": "2018–2019年第三版",
+          "published": null
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "note": "宗教组织行为的交叉参考，不证明个别模拟场景"
+        }
+      ],
+      "evidenceStatus": "来源文章正文已核验；情境为原创模拟，心理机制为可能性分析，未作个案实证；宗教身份或异议本身不是操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-batch3-03",
+      "category": "社会",
+      "title": "合租室友的多数决",
+      "prompt": "三人合租，两人未经讨论就宣布第三人必须承担全部公共清洁费。",
+      "check": "多数意见是否符合事先共同协议？",
+      "risk": "把人数优势当成无限决定权。",
+      "wake": "查原协议，按使用和责任重新协商。",
+      "counter": "多数表决可用于事先约定的共同事项。",
+      "tags": [
+        "社会",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；依据已核验Awakenology自主意识区的独立思考、尊重他人、信息过滤原则设计；组织相关行为另参考斯坦福指南；非原文真实案例",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "sourceEdition": "2018–2019年第三版",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalQuote": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已核验原文短摘录；仅作概念参考，不是场景出处",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "edition": "2018–2019年第三版",
+          "published": null
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "note": "宗教组织行为的交叉参考，不证明个别模拟场景"
+        }
+      ],
+      "evidenceStatus": "来源文章正文已核验；情境为原创模拟，心理机制为可能性分析，未作个案实证；宗教身份或异议本身不是操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-batch3-04",
+      "category": "社会",
+      "title": "公益活动的照片强制授权",
+      "prompt": "社区志愿活动结束后，负责人要求所有参与者同意肖像用于商业广告，否则不发志愿证明。",
+      "check": "参加前是否说明肖像使用范围和拒绝后果？",
+      "risk": "事后捆绑原本应独立的权利与证明。",
+      "wake": "要求分开处理服务记录和商业授权。",
+      "counter": "活动宣传可能需要照片，但授权应明确。",
+      "tags": [
+        "社会",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；依据已核验Awakenology自主意识区的独立思考、尊重他人、信息过滤原则设计；组织相关行为另参考斯坦福指南；非原文真实案例",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "sourceEdition": "2018–2019年第三版",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalQuote": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已核验原文短摘录；仅作概念参考，不是场景出处",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "edition": "2018–2019年第三版",
+          "published": null
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "note": "宗教组织行为的交叉参考，不证明个别模拟场景"
+        }
+      ],
+      "evidenceStatus": "来源文章正文已核验；情境为原创模拟，心理机制为可能性分析，未作个案实证；宗教身份或异议本身不是操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-batch3-05",
+      "category": "社会",
+      "title": "家长群的隐形集资",
+      "prompt": "班委说‘全班家长都交了礼物钱’，拒绝公开金额与用途。",
+      "check": "是否有公开预算和真正自愿的参与机制？",
+      "risk": "利用从众和怕孩子被排斥的担忧筹款。",
+      "wake": "核实用途、金额和学校规定，允许不参加。",
+      "counter": "合理的班级公共费用也可能通过协商筹集。",
+      "tags": [
+        "社会",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；依据已核验Awakenology自主意识区的独立思考、尊重他人、信息过滤原则设计；组织相关行为另参考斯坦福指南；非原文真实案例",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "sourceEdition": "2018–2019年第三版",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalQuote": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已核验原文短摘录；仅作概念参考，不是场景出处",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "edition": "2018–2019年第三版",
+          "published": null
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "note": "宗教组织行为的交叉参考，不证明个别模拟场景"
+        }
+      ],
+      "evidenceStatus": "来源文章正文已核验；情境为原创模拟，心理机制为可能性分析，未作个案实证；宗教身份或异议本身不是操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-batch3-06",
+      "category": "社会",
+      "title": "AI面试评分的神秘算法",
+      "prompt": "培训机构展示一个‘AI潜力分数’，宣称低分者只有买课才能改变命运。",
+      "check": "评分模型、有效性和利益冲突是否透明？",
+      "risk": "把不透明指标包装成不可质疑的命运判决。",
+      "wake": "询问验证数据，比较真实招聘要求。",
+      "counter": "结构化评估可能有用，但不能证明付费必需。",
+      "tags": [
+        "社会",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；依据已核验Awakenology自主意识区的独立思考、尊重他人、信息过滤原则设计；组织相关行为另参考斯坦福指南；非原文真实案例",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "sourceEdition": "2018–2019年第三版",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalQuote": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已核验原文短摘录；仅作概念参考，不是场景出处",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "edition": "2018–2019年第三版",
+          "published": null
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "note": "宗教组织行为的交叉参考，不证明个别模拟场景"
+        }
+      ],
+      "evidenceStatus": "来源文章正文已核验；情境为原创模拟，心理机制为可能性分析，未作个案实证；宗教身份或异议本身不是操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-batch3-07",
+      "category": "社会",
+      "title": "群聊谣言的紧急转发",
+      "prompt": "邻居发消息说‘今晚不转发这条警告，明天出事你负责’，但没有官方出处。",
+      "check": "消息能否追溯到权威原始通告？",
+      "risk": "以责任恐惧促使未经核验的传播。",
+      "wake": "先查官方信息，再决定是否提醒他人。",
+      "counter": "真正紧急的警报需要快速传播，但仍要确认出处。",
+      "tags": [
+        "社会",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；依据已核验Awakenology自主意识区的独立思考、尊重他人、信息过滤原则设计；组织相关行为另参考斯坦福指南；非原文真实案例",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "sourceEdition": "2018–2019年第三版",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalQuote": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已核验原文短摘录；仅作概念参考，不是场景出处",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "edition": "2018–2019年第三版",
+          "published": null
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "note": "宗教组织行为的交叉参考，不证明个别模拟场景"
+        }
+      ],
+      "evidenceStatus": "来源文章正文已核验；情境为原创模拟，心理机制为可能性分析，未作个案实证；宗教身份或异议本身不是操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-batch3-08",
+      "category": "社会",
+      "title": "邻里维修费的模糊投票",
+      "prompt": "物业用‘大家同意了’要求付款，却未展示维修报价和投票记录。",
+      "check": "费用依据、投票资格和程序是否可查？",
+      "risk": "以集体决定名义遮蔽信息。",
+      "wake": "索取报价、会议记录和相关规则。",
+      "counter": "紧急维修可能先处理后补手续，须核实情况。",
+      "tags": [
+        "社会",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；依据已核验Awakenology自主意识区的独立思考、尊重他人、信息过滤原则设计；组织相关行为另参考斯坦福指南；非原文真实案例",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "sourceEdition": "2018–2019年第三版",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalQuote": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已核验原文短摘录；仅作概念参考，不是场景出处",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "edition": "2018–2019年第三版",
+          "published": null
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "note": "宗教组织行为的交叉参考，不证明个别模拟场景"
+        }
+      ],
+      "evidenceStatus": "来源文章正文已核验；情境为原创模拟，心理机制为可能性分析，未作个案实证；宗教身份或异议本身不是操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-batch3-09",
+      "category": "社会",
+      "title": "健身教练的身体羞辱",
+      "prompt": "教练说‘不买私教课就是不爱惜自己’，并当众嘲笑学员身材。",
+      "check": "健康建议是否有具体评估，是否利用羞辱销售？",
+      "risk": "把自尊与购买行为绑定。",
+      "wake": "按个人健康目标选择服务，要求尊重边界。",
+      "counter": "适当训练指导确有价值，批评方式仍需恰当。",
+      "tags": [
+        "社会",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；依据已核验Awakenology自主意识区的独立思考、尊重他人、信息过滤原则设计；组织相关行为另参考斯坦福指南；非原文真实案例",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "sourceEdition": "2018–2019年第三版",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalQuote": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已核验原文短摘录；仅作概念参考，不是场景出处",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "edition": "2018–2019年第三版",
+          "published": null
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "note": "宗教组织行为的交叉参考，不证明个别模拟场景"
+        }
+      ],
+      "evidenceStatus": "来源文章正文已核验；情境为原创模拟，心理机制为可能性分析，未作个案实证；宗教身份或异议本身不是操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-batch3-10",
+      "category": "社会",
+      "title": "恋爱测试题的绝对判定",
+      "prompt": "自媒体称‘伴侣没秒回就是不忠’，推销付费关系诊断。",
+      "check": "是否存在工作、休息等其他合理原因？",
+      "risk": "将模糊行为解释为唯一负面意图。",
+      "wake": "观察长期行为，直接沟通需求。",
+      "counter": "持续失联有时值得讨论，但单次不等于背叛。",
+      "tags": [
+        "社会",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；依据已核验Awakenology自主意识区的独立思考、尊重他人、信息过滤原则设计；组织相关行为另参考斯坦福指南；非原文真实案例",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "sourceEdition": "2018–2019年第三版",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalQuote": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已核验原文短摘录；仅作概念参考，不是场景出处",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "edition": "2018–2019年第三版",
+          "published": null
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "note": "宗教组织行为的交叉参考，不证明个别模拟场景"
+        }
+      ],
+      "evidenceStatus": "来源文章正文已核验；情境为原创模拟，心理机制为可能性分析，未作个案实证；宗教身份或异议本身不是操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-batch3-11",
+      "category": "社会",
+      "title": "课程退费的拖延话术",
+      "prompt": "培训商说‘坚持到最后才能证明课程无效’，无限推迟退款审核。",
+      "check": "退款条件是否在购买前清晰且可执行？",
+      "risk": "用继续投入作为获得救济的前提。",
+      "wake": "依据合同记录效果与申请时间，寻求消费者咨询。",
+      "counter": "部分课程效果需要时间观察，但不能无限否定退款条款。",
+      "tags": [
+        "社会",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；依据已核验Awakenology自主意识区的独立思考、尊重他人、信息过滤原则设计；组织相关行为另参考斯坦福指南；非原文真实案例",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "sourceEdition": "2018–2019年第三版",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalQuote": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已核验原文短摘录；仅作概念参考，不是场景出处",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "edition": "2018–2019年第三版",
+          "published": null
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "note": "宗教组织行为的交叉参考，不证明个别模拟场景"
+        }
+      ],
+      "evidenceStatus": "来源文章正文已核验；情境为原创模拟，心理机制为可能性分析，未作个案实证；宗教身份或异议本身不是操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-batch3-12",
+      "category": "社会",
+      "title": "亲友群的假专家音频",
+      "prompt": "亲戚转发匿名医生音频说‘某药人人都该停’，没有医院与发布日期。",
+      "check": "音频身份、适用对象和医学依据能否核验？",
+      "risk": "匿名权威和家庭信任叠加误导健康决定。",
+      "wake": "向正规医疗人员核对，不自行停药。",
+      "counter": "某些药物确有风险提示，但需要具体诊疗背景。",
+      "tags": [
+        "社会",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；依据已核验Awakenology自主意识区的独立思考、尊重他人、信息过滤原则设计；组织相关行为另参考斯坦福指南；非原文真实案例",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "sourceEdition": "2018–2019年第三版",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalQuote": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已核验原文短摘录；仅作概念参考，不是场景出处",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "edition": "2018–2019年第三版",
+          "published": null
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "note": "宗教组织行为的交叉参考，不证明个别模拟场景"
+        }
+      ],
+      "evidenceStatus": "来源文章正文已核验；情境为原创模拟，心理机制为可能性分析，未作个案实证；宗教身份或异议本身不是操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-batch3-13",
+      "category": "宗教",
+      "title": "宗教活动的翻译控制",
+      "prompt": "外语聚会只提供负责人删改后的译文，不允许参与者查看原始公开讲稿。",
+      "check": "译文与原文是否一致，是否允许独立翻译？",
+      "risk": "信息入口被单方控制可能限制理解。",
+      "wake": "获取原文与其他译本，记录关键差异。",
+      "counter": "翻译可能因文化语境简化，差异不必然是故意隐瞒。",
+      "tags": [
+        "宗教",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；依据已核验Awakenology自主意识区的独立思考、尊重他人、信息过滤原则设计；组织相关行为另参考斯坦福指南；非原文真实案例",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "sourceEdition": "2018–2019年第三版",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalQuote": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已核验原文短摘录；仅作概念参考，不是场景出处",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "edition": "2018–2019年第三版",
+          "published": null
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "note": "宗教组织行为的交叉参考，不证明个别模拟场景"
+        }
+      ],
+      "evidenceStatus": "来源文章正文已核验；情境为原创模拟，心理机制为可能性分析，未作个案实证；宗教身份或异议本身不是操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-batch3-14",
+      "category": "宗教",
+      "title": "新成员的住房担保",
+      "prompt": "组织邀请新人住集体宿舍，要求先签长期高额违约金协议且不提供副本。",
+      "check": "住房合同是否透明、可带走审阅、可咨询第三方？",
+      "risk": "将归属需求与长期财务责任捆绑。",
+      "wake": "独立审查合同、费用与退出安排。",
+      "counter": "集体居住有合理管理成本，但应公开约定。",
+      "tags": [
+        "宗教",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；依据已核验Awakenology自主意识区的独立思考、尊重他人、信息过滤原则设计；组织相关行为另参考斯坦福指南；非原文真实案例",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "sourceEdition": "2018–2019年第三版",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalQuote": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已核验原文短摘录；仅作概念参考，不是场景出处",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "edition": "2018–2019年第三版",
+          "published": null
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "note": "宗教组织行为的交叉参考，不证明个别模拟场景"
+        }
+      ],
+      "evidenceStatus": "来源文章正文已核验；情境为原创模拟，心理机制为可能性分析，未作个案实证；宗教身份或异议本身不是操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-batch3-15",
+      "category": "宗教",
+      "title": "领袖私人旅行的共同募款",
+      "prompt": "团体负责人称‘所有成员必须出钱资助我私人旅行’，拒绝说明是否属组织项目。",
+      "check": "资金用途与组织决议是否清晰？",
+      "risk": "借职位权威转移个人消费成本。",
+      "wake": "要求财务披露与自愿捐助机制。",
+      "counter": "宗教领袖旅行也可能用于公共服务，须核实目的。",
+      "tags": [
+        "宗教",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；依据已核验Awakenology自主意识区的独立思考、尊重他人、信息过滤原则设计；组织相关行为另参考斯坦福指南；非原文真实案例",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "sourceEdition": "2018–2019年第三版",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalQuote": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已核验原文短摘录；仅作概念参考，不是场景出处",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "edition": "2018–2019年第三版",
+          "published": null
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "note": "宗教组织行为的交叉参考，不证明个别模拟场景"
+        }
+      ],
+      "evidenceStatus": "来源文章正文已核验；情境为原创模拟，心理机制为可能性分析，未作个案实证；宗教身份或异议本身不是操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-batch3-16",
+      "category": "宗教",
+      "title": "未成年人活动的监护同意",
+      "prompt": "青少年活动负责人要求孩子瞒着监护人参加过夜营，并称家长不理解信仰。",
+      "check": "活动安全、监护授权与紧急联络是否完整？",
+      "risk": "以秘密和归属感绕过必要保护。",
+      "wake": "要求正规授权、活动方案和安全联系人。",
+      "counter": "青少年需要一定隐私，但过夜活动仍须遵守适用安全规则。",
+      "tags": [
+        "宗教",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；依据已核验Awakenology自主意识区的独立思考、尊重他人、信息过滤原则设计；组织相关行为另参考斯坦福指南；非原文真实案例",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "sourceEdition": "2018–2019年第三版",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalQuote": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已核验原文短摘录；仅作概念参考，不是场景出处",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "edition": "2018–2019年第三版",
+          "published": null
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "note": "宗教组织行为的交叉参考，不证明个别模拟场景"
+        }
+      ],
+      "evidenceStatus": "来源文章正文已核验；情境为原创模拟，心理机制为可能性分析，未作个案实证；宗教身份或异议本身不是操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-batch3-17",
+      "category": "宗教",
+      "title": "见证分享的成绩夸大",
+      "prompt": "聚会主持人宣称‘参加三次就保证升职’，只展示少数成功者。",
+      "check": "是否披露未成功案例与其他影响因素？",
+      "risk": "选择性展示结果可能造成虚假因果期待。",
+      "wake": "区分个人见证和普遍保证，核对现实条件。",
+      "counter": "参与社群可能提升自信与人际支持，但无法保证升职。",
+      "tags": [
+        "宗教",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；依据已核验Awakenology自主意识区的独立思考、尊重他人、信息过滤原则设计；组织相关行为另参考斯坦福指南；非原文真实案例",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "sourceEdition": "2018–2019年第三版",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalQuote": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已核验原文短摘录；仅作概念参考，不是场景出处",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "edition": "2018–2019年第三版",
+          "published": null
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "note": "宗教组织行为的交叉参考，不证明个别模拟场景"
+        }
+      ],
+      "evidenceStatus": "来源文章正文已核验；情境为原创模拟，心理机制为可能性分析，未作个案实证；宗教身份或异议本身不是操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-batch3-18",
+      "category": "宗教",
+      "title": "灵性咨询的录音留存",
+      "prompt": "咨询者只同意现场谈话，事后发现私人录音被长期保存并用于培训。",
+      "check": "是否取得录音、保存期限和二次用途的单独同意？",
+      "risk": "将求助中的信任转化为不透明的数据使用。",
+      "wake": "要求说明用途、访问权限及删除政策。",
+      "counter": "经明确授权的匿名教学材料可能合理。",
+      "tags": [
+        "宗教",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；依据已核验Awakenology自主意识区的独立思考、尊重他人、信息过滤原则设计；组织相关行为另参考斯坦福指南；非原文真实案例",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "sourceEdition": "2018–2019年第三版",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalQuote": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已核验原文短摘录；仅作概念参考，不是场景出处",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "edition": "2018–2019年第三版",
+          "published": null
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "note": "宗教组织行为的交叉参考，不证明个别模拟场景"
+        }
+      ],
+      "evidenceStatus": "来源文章正文已核验；情境为原创模拟，心理机制为可能性分析，未作个案实证；宗教身份或异议本身不是操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-batch3-19",
+      "category": "宗教",
+      "title": "祈祷名单中的隐私泄露",
+      "prompt": "成员请朋友私下祈祷，负责人却把其病情和住址发到公开群。",
+      "check": "公开范围是否得到本人同意？",
+      "risk": "借善意帮助忽略隐私与安全边界。",
+      "wake": "请求撤回敏感资料，改为本人认可的描述。",
+      "counter": "社区祈祷和关怀可能有益，但须尊重保密意愿。",
+      "tags": [
+        "宗教",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；依据已核验Awakenology自主意识区的独立思考、尊重他人、信息过滤原则设计；组织相关行为另参考斯坦福指南；非原文真实案例",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "sourceEdition": "2018–2019年第三版",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalQuote": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已核验原文短摘录；仅作概念参考，不是场景出处",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "edition": "2018–2019年第三版",
+          "published": null
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "note": "宗教组织行为的交叉参考，不证明个别模拟场景"
+        }
+      ],
+      "evidenceStatus": "来源文章正文已核验；情境为原创模拟，心理机制为可能性分析，未作个案实证；宗教身份或异议本身不是操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-batch3-20",
+      "category": "宗教",
+      "title": "信仰课程的证书门槛",
+      "prompt": "课程说‘不买最高级证书就不能提出任何教义问题’，且费用每月上涨。",
+      "check": "证书是否为合理课程资格，还是阻断正常提问？",
+      "risk": "把求知权与持续付费挂钩。",
+      "wake": "查课程条款与免费公开资料，保留不购买的选择。",
+      "counter": "高级研讨会可能设先修条件，但不应垄断所有讨论。",
+      "tags": [
+        "宗教",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活案例；依据已核验Awakenology自主意识区的独立思考、尊重他人、信息过滤原则设计；组织相关行为另参考斯坦福指南；非原文真实案例",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "sourceEdition": "2018–2019年第三版",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalQuote": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已核验原文短摘录；仅作概念参考，不是场景出处",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "edition": "2018–2019年第三版",
+          "published": null
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "note": "宗教组织行为的交叉参考，不证明个别模拟场景"
+        }
+      ],
+      "evidenceStatus": "来源文章正文已核验；情境为原创模拟，心理机制为可能性分析，未作个案实证；宗教身份或异议本身不是操纵",
+      "revision": 1
     }
   ]
 }
