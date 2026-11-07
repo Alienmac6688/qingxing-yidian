@@ -961,6 +961,45 @@
       "published": "2026-11-07（原创案例整理日；非来源发表日）",
       "evidenceStatus": "两篇Awakenology原文已核；情境完全虚构；合同权利与心理机制未完成独立法律/学术交叉核验，不构成对具体团体的指控",
       "revision": 1
+    },
+    {
+      "id": "sr-20261107-35",
+      "category": "宗教",
+      "title": "以修行为由要求休学",
+      "prompt": "一名大学生参加灵修小组后，导师反复劝他暂停学业、搬进集体宿舍，并说‘继续读书说明你还没有真正觉悟’，却不愿说明住宿费用和退出条件。",
+      "check": "确认休学与搬迁是否由本人充分知情、自愿决定；是否存在持续施压、经济依赖、与家人朋友隔离，以及拒绝后的惩罚。",
+      "risk": "将重大教育与生活决定包装成修行资格测试，可能削弱个人自主判断并增加对团体的依赖。",
+      "wake": "在作出不可逆决定前独立咨询学校、家人或可信任的外部人士；核实费用、住宿协议与退出权，保留继续学业及拒绝的选择。",
+      "counter": "自愿间隔年、住进宗教社区或全职修行可能是经过充分考虑的个人选择；不能因宗教身份、生活方式或不同意见本身认定操纵。",
+      "tags": [
+        "宗教",
+        "学业决定",
+        "自主选择",
+        "经济与关系依赖",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实事件）；斯坦福大学宗教与精神生活办公室公开指导为已核实的行为风险参照；Awakenology《破權威幻》仅作主题线索，本轮未重新取得正文",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": "网页未标明发布日期",
+          "originalQuote": "changing your major, disregarding grades and exams",
+          "verified": "2026-11-07已读取网页正文；属于大学指导材料，不是对本模拟情境的实证验证"
+        },
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "published": "2026-10-25（仓库既有记录，本轮未重新核实）",
+          "originalQuote": null,
+          "verified": "本轮访问未成功，未提取或引用原文"
+        }
+      ],
+      "originalQuote": "changing your major, disregarding grades and exams",
+      "published": "2026-11-07（原创案例整理日期；非来源发布日期）",
+      "evidenceStatus": "斯坦福指导网页正文已核；案例为原创虚构；非具体组织指控；心理机制仅为风险分析，未作因果实证验证；Awakenology本轮未复核",
+      "revision": 1
     }
   ]
 }
