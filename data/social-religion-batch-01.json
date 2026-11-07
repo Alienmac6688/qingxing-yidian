@@ -7441,6 +7441,474 @@
       ],
       "evidenceStatus": "教学模拟；具体事件未经证实；不以宗教身份或不同意见判定操纵；Awakenology未在本轮重新核验",
       "revision": 1
+    },
+    {
+      "id": "sr-20261107-h001",
+      "category": "社会",
+      "title": "算法拒绝解释的面试淘汰",
+      "prompt": "招聘平台称AI面试绝对客观，拒绝解释评分或人工复核。",
+      "check": "询问评分标准和纠错渠道",
+      "risk": "技术权威可能掩盖不可审查的决定",
+      "wake": "保存通知并申请人工复核",
+      "counter": "算法可能降低人为偏见，不能仅凭使用AI认定歧视",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主判断"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实事件；概念参考Awakenology，组织行为参考Stanford",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已读取并核对原文；引用仅为观点参考",
+      "originalRewrite": "询问评分标准和纠错渠道；保存通知并申请人工复核",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "published": null,
+          "scope": "观点参考，不是案例事件来源"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考"
+        }
+      ],
+      "evidenceStatus": "原创模拟，具体事件未证实；不将宗教身份或异议本身视为操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-h002",
+      "category": "社会",
+      "title": "试岗期间的免费独立顶班",
+      "prompt": "店长让求职者免费试岗三天，期间独立承担正常班次。",
+      "check": "辨别面试观察与实际劳动",
+      "risk": "试岗名义可能掩盖应付报酬",
+      "wake": "书面确认工作内容和工资",
+      "counter": "简短技能考察未必属于雇佣",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主判断"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实事件；概念参考Awakenology，组织行为参考Stanford",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已读取并核对原文；引用仅为观点参考",
+      "originalRewrite": "辨别面试观察与实际劳动；书面确认工作内容和工资",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "published": null,
+          "scope": "观点参考，不是案例事件来源"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考"
+        }
+      ],
+      "evidenceStatus": "原创模拟，具体事件未证实；不将宗教身份或异议本身视为操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-h003",
+      "category": "社会",
+      "title": "亲密关系的全天定位考验",
+      "prompt": "伴侣说不共享全天实时位置就证明不爱自己。",
+      "check": "共享是否双方自愿且可撤回",
+      "risk": "情感证明可能变成持续监控",
+      "wake": "商量必要时段与双方边界",
+      "counter": "互相报平安也可能是自愿照顾",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主判断"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实事件；概念参考Awakenology，组织行为参考Stanford",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已读取并核对原文；引用仅为观点参考",
+      "originalRewrite": "共享是否双方自愿且可撤回；商量必要时段与双方边界",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "published": null,
+          "scope": "观点参考，不是案例事件来源"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考"
+        }
+      ],
+      "evidenceStatus": "原创模拟，具体事件未证实；不将宗教身份或异议本身视为操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-h004",
+      "category": "社会",
+      "title": "社区摄像头的默认同意",
+      "prompt": "物业宣布不回复就视为同意安装带录音的门口摄像头。",
+      "check": "查明拍摄范围、保存期限和同意程序",
+      "risk": "安全叙事可能掩盖隐私侵害",
+      "wake": "要求公开方案与数据管理制度",
+      "counter": "合理公共安防可能确有必要",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主判断"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实事件；概念参考Awakenology，组织行为参考Stanford",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已读取并核对原文；引用仅为观点参考",
+      "originalRewrite": "查明拍摄范围、保存期限和同意程序；要求公开方案与数据管理制度",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "published": null,
+          "scope": "观点参考，不是案例事件来源"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考"
+        }
+      ],
+      "evidenceStatus": "原创模拟，具体事件未证实；不将宗教身份或异议本身视为操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-h005",
+      "category": "社会",
+      "title": "高薪证书课程的录用截图",
+      "prompt": "培训班用几张高薪录用截图宣称拿证包就业，不提供统计基数。",
+      "check": "核对完整就业率与合同",
+      "risk": "成功个案可能被包装成普遍结果",
+      "wake": "核实样本、退款条款和独立评价",
+      "counter": "课程可能有助就业但无法保证录用",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主判断"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实事件；概念参考Awakenology，组织行为参考Stanford",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已读取并核对原文；引用仅为观点参考",
+      "originalRewrite": "核对完整就业率与合同；核实样本、退款条款和独立评价",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "published": null,
+          "scope": "观点参考，不是案例事件来源"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考"
+        }
+      ],
+      "evidenceStatus": "原创模拟，具体事件未证实；不将宗教身份或异议本身视为操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-h006",
+      "category": "社会",
+      "title": "家庭求助的私人转账压力",
+      "prompt": "亲戚转发医疗筹款截图，要求立即向私人二维码汇款并禁止核实。",
+      "check": "核实收款主体和医疗资料",
+      "risk": "亲情与紧迫感可能压制核验",
+      "wake": "优先正规筹款渠道并保留凭据",
+      "counter": "真实紧急求助也可能暂时资料不足",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主判断"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实事件；概念参考Awakenology，组织行为参考Stanford",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": null,
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "excerptStatus": "已读取并核对原文；引用仅为观点参考",
+      "originalRewrite": "核实收款主体和医疗资料；优先正规筹款渠道并保留凭据",
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+          "published": null,
+          "scope": "观点参考，不是案例事件来源"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考"
+        }
+      ],
+      "evidenceStatus": "原创模拟，具体事件未证实；不将宗教身份或异议本身视为操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-h007",
+      "category": "宗教",
+      "title": "静修营的临时通讯限制",
+      "prompt": "静修营报名时允许联络家人，入营后突然没收手机且拒绝紧急联络。",
+      "check": "核对事前告知和退出渠道",
+      "risk": "信息隔离可能增加依赖",
+      "wake": "要求紧急联系方式并保留离营选择",
+      "counter": "自愿数字排毒可能有益",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主判断"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实事件；概念参考Awakenology，组织行为参考Stanford",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已读取并核对原文；引用仅为观点参考",
+      "originalRewrite": "核对事前告知和退出渠道；要求紧急联系方式并保留离营选择",
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "published": "2026-10-25",
+          "scope": "观点参考，不是案例事件来源"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考"
+        }
+      ],
+      "evidenceStatus": "原创模拟，具体事件未证实；不将宗教身份或异议本身视为操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-h008",
+      "category": "宗教",
+      "title": "祈祷直播泄露私人病史",
+      "prompt": "成员私下请求为家人祈祷，负责人未经同意在直播中公布姓名和病史。",
+      "check": "是否取得明确公开授权",
+      "risk": "善意可能被用于越过隐私边界",
+      "wake": "要求撤下内容并建立匿名机制",
+      "counter": "公开代祷经同意可带来支持",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主判断"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实事件；概念参考Awakenology，组织行为参考Stanford",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已读取并核对原文；引用仅为观点参考",
+      "originalRewrite": "是否取得明确公开授权；要求撤下内容并建立匿名机制",
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "published": "2026-10-25",
+          "scope": "观点参考，不是案例事件来源"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考"
+        }
+      ],
+      "evidenceStatus": "原创模拟，具体事件未证实；不将宗教身份或异议本身视为操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-h009",
+      "category": "宗教",
+      "title": "灵性导师要求个人代管积蓄",
+      "prompt": "导师以摆脱财富执着为由要求成员将积蓄转入个人账户。",
+      "check": "查明资金用途、监管与利益冲突",
+      "risk": "精神权威可能跨越到财产控制",
+      "wake": "拒绝未经审计的私人代管",
+      "counter": "透明的共同慈善基金不等于操纵",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主判断"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实事件；概念参考Awakenology，组织行为参考Stanford",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已读取并核对原文；引用仅为观点参考",
+      "originalRewrite": "查明资金用途、监管与利益冲突；拒绝未经审计的私人代管",
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "published": "2026-10-25",
+          "scope": "观点参考，不是案例事件来源"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考"
+        }
+      ],
+      "evidenceStatus": "原创模拟，具体事件未证实；不将宗教身份或异议本身视为操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-h010",
+      "category": "宗教",
+      "title": "救灾物资附加入教承诺",
+      "prompt": "救灾组织要求受助者承诺参加宗教活动才可领取基本物资。",
+      "check": "核实援助条件是否自愿透明",
+      "risk": "脆弱处境可能被用作招募压力",
+      "wake": "区分人道援助与自愿宗教活动",
+      "counter": "宗教组织开展救灾本身有积极价值",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主判断"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实事件；概念参考Awakenology，组织行为参考Stanford",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已读取并核对原文；引用仅为观点参考",
+      "originalRewrite": "核实援助条件是否自愿透明；区分人道援助与自愿宗教活动",
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "published": "2026-10-25",
+          "scope": "观点参考，不是案例事件来源"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考"
+        }
+      ],
+      "evidenceStatus": "原创模拟，具体事件未证实；不将宗教身份或异议本身视为操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-h011",
+      "category": "宗教",
+      "title": "读书会公开怀疑者名单",
+      "prompt": "读书会将提问者姓名汇总成怀疑者名单并在群内公示。",
+      "check": "提问是否遭到羞辱或报复",
+      "risk": "公开标签可能压制正常讨论",
+      "wake": "要求匿名提问及不报复规则",
+      "counter": "实名讨论为秩序可能合理，但公开标签需另证",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主判断"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实事件；概念参考Awakenology，组织行为参考Stanford",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已读取并核对原文；引用仅为观点参考",
+      "originalRewrite": "提问是否遭到羞辱或报复；要求匿名提问及不报复规则",
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "published": "2026-10-25",
+          "scope": "观点参考，不是案例事件来源"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考"
+        }
+      ],
+      "evidenceStatus": "原创模拟，具体事件未证实；不将宗教身份或异议本身视为操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-h012",
+      "category": "宗教",
+      "title": "照护家人被指不够虔诚",
+      "prompt": "成员因照顾住院家人缺席聚会，被说成不够虔诚。",
+      "check": "能否合理协调家庭责任与活动",
+      "risk": "忠诚二选一可能制造关系冲突",
+      "wake": "协商弹性参加并保留照护优先权",
+      "counter": "集体活动有合理安排需求",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主判断"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实事件；概念参考Awakenology，组织行为参考Stanford",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已读取并核对原文；引用仅为观点参考",
+      "originalRewrite": "能否合理协调家庭责任与活动；协商弹性参加并保留照护优先权",
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "published": "2026-10-25",
+          "scope": "观点参考，不是案例事件来源"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考"
+        }
+      ],
+      "evidenceStatus": "原创模拟，具体事件未证实；不将宗教身份或异议本身视为操纵",
+      "revision": 1
     }
   ]
 }
