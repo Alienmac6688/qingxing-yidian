@@ -10393,6 +10393,402 @@
       ],
       "evidenceStatus": "原创模拟，非真实事件；具体机制未独立实证；不因宗教身份或不同意见推断操纵",
       "revision": 1
+    },
+    {
+      "id": "sr-20261108-p001",
+      "category": "社会",
+      "title": "公司晨会的成功学复刻",
+      "prompt": "主管宣称某位销冠每天凌晨四点起床，因此全员必须照做，否则不配晋升。",
+      "check": "核对销售成绩与起床时间是否存在可推广的因果关系。",
+      "risk": "把个人经验包装成适用于所有人的必胜公式。",
+      "wake": "允许不同作息的对照试验，以工作成果和健康状况评估。",
+      "counter": "团队可能需要统一协作时间，但不必强制复制个人习惯。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；来源仅用于概念或行为边界参考，不证明事件发生",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未逐条引用原文；来源不证明模拟事件发生",
+      "originalRewrite": "辨识点：核对销售成绩与起床时间是否存在可推广的因果关系。 催眠点：把个人经验包装成适用于所有人的必胜公式。 催醒点：允许不同作息的对照试验，以工作成果和健康状况评估。",
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "published": "2026-10-25",
+          "scope": "概念参考，非事件发生证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；具体心理机制未独立实证；不以宗教身份或不同意见判断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-p002",
+      "category": "社会",
+      "title": "培训班的唯一上岸路径",
+      "prompt": "职业培训顾问称只有购买其全年套餐才能进入IT行业，拒绝提供历届就业数据。",
+      "check": "要求课程大纲、退费条款和可核实就业结果。",
+      "risk": "以单一成功路径制造稀缺恐惧。",
+      "wake": "比较自学、其他课程及实际岗位要求后决定。",
+      "counter": "顾问可能认为课程适合新手，但不能据此保证就业。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；来源仅用于概念或行为边界参考，不证明事件发生",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未逐条引用原文；来源不证明模拟事件发生",
+      "originalRewrite": "辨识点：要求课程大纲、退费条款和可核实就业结果。 催眠点：以单一成功路径制造稀缺恐惧。 催醒点：比较自学、其他课程及实际岗位要求后决定。",
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "published": "2026-10-25",
+          "scope": "概念参考，非事件发生证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；具体心理机制未独立实证；不以宗教身份或不同意见判断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-p003",
+      "category": "社会",
+      "title": "投资社群的神级复盘",
+      "prompt": "群主只展示过去十笔盈利截图，并说按其方法未来必赚。",
+      "check": "索取完整交易记录、亏损样本和风险披露。",
+      "risk": "把事后筛选的胜利经验冒充事前预测能力。",
+      "wake": "先纸面模拟并计算回撤，不交出账户密码。",
+      "counter": "过往策略可能有统计优势，但不能保证未来收益。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；来源仅用于概念或行为边界参考，不证明事件发生",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未逐条引用原文；来源不证明模拟事件发生",
+      "originalRewrite": "辨识点：索取完整交易记录、亏损样本和风险披露。 催眠点：把事后筛选的胜利经验冒充事前预测能力。 催醒点：先纸面模拟并计算回撤，不交出账户密码。",
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "published": "2026-10-25",
+          "scope": "概念参考，非事件发生证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；具体心理机制未独立实证；不以宗教身份或不同意见判断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-p004",
+      "category": "社会",
+      "title": "留学前辈的签证万能经验",
+      "prompt": "前辈声称自己曾靠一套材料顺利续签，要求所有人照抄个人经历与收入说明。",
+      "check": "区分个人经历与当期官方审查标准。",
+      "risk": "把个案成功变成不容核实的统一模板。",
+      "wake": "按本人真实情况准备材料并核对入管公开规则。",
+      "counter": "分享申请流程可以有帮助，但不应复制不实信息。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；来源仅用于概念或行为边界参考，不证明事件发生",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未逐条引用原文；来源不证明模拟事件发生",
+      "originalRewrite": "辨识点：区分个人经历与当期官方审查标准。 催眠点：把个案成功变成不容核实的统一模板。 催醒点：按本人真实情况准备材料并核对入管公开规则。",
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "published": "2026-10-25",
+          "scope": "概念参考，非事件发生证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；具体心理机制未独立实证；不以宗教身份或不同意见判断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-p005",
+      "category": "社会",
+      "title": "自媒体课程的流量宿命论",
+      "prompt": "讲师称自己一个月涨粉十万，因此学员必须购买相同选题和脚本，不然永远没机会。",
+      "check": "检查样本量、平台变动和账号受众差异。",
+      "risk": "以幸存者故事抹去失败样本与差异。",
+      "wake": "小规模测试原创内容并记录转化数据。",
+      "counter": "成功案例可供启发，但不能证明复制必然有效。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；来源仅用于概念或行为边界参考，不证明事件发生",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未逐条引用原文；来源不证明模拟事件发生",
+      "originalRewrite": "辨识点：检查样本量、平台变动和账号受众差异。 催眠点：以幸存者故事抹去失败样本与差异。 催醒点：小规模测试原创内容并记录转化数据。",
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "published": "2026-10-25",
+          "scope": "概念参考，非事件发生证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；具体心理机制未独立实证；不以宗教身份或不同意见判断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-p006",
+      "category": "社会",
+      "title": "家长群的状元作息表",
+      "prompt": "群管理员要求所有家庭按状元的每分钟时间表安排孩子，质疑者被称为不重视教育。",
+      "check": "区分学习方法参考与孩子的年龄、需求和休息权。",
+      "risk": "以榜样和羞耻压制个体差异。",
+      "wake": "和孩子共同制定可调整的学习计划。",
+      "counter": "规律作息确实可能有益，但不等于只有一种时间表。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；来源仅用于概念或行为边界参考，不证明事件发生",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未逐条引用原文；来源不证明模拟事件发生",
+      "originalRewrite": "辨识点：区分学习方法参考与孩子的年龄、需求和休息权。 催眠点：以榜样和羞耻压制个体差异。 催醒点：和孩子共同制定可调整的学习计划。",
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "published": "2026-10-25",
+          "scope": "概念参考，非事件发生证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；具体心理机制未独立实证；不以宗教身份或不同意见判断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-p007",
+      "category": "社会",
+      "title": "AI导师的绝对评分",
+      "prompt": "求职平台给候选人打出人格成熟度97分并拒绝解释指标，企业据此自动淘汰。",
+      "check": "核对评分来源、验证方法与申诉机制。",
+      "risk": "将不透明数字当作不可挑战的客观真相。",
+      "wake": "要求人工复核并用与岗位相关的证据判断。",
+      "counter": "标准化筛选可能提高效率，但需要公平性审查。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；来源仅用于概念或行为边界参考，不证明事件发生",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未逐条引用原文；来源不证明模拟事件发生",
+      "originalRewrite": "辨识点：核对评分来源、验证方法与申诉机制。 催眠点：将不透明数字当作不可挑战的客观真相。 催醒点：要求人工复核并用与岗位相关的证据判断。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "概念参考，非事件发生证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；具体心理机制未独立实证；不以宗教身份或不同意见判断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-p008",
+      "category": "社会",
+      "title": "志愿队的奉献时数绑架",
+      "prompt": "公益队长要求志愿者公开家庭日程并随叫随到，否则在群内公布其不够善良。",
+      "check": "确认志愿服务的时间承诺和隐私边界。",
+      "risk": "将自愿参与转化为全天候道德义务。",
+      "wake": "书面明确可服务时段并保留拒绝权。",
+      "counter": "紧急救援可能需要值班制度，但应事前协商。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；来源仅用于概念或行为边界参考，不证明事件发生",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未逐条引用原文；来源不证明模拟事件发生",
+      "originalRewrite": "辨识点：确认志愿服务的时间承诺和隐私边界。 催眠点：将自愿参与转化为全天候道德义务。 催醒点：书面明确可服务时段并保留拒绝权。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "概念参考，非事件发生证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；具体心理机制未独立实证；不以宗教身份或不同意见判断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-p009",
+      "category": "宗教",
+      "title": "觉醒导师的独家人生剧本",
+      "prompt": "讲师声称知道每个学员未来必经的觉醒步骤，要求先签不可退款的长期契约。",
+      "check": "核实所谓预知的证据、合同条件与个人自主性。",
+      "risk": "将精神权威延伸为对个人未来的确定性控制。",
+      "wake": "将建议视为观点，保留试验、退出和独立判断权。",
+      "counter": "导师可以提供自身经验，但不等于掌握每个人的未来。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；来源仅用于概念或行为边界参考，不证明事件发生",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未逐条引用原文；来源不证明模拟事件发生",
+      "originalRewrite": "辨识点：核实所谓预知的证据、合同条件与个人自主性。 催眠点：将精神权威延伸为对个人未来的确定性控制。 催醒点：将建议视为观点，保留试验、退出和独立判断权。",
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "published": "2026-10-25",
+          "scope": "概念参考，非事件发生证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；具体心理机制未独立实证；不以宗教身份或不同意见判断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-p010",
+      "category": "宗教",
+      "title": "灵性课程的成绩百分比",
+      "prompt": "组织者用未经说明的仪器宣称学员意识强度只有12%，付费升级才可达90%。",
+      "check": "追问测量定义、重复性、独立验证与收费利益冲突。",
+      "risk": "以未经验证的精确数字制造自我怀疑和付费依赖。",
+      "wake": "不把指标当医学或科学诊断，拒绝以恐惧驱动付款。",
+      "counter": "数字可能只是内部教学比喻，若如此应明确告知。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；来源仅用于概念或行为边界参考，不证明事件发生",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未逐条引用原文；来源不证明模拟事件发生",
+      "originalRewrite": "辨识点：追问测量定义、重复性、独立验证与收费利益冲突。 催眠点：以未经验证的精确数字制造自我怀疑和付费依赖。 催醒点：不把指标当医学或科学诊断，拒绝以恐惧驱动付款。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "概念参考，非事件发生证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；具体心理机制未独立实证；不以宗教身份或不同意见判断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-p011",
+      "category": "宗教",
+      "title": "祈祷团的亲友意见过滤",
+      "prompt": "活动负责人要求成员把家人的疑问全部转发给导师，由导师决定哪些值得回应。",
+      "check": "辨识个人沟通权与团体建议之间的界限。",
+      "risk": "让单一权威垄断外部信息解释。",
+      "wake": "直接与亲友交流，并自行核实争议事实。",
+      "counter": "团体可帮助调解冲突，但不应禁止自主沟通。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；来源仅用于概念或行为边界参考，不证明事件发生",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未逐条引用原文；来源不证明模拟事件发生",
+      "originalRewrite": "辨识点：辨识个人沟通权与团体建议之间的界限。 催眠点：让单一权威垄断外部信息解释。 催醒点：直接与亲友交流，并自行核实争议事实。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "概念参考，非事件发生证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；具体心理机制未独立实证；不以宗教身份或不同意见判断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-p012",
+      "category": "宗教",
+      "title": "静修分享会的退出羞辱",
+      "prompt": "主持人称中途离开闭关者会拖累全体修行成果，要求在众人面前检讨。",
+      "check": "核实活动前是否明确告知退出条件。",
+      "risk": "利用集体罪责剥夺自愿退出空间。",
+      "wake": "尊重个人身体和心理状态，退出时不接受公开羞辱。",
+      "counter": "团体确有日程协调需求，但不能据此否定基本选择权。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；来源仅用于概念或行为边界参考，不证明事件发生",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未逐条引用原文；来源不证明模拟事件发生",
+      "originalRewrite": "辨识点：核实活动前是否明确告知退出条件。 催眠点：利用集体罪责剥夺自愿退出空间。 催醒点：尊重个人身体和心理状态，退出时不接受公开羞辱。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "概念参考，非事件发生证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；具体心理机制未独立实证；不以宗教身份或不同意见判断操纵",
+      "revision": 1
     }
   ]
 }
