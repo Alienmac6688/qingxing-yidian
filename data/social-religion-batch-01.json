@@ -12339,6 +12339,454 @@
       ],
       "evidenceStatus": "原创模拟，非真实个案；参考来源仅用于概念定位，具体心理机制及事件均未独立实证",
       "revision": 1
+    },
+    {
+      "id": "sr-20261108-r13-001",
+      "category": "社会",
+      "title": "快递驿站的代签免责二维码",
+      "prompt": "驿站员工称不扫码签署“所有丢件自负”，就不交付已经到站的包裹。",
+      "check": "核对领取凭证与免责条款是否为必要条件",
+      "risk": "利用取件需求迫使接受超范围免责",
+      "wake": "要求提供纸质条款和平台官方申诉渠道，保留取件通知",
+      "counter": "驿站可能确需核验领取身份，但不等于可以要求全面免责",
+      "tags": [
+        "社会",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology中文目录仅为概念参考",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文，不引用原文",
+      "originalRewrite": "模拟情境：驿站员工称不扫码签署“所有丢件自负”，就不交付已经到站的包裹。 需要辨识的是：核对领取凭证与免责条款是否为必要条件。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；具体事件及心理机制未经独立实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r13-002",
+      "category": "社会",
+      "title": "租客维修申请的拍摄授权",
+      "prompt": "房东要求租客先同意在社交平台公开室内全景视频，才安排修理漏水。",
+      "check": "分辨维修必要取证和公开传播许可",
+      "risk": "把必要维修与无关的隐私授权捆绑",
+      "wake": "仅提供故障局部照片，要求说明保存和使用范围",
+      "counter": "维修确需了解现场，但公开发布不是必然要求",
+      "tags": [
+        "社会",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology中文目录仅为概念参考",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文，不引用原文",
+      "originalRewrite": "模拟情境：房东要求租客先同意在社交平台公开室内全景视频，才安排修理漏水。 需要辨识的是：分辨维修必要取证和公开传播许可。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；具体事件及心理机制未经独立实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r13-003",
+      "category": "社会",
+      "title": "失物招领的银行卡流水证明",
+      "prompt": "地铁群管理员要求认领遗失钱包者先上传最近三个月银行流水到群文件。",
+      "check": "核验物品归属所需的最少信息",
+      "risk": "以失物核验为由扩大收集财务隐私",
+      "wake": "通过失物特征、证件局部信息或官方失物处核对",
+      "counter": "管理员可能想防冒领，但流水并非合理的默认凭证",
+      "tags": [
+        "社会",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology中文目录仅为概念参考",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文，不引用原文",
+      "originalRewrite": "模拟情境：地铁群管理员要求认领遗失钱包者先上传最近三个月银行流水到群文件。 需要辨识的是：核验物品归属所需的最少信息。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；具体事件及心理机制未经独立实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r13-004",
+      "category": "社会",
+      "title": "求职内推的联系人同步",
+      "prompt": "内推人声称必须开放手机通讯录才能证明人脉可靠，否则撤销面试名额。",
+      "check": "区分岗位资格与联系人数据访问",
+      "risk": "用稀缺面试机会交换无关个人信息",
+      "wake": "拒绝通讯录同步并通过企业官方招聘渠道核实",
+      "counter": "有些岗位需核验推荐关系，但可采用定向联系",
+      "tags": [
+        "社会",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology中文目录仅为概念参考",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文，不引用原文",
+      "originalRewrite": "模拟情境：内推人声称必须开放手机通讯录才能证明人脉可靠，否则撤销面试名额。 需要辨识的是：区分岗位资格与联系人数据访问。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；具体事件及心理机制未经独立实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r13-005",
+      "category": "社会",
+      "title": "邻里噪音投诉的全楼录音共享",
+      "prompt": "物业要求投诉人把含邻居私下对话的整夜录音发到全楼群，否则不受理。",
+      "check": "区分噪声证据和第三人隐私",
+      "risk": "把公开曝光作为受理门槛",
+      "wake": "提交必要时间段与分贝记录给正式投诉渠道",
+      "counter": "物业可能需要证据，但不必向全楼公开原始音频",
+      "tags": [
+        "社会",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology中文目录仅为概念参考",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文，不引用原文",
+      "originalRewrite": "模拟情境：物业要求投诉人把含邻居私下对话的整夜录音发到全楼群，否则不受理。 需要辨识的是：区分噪声证据和第三人隐私。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；具体事件及心理机制未经独立实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r13-006",
+      "category": "社会",
+      "title": "校园心理讲座的实名提问投屏",
+      "prompt": "讲座主持人承诺匿名问答，随后把学生姓名和心理困扰一起投上大屏。",
+      "check": "核对匿名承诺与实际展示行为",
+      "risk": "以教育活动名义突破参与者预期隐私",
+      "wake": "要求撤下个人信息、停止录制并使用匿名提问",
+      "counter": "主持人可能操作失误，需看是否及时纠正",
+      "tags": [
+        "社会",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology中文目录仅为概念参考",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文，不引用原文",
+      "originalRewrite": "模拟情境：讲座主持人承诺匿名问答，随后把学生姓名和心理困扰一起投上大屏。 需要辨识的是：核对匿名承诺与实际展示行为。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；具体事件及心理机制未经独立实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r13-007",
+      "category": "社会",
+      "title": "外卖骑手互助群的定位共享",
+      "prompt": "群主称不持续共享实时定位就不配领取雨天互助物资。",
+      "check": "区分物资发放核验与持续追踪",
+      "risk": "利用紧急互助需要换取过量定位数据",
+      "wake": "采用订单或站点一次性证明，限制位置数据保留",
+      "counter": "配送安全可能需要临时定位，但不必无限期共享",
+      "tags": [
+        "社会",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology中文目录仅为概念参考",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文，不引用原文",
+      "originalRewrite": "模拟情境：群主称不持续共享实时定位就不配领取雨天互助物资。 需要辨识的是：区分物资发放核验与持续追踪。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；具体事件及心理机制未经独立实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r13-008",
+      "category": "社会",
+      "title": "二手平台退货的远程控制要求",
+      "prompt": "卖家称退款前必须安装远程桌面软件让其检查手机支付页面。",
+      "check": "核对退款流程是否要求设备控制",
+      "risk": "用退款损失恐惧诱导高风险授权",
+      "wake": "通过平台内置争议流程处理，不提供远程控制",
+      "counter": "卖家可能想确认商品状态，但可通过照片和平台核验",
+      "tags": [
+        "社会",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology中文目录仅为概念参考",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文，不引用原文",
+      "originalRewrite": "模拟情境：卖家称退款前必须安装远程桌面软件让其检查手机支付页面。 需要辨识的是：核对退款流程是否要求设备控制。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；具体事件及心理机制未经独立实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r13-009",
+      "category": "宗教",
+      "title": "祈祷名单的家庭住址公示",
+      "prompt": "活动志愿者把请求代祷者的完整住址打印张贴在公开入口。",
+      "check": "区分代祷意愿与公开个人住址",
+      "risk": "借善意活动默认扩大敏感信息传播",
+      "wake": "采用匿名编号或经明确同意的最少信息",
+      "counter": "组织者可能为探访便利，但可私下联系",
+      "tags": [
+        "宗教",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology中文目录仅为概念参考",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文，不引用原文",
+      "originalRewrite": "模拟情境：活动志愿者把请求代祷者的完整住址打印张贴在公开入口。 需要辨识的是：区分代祷意愿与公开个人住址。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；具体事件及心理机制未经独立实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r13-010",
+      "category": "宗教",
+      "title": "寺院素食供餐的过敏声明",
+      "prompt": "活动负责人称有过敏史的人若坚持询问食材就是信心不足。",
+      "check": "区分宗教实践与食品安全知情",
+      "risk": "用信念评价压制合理健康询问",
+      "wake": "公布食材及交叉接触信息，允许自带餐食",
+      "counter": "供餐志愿者可能无法保证零过敏原，应如实说明",
+      "tags": [
+        "宗教",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology中文目录仅为概念参考",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文，不引用原文",
+      "originalRewrite": "模拟情境：活动负责人称有过敏史的人若坚持询问食材就是信心不足。 需要辨识的是：区分宗教实践与食品安全知情。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；具体事件及心理机制未经独立实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r13-011",
+      "category": "宗教",
+      "title": "信仰团体合照的默认公开",
+      "prompt": "活动结束后负责人说所有合照自动允许用于商业宣传，拒绝者将被视为不团结。",
+      "check": "区分参与活动与肖像商业使用同意",
+      "risk": "把团体归属感与宣传授权捆绑",
+      "wake": "提供不出镜或撤回发布申请渠道",
+      "counter": "组织者可能想记录活动，但商业传播需另行说明",
+      "tags": [
+        "宗教",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology中文目录仅为概念参考",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文，不引用原文",
+      "originalRewrite": "模拟情境：活动结束后负责人说所有合照自动允许用于商业宣传，拒绝者将被视为不团结。 需要辨识的是：区分参与活动与肖像商业使用同意。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；具体事件及心理机制未经独立实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r13-012",
+      "category": "宗教",
+      "title": "跨信仰交流的翻译删节",
+      "prompt": "主持人把不同信仰嘉宾的回答翻译成完全相反的意思，并拒绝公开原语录音。",
+      "check": "核对原语与译文差异",
+      "risk": "利用翻译权威制造虚假共识或冲突",
+      "wake": "征得同意后提供双语文字记录和更正渠道",
+      "counter": "翻译可能无意失准，需由独立译者复核",
+      "tags": [
+        "宗教",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology中文目录仅为概念参考",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文，不引用原文",
+      "originalRewrite": "模拟情境：主持人把不同信仰嘉宾的回答翻译成完全相反的意思，并拒绝公开原语录音。 需要辨识的是：核对原语与译文差异。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；具体事件及心理机制未经独立实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r13-013",
+      "category": "宗教",
+      "title": "朝圣报名的护照长期保管",
+      "prompt": "组织者要求参加者提前一个月上交护照原件且不提供领回程序。",
+      "check": "区分旅行签证代办需要与证件控制",
+      "risk": "以行程安排为由削弱退出自主权",
+      "wake": "核验旅行社资质、保管期限和随时取回机制",
+      "counter": "某些签证办理确需短时提交护照，但应有凭证",
+      "tags": [
+        "宗教",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology中文目录仅为概念参考",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文，不引用原文",
+      "originalRewrite": "模拟情境：组织者要求参加者提前一个月上交护照原件且不提供领回程序。 需要辨识的是：区分旅行签证代办需要与证件控制。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；具体事件及心理机制未经独立实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r13-014",
+      "category": "宗教",
+      "title": "礼拜儿童班的家长联系限制",
+      "prompt": "儿童活动负责人称家长在活动期间不得询问孩子位置，也不能联系值班人员。",
+      "check": "区分课堂秩序与监护人知情权",
+      "risk": "用纪律话术排除合理安全沟通",
+      "wake": "公布负责人联系方式、接送规则和紧急联络流程",
+      "counter": "活动中可能限制直接打扰，但应保留紧急渠道",
+      "tags": [
+        "宗教",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology中文目录仅为概念参考",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文，不引用原文",
+      "originalRewrite": "模拟情境：儿童活动负责人称家长在活动期间不得询问孩子位置，也不能联系值班人员。 需要辨识的是：区分课堂秩序与监护人知情权。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；具体事件及心理机制未经独立实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r13-015",
+      "category": "宗教",
+      "title": "宗教捐赠收据的空白签名",
+      "prompt": "财务志愿者要求捐赠者先签空白收据，再由负责人填写金额与用途。",
+      "check": "核对签字时金额和用途是否明确",
+      "risk": "利用对组织的信任绕开财务核验",
+      "wake": "只签完整填写的单据并保留副本",
+      "counter": "工作人员可能为批量处理节省时间，但流程存在风险",
+      "tags": [
+        "宗教",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology中文目录仅为概念参考",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文，不引用原文",
+      "originalRewrite": "模拟情境：财务志愿者要求捐赠者先签空白收据，再由负责人填写金额与用途。 需要辨识的是：核对签字时金额和用途是否明确。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；具体事件及心理机制未经独立实证",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r13-016",
+      "category": "宗教",
+      "title": "静修营的夜间离场阻拦",
+      "prompt": "静修营称夜间离开会破坏全体修行成果，因此即使有家庭急事也不得外出。",
+      "check": "区分集体作息安排与人身行动自由",
+      "risk": "以群体责任感阻止紧急退出",
+      "wake": "确认紧急出口、交通和联络方式，必要时寻求帮助",
+      "counter": "夜间离场可能有安全管理要求，但应提供可行安排",
+      "tags": [
+        "宗教",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology中文目录仅为概念参考",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文，不引用原文",
+      "originalRewrite": "模拟情境：静修营称夜间离开会破坏全体修行成果，因此即使有家庭急事也不得外出。 需要辨识的是：区分集体作息安排与人身行动自由。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；具体事件及心理机制未经独立实证",
+      "revision": 1
     }
   ]
 }
