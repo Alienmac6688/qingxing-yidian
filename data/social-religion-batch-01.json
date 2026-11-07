@@ -7909,6 +7909,708 @@
       ],
       "evidenceStatus": "原创模拟，具体事件未证实；不将宗教身份或异议本身视为操纵",
       "revision": 1
+    },
+    {
+      "id": "sr-20261107-j001",
+      "category": "社会",
+      "title": "二手手机的远程解锁保证",
+      "prompt": "卖家要求买家先确认收货，承诺稍后远程解除激活锁。",
+      "check": "核实设备可当场激活及平台交易规则",
+      "risk": "先确认收货会削弱维权证据",
+      "wake": "现场重置并验证账号解绑后再确认",
+      "counter": "卖家可能不熟悉解绑流程，但不应转移风险",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟场景；Awakenology 仅为概念参考，不代表记载此事件",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实具体篇章正文，故不引用原文",
+      "originalRewrite": "核实设备可当场激活及平台交易规则；现场重置并验证账号解绑后再确认",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": null,
+          "scope": "概念参考，具体篇章未在本轮核实"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考，具体事件非该来源记载"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；来源正文与情境机制未独立核实；不以宗教身份或异议推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-j002",
+      "category": "社会",
+      "title": "临时工培训费从工资扣除",
+      "prompt": "派遣公司说培训完全免费，首月工资却列出教材管理费。",
+      "check": "对照书面合同、工资明细和收费依据",
+      "risk": "免费承诺与实际扣款不一致",
+      "wake": "索取费用依据和工资明细，向正规劳动咨询渠道核实",
+      "counter": "某些费用可能合法约定，仍需透明说明",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟场景；Awakenology 仅为概念参考，不代表记载此事件",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实具体篇章正文，故不引用原文",
+      "originalRewrite": "对照书面合同、工资明细和收费依据；索取费用依据和工资明细，向正规劳动咨询渠道核实",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": null,
+          "scope": "概念参考，具体篇章未在本轮核实"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考，具体事件非该来源记载"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；来源正文与情境机制未独立核实；不以宗教身份或异议推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-j003",
+      "category": "社会",
+      "title": "租房看房时的护照照片索取",
+      "prompt": "看房中介在尚未申请租赁前要求拍摄护照所有页面并发私人聊天。",
+      "check": "判断身份核验的必要性与安全渠道",
+      "risk": "过量收集证件资料增加泄露风险",
+      "wake": "先核对机构资质、用途、保存期限与安全提交方式",
+      "counter": "房屋租赁确实可能需要身份核验",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟场景；Awakenology 仅为概念参考，不代表记载此事件",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实具体篇章正文，故不引用原文",
+      "originalRewrite": "判断身份核验的必要性与安全渠道；先核对机构资质、用途、保存期限与安全提交方式",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": null,
+          "scope": "概念参考，具体篇章未在本轮核实"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考，具体事件非该来源记载"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；来源正文与情境机制未独立核实；不以宗教身份或异议推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-j004",
+      "category": "社会",
+      "title": "外卖骑手的事故私了签字",
+      "prompt": "配送站负责人要求受伤骑手立即签署无工伤争议声明才安排回家。",
+      "check": "检查是否存在急迫医疗需要与知情同意",
+      "risk": "以照护条件换取放弃权利",
+      "wake": "优先就医，保留记录，咨询劳动专业人士",
+      "counter": "负责人可能希望快速处理事故，但不能妨碍独立咨询",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟场景；Awakenology 仅为概念参考，不代表记载此事件",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实具体篇章正文，故不引用原文",
+      "originalRewrite": "检查是否存在急迫医疗需要与知情同意；优先就医，保留记录，咨询劳动专业人士",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": null,
+          "scope": "概念参考，具体篇章未在本轮核实"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考，具体事件非该来源记载"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；来源正文与情境机制未独立核实；不以宗教身份或异议推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-j005",
+      "category": "社会",
+      "title": "家长群的儿童照片人脸识别",
+      "prompt": "培训机构称为方便签到，要求所有家长上传儿童正脸照片，否则无法上课。",
+      "check": "核对替代签到方式和隐私政策",
+      "risk": "便利性叙事可能掩盖强制敏感数据收集",
+      "wake": "要求说明处理依据、删除机制和非生物识别选项",
+      "counter": "确有安全管理需求，也应采用比例适当措施",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟场景；Awakenology 仅为概念参考，不代表记载此事件",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实具体篇章正文，故不引用原文",
+      "originalRewrite": "核对替代签到方式和隐私政策；要求说明处理依据、删除机制和非生物识别选项",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": null,
+          "scope": "概念参考，具体篇章未在本轮核实"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考，具体事件非该来源记载"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；来源正文与情境机制未独立核实；不以宗教身份或异议推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-j006",
+      "category": "社会",
+      "title": "朋友圈投资收益的事后删帖",
+      "prompt": "理财博主展示获利截图，却删除过去亏损预测并称从未失手。",
+      "check": "核查历史完整记录及可审计交易证据",
+      "risk": "选择性呈现制造零失误权威",
+      "wake": "保存时间戳并查看风险披露，不据截图投资",
+      "counter": "删除也可能为纠错，需核对完整上下文",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟场景；Awakenology 仅为概念参考，不代表记载此事件",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实具体篇章正文，故不引用原文",
+      "originalRewrite": "核查历史完整记录及可审计交易证据；保存时间戳并查看风险披露，不据截图投资",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": null,
+          "scope": "概念参考，具体篇章未在本轮核实"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考，具体事件非该来源记载"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；来源正文与情境机制未独立核实；不以宗教身份或异议推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-j007",
+      "category": "社会",
+      "title": "餐饮兼职的押金制服",
+      "prompt": "餐馆招工时要求现金制服押金但不提供收据，离职后以污渍拒退。",
+      "check": "核查当地劳动规则、押金协议和证据",
+      "risk": "无收据及模糊退还条件形成不对等",
+      "wake": "要求书面条款和收据，保留制服交接照片",
+      "counter": "合理清洁费用可能存在，但须有依据",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟场景；Awakenology 仅为概念参考，不代表记载此事件",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实具体篇章正文，故不引用原文",
+      "originalRewrite": "核查当地劳动规则、押金协议和证据；要求书面条款和收据，保留制服交接照片",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": null,
+          "scope": "概念参考，具体篇章未在本轮核实"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考，具体事件非该来源记载"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；来源正文与情境机制未独立核实；不以宗教身份或异议推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-j008",
+      "category": "社会",
+      "title": "电梯故障维修的住户私募",
+      "prompt": "楼栋群有人以物业名义发私人收款码，称不马上付款电梯将永久停运。",
+      "check": "核实物业通知、合同和收款主体",
+      "risk": "紧急恐惧与冒名收费叠加",
+      "wake": "直接联系物业或业委会，核对维修公告",
+      "counter": "真实故障需要及时处理，但不代表私人收款可信",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟场景；Awakenology 仅为概念参考，不代表记载此事件",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实具体篇章正文，故不引用原文",
+      "originalRewrite": "核实物业通知、合同和收款主体；直接联系物业或业委会，核对维修公告",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": null,
+          "scope": "概念参考，具体篇章未在本轮核实"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考，具体事件非该来源记载"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；来源正文与情境机制未独立核实；不以宗教身份或异议推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-j009",
+      "category": "社会",
+      "title": "面试中的社交账号密码检查",
+      "prompt": "招聘人员声称忠诚度测试要求应聘者当场登录私人社交账号给面试官看。",
+      "check": "区分岗位相关背景核查与私人账户控制",
+      "risk": "把求职机会与隐私交付绑定",
+      "wake": "拒绝交出密码，询问合法替代核验方式",
+      "counter": "某些岗位有合规背景审查，但不等于需要密码",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟场景；Awakenology 仅为概念参考，不代表记载此事件",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实具体篇章正文，故不引用原文",
+      "originalRewrite": "区分岗位相关背景核查与私人账户控制；拒绝交出密码，询问合法替代核验方式",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": null,
+          "scope": "概念参考，具体篇章未在本轮核实"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考，具体事件非该来源记载"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；来源正文与情境机制未独立核实；不以宗教身份或异议推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-j010",
+      "category": "社会",
+      "title": "AI客服声称退款必须录屏",
+      "prompt": "电商客服要求录制含短信验证码的屏幕，称AI系统只识别完整录屏。",
+      "check": "核实平台官方退款流程及验证码用途",
+      "risk": "技术权威话术掩饰账户接管风险",
+      "wake": "不提供验证码和远程控制，走平台内退款流程",
+      "counter": "客服可能需要订单截图，但不应索取安全验证码",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟场景；Awakenology 仅为概念参考，不代表记载此事件",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实具体篇章正文，故不引用原文",
+      "originalRewrite": "核实平台官方退款流程及验证码用途；不提供验证码和远程控制，走平台内退款流程",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": null,
+          "scope": "概念参考，具体篇章未在本轮核实"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考，具体事件非该来源记载"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；来源正文与情境机制未独立核实；不以宗教身份或异议推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-j011",
+      "category": "宗教",
+      "title": "团体活动的无障碍参与条件",
+      "prompt": "宗教活动组织者表示轮椅参与者必须额外捐款才能获得通道协助。",
+      "check": "核对实际成本、公开政策与平等参与安排",
+      "risk": "将基本便利与不透明收费绑定",
+      "wake": "要求明确费用用途并寻求合理便利方案",
+      "counter": "特殊设备确有成本，也应公开合理解释",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟场景；Awakenology 仅为概念参考，不代表记载此事件",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实具体篇章正文，故不引用原文",
+      "originalRewrite": "核对实际成本、公开政策与平等参与安排；要求明确费用用途并寻求合理便利方案",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": null,
+          "scope": "概念参考，具体篇章未在本轮核实"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考，具体事件非该来源记载"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；来源正文与情境机制未独立核实；不以宗教身份或异议推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-j012",
+      "category": "宗教",
+      "title": "宗教讲座的翻译删减",
+      "prompt": "翻译志愿者私下告诉新成员：老师有关退出自由的段落不用翻译。",
+      "check": "比对原始讲话和完整翻译",
+      "risk": "信息不对称使参与者难以知情选择",
+      "wake": "索取录音或独立翻译，保留退出选择",
+      "counter": "口译遗漏可能是疏忽，需核对原文",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟场景；Awakenology 仅为概念参考，不代表记载此事件",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实具体篇章正文，故不引用原文",
+      "originalRewrite": "比对原始讲话和完整翻译；索取录音或独立翻译，保留退出选择",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": null,
+          "scope": "概念参考，具体篇章未在本轮核实"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考，具体事件非该来源记载"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；来源正文与情境机制未独立核实；不以宗教身份或异议推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-j013",
+      "category": "宗教",
+      "title": "祈祷申请表的紧急联系人外泄",
+      "prompt": "祈祷活动登记表要求亲友电话，后来这些联系人未经同意收到劝募电话。",
+      "check": "检查登记目的、同意范围和信息流转",
+      "risk": "借关怀目的扩大联系人营销",
+      "wake": "要求停止联系、删除信息并说明数据来源",
+      "counter": "组织者可能误解同意范围，但仍需纠正",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟场景；Awakenology 仅为概念参考，不代表记载此事件",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实具体篇章正文，故不引用原文",
+      "originalRewrite": "检查登记目的、同意范围和信息流转；要求停止联系、删除信息并说明数据来源",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": null,
+          "scope": "概念参考，具体篇章未在本轮核实"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考，具体事件非该来源记载"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；来源正文与情境机制未独立核实；不以宗教身份或异议推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-j014",
+      "category": "宗教",
+      "title": "公益食堂的参与记录公开",
+      "prompt": "宗教背景公益食堂公布受助者姓名和领取次数，声称为了证明捐款有效。",
+      "check": "区分财务透明与受助者隐私",
+      "risk": "把公开羞耻当成募捐透明度",
+      "wake": "建议匿名统计与财务审计替代名单",
+      "counter": "捐赠方有合理审计需求，但无需公开个人身份",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟场景；Awakenology 仅为概念参考，不代表记载此事件",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实具体篇章正文，故不引用原文",
+      "originalRewrite": "区分财务透明与受助者隐私；建议匿名统计与财务审计替代名单",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": null,
+          "scope": "概念参考，具体篇章未在本轮核实"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考，具体事件非该来源记载"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；来源正文与情境机制未独立核实；不以宗教身份或异议推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-j015",
+      "category": "宗教",
+      "title": "导师远程指挥孩子转学",
+      "prompt": "家长向灵性导师求助后，导师未见孩子便要求立即退学并参加封闭课程。",
+      "check": "区分教育建议与可核实的专业评估",
+      "risk": "个人权威替代孩子意愿及教育证据",
+      "wake": "与孩子及教育专业人员讨论多种方案",
+      "counter": "导师可能真诚关心成长，但无法单凭身份决定",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟场景；Awakenology 仅为概念参考，不代表记载此事件",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实具体篇章正文，故不引用原文",
+      "originalRewrite": "区分教育建议与可核实的专业评估；与孩子及教育专业人员讨论多种方案",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": null,
+          "scope": "概念参考，具体篇章未在本轮核实"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考，具体事件非该来源记载"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；来源正文与情境机制未独立核实；不以宗教身份或异议推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-j016",
+      "category": "宗教",
+      "title": "宗教合唱团的退出罚金",
+      "prompt": "合唱团招募时说自由参加，退出时才通知必须缴纳一年场地费。",
+      "check": "检查报名协议和费用预先告知",
+      "risk": "隐藏退出成本制造留人压力",
+      "wake": "索取合同与实际成本清单，协商公平退出",
+      "counter": "已发生的合理共同成本可能需要分担",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟场景；Awakenology 仅为概念参考，不代表记载此事件",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实具体篇章正文，故不引用原文",
+      "originalRewrite": "检查报名协议和费用预先告知；索取合同与实际成本清单，协商公平退出",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": null,
+          "scope": "概念参考，具体篇章未在本轮核实"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考，具体事件非该来源记载"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；来源正文与情境机制未独立核实；不以宗教身份或异议推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-j017",
+      "category": "宗教",
+      "title": "仪式直播中的未成年人出镜",
+      "prompt": "活动主持人未经监护人许可直播孩子祈祷画面，并拒绝下架。",
+      "check": "核对儿童肖像授权和平台申诉机制",
+      "risk": "以宗教活动公共性掩盖儿童隐私权",
+      "wake": "请求删除影像并保留申诉证据",
+      "counter": "主持人可能误以为现场默许直播",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟场景；Awakenology 仅为概念参考，不代表记载此事件",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实具体篇章正文，故不引用原文",
+      "originalRewrite": "核对儿童肖像授权和平台申诉机制；请求删除影像并保留申诉证据",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": null,
+          "scope": "概念参考，具体篇章未在本轮核实"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考，具体事件非该来源记载"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；来源正文与情境机制未独立核实；不以宗教身份或异议推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-j018",
+      "category": "宗教",
+      "title": "善款收据被替换为祝福证明",
+      "prompt": "参加者捐款后请求财务收据，工作人员只提供祝福证书并拒绝说明收款主体。",
+      "check": "区分精神性证明与财务凭证",
+      "risk": "以象征性回报替代可核验账目",
+      "wake": "询问合法收款主体、用途及可出具的收款记录",
+      "counter": "小型团体可能账务能力有限，但仍应透明",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟场景；Awakenology 仅为概念参考，不代表记载此事件",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未重新核实具体篇章正文，故不引用原文",
+      "originalRewrite": "区分精神性证明与财务凭证；询问合法收款主体、用途及可出具的收款记录",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": null,
+          "scope": "概念参考，具体篇章未在本轮核实"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "组织行为边界参考，具体事件非该来源记载"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；来源正文与情境机制未独立核实；不以宗教身份或异议推断操纵",
+      "revision": 1
     }
   ]
 }
