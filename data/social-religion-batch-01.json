@@ -8611,6 +8611,534 @@
       ],
       "evidenceStatus": "原创模拟，非真实个案；来源正文与情境机制未独立核实；不以宗教身份或异议推断操纵",
       "revision": 1
+    },
+    {
+      "id": "sr-20261107-k001",
+      "category": "社会",
+      "title": "社区防灾群的假撤离通知",
+      "prompt": "群管理员转发未署名的撤离图，要求居民十分钟内把身份证照片发给私人账号。",
+      "check": "区分政府正式预警与群聊转发，核实发布机关及收件人。",
+      "risk": "灾害焦虑可能被用来套取身份资料。",
+      "wake": "查询自治体官方防灾渠道，先确保人身安全，不向陌生账号发送证件。",
+      "counter": "管理员可能只是急于协助，转发失误并不等于故意诈骗。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；行为边界参考 Stanford Office for Religious & Spiritual Life（不代表来源记载此事件）",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "来源正文已核实；为避免不必要引文，未摘录原文",
+      "originalRewrite": "辨识：区分政府正式预警与群聊转发，核实发布机关及收件人。 催醒行动：查询自治体官方防灾渠道，先确保人身安全，不向陌生账号发送证件。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "仅用于组织行为边界参考，不证明模拟事件发生"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；斯坦福网页正文已核验，但模拟事件及具体机制未经独立实证；不以宗教身份或不同意见本身推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-k002",
+      "category": "社会",
+      "title": "共享办公室的访客人脸授权",
+      "prompt": "租用工位时前台说不接受永久人脸数据保存就不能进门，合同未写保存期限。",
+      "check": "确认是否有替代核验方式、保存期限与删除渠道。",
+      "risk": "将便利性包装为唯一选择可能弱化知情同意。",
+      "wake": "要求书面隐私政策并询问实体门禁卡等替代方案。",
+      "counter": "场地确有安全管理需求，但数据收集仍应与目的相称。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；行为边界参考 Stanford Office for Religious & Spiritual Life（不代表来源记载此事件）",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "来源正文已核实；为避免不必要引文，未摘录原文",
+      "originalRewrite": "辨识：确认是否有替代核验方式、保存期限与删除渠道。 催醒行动：要求书面隐私政策并询问实体门禁卡等替代方案。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "仅用于组织行为边界参考，不证明模拟事件发生"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；斯坦福网页正文已核验，但模拟事件及具体机制未经独立实证；不以宗教身份或不同意见本身推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-k003",
+      "category": "社会",
+      "title": "招聘群的候选人排名截图",
+      "prompt": "招聘中介公布带姓名的淘汰榜，声称不转发榜单就不给安排面试。",
+      "check": "检查个人信息公开是否得到同意，面试安排是否附带额外条件。",
+      "risk": "以求职机会施压传播他人隐私。",
+      "wake": "拒绝扩散个人资料，保留记录并向招聘方核实。",
+      "counter": "中介可能误把内部筛选表当公开名单。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；行为边界参考 Stanford Office for Religious & Spiritual Life（不代表来源记载此事件）",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "来源正文已核实；为避免不必要引文，未摘录原文",
+      "originalRewrite": "辨识：检查个人信息公开是否得到同意，面试安排是否附带额外条件。 催醒行动：拒绝扩散个人资料，保留记录并向招聘方核实。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "仅用于组织行为边界参考，不证明模拟事件发生"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；斯坦福网页正文已核验，但模拟事件及具体机制未经独立实证；不以宗教身份或不同意见本身推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-k004",
+      "category": "社会",
+      "title": "小区停水的私人收款二维码",
+      "prompt": "有人冒充物业说今晚停水，住户须先扫码支付应急送水费。",
+      "check": "核对物业公告与收费主体，检查二维码收款账户。",
+      "risk": "利用公共设施故障制造紧迫付费。",
+      "wake": "联系物业官方电话确认，必要时联系供水单位。",
+      "counter": "真实应急送水也可能收费，关键是收费依据和身份。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；行为边界参考 Stanford Office for Religious & Spiritual Life（不代表来源记载此事件）",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "来源正文已核实；为避免不必要引文，未摘录原文",
+      "originalRewrite": "辨识：核对物业公告与收费主体，检查二维码收款账户。 催醒行动：联系物业官方电话确认，必要时联系供水单位。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "仅用于组织行为边界参考，不证明模拟事件发生"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；斯坦福网页正文已核验，但模拟事件及具体机制未经独立实证；不以宗教身份或不同意见本身推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-k005",
+      "category": "社会",
+      "title": "留学群的签证保证套餐",
+      "prompt": "群里自称前辈的人保证付费即可百分百续签，要求先交护照原件。",
+      "check": "区分专业咨询与结果保证，核对办理资质及证件保管要求。",
+      "risk": "借签证焦虑诱导不合理承诺和证件控制。",
+      "wake": "查入管官方要求，保留护照原件并寻求正规咨询。",
+      "counter": "合法代理可能代交材料，但不应保证审批结果。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；行为边界参考 Stanford Office for Religious & Spiritual Life（不代表来源记载此事件）",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "来源正文已核实；为避免不必要引文，未摘录原文",
+      "originalRewrite": "辨识：区分专业咨询与结果保证，核对办理资质及证件保管要求。 催醒行动：查入管官方要求，保留护照原件并寻求正规咨询。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "仅用于组织行为边界参考，不证明模拟事件发生"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；斯坦福网页正文已核验，但模拟事件及具体机制未经独立实证；不以宗教身份或不同意见本身推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-k006",
+      "category": "社会",
+      "title": "老人智能手表的隐蔽监听",
+      "prompt": "子女买手表给老人，销售称默认远程收音无须告知佩戴者。",
+      "check": "区分紧急求助功能与持续录音，确认本人知情。",
+      "risk": "以关爱之名忽略个人隐私和自主决定。",
+      "wake": "共同设置紧急联系人与明确触发条件。",
+      "counter": "认知障碍照护可能有特殊安全需要，应依法审慎处理。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；行为边界参考 Stanford Office for Religious & Spiritual Life（不代表来源记载此事件）",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "来源正文已核实；为避免不必要引文，未摘录原文",
+      "originalRewrite": "辨识：区分紧急求助功能与持续录音，确认本人知情。 催醒行动：共同设置紧急联系人与明确触发条件。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "仅用于组织行为边界参考，不证明模拟事件发生"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；斯坦福网页正文已核验，但模拟事件及具体机制未经独立实证；不以宗教身份或不同意见本身推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-k007",
+      "category": "社会",
+      "title": "同城互助群的捐血奖励排名",
+      "prompt": "互助群按献血次数公布道德积分，拒绝者被标记为不愿帮助他人。",
+      "check": "确认献血是否自愿及是否存在健康限制。",
+      "risk": "道德排行榜可能让健康决定受到群体羞耻驱动。",
+      "wake": "尊重个人身体条件，通过正规血站获取准确信息。",
+      "counter": "发起人可能出于善意鼓励互助。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；行为边界参考 Stanford Office for Religious & Spiritual Life（不代表来源记载此事件）",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "来源正文已核实；为避免不必要引文，未摘录原文",
+      "originalRewrite": "辨识：确认献血是否自愿及是否存在健康限制。 催醒行动：尊重个人身体条件，通过正规血站获取准确信息。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "仅用于组织行为边界参考，不证明模拟事件发生"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；斯坦福网页正文已核验，但模拟事件及具体机制未经独立实证；不以宗教身份或不同意见本身推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-k008",
+      "category": "社会",
+      "title": "维修师傅的手机验证码代收",
+      "prompt": "上门维修人员说为登记保修必须读出银行短信验证码。",
+      "check": "区分设备保修登记与金融账户验证。",
+      "risk": "利用现场专业身份诱导交出敏感验证码。",
+      "wake": "停止提供验证码，直接联系品牌官方客服核实。",
+      "counter": "维修人员可能误解登记流程，但银行验证码不应转交。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；行为边界参考 Stanford Office for Religious & Spiritual Life（不代表来源记载此事件）",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "来源正文已核实；为避免不必要引文，未摘录原文",
+      "originalRewrite": "辨识：区分设备保修登记与金融账户验证。 催醒行动：停止提供验证码，直接联系品牌官方客服核实。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "仅用于组织行为边界参考，不证明模拟事件发生"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；斯坦福网页正文已核验，但模拟事件及具体机制未经独立实证；不以宗教身份或不同意见本身推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-k009",
+      "category": "宗教",
+      "title": "多信仰讨论会的匿名提问追踪",
+      "prompt": "讨论会宣传可匿名提问，主持人却在会后要求技术员交出质疑者的姓名。",
+      "check": "核对匿名承诺与实际数据访问权限。",
+      "risk": "公开承诺匿名却追踪质疑者可能抑制独立表达。",
+      "wake": "要求说明数据政策并允许不留身份参与。",
+      "counter": "组织者也可能为处理威胁信息核查，需有明确规则与边界。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；行为边界参考 Stanford Office for Religious & Spiritual Life（不代表来源记载此事件）",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "来源正文已核实；为避免不必要引文，未摘录原文",
+      "originalRewrite": "辨识：核对匿名承诺与实际数据访问权限。 催醒行动：要求说明数据政策并允许不留身份参与。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "仅用于组织行为边界参考，不证明模拟事件发生"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；斯坦福网页正文已核验，但模拟事件及具体机制未经独立实证；不以宗教身份或不同意见本身推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-k010",
+      "category": "宗教",
+      "title": "宗教旅行的临时改道收费",
+      "prompt": "朝圣旅行报名时列明全部费用，出发后领队称不追加捐款就不安排返程车。",
+      "check": "区分自愿奉献与已承诺的交通服务。",
+      "risk": "利用异地交通依赖迫使额外付款。",
+      "wake": "保存合同与支付记录，联系正规交通或消费者援助渠道。",
+      "counter": "临时交通成本确可能上涨，应提供明细和替代选择。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；行为边界参考 Stanford Office for Religious & Spiritual Life（不代表来源记载此事件）",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "来源正文已核实；为避免不必要引文，未摘录原文",
+      "originalRewrite": "辨识：区分自愿奉献与已承诺的交通服务。 催醒行动：保存合同与支付记录，联系正规交通或消费者援助渠道。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "仅用于组织行为边界参考，不证明模拟事件发生"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；斯坦福网页正文已核验，但模拟事件及具体机制未经独立实证；不以宗教身份或不同意见本身推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-k011",
+      "category": "宗教",
+      "title": "信仰小组的心理咨询转介条件",
+      "prompt": "小组说愿意协助寻找心理咨询，但要求先签署允许向全体成员汇报咨询内容的授权书。",
+      "check": "核对心理健康信息的保密范围和授权自愿性。",
+      "risk": "将获得支持与披露敏感信息捆绑可能制造压力。",
+      "wake": "寻求独立专业咨询，只在自愿且必要范围分享信息。",
+      "counter": "团体可能希望协调照顾，但不等于有权索取全部咨询内容。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；行为边界参考 Stanford Office for Religious & Spiritual Life（不代表来源记载此事件）",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "来源正文已核实；为避免不必要引文，未摘录原文",
+      "originalRewrite": "辨识：核对心理健康信息的保密范围和授权自愿性。 催醒行动：寻求独立专业咨询，只在自愿且必要范围分享信息。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "仅用于组织行为边界参考，不证明模拟事件发生"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；斯坦福网页正文已核验，但模拟事件及具体机制未经独立实证；不以宗教身份或不同意见本身推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-k012",
+      "category": "宗教",
+      "title": "寺院图书馆的异见书籍借阅登记",
+      "prompt": "读书会要求借阅不同宗教观点书籍的人写悔过说明，否则不准参加公共讲座。",
+      "check": "区分讨论书籍观点与惩罚阅读行为。",
+      "risk": "把探索不同观点视为忠诚问题可能限制思想自由。",
+      "wake": "询问公开的参与规则，保留自由阅读与退出选择。",
+      "counter": "某些内部课程可有阅读范围，但公共活动限制须明确说明。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；行为边界参考 Stanford Office for Religious & Spiritual Life（不代表来源记载此事件）",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "来源正文已核实；为避免不必要引文，未摘录原文",
+      "originalRewrite": "辨识：区分讨论书籍观点与惩罚阅读行为。 催醒行动：询问公开的参与规则，保留自由阅读与退出选择。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "仅用于组织行为边界参考，不证明模拟事件发生"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；斯坦福网页正文已核验，但模拟事件及具体机制未经独立实证；不以宗教身份或不同意见本身推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-k013",
+      "category": "宗教",
+      "title": "礼拜活动的轮椅通道捐款门槛",
+      "prompt": "活动组织者说轮椅使用者只有捐一笔指定费用才能使用无障碍入口。",
+      "check": "核对场地无障碍安排与收费是否适用于所有人。",
+      "risk": "将基本可及性与奉献额绑定可能造成不公平排除。",
+      "wake": "询问场地方和主办方的无障碍政策，要求合理替代方案。",
+      "counter": "专用接驳服务可能有实际成本，但应透明且不构成歧视。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；行为边界参考 Stanford Office for Religious & Spiritual Life（不代表来源记载此事件）",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "来源正文已核实；为避免不必要引文，未摘录原文",
+      "originalRewrite": "辨识：核对场地无障碍安排与收费是否适用于所有人。 催醒行动：询问场地方和主办方的无障碍政策，要求合理替代方案。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "仅用于组织行为边界参考，不证明模拟事件发生"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；斯坦福网页正文已核验，但模拟事件及具体机制未经独立实证；不以宗教身份或不同意见本身推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-k014",
+      "category": "宗教",
+      "title": "宗教青年营的紧急联系人替换",
+      "prompt": "青年营报名表写父母为紧急联系人，入营后工作人员私自改成导师并禁止学员通知家人。",
+      "check": "检查紧急联系授权及未成年人监护安排。",
+      "risk": "切断外部联系可能增加依赖和安全风险。",
+      "wake": "要求恢复合法监护联系与紧急沟通渠道。",
+      "counter": "短期统一通讯管理可能为活动秩序，但不能隐瞒紧急联系人变更。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；行为边界参考 Stanford Office for Religious & Spiritual Life（不代表来源记载此事件）",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "来源正文已核实；为避免不必要引文，未摘录原文",
+      "originalRewrite": "辨识：检查紧急联系授权及未成年人监护安排。 催醒行动：要求恢复合法监护联系与紧急沟通渠道。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "仅用于组织行为边界参考，不证明模拟事件发生"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；斯坦福网页正文已核验，但模拟事件及具体机制未经独立实证；不以宗教身份或不同意见本身推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-k015",
+      "category": "宗教",
+      "title": "灵修课程的课程录像二次出售",
+      "prompt": "学员同意内部录像，半年后发现含其私人分享的片段被作为付费宣传课出售。",
+      "check": "区分内部记录授权与商业传播授权。",
+      "risk": "利用成员信任扩大敏感信息使用范围。",
+      "wake": "请求停止传播、删除片段并核对授权条款。",
+      "counter": "工作人员可能误认为原同意涵盖宣传用途。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；行为边界参考 Stanford Office for Religious & Spiritual Life（不代表来源记载此事件）",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "来源正文已核实；为避免不必要引文，未摘录原文",
+      "originalRewrite": "辨识：区分内部记录授权与商业传播授权。 催醒行动：请求停止传播、删除片段并核对授权条款。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "仅用于组织行为边界参考，不证明模拟事件发生"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；斯坦福网页正文已核验，但模拟事件及具体机制未经独立实证；不以宗教身份或不同意见本身推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261107-k016",
+      "category": "宗教",
+      "title": "慈善义诊的祈祷选择与排队",
+      "prompt": "义诊志愿者告诉患者，先参加祈祷的人可优先接受基础检查。",
+      "check": "区分自愿宗教活动与医疗服务排序标准。",
+      "risk": "以医疗资源便利交换宗教参与可能削弱自由选择。",
+      "wake": "要求按医疗紧急程度或公开规则安排检查。",
+      "counter": "志愿者可能只是协调活动时间，需核实是否真实影响服务。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；行为边界参考 Stanford Office for Religious & Spiritual Life（不代表来源记载此事件）",
+      "sourceTitle": "Avoiding Unhealthy Religious Organizations",
+      "sourceUrl": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "来源正文已核实；为避免不必要引文，未摘录原文",
+      "originalRewrite": "辨识：区分自愿宗教活动与医疗服务排序标准。 催醒行动：要求按医疗紧急程度或公开规则安排检查。",
+      "references": [
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": null,
+          "scope": "仅用于组织行为边界参考，不证明模拟事件发生"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实个案；斯坦福网页正文已核验，但模拟事件及具体机制未经独立实证；不以宗教身份或不同意见本身推断操纵",
+      "revision": 1
     }
   ]
 }
