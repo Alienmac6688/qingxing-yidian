@@ -1033,6 +1033,46 @@
       "published": "2026-11-07（原创整理日期，非来源发布日期）",
       "evidenceStatus": "Awakenology原文已核；案例完全虚构；集体压力及断章取义机制为合理风险解释，未完成独立心理学实证交叉验证；不针对具体个人或群体",
       "revision": 1
+    },
+    {
+      "id": "sr-20261107-37",
+      "category": "宗教",
+      "title": "以读书会名义隐瞒组织归属",
+      "prompt": "大学新生收到‘免费读书会、无须加入任何组织’邀请；到场后才发现活动由宗教团体主办，主持人拒绝说明所属组织，并要求参加者先填写个人联系方式、承诺连续参加课程。",
+      "check": "邀请时是否如实说明主办方、活动目的、后续安排与个人资料用途？参加者是否可以不留资料、自由离开？",
+      "risk": "隐瞒主办身份或后续义务，可能妨碍知情同意；再借现场社交压力促成承诺。",
+      "wake": "在登记或承诺前核实主办组织、课程内容、费用与资料处理方式；保留拒绝、退出及寻求校方建议的选择。",
+      "counter": "宗教团体举办开放读书会本身正常；志愿者也可能只是宣传不周。须核实是否有意隐瞒、是否施压，不能凭宗教身份认定操纵。",
+      "tags": [
+        "宗教",
+        "校园",
+        "活动招募",
+        "知情同意",
+        "信息透明",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创虚构生活场景；Awakenology《破權威幻》作为不盲从权威的思想参考；斯坦福大学宗教与精神生活办公室指南提供信息隐瞒和招募压力风险的实践参照；并非两篇来源记载的真实事件",
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "published": "2026-10-25",
+          "originalQuote": "但，這只是他的成功經驗，不是你的成功經驗。",
+          "verified": "2026-11-07已读取正文；概念关联，非直接论述招募透明度"
+        },
+        {
+          "title": "Avoiding Unhealthy Religious Organizations",
+          "url": "https://orsl.stanford.edu/avoiding-unhealthy-religious-organizations",
+          "published": "网页未标明发布日期",
+          "originalQuote": "Their affiliations, practices, and expectations may not be fully transparent.",
+          "verified": "2026-11-07已读取正文，Recognizing / Characteristics 部分；属于校园指导性资料，非单项实证研究"
+        }
+      ],
+      "originalQuote": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "published": "2026-11-07（案例原创整理日期）",
+      "evidenceStatus": "两项网页来源本轮已核验；情境虚构；具体案例并无独立事实调查或实证验证；尊重宗教自由",
+      "revision": 1
     }
   ]
 }
