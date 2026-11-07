@@ -11779,6 +11779,342 @@
       ],
       "evidenceStatus": "原创模拟，非真实事件；心理机制未独立实证；不得因宗教身份或不同意见推断操纵",
       "revision": 1
+    },
+    {
+      "id": "sr-20261108-r11-001",
+      "category": "社会",
+      "title": "职业导师的三个月转行承诺",
+      "prompt": "转行顾问称照搬自己的每日学习表，三个月必拿到同薪岗位。",
+      "check": "核实样本、就业市场、个人基础和退款条件",
+      "risk": "把个人成功经历包装成普遍保证",
+      "wake": "要求可核验的学员分布、失败样本与书面条款",
+      "counter": "导师可能提供有效学习结构，但不能保证每个人结果",
+      "tags": [
+        "社会",
+        "经验泛化",
+        "自主辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考《破權威幻》关于成功经验不保证可复制的论述，不代表真实事件",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录原文；仅作概念改写",
+      "originalRewrite": "转行顾问称照搬自己的每日学习表，三个月必拿到同薪岗位。 辨识时需将个体经验与可复核的普遍结论分开。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；源文仅支持经验不可简单普遍化的观点，不证明该情境发生或具体心理机制",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r11-002",
+      "category": "社会",
+      "title": "创业孵化器的唯一商业模式",
+      "prompt": "孵化器要求所有入驻者放弃原产品方向，照抄创始人的盈利模板。",
+      "check": "辨别可迁移的经营原则与行业差异",
+      "risk": "用成功者身份压制产品验证",
+      "wake": "保留小规模A/B实验和退出权",
+      "counter": "统一模板可能降低初学者成本，但不必排斥验证",
+      "tags": [
+        "社会",
+        "经验泛化",
+        "自主辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考《破權威幻》关于成功经验不保证可复制的论述，不代表真实事件",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录原文；仅作概念改写",
+      "originalRewrite": "孵化器要求所有入驻者放弃原产品方向，照抄创始人的盈利模板。 辨识时需将个体经验与可复核的普遍结论分开。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；源文仅支持经验不可简单普遍化的观点，不证明该情境发生或具体心理机制",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r11-003",
+      "category": "社会",
+      "title": "求职面试的性格命定论",
+      "prompt": "面试培训师凭一次问卷断言学员天生不适合管理岗位，必须买矫正课程。",
+      "check": "问清测评效度、使用范围和利益冲突",
+      "risk": "用标签和焦虑诱导消费",
+      "wake": "用多来源表现反馈检验并拒绝未经证实的定性",
+      "counter": "测评也可能有辅助参考价值，但不宜决定职业命运",
+      "tags": [
+        "社会",
+        "经验泛化",
+        "自主辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考《破權威幻》关于成功经验不保证可复制的论述，不代表真实事件",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录原文；仅作概念改写",
+      "originalRewrite": "面试培训师凭一次问卷断言学员天生不适合管理岗位，必须买矫正课程。 辨识时需将个体经验与可复核的普遍结论分开。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；源文仅支持经验不可简单普遍化的观点，不证明该情境发生或具体心理机制",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r11-004",
+      "category": "社会",
+      "title": "理财讲师的亏损责任转移",
+      "prompt": "讲师宣称跟单失败说明学员执行力不够，拒绝公开完整交易记录。",
+      "check": "区分策略风险与个人执行偏差",
+      "risk": "以事后归因维护不可质疑的权威",
+      "wake": "索取完整可复现记录并设置风险上限",
+      "counter": "执行偏差确会影响收益，但不能替代策略检验",
+      "tags": [
+        "社会",
+        "经验泛化",
+        "自主辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考《破權威幻》关于成功经验不保证可复制的论述，不代表真实事件",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录原文；仅作概念改写",
+      "originalRewrite": "讲师宣称跟单失败说明学员执行力不够，拒绝公开完整交易记录。 辨识时需将个体经验与可复核的普遍结论分开。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；源文仅支持经验不可简单普遍化的观点，不证明该情境发生或具体心理机制",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r11-005",
+      "category": "社会",
+      "title": "语言学习博主的口音羞辱",
+      "prompt": "博主声称不模仿自己独有的口音训练就永远无法融入当地社会。",
+      "check": "比较沟通目标、语言多样性与学习证据",
+      "risk": "把身份焦虑转成独家课程依赖",
+      "wake": "以可理解度和真实沟通反馈评估进步",
+      "counter": "特定发音练习可能有效，但并非唯一途径",
+      "tags": [
+        "社会",
+        "经验泛化",
+        "自主辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考《破權威幻》关于成功经验不保证可复制的论述，不代表真实事件",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录原文；仅作概念改写",
+      "originalRewrite": "博主声称不模仿自己独有的口音训练就永远无法融入当地社会。 辨识时需将个体经验与可复核的普遍结论分开。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；源文仅支持经验不可简单普遍化的观点，不证明该情境发生或具体心理机制",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r11-006",
+      "category": "社会",
+      "title": "亲子教育的名校复制表",
+      "prompt": "家长讲座把一名名校生的作息打印成所有儿童必须执行的时间表。",
+      "check": "考虑孩子年龄、睡眠需求与家庭差异",
+      "risk": "用单一成功故事否定个体需要",
+      "wake": "观察身心状态并和孩子协商可调整安排",
+      "counter": "规律作息有益，但具体时刻未必通用",
+      "tags": [
+        "社会",
+        "经验泛化",
+        "自主辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考《破權威幻》关于成功经验不保证可复制的论述，不代表真实事件",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录原文；仅作概念改写",
+      "originalRewrite": "家长讲座把一名名校生的作息打印成所有儿童必须执行的时间表。 辨识时需将个体经验与可复核的普遍结论分开。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；源文仅支持经验不可简单普遍化的观点，不证明该情境发生或具体心理机制",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r11-007",
+      "category": "社会",
+      "title": "社区防诈骗讲师的独家认证",
+      "prompt": "讲师称只有购买他的安全徽章才能辨别所有骗局，并禁止学员咨询警方。",
+      "check": "核实认证机构与公开防诈资源",
+      "risk": "借防诈骗名义建立信息垄断",
+      "wake": "通过官方渠道交叉核验，拒绝排他要求",
+      "counter": "付费培训可以提供便利，但不能替代官方核查",
+      "tags": [
+        "社会",
+        "经验泛化",
+        "自主辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考《破權威幻》关于成功经验不保证可复制的论述，不代表真实事件",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录原文；仅作概念改写",
+      "originalRewrite": "讲师称只有购买他的安全徽章才能辨别所有骗局，并禁止学员咨询警方。 辨识时需将个体经验与可复核的普遍结论分开。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；源文仅支持经验不可简单普遍化的观点，不证明该情境发生或具体心理机制",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r11-008",
+      "category": "社会",
+      "title": "健身冠军的伤病无视法",
+      "prompt": "健身冠军说自己带伤训练夺冠，所以学员出现疼痛也必须照做。",
+      "check": "区分运动员个案与一般安全标准",
+      "risk": "把幸存经验当成伤病治疗依据",
+      "wake": "疼痛时停止危险动作并寻求合格医疗意见",
+      "counter": "循序渐进训练可有帮助，但疼痛信号不能一概忽略",
+      "tags": [
+        "社会",
+        "经验泛化",
+        "自主辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考《破權威幻》关于成功经验不保证可复制的论述，不代表真实事件",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录原文；仅作概念改写",
+      "originalRewrite": "健身冠军说自己带伤训练夺冠，所以学员出现疼痛也必须照做。 辨识时需将个体经验与可复核的普遍结论分开。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；源文仅支持经验不可简单普遍化的观点，不证明该情境发生或具体心理机制",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r11-009",
+      "category": "宗教",
+      "title": "灵修导师的梦境唯一释义",
+      "prompt": "导师声称能唯一解释信众的梦，并要求为每次释梦支付加急费。",
+      "check": "区分个人信仰诠释、客观证据与收费规则",
+      "risk": "将不可证实解释转化为排他性权威",
+      "wake": "允许不同理解并事先确认价格与退出权",
+      "counter": "自愿的宗教辅导可能带来安慰，不代表事实已被证实",
+      "tags": [
+        "宗教",
+        "经验泛化",
+        "自主辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考《破權威幻》关于成功经验不保证可复制的论述，不代表真实事件",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录原文；仅作概念改写",
+      "originalRewrite": "导师声称能唯一解释信众的梦，并要求为每次释梦支付加急费。 辨识时需将个体经验与可复核的普遍结论分开。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；源文仅支持经验不可简单普遍化的观点，不证明该情境发生或具体心理机制",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r11-010",
+      "category": "宗教",
+      "title": "宗教读书班的提问罚款",
+      "prompt": "读书班主持人规定质疑讲解者必须额外缴费才能继续参与讨论。",
+      "check": "检查费用事前披露及提问规则是否公平",
+      "risk": "把合理质疑塑造成违规并设置经济门槛",
+      "wake": "保留自由退出与寻求其他解释的空间",
+      "counter": "组织可能需要秩序管理，但应避免惩罚正常提问",
+      "tags": [
+        "宗教",
+        "经验泛化",
+        "自主辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考《破權威幻》关于成功经验不保证可复制的论述，不代表真实事件",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录原文；仅作概念改写",
+      "originalRewrite": "读书班主持人规定质疑讲解者必须额外缴费才能继续参与讨论。 辨识时需将个体经验与可复核的普遍结论分开。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；源文仅支持经验不可简单普遍化的观点，不证明该情境发生或具体心理机制",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r11-011",
+      "category": "宗教",
+      "title": "朝圣见证的统一成功模板",
+      "prompt": "组织者要求每名朝圣者公开宣称获得相同神圣体验，否则取消合照资格。",
+      "check": "区分个人体验、集体仪式和公开表达自由",
+      "risk": "以归属压力制造一致见证",
+      "wake": "允许沉默、不同感受和不公开分享",
+      "counter": "共同仪式可增强凝聚力，但体验不必相同",
+      "tags": [
+        "宗教",
+        "经验泛化",
+        "自主辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考《破權威幻》关于成功经验不保证可复制的论述，不代表真实事件",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录原文；仅作概念改写",
+      "originalRewrite": "组织者要求每名朝圣者公开宣称获得相同神圣体验，否则取消合照资格。 辨识时需将个体经验与可复核的普遍结论分开。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；源文仅支持经验不可简单普遍化的观点，不证明该情境发生或具体心理机制",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r11-012",
+      "category": "宗教",
+      "title": "祈祷小组的家庭决策代理",
+      "prompt": "组长称自己曾靠祈祷解决婚姻问题，因此所有成员婚姻决定必须先获其批准。",
+      "check": "区分经验分享与对他人生活的控制权",
+      "risk": "将私人经验扩大为强制决策权",
+      "wake": "重大决定保留个人自主并可咨询专业人士",
+      "counter": "组长或许出于关心，但建议不能变成许可制度",
+      "tags": [
+        "宗教",
+        "经验泛化",
+        "自主辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考《破權威幻》关于成功经验不保证可复制的论述，不代表真实事件",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录原文；仅作概念改写",
+      "originalRewrite": "组长称自己曾靠祈祷解决婚姻问题，因此所有成员婚姻决定必须先获其批准。 辨识时需将个体经验与可复核的普遍结论分开。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；源文仅支持经验不可简单普遍化的观点，不证明该情境发生或具体心理机制",
+      "revision": 1
     }
   ]
 }
