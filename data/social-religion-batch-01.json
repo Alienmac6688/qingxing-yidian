@@ -13527,6 +13527,354 @@
       ],
       "evidenceStatus": "原创模拟；不是实际发生的个案；风险机制属于待验证分析，不以宗教身份或异见作为操纵证据",
       "revision": 1
+    },
+    {
+      "id": "sr-20261108-r16-001",
+      "category": "社会",
+      "title": "培训证书的保证就业承诺",
+      "prompt": "培训机构称某学员毕业后获得高薪，因此购买同款课程就保证就业，拒绝出示就业统计口径。",
+      "check": "核对就业率分母、样本时间、退款条件与岗位要求",
+      "risk": "把个别成功经历当成人人可复制的保证",
+      "wake": "索取完整就业数据并比较其他学习路径",
+      "counter": "机构可能有真实成功学员，但不能代表全部学员",
+      "tags": [
+        "社会",
+        "经验泛化",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology文章仅为经验不可机械复制的概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对原文短摘录；案例情节并非原文事件",
+      "originalRewrite": "原创模拟：培训机构称某学员毕业后获得高薪，因此购买同款课程就保证就业，拒绝出示就业统计口径。 辨识时：核对就业率分母、样本时间、退款条件与岗位要求。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟；非真实个案；风险机制为分析假设，未作个案实证；宗教身份或不同意见不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r16-002",
+      "category": "社会",
+      "title": "短视频创业导师的单次爆款模板",
+      "prompt": "博主展示一条百万播放视频，要求学员付费照搬标题、发布时间和脚本，并承诺必然爆红。",
+      "check": "查看重复实验、失败样本与平台变动",
+      "risk": "把事后经验包装为事前必胜公式",
+      "wake": "先小规模试验并记录未成功样本",
+      "counter": "模板可能提高制作效率，但结果仍有不确定性",
+      "tags": [
+        "社会",
+        "经验泛化",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology文章仅为经验不可机械复制的概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对原文短摘录；案例情节并非原文事件",
+      "originalRewrite": "原创模拟：博主展示一条百万播放视频，要求学员付费照搬标题、发布时间和脚本，并承诺必然爆红。 辨识时：查看重复实验、失败样本与平台变动。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟；非真实个案；风险机制为分析假设，未作个案实证；宗教身份或不同意见不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r16-003",
+      "category": "社会",
+      "title": "减肥群以成功截图替代健康评估",
+      "prompt": "群主展示个人减重前后照片，要求所有成员照抄极端饮食计划，不询问身体情况。",
+      "check": "区分个人经历、专业评估与潜在健康风险",
+      "risk": "利用成功故事压制个体差异",
+      "wake": "向合格专业人员咨询并拒绝不适合的方案",
+      "counter": "分享个人经历本身可以善意，但不能当普适处方",
+      "tags": [
+        "社会",
+        "经验泛化",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology文章仅为经验不可机械复制的概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对原文短摘录；案例情节并非原文事件",
+      "originalRewrite": "原创模拟：群主展示个人减重前后照片，要求所有成员照抄极端饮食计划，不询问身体情况。 辨识时：区分个人经历、专业评估与潜在健康风险。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟；非真实个案；风险机制为分析假设，未作个案实证；宗教身份或不同意见不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r16-004",
+      "category": "社会",
+      "title": "租房中介以单个成交案例催促签约",
+      "prompt": "中介说上周有人看房五分钟就付订金，要求租客在未看合同前立刻付款。",
+      "check": "核对合同、房屋状况、退订规则与真实竞争情况",
+      "risk": "借他人快速决定制造时间压力",
+      "wake": "保留审阅合同和核验房源的时间",
+      "counter": "房源可能确实紧俏，但不等于应放弃审查",
+      "tags": [
+        "社会",
+        "经验泛化",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology文章仅为经验不可机械复制的概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对原文短摘录；案例情节并非原文事件",
+      "originalRewrite": "原创模拟：中介说上周有人看房五分钟就付订金，要求租客在未看合同前立刻付款。 辨识时：核对合同、房屋状况、退订规则与真实竞争情况。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟；非真实个案；风险机制为分析假设，未作个案实证；宗教身份或不同意见不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r16-005",
+      "category": "社会",
+      "title": "求职群以校友上岸故事推销内推",
+      "prompt": "群管理员展示一名校友的录用截图，宣称购买内推名额即可复制成功，且不提供退款条款。",
+      "check": "核实岗位、服务内容、真实录用率和收费依据",
+      "risk": "用幸存者故事掩盖不确定结果",
+      "wake": "通过官方招聘渠道核对并保留证据",
+      "counter": "正规职业辅导可能有价值，但录用不能保证",
+      "tags": [
+        "社会",
+        "经验泛化",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology文章仅为经验不可机械复制的概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对原文短摘录；案例情节并非原文事件",
+      "originalRewrite": "原创模拟：群管理员展示一名校友的录用截图，宣称购买内推名额即可复制成功，且不提供退款条款。 辨识时：核实岗位、服务内容、真实录用率和收费依据。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟；非真实个案；风险机制为分析假设，未作个案实证；宗教身份或不同意见不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r16-006",
+      "category": "社会",
+      "title": "家长群以优秀学生作业要求全班购买课程",
+      "prompt": "老师转发某学生成绩进步案例，家委会随即要求所有家庭购买同一付费课包。",
+      "check": "核对教学必要性、家庭预算与自愿选择",
+      "risk": "以个别成绩提升替代全体适用性证据",
+      "wake": "询问替代学习资源及不购买是否影响评价",
+      "counter": "推荐课程可能出于善意，但应避免强制消费",
+      "tags": [
+        "社会",
+        "经验泛化",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology文章仅为经验不可机械复制的概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对原文短摘录；案例情节并非原文事件",
+      "originalRewrite": "原创模拟：老师转发某学生成绩进步案例，家委会随即要求所有家庭购买同一付费课包。 辨识时：核对教学必要性、家庭预算与自愿选择。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟；非真实个案；风险机制为分析假设，未作个案实证；宗教身份或不同意见不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r16-007",
+      "category": "宗教",
+      "title": "静修导师以自身顿悟经历指定唯一练习",
+      "prompt": "导师说自己连续静修七天得到重要体验，要求所有参与者无视身体状态复制相同时长。",
+      "check": "核查安全边界、个人差异与退出自由",
+      "risk": "把个人精神体验当作他人的必经路线",
+      "wake": "按个人状况调整并保留中止权",
+      "counter": "自愿模仿练习可以是学习方式，但不构成普适保证",
+      "tags": [
+        "宗教",
+        "经验泛化",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology文章仅为经验不可机械复制的概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对原文短摘录；案例情节并非原文事件",
+      "originalRewrite": "原创模拟：导师说自己连续静修七天得到重要体验，要求所有参与者无视身体状态复制相同时长。 辨识时：核查安全边界、个人差异与退出自由。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟；非真实个案；风险机制为分析假设，未作个案实证；宗教身份或不同意见不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r16-008",
+      "category": "宗教",
+      "title": "宗教见证会以单次康复经历劝停治疗",
+      "prompt": "分享者讲述祈祷后的康复经历，主持人据此要求其他患病者停止正规治疗。",
+      "check": "区分信仰见证、医学因果证据与治疗决定",
+      "risk": "将个案经历扩展为危险的普遍医疗建议",
+      "wake": "保留医疗咨询和自主治疗选择",
+      "counter": "分享康复与信仰体验可以真诚，但不能证明医疗替代效果",
+      "tags": [
+        "宗教",
+        "经验泛化",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology文章仅为经验不可机械复制的概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对原文短摘录；案例情节并非原文事件",
+      "originalRewrite": "原创模拟：分享者讲述祈祷后的康复经历，主持人据此要求其他患病者停止正规治疗。 辨识时：区分信仰见证、医学因果证据与治疗决定。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟；非真实个案；风险机制为分析假设，未作个案实证；宗教身份或不同意见不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r16-009",
+      "category": "宗教",
+      "title": "灵修课程以导师觉醒经历保证学员结果",
+      "prompt": "组织者称导师按一套步骤获得觉醒体验，付费学员只要照做就必然达到同样境界。",
+      "check": "核实课程承诺、退款规则与可独立验证标准",
+      "risk": "将不可复制的主观经历包装成确定性商品",
+      "wake": "把主观体验与商业承诺分开评估",
+      "counter": "课程可能提供交流支持，但无法保证个人精神体验",
+      "tags": [
+        "宗教",
+        "经验泛化",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology文章仅为经验不可机械复制的概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对原文短摘录；案例情节并非原文事件",
+      "originalRewrite": "原创模拟：组织者称导师按一套步骤获得觉醒体验，付费学员只要照做就必然达到同样境界。 辨识时：核实课程承诺、退款规则与可独立验证标准。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟；非真实个案；风险机制为分析假设，未作个案实证；宗教身份或不同意见不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r16-010",
+      "category": "宗教",
+      "title": "跨信仰讨论以改宗者故事要求当场表态",
+      "prompt": "主持人介绍一名改宗者的幸福生活，随即要求听众在公开名单上立即签署同样决定。",
+      "check": "区分自由见证、私人信仰选择与公开施压",
+      "risk": "利用成功叙事和群体注视削弱独立选择",
+      "wake": "允许私下思考、拒绝签名及退出讨论",
+      "counter": "分享信仰转变是正当表达，问题在强制即时表态",
+      "tags": [
+        "宗教",
+        "经验泛化",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology文章仅为经验不可机械复制的概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对原文短摘录；案例情节并非原文事件",
+      "originalRewrite": "原创模拟：主持人介绍一名改宗者的幸福生活，随即要求听众在公开名单上立即签署同样决定。 辨识时：区分自由见证、私人信仰选择与公开施压。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟；非真实个案；风险机制为分析假设，未作个案实证；宗教身份或不同意见不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r16-011",
+      "category": "宗教",
+      "title": "宗教志愿服务以模范成员经历取消休息",
+      "prompt": "负责人说某位资深成员曾连续服务十小时并因此成长，要求新成员不得中途休息。",
+      "check": "检查工时、身体安全与志愿服务规则",
+      "risk": "把个人奉献故事变成统一的服从标准",
+      "wake": "协商合理休息并保留退出权",
+      "counter": "模范故事可以激励人，但不应取消安全安排",
+      "tags": [
+        "宗教",
+        "经验泛化",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology文章仅为经验不可机械复制的概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对原文短摘录；案例情节并非原文事件",
+      "originalRewrite": "原创模拟：负责人说某位资深成员曾连续服务十小时并因此成长，要求新成员不得中途休息。 辨识时：检查工时、身体安全与志愿服务规则。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟；非真实个案；风险机制为分析假设，未作个案实证；宗教身份或不同意见不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r16-012",
+      "category": "宗教",
+      "title": "灵性团体以导师个人梦境指派职业",
+      "prompt": "导师声称曾凭梦境选对职业，因此要求成员不做现实调查就辞职转行。",
+      "check": "核查职业风险、经济后果和决定权",
+      "risk": "以个人主观经验替代他人的现实证据",
+      "wake": "先核对收入、岗位、合同与替代方案",
+      "counter": "梦境可以成为个人反思材料，但不是可验证的职业保证",
+      "tags": [
+        "宗教",
+        "经验泛化",
+        "自主辨识",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境，非真实事件；Awakenology文章仅为经验不可机械复制的概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对原文短摘录；案例情节并非原文事件",
+      "originalRewrite": "原创模拟：导师声称曾凭梦境选对职业，因此要求成员不做现实调查就辞职转行。 辨识时：核查职业风险、经济后果和决定权。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟；非真实个案；风险机制为分析假设，未作个案实证；宗教身份或不同意见不构成操纵证据",
+      "revision": 1
     }
   ]
 }
