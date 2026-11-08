@@ -15093,6 +15093,342 @@
       ],
       "evidenceStatus": "原创模拟案例；无真实事件证据；来源仅作概念参考",
       "revision": 1
+    },
+    {
+      "id": "sr-20261108-r20-001",
+      "category": "社会",
+      "title": "AI陪伴软件以逝者声音诱导续费",
+      "prompt": "用户想导出已故亲人的语音纪念资料，软件弹窗称不续订年费就代表不珍惜回忆。",
+      "check": "核对数据导出权、订阅条款与情感评价是否被绑定。",
+      "risk": "利用丧亲情绪把商业续费包装成道德义务。",
+      "wake": "先备份合法持有的素材，查看取消和导出规则，再决定是否续费。",
+      "counter": "平台可能确有存储成本，但不应把付费与爱意等同。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：用户想导出已故亲人的语音纪念资料，软件弹窗称不续订年费就代表不珍惜回忆。 判断应以具体行为和可核实证据为准，不因宗教身份或观点差异推定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r20-002",
+      "category": "社会",
+      "title": "社区噪声监测器默认上传室内对话",
+      "prompt": "物业称安装噪声监测器可减少投诉，却未解释设备会持续上传可辨认的室内谈话片段。",
+      "check": "核查采集范围、音频保存期限及是否可用分贝数据替代。",
+      "risk": "以公共安宁为由扩大对私人谈话的收集。",
+      "wake": "要求公开技术说明，优先采用不录音的分贝测量并提供申诉渠道。",
+      "counter": "物业可能确实需要处理噪声争议，但应遵守必要性原则。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：物业称安装噪声监测器可减少投诉，却未解释设备会持续上传可辨认的室内谈话片段。 判断应以具体行为和可核实证据为准，不因宗教身份或观点差异推定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r20-003",
+      "category": "社会",
+      "title": "灾后寻人地图要求公开避难者实时坐标",
+      "prompt": "互助平台要求求助者公开实时位置和家属姓名，否则不给显示物资领取点。",
+      "check": "辨别物资分发所需信息与可能暴露脆弱者行踪的信息。",
+      "risk": "将救助便利与不必要的定位公开捆绑。",
+      "wake": "提供模糊位置或私密核验通道，限制可见范围和保存时间。",
+      "counter": "平台可能为避免重复发放，但可以用低敏感度信息核验。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：互助平台要求求助者公开实时位置和家属姓名，否则不给显示物资领取点。 判断应以具体行为和可核实证据为准，不因宗教身份或观点差异推定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r20-004",
+      "category": "社会",
+      "title": "求职翻译测试要求上传完整私人聊天记录",
+      "prompt": "应聘多语言客服岗位时，招聘方要求导出私人聊天记录作为真实翻译样本。",
+      "check": "核实岗位能力能否通过脱敏样本或现场测试评估。",
+      "risk": "用就业机会换取无关第三方隐私。",
+      "wake": "提交自行编写或经授权的匿名材料，拒绝披露第三方对话。",
+      "counter": "招聘方可能想评估自然语言能力，但原始私人记录不是唯一办法。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：应聘多语言客服岗位时，招聘方要求导出私人聊天记录作为真实翻译样本。 判断应以具体行为和可核实证据为准，不因宗教身份或观点差异推定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r20-005",
+      "category": "社会",
+      "title": "家长群用孩子照片作为缴费催促榜单",
+      "prompt": "培训机构把未续费家庭的孩子照片贴在群内排行榜，声称这是激励家长重视教育。",
+      "check": "分清教学反馈与针对未成年人的公开羞辱。",
+      "risk": "以孩子的社交压力推动家长购买课程。",
+      "wake": "要求撤下照片，通过私密渠道讨论费用和学习需求。",
+      "counter": "机构可能误以为公开提醒有效，但应保护孩子尊严。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：培训机构把未续费家庭的孩子照片贴在群内排行榜，声称这是激励家长重视教育。 判断应以具体行为和可核实证据为准，不因宗教身份或观点差异推定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r20-006",
+      "category": "社会",
+      "title": "维修众筹把反对者门牌公开展示",
+      "prompt": "老楼电梯维修筹资时，组织者公开张贴未同意付款住户的门牌和姓名，称便于邻居监督。",
+      "check": "区分依法公示投票结果与公开个人身份施压。",
+      "risk": "把公共设施协商转成对个体的羞辱。",
+      "wake": "依据适用的业主表决规则公示必要信息，隐藏非必要个人数据。",
+      "counter": "组织者可能追求透明，但透明也应有隐私边界。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：老楼电梯维修筹资时，组织者公开张贴未同意付款住户的门牌和姓名，称便于邻居监督。 判断应以具体行为和可核实证据为准，不因宗教身份或观点差异推定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r20-007",
+      "category": "宗教",
+      "title": "线上祈祷平台将私人祈愿用于广告画像",
+      "prompt": "祈祷平台邀请成员提交健康和家庭祈愿，却在不显著告知的情况下将关键词用于广告定向。",
+      "check": "检查祈愿内容的用途、授权范围和删除机制。",
+      "risk": "利用信任场景收集敏感生活信息并商业化。",
+      "wake": "要求清晰的用途说明和独立同意选项，避免上传不必要的隐私。",
+      "counter": "平台可能用自动化工具管理内容，但商业用途仍须单独说明。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：祈祷平台邀请成员提交健康和家庭祈愿，却在不显著告知的情况下将关键词用于广告定向。 判断应以具体行为和可核实证据为准，不因宗教身份或观点差异推定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r20-008",
+      "category": "宗教",
+      "title": "朝圣旅行要求公开同行者疾病史",
+      "prompt": "朝圣团报名群要求所有成员公开既往疾病和用药细节，否则被认为不够坦诚。",
+      "check": "区分行程安全评估与向全团公开医疗信息。",
+      "risk": "把团体信任等同于放弃健康隐私。",
+      "wake": "由合格负责人员私下收集必要的应急信息，并限定访问权限。",
+      "counter": "长途行程确需应急准备，但不代表所有团员都需要知情。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：朝圣团报名群要求所有成员公开既往疾病和用药细节，否则被认为不够坦诚。 判断应以具体行为和可核实证据为准，不因宗教身份或观点差异推定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r20-009",
+      "category": "宗教",
+      "title": "宗教食堂将过敏询问解释为信仰不坚定",
+      "prompt": "参加宗教节庆餐食的访客询问过敏原，志愿者说真正虔诚的人不会质疑供餐安排。",
+      "check": "区分尊重仪式与对食物过敏的合理安全确认。",
+      "risk": "把健康风险问题转化为忠诚测试。",
+      "wake": "直接询问配料与交叉接触风险，必要时自带安全食物。",
+      "counter": "志愿者可能不了解过敏严重性，而非有意施压。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：参加宗教节庆餐食的访客询问过敏原，志愿者说真正虔诚的人不会质疑供餐安排。 判断应以具体行为和可核实证据为准，不因宗教身份或观点差异推定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r20-010",
+      "category": "宗教",
+      "title": "宗教文化讲座要求观众签署永久肖像授权",
+      "prompt": "免费宗教文化讲座入场时，主办方要求观众签署无限期、可转售的影像授权，称拒绝就是不支持文化传播。",
+      "check": "核对影像授权范围是否超出活动记录需要。",
+      "risk": "以文化认同迫使参与者放弃肖像控制权。",
+      "wake": "提供不入镜座位或有限期、限定用途的可撤回授权。",
+      "counter": "主办方可能需要宣传素材，但可以尊重不愿出镜者。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：免费宗教文化讲座入场时，主办方要求观众签署无限期、可转售的影像授权，称拒绝就是不支持文化传播。 判断应以具体行为和可核实证据为准，不因宗教身份或观点差异推定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r20-011",
+      "category": "宗教",
+      "title": "静修活动用沉默承诺阻止紧急求助",
+      "prompt": "静修营倡导禁语，但工作人员告诉突发身体不适的学员，求助会破坏整个团体的修行成果。",
+      "check": "区分自愿练习规则与紧急医疗求助权。",
+      "risk": "用集体成就感压制合理求助。",
+      "wake": "明确紧急情况可随时打破禁语并联系医疗人员。",
+      "counter": "禁语可能是正常修行方式，但不应妨碍安全处理。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：静修营倡导禁语，但工作人员告诉突发身体不适的学员，求助会破坏整个团体的修行成果。 判断应以具体行为和可核实证据为准，不因宗教身份或观点差异推定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r20-012",
+      "category": "宗教",
+      "title": "跨信仰家庭活动要求孩子公开选择父母一方",
+      "prompt": "家庭交流会让未成年孩子在众人面前宣布更认可父亲还是母亲的宗教，否则不允许参加游戏。",
+      "check": "区分信仰探索与公开强迫站队。",
+      "risk": "把孩子的家庭归属感作为服从工具。",
+      "wake": "允许孩子不回答、私下表达或保留探索空间。",
+      "counter": "活动者可能希望鼓励交流，但公开二选一会增加压力。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：家庭交流会让未成年孩子在众人面前宣布更认可父亲还是母亲的宗教，否则不允许参加游戏。 判断应以具体行为和可核实证据为准，不因宗教身份或观点差异推定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
     }
   ]
 }
