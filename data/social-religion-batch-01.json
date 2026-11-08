@@ -15429,6 +15429,470 @@
       ],
       "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
       "revision": 1
+    },
+    {
+      "id": "sr-20261108-r21-001",
+      "category": "社会",
+      "title": "老人防跌倒课程把拒购称作不孝",
+      "prompt": "社区讲座结束后，销售员要求子女当场购买高价防跌倒课程，称不买就是不关心父母。",
+      "check": "核对课程证据、退款条款及是否有低成本替代方案。",
+      "risk": "把孝心与特定商品付款绑定。",
+      "wake": "先咨询正规医疗或社区资源，按实际需求与预算选择。",
+      "counter": "销售员可能真心重视跌倒风险，但关怀不能由购买金额衡量。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：社区讲座结束后，销售员要求子女当场购买高价防跌倒课程，称不买就是不关心父母。 辨识需依据具体行为与可核实证据，不因宗教身份或观点差异认定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/",
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r21-002",
+      "category": "社会",
+      "title": "公共图书馆读书积分要求公开阅读史",
+      "prompt": "图书馆推出积分奖励，读者只有同意向赞助商公开借阅书目才能领取原有的免费借阅权益。",
+      "check": "区分自愿增值服务与基本公共服务的隐私条件。",
+      "risk": "利用基础服务依赖迫使读者披露兴趣与思想。",
+      "wake": "要求提供不分享阅读史的基本服务选项及数据删除办法。",
+      "counter": "积分合作可能为筹资，但不应以不必要的数据交换基本权益。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：图书馆推出积分奖励，读者只有同意向赞助商公开借阅书目才能领取原有的免费借阅权益。 辨识需依据具体行为与可核实证据，不因宗教身份或观点差异认定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/",
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r21-003",
+      "category": "社会",
+      "title": "租房看房预约强制上传通讯录",
+      "prompt": "租房平台称防止虚假预约，要求申请人上传所有手机联系人后才显示房源具体地址。",
+      "check": "核对核验目的与采集全部第三方联系人是否相称。",
+      "risk": "以反欺诈名义扩大第三方个人信息收集。",
+      "wake": "选择证件脱敏核验或线下中介确认，拒绝上传无关联系人。",
+      "counter": "平台确有防欺诈需求，但应采用最小化采集方式。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：租房平台称防止虚假预约，要求申请人上传所有手机联系人后才显示房源具体地址。 辨识需依据具体行为与可核实证据，不因宗教身份或观点差异认定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/",
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r21-004",
+      "category": "社会",
+      "title": "二手交易平台让买家放弃申诉才退款",
+      "prompt": "卖家承认发错货，却要求买家先点击确认收货并签署不投诉声明，才会线下退钱。",
+      "check": "检查平台争议处理流程和线下承诺可执行性。",
+      "risk": "利用退款焦虑诱导放弃保障。",
+      "wake": "保留站内证据，通过平台正式售后渠道办理。",
+      "counter": "卖家可能希望快速结案，但不应先剥夺买家救济渠道。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：卖家承认发错货，却要求买家先点击确认收货并签署不投诉声明，才会线下退钱。 辨识需依据具体行为与可核实证据，不因宗教身份或观点差异认定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/",
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r21-005",
+      "category": "社会",
+      "title": "员工健康挑战赛公开慢性病名单",
+      "prompt": "公司健康活动称为促进互相监督，要求所有员工在部门群公开病史与药物使用情况。",
+      "check": "辨别健康倡议与敏感医疗数据披露的必要性。",
+      "risk": "以集体健康之名制造隐私暴露和评价压力。",
+      "wake": "采用匿名自愿参与及不涉及诊断信息的活动指标。",
+      "counter": "组织者可能重视员工健康，但健康信息应由个人自主决定披露。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：公司健康活动称为促进互相监督，要求所有员工在部门群公开病史与药物使用情况。 辨识需依据具体行为与可核实证据，不因宗教身份或观点差异认定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/",
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r21-006",
+      "category": "社会",
+      "title": "邻里防诈骗群要求共享银行卡流水",
+      "prompt": "居民群管理者称要核查是否有人受骗，要求每户上传完整银行流水供群成员共同检查。",
+      "check": "核实防骗目的能否通过官方反诈渠道及局部脱敏信息实现。",
+      "risk": "把安全焦虑转化为对金融隐私的过度索取。",
+      "wake": "联系银行或警方核验可疑交易，不在群内发布流水。",
+      "counter": "邻居可能出于善意，但群聊并非安全的金融审计渠道。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：居民群管理者称要核查是否有人受骗，要求每户上传完整银行流水供群成员共同检查。 辨识需依据具体行为与可核实证据，不因宗教身份或观点差异认定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/",
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r21-007",
+      "category": "社会",
+      "title": "求职实习要求预先签署无限期竞业限制",
+      "prompt": "实习面试时，公司称所有候选人必须先签无限期竞业协议，否则视为不够忠诚。",
+      "check": "核查限制期限、范围、补偿与适用法律。",
+      "risk": "用求职机会和忠诚评价替代合同的公平审查。",
+      "wake": "索取完整条款并咨询专业意见，拒绝不明确的承诺。",
+      "counter": "企业可能需要保护商业秘密，但范围应合理明确。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：实习面试时，公司称所有候选人必须先签无限期竞业协议，否则视为不够忠诚。 辨识需依据具体行为与可核实证据，不因宗教身份或观点差异认定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/",
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r21-008",
+      "category": "社会",
+      "title": "公益环保打卡要求儿童定位常开",
+      "prompt": "环保活动要求小学生在周末全程开启实时定位并向公开群展示轨迹，否则班级扣分。",
+      "check": "核对活动目的与儿童行踪公开的必要性。",
+      "risk": "以班级荣誉为压力扩大未成年人定位监控。",
+      "wake": "改用自愿匿名打卡或教师现场核验，避免公开轨迹。",
+      "counter": "组织者可能为确认活动完成，但应优先儿童安全与隐私。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：环保活动要求小学生在周末全程开启实时定位并向公开群展示轨迹，否则班级扣分。 辨识需依据具体行为与可核实证据，不因宗教身份或观点差异认定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/",
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r21-009",
+      "category": "宗教",
+      "title": "宗教合唱团以信仰忠诚要求公开工资单",
+      "prompt": "合唱团负责人说捐赠应量力而行，却要求团员在群内公开工资单以证明奉献诚意。",
+      "check": "区分自愿奉献与财务隐私的强制披露。",
+      "risk": "把信仰评价绑定私人收入公开。",
+      "wake": "坚持自愿捐赠和私密财务安排，要求明确数据使用边界。",
+      "counter": "组织者可能想公平安排捐赠，但不应强迫披露工资。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：合唱团负责人说捐赠应量力而行，却要求团员在群内公开工资单以证明奉献诚意。 辨识需依据具体行为与可核实证据，不因宗教身份或观点差异认定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/",
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r21-010",
+      "category": "宗教",
+      "title": "跨宗教交流会取消匿名提问选项",
+      "prompt": "交流会宣传允许自由提问，现场却要求提问者报出姓名和所属信仰并公开录像，才回答疑问。",
+      "check": "检查参与者是否提前知晓公开身份和录像条件。",
+      "risk": "通过身份暴露压力抑制真实问题。",
+      "wake": "提供匿名纸条、不开镜头的提问方式并尊重不参与。",
+      "counter": "公开身份可能方便持续对话，但应有可选择的隐私方式。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：交流会宣传允许自由提问，现场却要求提问者报出姓名和所属信仰并公开录像，才回答疑问。 辨识需依据具体行为与可核实证据，不因宗教身份或观点差异认定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/",
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r21-011",
+      "category": "宗教",
+      "title": "宗教读书小组以退出为由没收笔记",
+      "prompt": "参加者想退出读书小组，组织者称离开代表背弃承诺，必须交出全部私人读书笔记。",
+      "check": "核查资料所有权、保密约定与退出是否附带不合理条件。",
+      "risk": "以归属感和羞耻感限制退出自由。",
+      "wake": "取回个人资料，明确可合法保留的共同创作内容。",
+      "counter": "组织者可能担心内部资料泄露，但不应占有私人笔记。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：参加者想退出读书小组，组织者称离开代表背弃承诺，必须交出全部私人读书笔记。 辨识需依据具体行为与可核实证据，不因宗教身份或观点差异认定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/",
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r21-012",
+      "category": "宗教",
+      "title": "寺院义工排班以公开忏悔替代请假",
+      "prompt": "寺院义工因考试无法值班，负责人要求其在众人面前承认修行懈怠才批准请假。",
+      "check": "辨别合理排班责任与宗教化羞辱。",
+      "risk": "把普通时间冲突解释为道德或信仰缺陷。",
+      "wake": "按明确排班规则协商替班，不把私人信仰评价当作请假条件。",
+      "counter": "义工岗位确需协调，但不应要求公开忏悔。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：寺院义工因考试无法值班，负责人要求其在众人面前承认修行懈怠才批准请假。 辨识需依据具体行为与可核实证据，不因宗教身份或观点差异认定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/",
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r21-013",
+      "category": "宗教",
+      "title": "信仰咨询服务要求签署禁止第二意见承诺",
+      "prompt": "咨询者希望听取其他宗教或专业人士建议，服务人员称只有签署不得向外咨询的承诺才能继续。",
+      "check": "区分保密与阻断独立信息来源。",
+      "risk": "以获得帮助为条件限制外部意见。",
+      "wake": "保留咨询其他人士的权利，涉及健康法律问题寻求合格专业人士。",
+      "counter": "服务者可能担心建议互相冲突，但不能以此禁止独立求证。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：咨询者希望听取其他宗教或专业人士建议，服务人员称只有签署不得向外咨询的承诺才能继续。 辨识需依据具体行为与可核实证据，不因宗教身份或观点差异认定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/",
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r21-014",
+      "category": "宗教",
+      "title": "宗教节日摄影默认将访客面孔用于广告",
+      "prompt": "宗教节庆开放参观，主办方未提示便将访客特写制作成募款广告，拒绝撤图时称这是弘扬信仰。",
+      "check": "核查现场告知、肖像授权与撤回渠道。",
+      "risk": "将文化传播目的置于访客知情同意之上。",
+      "wake": "要求说明使用范围并提供不被拍摄区域与撤图机制。",
+      "counter": "主办方可能希望记录活动，但宣传不能替代个人授权。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：宗教节庆开放参观，主办方未提示便将访客特写制作成募款广告，拒绝撤图时称这是弘扬信仰。 辨识需依据具体行为与可核实证据，不因宗教身份或观点差异认定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/",
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r21-015",
+      "category": "宗教",
+      "title": "静修中心以灵性成绩榜公布个人情绪记录",
+      "prompt": "静修班要求学员每天记录情绪，随后未经同意把记录按所谓灵性等级贴在公告栏。",
+      "check": "区分私人反思工具与公开排名、未经验证的测量。",
+      "risk": "利用羞耻与等级比较压缩个人表达空间。",
+      "wake": "要求记录仅由本人保存，评价标准公开且允许退出。",
+      "counter": "导师可能想帮助学员反思，但情绪记录不应被公开评级。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：静修班要求学员每天记录情绪，随后未经同意把记录按所谓灵性等级贴在公告栏。 辨识需依据具体行为与可核实证据，不因宗教身份或观点差异认定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/",
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r21-016",
+      "category": "社会",
+      "title": "算法求职平台用倒计时诱导支付背景调查费",
+      "prompt": "求职平台显示只剩十分钟就失去录取资格，要求求职者立刻支付不明背景调查费。",
+      "check": "核对招聘单位真实性、费用性质与倒计时是否真实。",
+      "risk": "以稀缺和就业焦虑催促未经核实的付款。",
+      "wake": "通过招聘企业官方渠道核实，暂缓支付并保留截图。",
+      "counter": "部分岗位确有背景调查，但费用和时限必须透明。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念分析，不证明事件真实发生",
+      "sourceTitle": "The Ethics of Manipulation（哲学概念参考）",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "excerptStatus": "未摘录；案例情节为原创模拟",
+      "originalRewrite": "原创模拟：求职平台显示只剩十分钟就失去录取资格，要求求职者立刻支付不明背景调查费。 辨识需依据具体行为与可核实证据，不因宗教身份或观点差异认定操纵。",
+      "references": [
+        "https://plato.stanford.edu/entries/ethics-manipulation/",
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；参考文献仅支持概念讨论",
+      "revision": 1
     }
   ]
 }
