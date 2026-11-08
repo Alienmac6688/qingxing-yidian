@@ -18019,6 +18019,528 @@
       ],
       "evidenceStatus": "原创模拟，非真实事件；机制属分析假设，非已证实的具体操纵；尊重宗教自由及不同意见",
       "revision": 1
+    },
+    {
+      "id": "sr-20261108-r27-001",
+      "category": "社会",
+      "title": "招聘AI面试要求交出私人社交账号密码",
+      "prompt": "招聘平台声称为验证诚信，要求求职者提交私人社交账号密码。",
+      "check": "招聘评估是否必须取得私人账号控制权？",
+      "risk": "把录用机会与不必要的账号权限绑定。",
+      "wake": "拒绝交出密码，要求说明合法依据和替代验证方式。",
+      "counter": "雇主可能确需核验身份，但可采用不获取密码的方式。",
+      "tags": [
+        "社会",
+        "自主判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；概念参考，未从来源提取真实个案",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章正文，原文留空",
+      "originalRewrite": "识别合理活动目标与过度控制之间的界限，核查知情同意、必要性和退出自由。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制为待实证的分析假设；不因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r27-002",
+      "category": "社会",
+      "title": "二手交易平台要求远程控制手机退款",
+      "prompt": "买家称退款失败，要求卖家安装远程控制软件协助处理。",
+      "check": "退款流程是否需要第三方控制设备？",
+      "risk": "借退款名义获得设备和支付操作权。",
+      "wake": "只在平台内核验订单，通过官方客服处理。",
+      "counter": "对方可能不熟悉操作，但远程控制不是必要条件。",
+      "tags": [
+        "社会",
+        "自主判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；概念参考，未从来源提取真实个案",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章正文，原文留空",
+      "originalRewrite": "识别合理活动目标与过度控制之间的界限，核查知情同意、必要性和退出自由。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制为待实证的分析假设；不因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r27-003",
+      "category": "社会",
+      "title": "医院满意度调查绑定出院证明",
+      "prompt": "窗口告知患者，必须给满分评价才提供出院证明。",
+      "check": "必要医疗文件能否与好评挂钩？",
+      "risk": "用基本服务权利换取虚假评价。",
+      "wake": "保存通知，向医院患者服务部门核实并申请正常办理。",
+      "counter": "工作人员可能误传流程，应先核实正式规定。",
+      "tags": [
+        "社会",
+        "自主判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；概念参考，未从来源提取真实个案",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章正文，原文留空",
+      "originalRewrite": "识别合理活动目标与过度控制之间的界限，核查知情同意、必要性和退出自由。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制为待实证的分析假设；不因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r27-004",
+      "category": "社会",
+      "title": "社区互助群要求共享老人定位历史",
+      "prompt": "志愿者组织要求老人提交整月定位轨迹才可领取日用品。",
+      "check": "物资发放是否需要完整行动轨迹？",
+      "risk": "以帮助为条件索取过量敏感信息。",
+      "wake": "询问最小必要核验资料和删除期限。",
+      "counter": "配送确实可能需要收货地址，但无需整月轨迹。",
+      "tags": [
+        "社会",
+        "自主判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；概念参考，未从来源提取真实个案",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章正文，原文留空",
+      "originalRewrite": "识别合理活动目标与过度控制之间的界限，核查知情同意、必要性和退出自由。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制为待实证的分析假设；不因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r27-005",
+      "category": "社会",
+      "title": "家庭群要求公开银行卡交易证明孝顺",
+      "prompt": "亲属在家族群中要求子女晒出全部银行流水证明孝顺。",
+      "check": "关心家人是否等于交出完整财务隐私？",
+      "risk": "以道德评价施压，迫使披露不相关交易。",
+      "wake": "明确可讨论支持金额而不公开完整流水。",
+      "counter": "家人可能担心照护费用，需要透明预算而非全部隐私。",
+      "tags": [
+        "社会",
+        "自主判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；概念参考，未从来源提取真实个案",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章正文，原文留空",
+      "originalRewrite": "识别合理活动目标与过度控制之间的界限，核查知情同意、必要性和退出自由。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制为待实证的分析假设；不因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r27-006",
+      "category": "社会",
+      "title": "教育机构以退费为由索取短信验证码",
+      "prompt": "培训机构称办理退费必须告知手机收到的登录验证码。",
+      "check": "退款是否需要提供一次性账户验证代码？",
+      "risk": "借服务流程获取账号接管机会。",
+      "wake": "拒绝分享验证码，联系官方渠道核验退款流程。",
+      "counter": "客服可能错误理解验证步骤，应由用户本人输入官方页面。",
+      "tags": [
+        "社会",
+        "自主判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；概念参考，未从来源提取真实个案",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章正文，原文留空",
+      "originalRewrite": "识别合理活动目标与过度控制之间的界限，核查知情同意、必要性和退出自由。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制为待实证的分析假设；不因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r27-007",
+      "category": "社会",
+      "title": "邻里调解要求当事人删除全部聊天证据",
+      "prompt": "调解员称只有先删除双方聊天记录才愿意主持纠纷调解。",
+      "check": "调解是否必须先销毁证据？",
+      "risk": "用和平名义削弱当事人后续求助能力。",
+      "wake": "保留原始记录，寻求书面调解方案。",
+      "counter": "调解员可能想减少传播，但不应要求销毁原始证据。",
+      "tags": [
+        "社会",
+        "自主判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；概念参考，未从来源提取真实个案",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章正文，原文留空",
+      "originalRewrite": "识别合理活动目标与过度控制之间的界限，核查知情同意、必要性和退出自由。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制为待实证的分析假设；不因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r27-008",
+      "category": "社会",
+      "title": "工作绩效系统索取私人相册扫描权限",
+      "prompt": "企业打卡软件更新后要求读取员工全部私人照片才能签到。",
+      "check": "考勤功能是否需要访问整个相册？",
+      "risk": "借必要劳动流程扩大个人数据收集。",
+      "wake": "查权限说明，申请最小授权或替代签到方式。",
+      "counter": "上传工作现场照片可能需要选取单张图片，不等于全部读取。",
+      "tags": [
+        "社会",
+        "自主判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；概念参考，未从来源提取真实个案",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章正文，原文留空",
+      "originalRewrite": "识别合理活动目标与过度控制之间的界限，核查知情同意、必要性和退出自由。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制为待实证的分析假设；不因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r27-009",
+      "category": "社会",
+      "title": "慈善抽奖要求转发亲友病史",
+      "prompt": "公益活动称转发亲属诊断书到朋友圈才能参与物资抽奖。",
+      "check": "公益传播能否强迫公开第三人医疗信息？",
+      "risk": "用奖励机制诱导未经授权的隐私披露。",
+      "wake": "隐去敏感信息并确认本人同意，优先使用匿名资格证明。",
+      "counter": "活动方可能希望核验资格，但公开传播不是唯一方式。",
+      "tags": [
+        "社会",
+        "自主判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；概念参考，未从来源提取真实个案",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章正文，原文留空",
+      "originalRewrite": "识别合理活动目标与过度控制之间的界限，核查知情同意、必要性和退出自由。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制为待实证的分析假设；不因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r27-010",
+      "category": "宗教",
+      "title": "寺院志愿服务要求上交个人手机",
+      "prompt": "宗教场所活动负责人要求志愿者整周交出手机，且不提供紧急联络方式。",
+      "check": "活动秩序要求是否超出必要范围？",
+      "risk": "长期隔绝外部联络可能削弱求助与退出能力。",
+      "wake": "询问紧急联系、保管期限和随时取回机制。",
+      "counter": "短时静音或统一保管可能为维持活动秩序，关键是自愿与可取回。",
+      "tags": [
+        "宗教",
+        "自主判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；概念参考，未从来源提取真实个案",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章正文，原文留空",
+      "originalRewrite": "识别合理活动目标与过度控制之间的界限，核查知情同意、必要性和退出自由。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制为待实证的分析假设；不因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r27-011",
+      "category": "宗教",
+      "title": "灵修课程要求停止所有处方药",
+      "prompt": "课程导师称参加练习必须停用医生开的药，否则无法获得效果。",
+      "check": "信念实践能否替代个体医疗判断？",
+      "risk": "用未经验证的承诺干预治疗决定。",
+      "wake": "继续与持证医务人员沟通，不擅自停药。",
+      "counter": "冥想或祈祷可作为部分人的辅助支持，但不能自行替代治疗。",
+      "tags": [
+        "宗教",
+        "自主判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；概念参考，未从来源提取真实个案",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章正文，原文留空",
+      "originalRewrite": "识别合理活动目标与过度控制之间的界限，核查知情同意、必要性和退出自由。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制为待实证的分析假设；不因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r27-012",
+      "category": "宗教",
+      "title": "宗教互助小组以捐款额度决定倾诉资格",
+      "prompt": "互助小组表示只有月捐达到指定金额的人才能获得情绪支持。",
+      "check": "费用安排是否透明，是否借脆弱状态施压？",
+      "risk": "利用急需倾诉的处境推动非自愿支付。",
+      "wake": "询问收费规则和免费求助资源，保留拒绝权。",
+      "counter": "有偿专业服务可能合理，但应清楚说明且不能虚构唯一出路。",
+      "tags": [
+        "宗教",
+        "自主判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；概念参考，未从来源提取真实个案",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章正文，原文留空",
+      "originalRewrite": "识别合理活动目标与过度控制之间的界限，核查知情同意、必要性和退出自由。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制为待实证的分析假设；不因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r27-013",
+      "category": "宗教",
+      "title": "跨信仰婚礼要求公开放弃原有信仰",
+      "prompt": "婚礼组织者要求一方当众宣布放弃原有信仰，否则不允许亲属参加。",
+      "check": "仪式要求与个人信仰自由如何协调？",
+      "risk": "以亲属关系和公开羞辱迫使身份表态。",
+      "wake": "私下讨论仪式边界，寻找双方自愿接受的安排。",
+      "counter": "部分宗教仪式有明确资格规则，但不等于有权强迫个人改信。",
+      "tags": [
+        "宗教",
+        "自主判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；概念参考，未从来源提取真实个案",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章正文，原文留空",
+      "originalRewrite": "识别合理活动目标与过度控制之间的界限，核查知情同意、必要性和退出自由。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制为待实证的分析假设；不因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r27-014",
+      "category": "宗教",
+      "title": "宗教儿童夏令营禁止家长联系",
+      "prompt": "夏令营规定家长不得询问孩子去向，也不提供紧急联络电话。",
+      "check": "活动管理是否保障未成年人安全和监护沟通？",
+      "risk": "用信任权威取代必要的儿童保护措施。",
+      "wake": "要求明确行程、监护安排、紧急联系人及退出机制。",
+      "counter": "适度限制孩子使用手机可能合理，但不应阻断监护联系。",
+      "tags": [
+        "宗教",
+        "自主判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；概念参考，未从来源提取真实个案",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章正文，原文留空",
+      "originalRewrite": "识别合理活动目标与过度控制之间的界限，核查知情同意、必要性和退出自由。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制为待实证的分析假设；不因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r27-015",
+      "category": "宗教",
+      "title": "修行群以公开忏悔录音换取入群",
+      "prompt": "线上修行群要求新人上传可识别身份的私密忏悔录音才能参与。",
+      "check": "加入活动是否必须公开敏感经历？",
+      "risk": "将精神归属与高风险隐私披露绑定。",
+      "wake": "询问匿名、跳过和删除机制，自主决定是否参与。",
+      "counter": "某些传统重视自愿分享，但不代表必须公开可识别录音。",
+      "tags": [
+        "宗教",
+        "自主判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；概念参考，未从来源提取真实个案",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章正文，原文留空",
+      "originalRewrite": "识别合理活动目标与过度控制之间的界限，核查知情同意、必要性和退出自由。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制为待实证的分析假设；不因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r27-016",
+      "category": "宗教",
+      "title": "宗教募款直播公开未捐赠者名单",
+      "prompt": "主持人在直播中逐一念出未捐款成员姓名，要求观众评价其虔诚度。",
+      "check": "自愿奉献是否被转为公开忠诚考核？",
+      "risk": "群体羞耻和声誉压力削弱自主捐赠。",
+      "wake": "要求停止公开点名，独立核验财务用途并自主决定。",
+      "counter": "团体可以公开募款目标，但不应把不捐赠等同于信仰缺陷。",
+      "tags": [
+        "宗教",
+        "自主判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；概念参考，未从来源提取真实个案",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章正文，原文留空",
+      "originalRewrite": "识别合理活动目标与过度控制之间的界限，核查知情同意、必要性和退出自由。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制为待实证的分析假设；不因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r27-017",
+      "category": "宗教",
+      "title": "朝圣团要求游客交出护照至行程结束",
+      "prompt": "组织者要求所有参加者交出护照且不提供取回途径。",
+      "check": "统一保管是否自愿且可随时取回？",
+      "risk": "限制身份证件控制可能妨碍退出和求助。",
+      "wake": "保存证件副本，要求书面保管规则及取回方式。",
+      "counter": "短期代办签证或入住手续可能需要证件，但应明确时限和返还。",
+      "tags": [
+        "宗教",
+        "自主判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；概念参考，未从来源提取真实个案",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章正文，原文留空",
+      "originalRewrite": "识别合理活动目标与过度控制之间的界限，核查知情同意、必要性和退出自由。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制为待实证的分析假设；不因宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r27-018",
+      "category": "宗教",
+      "title": "静修课程禁止报告身体不适",
+      "prompt": "静修负责人称身体不适是修行考验，参加者不得联系外部医生。",
+      "check": "练习纪律是否压过健康和求助权？",
+      "risk": "以精神解释阻碍及时医疗评估。",
+      "wake": "出现危险症状时立即求助，事前确认医疗应急方案。",
+      "counter": "轻微不适可能有多种原因，不能一概视为精神进展。",
+      "tags": [
+        "宗教",
+        "自主判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；概念参考，未从来源提取真实个案",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章正文，原文留空",
+      "originalRewrite": "识别合理活动目标与过度控制之间的界限，核查知情同意、必要性和退出自由。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制为待实证的分析假设；不因宗教身份或不同意见推断操纵",
+      "revision": 1
     }
   ]
 }
