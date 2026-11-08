@@ -19237,6 +19237,470 @@
       ],
       "evidenceStatus": "原创模拟，非真实事件；机制为分析假设，未经独立实证；不因宗教身份或不同意见认定操纵",
       "revision": 1
+    },
+    {
+      "id": "sr-20261109-r30-001",
+      "category": "社会",
+      "title": "灾害避难所用领取饮水资格换取政治表态",
+      "prompt": "避难者被要求在公开屏幕上表态支持某项政策后才能领取饮用水。",
+      "check": "区分紧急救助的基本条件与个人政治表达。",
+      "risk": "把生存必需资源与公开表态捆绑，可能制造胁迫。",
+      "wake": "先确保安全，记录规则并向救援协调方核实是否有无条件领取渠道。",
+      "counter": "可能是工作人员误将满意度问卷设为必填，应核对现场实际发放流程。",
+      "tags": [
+        "社会",
+        "自主选择",
+        "信息透明",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology中文目录仅作概念参考，未核验具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文；无原文摘录",
+      "originalRewrite": "原创改写：避难者被要求在公开屏幕上表态支持某项政策后才能领取饮用水。 辨识时应考虑可核验事实、个人选择权和替代解释。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制属分析假设，未经独立实证；宗教身份及不同意见本身不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r30-002",
+      "category": "社会",
+      "title": "线上课程以学习打卡为由强制分享亲友联系方式",
+      "prompt": "学习平台声称完成每日课程必须导入手机通讯录并邀请十位亲友。",
+      "check": "检查学习目标是否真的需要第三方个人信息。",
+      "risk": "以进度奖励诱导用户替他人授权隐私。",
+      "wake": "请求无通讯录的学习路径，不代替亲友同意数据处理。",
+      "counter": "平台可能将邀请活动误设为课程门槛，应核实条款。",
+      "tags": [
+        "社会",
+        "自主选择",
+        "信息透明",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology中文目录仅作概念参考，未核验具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文；无原文摘录",
+      "originalRewrite": "原创改写：学习平台声称完成每日课程必须导入手机通讯录并邀请十位亲友。 辨识时应考虑可核验事实、个人选择权和替代解释。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制属分析假设，未经独立实证；宗教身份及不同意见本身不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r30-003",
+      "category": "社会",
+      "title": "公司匿名意见箱向主管显示员工真实姓名",
+      "prompt": "员工提交匿名安全建议后，主管在会议中直接点名批评。",
+      "check": "核查匿名承诺、系统权限及报复性反馈是否存在。",
+      "risk": "以匿名名义收集真实意见，却可能压制后续表达。",
+      "wake": "保存匿名说明与反馈记录，通过合规渠道要求解释访问权限。",
+      "counter": "可能因员工在内容中自我暴露身份，需先调查泄露路径。",
+      "tags": [
+        "社会",
+        "自主选择",
+        "信息透明",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology中文目录仅作概念参考，未核验具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文；无原文摘录",
+      "originalRewrite": "原创改写：员工提交匿名安全建议后，主管在会议中直接点名批评。 辨识时应考虑可核验事实、个人选择权和替代解释。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制属分析假设，未经独立实证；宗教身份及不同意见本身不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r30-004",
+      "category": "社会",
+      "title": "二手交易平台要求卖家提供短信验证码给买家",
+      "prompt": "买家说只有卖家转发银行验证码才能确认货款已到账。",
+      "check": "区分平台支付通知与账户登录验证。",
+      "risk": "利用收款期待诱导交出账户验证凭证。",
+      "wake": "只在官方应用核对到账，不向任何人转发验证码。",
+      "counter": "买家可能误解支付步骤，但验证码仍不应分享。",
+      "tags": [
+        "社会",
+        "自主选择",
+        "信息透明",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology中文目录仅作概念参考，未核验具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文；无原文摘录",
+      "originalRewrite": "原创改写：买家说只有卖家转发银行验证码才能确认货款已到账。 辨识时应考虑可核验事实、个人选择权和替代解释。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制属分析假设，未经独立实证；宗教身份及不同意见本身不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r30-005",
+      "category": "社会",
+      "title": "邻里互助小组以老人安全为由要求全员共享实时定位",
+      "prompt": "社区群把全天候定位共享设为参加买菜互助的条件。",
+      "check": "区分必要的配送地址与持续行踪追踪。",
+      "risk": "把合理照护扩大为无期限位置监控。",
+      "wake": "商议按次提供送货地址和紧急联络方式。",
+      "counter": "部分高风险老人可能自愿需要定位服务，须逐人同意。",
+      "tags": [
+        "社会",
+        "自主选择",
+        "信息透明",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology中文目录仅作概念参考，未核验具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文；无原文摘录",
+      "originalRewrite": "原创改写：社区群把全天候定位共享设为参加买菜互助的条件。 辨识时应考虑可核验事实、个人选择权和替代解释。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制属分析假设，未经独立实证；宗教身份及不同意见本身不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r30-006",
+      "category": "社会",
+      "title": "公益助学项目要求受助儿童公开讲述家庭创伤",
+      "prompt": "组织者规定孩子必须在直播中详细讲述家庭困难才能领取助学金。",
+      "check": "核查资助资格与公开展示私人经历的必要关联。",
+      "risk": "用资源依赖换取难以撤回的敏感故事曝光。",
+      "wake": "要求私密审核与匿名展示选项，尊重儿童及监护人意愿。",
+      "counter": "组织者可能为筹款说明用途，但不必公开儿童可识别信息。",
+      "tags": [
+        "社会",
+        "自主选择",
+        "信息透明",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology中文目录仅作概念参考，未核验具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文；无原文摘录",
+      "originalRewrite": "原创改写：组织者规定孩子必须在直播中详细讲述家庭困难才能领取助学金。 辨识时应考虑可核验事实、个人选择权和替代解释。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制属分析假设，未经独立实证；宗教身份及不同意见本身不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r30-007",
+      "category": "社会",
+      "title": "求职测评把拒绝摄像头常开解释为缺乏诚信",
+      "prompt": "招聘平台在非视频岗位测评中要求连续数日开启家中摄像头。",
+      "check": "检查岗位需求、监测比例与保存期限。",
+      "risk": "以诚信标签施压接受过度家庭监控。",
+      "wake": "询问替代验证、数据删除期限及正式招聘政策。",
+      "counter": "远程考试可能需要有限监考，但全天家庭监控未必必要。",
+      "tags": [
+        "社会",
+        "自主选择",
+        "信息透明",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology中文目录仅作概念参考，未核验具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文；无原文摘录",
+      "originalRewrite": "原创改写：招聘平台在非视频岗位测评中要求连续数日开启家中摄像头。 辨识时应考虑可核验事实、个人选择权和替代解释。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制属分析假设，未经独立实证；宗教身份及不同意见本身不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r30-008",
+      "category": "社会",
+      "title": "公共图书馆借书卡默认同意商业行为画像",
+      "prompt": "读者办卡时发现借阅历史将自动提供给广告商，且没有独立拒绝选项。",
+      "check": "区分借阅管理与商业分析目的。",
+      "risk": "利用公共文化服务入口收集额外行为数据。",
+      "wake": "请求分离授权并核查图书馆隐私政策。",
+      "counter": "可能是系统模板错误或仅使用不可识别统计数据，需核实。",
+      "tags": [
+        "社会",
+        "自主选择",
+        "信息透明",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology中文目录仅作概念参考，未核验具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文；无原文摘录",
+      "originalRewrite": "原创改写：读者办卡时发现借阅历史将自动提供给广告商，且没有独立拒绝选项。 辨识时应考虑可核验事实、个人选择权和替代解释。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制属分析假设，未经独立实证；宗教身份及不同意见本身不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r30-009",
+      "category": "宗教",
+      "title": "跨信仰对话会把录音同意藏在签到二维码中",
+      "prompt": "参与者以为只是签到，后来发现自己的宗教观点被剪辑成宣传短视频。",
+      "check": "核查录音范围、传播用途与事先单独同意。",
+      "risk": "借交流场合取得超出预期的公开传播许可。",
+      "wake": "要求查看授权文本、撤下未经许可的可识别片段。",
+      "counter": "主办方可能原本计划公开活动记录，但仍应明确告知。",
+      "tags": [
+        "宗教",
+        "自主选择",
+        "信息透明",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology中文目录仅作概念参考，未核验具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文；无原文摘录",
+      "originalRewrite": "原创改写：参与者以为只是签到，后来发现自己的宗教观点被剪辑成宣传短视频。 辨识时应考虑可核验事实、个人选择权和替代解释。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制属分析假设，未经独立实证；宗教身份及不同意见本身不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r30-010",
+      "category": "宗教",
+      "title": "宗教社区探访老人要求家属交出银行账户操作权",
+      "prompt": "探访志愿者声称只有取得老人网银操作权限才能安排定期关怀。",
+      "check": "区分探访服务与财产管理授权。",
+      "risk": "借照护信任获取不必要的资金控制权。",
+      "wake": "通过机构官方渠道核验服务，拒绝提供密码和转账权限。",
+      "counter": "志愿者可能试图帮助缴费，但应使用正规受托程序。",
+      "tags": [
+        "宗教",
+        "自主选择",
+        "信息透明",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology中文目录仅作概念参考，未核验具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文；无原文摘录",
+      "originalRewrite": "原创改写：探访志愿者声称只有取得老人网银操作权限才能安排定期关怀。 辨识时应考虑可核验事实、个人选择权和替代解释。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制属分析假设，未经独立实证；宗教身份及不同意见本身不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r30-011",
+      "category": "宗教",
+      "title": "寺庙文化体验把自愿捐香火钱变成强制扫码付费",
+      "prompt": "访客预约免费文化讲解，到场被告知不扫码捐款就不得离开讲解队伍。",
+      "check": "区分明示门票、自由捐赠与临时收费。",
+      "risk": "用集体压力改变原先的自愿捐赠性质。",
+      "wake": "要求公开收费规则，保留拒捐与退出的选择。",
+      "counter": "场馆可能有合法门票或材料费，需核实事前说明。",
+      "tags": [
+        "宗教",
+        "自主选择",
+        "信息透明",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology中文目录仅作概念参考，未核验具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文；无原文摘录",
+      "originalRewrite": "原创改写：访客预约免费文化讲解，到场被告知不扫码捐款就不得离开讲解队伍。 辨识时应考虑可核验事实、个人选择权和替代解释。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制属分析假设，未经独立实证；宗教身份及不同意见本身不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r30-012",
+      "category": "宗教",
+      "title": "灵修读书会要求参与者销毁与课程观点不同的书籍",
+      "prompt": "主持人说不销毁家中的不同观点书籍就不允许参加下一次讨论。",
+      "check": "辨别课程学习建议与限制个人信息来源。",
+      "risk": "以群体接纳为条件压缩独立阅读空间。",
+      "wake": "保留多来源阅读和自由退出权，核实课程规则。",
+      "counter": "可能是象征性仪式表达，应先确认是否真的要求毁书。",
+      "tags": [
+        "宗教",
+        "自主选择",
+        "信息透明",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology中文目录仅作概念参考，未核验具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文；无原文摘录",
+      "originalRewrite": "原创改写：主持人说不销毁家中的不同观点书籍就不允许参加下一次讨论。 辨识时应考虑可核验事实、个人选择权和替代解释。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制属分析假设，未经独立实证；宗教身份及不同意见本身不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r30-013",
+      "category": "宗教",
+      "title": "宗教婚前辅导把双方私密谈话转发整个群组",
+      "prompt": "辅导者未经双方同意，将婚姻冲突细节发送到数百人群聊。",
+      "check": "核查辅导保密边界及分享对象。",
+      "risk": "把寻求支持时披露的信息变成群体施压材料。",
+      "wake": "要求停止传播并确认后续辅导的保密安排。",
+      "counter": "辅导者可能误以为集体支持有帮助，但仍需征得同意。",
+      "tags": [
+        "宗教",
+        "自主选择",
+        "信息透明",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology中文目录仅作概念参考，未核验具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文；无原文摘录",
+      "originalRewrite": "原创改写：辅导者未经双方同意，将婚姻冲突细节发送到数百人群聊。 辨识时应考虑可核验事实、个人选择权和替代解释。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制属分析假设，未经独立实证；宗教身份及不同意见本身不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r30-014",
+      "category": "宗教",
+      "title": "朝圣团以统一管理为由禁止成员联系当地急救服务",
+      "prompt": "行程中有人胸痛，领队要求只等团队内部祈祷，不得拨打当地急救电话。",
+      "check": "区分精神支持与急症医疗求助。",
+      "risk": "以组织权威延误独立医疗评估的机会。",
+      "wake": "立即联系当地急救服务，并允许自愿的精神支持并行。",
+      "counter": "领队可能误判症状而非有意控制，仍应以医疗安全优先。",
+      "tags": [
+        "宗教",
+        "自主选择",
+        "信息透明",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology中文目录仅作概念参考，未核验具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文；无原文摘录",
+      "originalRewrite": "原创改写：行程中有人胸痛，领队要求只等团队内部祈祷，不得拨打当地急救电话。 辨识时应考虑可核验事实、个人选择权和替代解释。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制属分析假设，未经独立实证；宗教身份及不同意见本身不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r30-015",
+      "category": "宗教",
+      "title": "宗教青年活动要求未成年人签署永久公开见证授权",
+      "prompt": "青少年参加一次活动，报名表默认永久公开其个人信仰故事和照片。",
+      "check": "核查未成年人同意、监护人授权及未来撤回机制。",
+      "risk": "把短期活动参与扩展为长期身份曝光。",
+      "wake": "提供不公开参加方式并限定授权期限与用途。",
+      "counter": "主办方可能只想记录活动成果，但长期公开需额外审慎。",
+      "tags": [
+        "宗教",
+        "自主选择",
+        "信息透明",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology中文目录仅作概念参考，未核验具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文；无原文摘录",
+      "originalRewrite": "原创改写：青少年参加一次活动，报名表默认永久公开其个人信仰故事和照片。 辨识时应考虑可核验事实、个人选择权和替代解释。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制属分析假设，未经独立实证；宗教身份及不同意见本身不构成操纵证据",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r30-016",
+      "category": "宗教",
+      "title": "冥想线上社群将不同意见自动标记为精神不纯",
+      "prompt": "成员提出课程收费疑问，管理员便公开给其贴上精神不纯标签。",
+      "check": "区分对观点的讨论与对人格、精神状态的无依据定性。",
+      "risk": "用污名化替代回应具体收费问题。",
+      "wake": "要求透明收费解释，保留表达异议和退出权。",
+      "counter": "管理员可能在维护讨论秩序，需看是否存在真实骚扰行为。",
+      "tags": [
+        "宗教",
+        "自主选择",
+        "信息透明",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology中文目录仅作概念参考，未核验具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体文章正文；无原文摘录",
+      "originalRewrite": "原创改写：成员提出课程收费疑问，管理员便公开给其贴上精神不纯标签。 辨识时应考虑可核验事实、个人选择权和替代解释。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；机制属分析假设，未经独立实证；宗教身份及不同意见本身不构成操纵证据",
+      "revision": 1
     }
   ]
 }
