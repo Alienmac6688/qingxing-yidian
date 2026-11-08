@@ -16289,6 +16289,402 @@
       ],
       "evidenceStatus": "原创模拟，非真实事件；行为风险需具体证据；不以宗教身份或异议推断操纵",
       "revision": 1
+    },
+    {
+      "id": "sr-20261108-r23-001",
+      "category": "社会",
+      "title": "远程监考软件要求持续读取私人相册",
+      "prompt": "培训机构规定线上结业考试必须授权软件访问整个手机相册。",
+      "check": "确认监考目标是否需要历史照片，以及权限范围和保存期限。",
+      "risk": "以考试资格为条件索取超出必要范围的数据。",
+      "wake": "要求限定摄像头与考试时段权限，询问替代线下监考。",
+      "counter": "监考确需防作弊措施，但不意味着所有相册数据都必需。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考Awakenology中文目录的独立辨识主题，不代表来源报道了该事件",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未逐篇核验正文；不提供原文摘录",
+      "originalRewrite": "辨识点：确认监考目标是否需要历史照片，以及权限范围和保存期限。 催眠点：以考试资格为条件索取超出必要范围的数据。 催醒点：要求限定摄像头与考试时段权限，询问替代线下监考。",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": "",
+          "scope": "概念参考；非事件证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；需具体证据判断行为；不以宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r23-002",
+      "category": "社会",
+      "title": "数字遗产服务要求预先交出全部账户恢复密钥",
+      "prompt": "服务商宣称替家人保管数字遗产，要求用户现在提交所有邮箱与银行恢复密钥。",
+      "check": "核实遗产交接所需授权、密钥托管安全和撤销程序。",
+      "risk": "借身后事务焦虑要求立即转移当前账户控制权。",
+      "wake": "优先使用平台官方遗产联系人功能，避免集中交付完整密钥。",
+      "counter": "正规遗产规划确实需要授权设计，关键是最小权限与审计。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考Awakenology中文目录的独立辨识主题，不代表来源报道了该事件",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未逐篇核验正文；不提供原文摘录",
+      "originalRewrite": "辨识点：核实遗产交接所需授权、密钥托管安全和撤销程序。 催眠点：借身后事务焦虑要求立即转移当前账户控制权。 催醒点：优先使用平台官方遗产联系人功能，避免集中交付完整密钥。",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": "",
+          "scope": "概念参考；非事件证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；需具体证据判断行为；不以宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r23-003",
+      "category": "社会",
+      "title": "志愿者工时证明绑定个人社交媒体转发量",
+      "prompt": "公益活动负责人要求每人转发十次宣传海报才能获得已完成服务的工时证明。",
+      "check": "分清实际服务记录与额外宣传任务是否事先约定。",
+      "risk": "用已付出的劳动成果迫使参加者进行不愿意的传播。",
+      "wake": "保存签到证据，要求按原标准出具证明并提供申诉。",
+      "counter": "宣传也可能属于活动职责，但应事前透明约定。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考Awakenology中文目录的独立辨识主题，不代表来源报道了该事件",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未逐篇核验正文；不提供原文摘录",
+      "originalRewrite": "辨识点：分清实际服务记录与额外宣传任务是否事先约定。 催眠点：用已付出的劳动成果迫使参加者进行不愿意的传播。 催醒点：保存签到证据，要求按原标准出具证明并提供申诉。",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": "",
+          "scope": "概念参考；非事件证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；需具体证据判断行为；不以宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r23-004",
+      "category": "社会",
+      "title": "租赁平台把押金退还与五星好评捆绑",
+      "prompt": "退租后房东表示先给五星评价才会启动押金退款。",
+      "check": "核查合同退押期限与评价机制是否独立。",
+      "risk": "以应退资金为筹码影响公开评价真实性。",
+      "wake": "按合同提出书面退款申请，保留沟通与房屋验收记录。",
+      "counter": "房东可能误解平台流程，需先核实真实规则。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考Awakenology中文目录的独立辨识主题，不代表来源报道了该事件",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未逐篇核验正文；不提供原文摘录",
+      "originalRewrite": "辨识点：核查合同退押期限与评价机制是否独立。 催眠点：以应退资金为筹码影响公开评价真实性。 催醒点：按合同提出书面退款申请，保留沟通与房屋验收记录。",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": "",
+          "scope": "概念参考；非事件证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；需具体证据判断行为；不以宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r23-005",
+      "category": "社会",
+      "title": "养老照护机构以安全为由禁止家属查看护理记录",
+      "prompt": "机构说只要相信专业人员，就不应查看亲属的用药和护理记录。",
+      "check": "核查当事人授权、法定访问权和合理隐私限制。",
+      "risk": "用专业权威取代对具体护理质量的可核查信息。",
+      "wake": "依据本人同意和适用规定申请记录，寻求独立评估。",
+      "counter": "部分医疗信息确有保密要求，家属并非天然享有全部访问权。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考Awakenology中文目录的独立辨识主题，不代表来源报道了该事件",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未逐篇核验正文；不提供原文摘录",
+      "originalRewrite": "辨识点：核查当事人授权、法定访问权和合理隐私限制。 催眠点：用专业权威取代对具体护理质量的可核查信息。 催醒点：依据本人同意和适用规定申请记录，寻求独立评估。",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": "",
+          "scope": "概念参考；非事件证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；需具体证据判断行为；不以宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r23-006",
+      "category": "社会",
+      "title": "社区算法信用分要求居民公开邻里纠纷历史",
+      "prompt": "社区试点声称只有提交所有私人纠纷聊天记录才能获得公共设施预约资格。",
+      "check": "确认公共设施使用资格与私人纠纷数据的必要联系。",
+      "risk": "把公共服务准入与无关私人信息披露绑定。",
+      "wake": "要求公开评分标准、申诉渠道与不提供敏感记录的替代路径。",
+      "counter": "项目可能为调解风险设计，但应有比例性和合法依据。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考Awakenology中文目录的独立辨识主题，不代表来源报道了该事件",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未逐篇核验正文；不提供原文摘录",
+      "originalRewrite": "辨识点：确认公共设施使用资格与私人纠纷数据的必要联系。 催眠点：把公共服务准入与无关私人信息披露绑定。 催醒点：要求公开评分标准、申诉渠道与不提供敏感记录的替代路径。",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": "",
+          "scope": "概念参考；非事件证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；需具体证据判断行为；不以宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r23-007",
+      "category": "社会",
+      "title": "公益遗嘱讲座将签署代理授权设为领取资料条件",
+      "prompt": "老年人参加免费遗嘱讲座，离场领取资料时被要求先签署广泛财产代理授权。",
+      "check": "区分资料领取与可产生法律后果的代理文件。",
+      "risk": "以免费咨询便利掩盖高风险法律授权。",
+      "wake": "带走空白文件独立咨询专业人士，拒绝现场仓促签署。",
+      "counter": "工作人员可能把咨询委托和代理授权混淆，需看文件内容。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考Awakenology中文目录的独立辨识主题，不代表来源报道了该事件",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未逐篇核验正文；不提供原文摘录",
+      "originalRewrite": "辨识点：区分资料领取与可产生法律后果的代理文件。 催眠点：以免费咨询便利掩盖高风险法律授权。 催醒点：带走空白文件独立咨询专业人士，拒绝现场仓促签署。",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": "",
+          "scope": "概念参考；非事件证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；需具体证据判断行为；不以宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r23-008",
+      "category": "宗教",
+      "title": "寺院导览将游客扫码捐赠记录公开排名",
+      "prompt": "文化导览活动结束后，组织者把游客姓名和捐赠金额投屏排名。",
+      "check": "核实捐赠是否自愿以及是否同意实名公开。",
+      "risk": "利用公众比较和羞耻压力改变原本自由的捐赠选择。",
+      "wake": "提供匿名捐赠及退出展示选项，要求删除未经授权记录。",
+      "counter": "公开致谢可能出于善意，关键在于事先明确同意。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考Awakenology中文目录的独立辨识主题，不代表来源报道了该事件",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未逐篇核验正文；不提供原文摘录",
+      "originalRewrite": "辨识点：核实捐赠是否自愿以及是否同意实名公开。 催眠点：利用公众比较和羞耻压力改变原本自由的捐赠选择。 催醒点：提供匿名捐赠及退出展示选项，要求删除未经授权记录。",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": "",
+          "scope": "概念参考；非事件证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；需具体证据判断行为；不以宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r23-009",
+      "category": "宗教",
+      "title": "跨宗教对话活动要求参与者签署永久不退出声明",
+      "prompt": "交流活动报名表附带不得退出社群、不得联系其他组织的永久承诺。",
+      "check": "区分一次活动规则与长期个人信仰和结社自由。",
+      "risk": "以交流机会换取不成比例的长期身份约束。",
+      "wake": "要求删除永久条款，保留自由退出与跨群体交流权。",
+      "counter": "活动可设置安全和秩序规则，但永久限制需要严格审视。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考Awakenology中文目录的独立辨识主题，不代表来源报道了该事件",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未逐篇核验正文；不提供原文摘录",
+      "originalRewrite": "辨识点：区分一次活动规则与长期个人信仰和结社自由。 催眠点：以交流机会换取不成比例的长期身份约束。 催醒点：要求删除永久条款，保留自由退出与跨群体交流权。",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": "",
+          "scope": "概念参考；非事件证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；需具体证据判断行为；不以宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r23-010",
+      "category": "宗教",
+      "title": "宗教仪式摄影师将私人祈愿内容用作广告文案",
+      "prompt": "参与者只同意拍摄仪式合照，后来发现个人祈愿文字被用于商业广告。",
+      "check": "区分肖像拍摄同意与敏感个人叙述的二次商业使用。",
+      "risk": "把参加仪式误当成对所有后续传播的无限授权。",
+      "wake": "要求明确用途、撤稿渠道和独立可撤销的授权。",
+      "counter": "摄影师可能误解活动统一授权范围，需核对具体协议。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考Awakenology中文目录的独立辨识主题，不代表来源报道了该事件",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未逐篇核验正文；不提供原文摘录",
+      "originalRewrite": "辨识点：区分肖像拍摄同意与敏感个人叙述的二次商业使用。 催眠点：把参加仪式误当成对所有后续传播的无限授权。 催醒点：要求明确用途、撤稿渠道和独立可撤销的授权。",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": "",
+          "scope": "概念参考；非事件证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；需具体证据判断行为；不以宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r23-011",
+      "category": "宗教",
+      "title": "临终关怀志愿者以祈祷为条件提供陪伴",
+      "prompt": "病房志愿者告诉患者，只有参加其宗教祈祷才能继续得到陪伴服务。",
+      "check": "确认患者意愿及陪伴服务是否应独立于宗教参与。",
+      "risk": "在脆弱情境下把支持与信仰选择捆绑。",
+      "wake": "尊重患者拒绝权，联系医院社工与其他陪伴资源。",
+      "counter": "志愿者可提供自愿的宗教关怀，但不宜强迫或惩罚拒绝者。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考Awakenology中文目录的独立辨识主题，不代表来源报道了该事件",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未逐篇核验正文；不提供原文摘录",
+      "originalRewrite": "辨识点：确认患者意愿及陪伴服务是否应独立于宗教参与。 催眠点：在脆弱情境下把支持与信仰选择捆绑。 催醒点：尊重患者拒绝权，联系医院社工与其他陪伴资源。",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": "",
+          "scope": "概念参考；非事件证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；需具体证据判断行为；不以宗教身份或不同意见推断操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r23-012",
+      "category": "宗教",
+      "title": "宗教翻译小组删去教义争议段落却声称全文直译",
+      "prompt": "读书会发放译文，删除原文中的争议内容，却告知新人这是完整逐字翻译。",
+      "check": "对照原文、译注和删节说明，区分诠释与翻译。",
+      "risk": "借译者权威制造不存在的文本一致性。",
+      "wake": "查阅多个译本，要求明确标示删节和译者意见。",
+      "counter": "简化译本可能服务初学者，问题在于是否透明标注。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；参考Awakenology中文目录的独立辨识主题，不代表来源报道了该事件",
+      "sourceTitle": "Awakenology 中文目录",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "本轮未逐篇核验正文；不提供原文摘录",
+      "originalRewrite": "辨识点：对照原文、译注和删节说明，区分诠释与翻译。 催眠点：借译者权威制造不存在的文本一致性。 催醒点：查阅多个译本，要求明确标示删节和译者意见。",
+      "references": [
+        {
+          "title": "Awakenology 中文目录",
+          "url": "https://awakenology.org/Chinese/",
+          "published": "",
+          "scope": "概念参考；非事件证据"
+        }
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；需具体证据判断行为；不以宗教身份或不同意见推断操纵",
+      "revision": 1
     }
   ]
 }
