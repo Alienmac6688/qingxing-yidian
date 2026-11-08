@@ -18541,6 +18541,354 @@
       ],
       "evidenceStatus": "原创模拟，非真实事件；机制为待实证的分析假设；不因宗教身份或不同意见推断操纵",
       "revision": 1
+    },
+    {
+      "id": "sr-20261108-r28-001",
+      "category": "社会",
+      "title": "校友创业导师要求学员照搬其失败复盘模板",
+      "prompt": "创业社群导师要求每位学员按他的十年前创业步骤逐日执行，并称不照做就没有成功资格。",
+      "check": "核查行业、资金、个人技能与当年环境是否可比。",
+      "risk": "把个人成功路径包装成人人适用的唯一方法，可能压缩独立试错。",
+      "wake": "询问适用条件、失败样本和退出机制，先小规模试验。",
+      "counter": "标准流程可能帮助新手减少遗漏，但应允许根据实际情况调整。",
+      "tags": [
+        "社会",
+        "经验泛化",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology《破權威幻》仅作概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对文章正文；摘录为观点，不是案例发生证据",
+      "originalRewrite": "他人的成功经验可供参考，却不能预先决定不同个体的选择和结果。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；分析机制为假设，未经独立实证；不因宗教身份或不同意见认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r28-002",
+      "category": "社会",
+      "title": "AI求职教练宣称能预知每个人的职业命运",
+      "prompt": "求职App依据十道性格题承诺精确预测用户未来十年的职位与薪水，要求先交高额会员费。",
+      "check": "区分职业规划建议与无法验证的个人未来保证。",
+      "risk": "确定性承诺可能借焦虑推动付费。",
+      "wake": "要求预测方法、误差范围及退款条件，比较独立职业信息。",
+      "counter": "性格测评可以辅助讨论偏好，但不能单独决定职业结局。",
+      "tags": [
+        "社会",
+        "经验泛化",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology《破權威幻》仅作概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对文章正文；摘录为观点，不是案例发生证据",
+      "originalRewrite": "他人的成功经验可供参考，却不能预先决定不同个体的选择和结果。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；分析机制为假设，未经独立实证；不因宗教身份或不同意见认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r28-003",
+      "category": "社会",
+      "title": "公益组织以志愿者成功故事否定残障者个别需求",
+      "prompt": "项目负责人说以前一位残障志愿者能连续站立八小时，所以所有残障志愿者都无需座椅。",
+      "check": "辨识单一个案是否被不当推广到不同身体条件。",
+      "risk": "成功榜样可能被用来压制合理便利请求。",
+      "wake": "逐人评估需求，设置可调整的岗位与休息安排。",
+      "counter": "负责人可能想鼓励平等参与，但平等不等于忽视差异。",
+      "tags": [
+        "社会",
+        "经验泛化",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology《破權威幻》仅作概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对文章正文；摘录为观点，不是案例发生证据",
+      "originalRewrite": "他人的成功经验可供参考，却不能预先决定不同个体的选择和结果。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；分析机制为假设，未经独立实证；不因宗教身份或不同意见认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r28-004",
+      "category": "社会",
+      "title": "家庭理财群用一次暴富经历保证复制收益",
+      "prompt": "亲戚展示三年前买房获利的截图，要求所有家人借款购买同一地段房产。",
+      "check": "核查时间、杠杆、税费、流动性与市场变化。",
+      "risk": "幸存者故事与亲情压力可能掩盖下行风险。",
+      "wake": "独立测算最坏现金流并保留不参与的权利。",
+      "counter": "亲戚可能真心分享机会，但历史收益不构成保证。",
+      "tags": [
+        "社会",
+        "经验泛化",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology《破權威幻》仅作概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对文章正文；摘录为观点，不是案例发生证据",
+      "originalRewrite": "他人的成功经验可供参考，却不能预先决定不同个体的选择和结果。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；分析机制为假设，未经独立实证；不因宗教身份或不同意见认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r28-005",
+      "category": "社会",
+      "title": "医院康复互助群将单人痊愈经历当作停药标准",
+      "prompt": "群主称自己靠运动恢复，因此要求其他患者立即停掉医生处方。",
+      "check": "区分个人经历、疾病差异和医学证据。",
+      "risk": "以见证替代个体诊疗可能延误治疗。",
+      "wake": "保留治疗记录，与合格医生讨论任何调整。",
+      "counter": "运动可能有辅助价值，但不能据此推断适合所有患者。",
+      "tags": [
+        "社会",
+        "经验泛化",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology《破權威幻》仅作概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对文章正文；摘录为观点，不是案例发生证据",
+      "originalRewrite": "他人的成功经验可供参考，却不能预先决定不同个体的选择和结果。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；分析机制为假设，未经独立实证；不因宗教身份或不同意见认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r28-006",
+      "category": "社会",
+      "title": "学校升学分享会禁止学生询问失败案例",
+      "prompt": "学校只展示往届名校录取者，主持人要求学生不要问落榜比例，称负面数据会破坏信心。",
+      "check": "核查展示样本是否完整，是否披露总人数与录取率。",
+      "risk": "选择性呈现可能制造必然成功的错觉。",
+      "wake": "索取完整去向统计并对照自己的条件。",
+      "counter": "分享会可以聚焦鼓励，但应清楚标注选择性样本。",
+      "tags": [
+        "社会",
+        "经验泛化",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology《破權威幻》仅作概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对文章正文；摘录为观点，不是案例发生证据",
+      "originalRewrite": "他人的成功经验可供参考，却不能预先决定不同个体的选择和结果。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；分析机制为假设，未经独立实证；不因宗教身份或不同意见认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r28-007",
+      "category": "宗教",
+      "title": "灵修导师以自己的顿悟时间表考核所有学员",
+      "prompt": "导师称自己七天获得重要体验，因此每个学员七天内没体验就必须加购课程。",
+      "check": "体验差异能否作为收费与资格判断的客观依据？",
+      "risk": "以个人体验作为普遍标准可能引发自责和消费压力。",
+      "wake": "要求透明收费与退出规则，不将未达到体验视为人格缺陷。",
+      "counter": "导师可能希望提供练习节奏，但个人体验无法保证复制。",
+      "tags": [
+        "宗教",
+        "经验泛化",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology《破權威幻》仅作概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对文章正文；摘录为观点，不是案例发生证据",
+      "originalRewrite": "他人的成功经验可供参考，却不能预先决定不同个体的选择和结果。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；分析机制为假设，未经独立实证；不因宗教身份或不同意见认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r28-008",
+      "category": "宗教",
+      "title": "禅修营以名师经历否定学员的身体限制",
+      "prompt": "负责人说名师年轻时曾连续静坐十小时，要求有关节疾病的学员也照做。",
+      "check": "区分修行榜样与身体安全及个体差异。",
+      "risk": "权威示范可能令学员忽视疼痛和医疗建议。",
+      "wake": "选择适合自身的姿势与时长，必要时就医并停止练习。",
+      "counter": "长时间静坐可能适合部分人，但不应成为强制标准。",
+      "tags": [
+        "宗教",
+        "经验泛化",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology《破權威幻》仅作概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对文章正文；摘录为观点，不是案例发生证据",
+      "originalRewrite": "他人的成功经验可供参考，却不能预先决定不同个体的选择和结果。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；分析机制为假设，未经独立实证；不因宗教身份或不同意见认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r28-009",
+      "category": "宗教",
+      "title": "跨宗教学习班用改宗者故事承诺人人会得到同样结果",
+      "prompt": "课程宣传称一位学员改变信仰后家庭关系改善，因此报名者都将得到同样结果。",
+      "check": "区分个人见证与可普遍验证的因果关系。",
+      "risk": "把见证当保证可能影响自主信仰选择。",
+      "wake": "了解不同经历，保留信仰、质疑与退出自由。",
+      "counter": "个人见证可以真诚且有意义，但不能替他人保证结果。",
+      "tags": [
+        "宗教",
+        "经验泛化",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology《破權威幻》仅作概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对文章正文；摘录为观点，不是案例发生证据",
+      "originalRewrite": "他人的成功经验可供参考，却不能预先决定不同个体的选择和结果。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；分析机制为假设，未经独立实证；不因宗教身份或不同意见认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r28-010",
+      "category": "宗教",
+      "title": "宗教志愿培训把拒绝模仿领袖视为不虔诚",
+      "prompt": "志愿培训要求学员完全复制领袖的饮食和睡眠习惯，否则被公开指责信仰不足。",
+      "check": "核查规则与志愿服务任务的必要联系。",
+      "risk": "将个人生活方式等同信仰忠诚可能造成羞辱。",
+      "wake": "要求清晰规则及合理例外，尊重个人健康和选择。",
+      "counter": "团体可能有自愿共同纪律，但应说明边界且允许异议。",
+      "tags": [
+        "宗教",
+        "经验泛化",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology《破權威幻》仅作概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对文章正文；摘录为观点，不是案例发生证据",
+      "originalRewrite": "他人的成功经验可供参考，却不能预先决定不同个体的选择和结果。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；分析机制为假设，未经独立实证；不因宗教身份或不同意见认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r28-011",
+      "category": "宗教",
+      "title": "朝圣经验分享会把一次平安旅程当作安全保证",
+      "prompt": "领队用自己多年未遇险的经历否定天气预警，要求所有参加者照常进入封闭山区。",
+      "check": "检查官方预警、道路管制和应急方案。",
+      "risk": "资历和过去好运可能掩盖当下客观危险。",
+      "wake": "以最新安全信息为准，允许取消或改期。",
+      "counter": "领队经验可帮助规划路线，但不能取代即时风险评估。",
+      "tags": [
+        "宗教",
+        "经验泛化",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology《破權威幻》仅作概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对文章正文；摘录为观点，不是案例发生证据",
+      "originalRewrite": "他人的成功经验可供参考，却不能预先决定不同个体的选择和结果。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；分析机制为假设，未经独立实证；不因宗教身份或不同意见认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r28-012",
+      "category": "宗教",
+      "title": "信仰咨询者用个人婚姻经验要求他人立即离婚",
+      "prompt": "咨询志愿者称自己离婚后获得精神成长，劝每位婚姻困难的信徒立即离婚并切断家庭联系。",
+      "check": "辨别支持性分享与越界替别人决定重大生活选择。",
+      "risk": "将个人转变路径当作通用答案可能影响家庭自主权。",
+      "wake": "结合具体安全、法律与经济情况寻求独立专业支持。",
+      "counter": "志愿者可能真诚分享自身经验，但不能代替当事人判断。",
+      "tags": [
+        "宗教",
+        "经验泛化",
+        "独立判断",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟（非真实事件）；Awakenology《破權威幻》仅作概念参考",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核对文章正文；摘录为观点，不是案例发生证据",
+      "originalRewrite": "他人的成功经验可供参考，却不能预先决定不同个体的选择和结果。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；分析机制为假设，未经独立实证；不因宗教身份或不同意见认定操纵",
+      "revision": 1
     }
   ]
 }
