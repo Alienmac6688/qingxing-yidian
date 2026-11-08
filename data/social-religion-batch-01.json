@@ -14745,6 +14745,354 @@
       ],
       "evidenceStatus": "原创模拟案例；事件未经实证；参考链接不构成案例事实证据",
       "revision": 1
+    },
+    {
+      "id": "sr-20261108-r19-001",
+      "category": "社会",
+      "title": "医院陪诊志愿者要求保管患者手机",
+      "prompt": "陪诊志愿者说为方便挂号，要把患者手机带回家并保管到第二天。",
+      "check": "区分协助操作与持续占有设备的必要性。",
+      "risk": "便利承诺可能掩盖账户、支付与隐私风险。",
+      "wake": "由患者本人持机操作；需要代办时明确范围、时间和监督方式。",
+      "counter": "志愿者可能出于帮助，但应采用可监督的最小权限方式。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念讨论，不证明情境真实发生",
+      "sourceTitle": "Awakenology 中文目录（概念参考；本轮未核验具体篇章）",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验原文，不摘录",
+      "originalRewrite": "原创模拟：陪诊志愿者说为方便挂号，要把患者手机带回家并保管到第二天。 应核实具体行为与证据，不根据宗教身份或不同意见推定操纵。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；来源仅作概念参考",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r19-002",
+      "category": "社会",
+      "title": "学校研学旅行要求家长交出支付密码",
+      "prompt": "研学报名负责人说统一代购车票需要每位家长提交支付账户密码。",
+      "check": "核对购票流程是否真的需要账户密码。",
+      "risk": "以统一组织之名扩大对家庭资金的访问权限。",
+      "wake": "采用学校对公收款或家长自行支付，绝不提供密码。",
+      "counter": "负责人可能不熟悉安全支付方式，不代表必然恶意。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念讨论，不证明情境真实发生",
+      "sourceTitle": "Awakenology 中文目录（概念参考；本轮未核验具体篇章）",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验原文，不摘录",
+      "originalRewrite": "原创模拟：研学报名负责人说统一代购车票需要每位家长提交支付账户密码。 应核实具体行为与证据，不根据宗教身份或不同意见推定操纵。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；来源仅作概念参考",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r19-003",
+      "category": "社会",
+      "title": "社区调解要求删除所有争议证据",
+      "prompt": "邻里纠纷调解员要求双方先永久删除照片与聊天记录，才允许参加调解。",
+      "check": "区分停止公开传播与销毁合法保存的证据。",
+      "risk": "用和解期待迫使当事人放弃后续核实能力。",
+      "wake": "可约定保密与停止传播，同时保留合法证据及必要的申诉渠道。",
+      "counter": "调解员可能担心资料扩散，但保密不等于销毁。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念讨论，不证明情境真实发生",
+      "sourceTitle": "Awakenology 中文目录（概念参考；本轮未核验具体篇章）",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验原文，不摘录",
+      "originalRewrite": "原创模拟：邻里纠纷调解员要求双方先永久删除照片与聊天记录，才允许参加调解。 应核实具体行为与证据，不根据宗教身份或不同意见推定操纵。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；来源仅作概念参考",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r19-004",
+      "category": "社会",
+      "title": "求职面试要求候选人安装个人设备管理程序",
+      "prompt": "招聘方要求应聘者在私人手机安装可远程清除数据的管理软件，称只是完成线上面试。",
+      "check": "核对软件权限、面试必要性与设备所有权。",
+      "risk": "把就业机会与过度设备控制绑定。",
+      "wake": "申请网页面试或借用受控设备，要求书面说明权限与卸载方法。",
+      "counter": "企业可能采用正规设备管理方案，但应限定在企业设备。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念讨论，不证明情境真实发生",
+      "sourceTitle": "Awakenology 中文目录（概念参考；本轮未核验具体篇章）",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验原文，不摘录",
+      "originalRewrite": "原创模拟：招聘方要求应聘者在私人手机安装可远程清除数据的管理软件，称只是完成线上面试。 应核实具体行为与证据，不根据宗教身份或不同意见推定操纵。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；来源仅作概念参考",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r19-005",
+      "category": "社会",
+      "title": "房东要求租客预签未来涨租同意书",
+      "prompt": "租约续签时房东要求租客同时签一张未填金额和日期的涨租同意书。",
+      "check": "检查协议是否存在关键空白及未来单方填充风险。",
+      "risk": "以续租压力促使提前放弃价格协商权。",
+      "wake": "只签内容完整的协议，保留副本并咨询当地租赁规则。",
+      "counter": "房东可能为简化手续，但空白条款仍应补齐。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念讨论，不证明情境真实发生",
+      "sourceTitle": "Awakenology 中文目录（概念参考；本轮未核验具体篇章）",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验原文，不摘录",
+      "originalRewrite": "原创模拟：租约续签时房东要求租客同时签一张未填金额和日期的涨租同意书。 应核实具体行为与证据，不根据宗教身份或不同意见推定操纵。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；来源仅作概念参考",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r19-006",
+      "category": "社会",
+      "title": "公益义卖要求志愿者交出私人捐赠人名单",
+      "prompt": "活动负责人要求志愿者导出自己手机里所有亲友联系方式，用于未来募款短信。",
+      "check": "区分活动联络与未经同意使用第三方通讯录。",
+      "risk": "借公益目标扩大个人数据收集。",
+      "wake": "改用自愿订阅二维码，由捐赠者主动授权联系。",
+      "counter": "负责人可能希望扩大活动影响，但仍需尊重联系人意愿。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念讨论，不证明情境真实发生",
+      "sourceTitle": "Awakenology 中文目录（概念参考；本轮未核验具体篇章）",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验原文，不摘录",
+      "originalRewrite": "原创模拟：活动负责人要求志愿者导出自己手机里所有亲友联系方式，用于未来募款短信。 应核实具体行为与证据，不根据宗教身份或不同意见推定操纵。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；来源仅作概念参考",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r19-007",
+      "category": "社会",
+      "title": "保险理赔群要求患者公开完整检查报告",
+      "prompt": "互助群管理员说要判断是否值得帮忙，必须把病人完整检查报告发到数百人群里。",
+      "check": "区分核实援助资格与向无关成员公开健康隐私。",
+      "risk": "以获得支持为条件制造过度披露。",
+      "wake": "由可信核验人员查看必要信息，群内仅发布脱敏摘要。",
+      "counter": "群友可能想防止欺诈，但不需要全员看到原件。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念讨论，不证明情境真实发生",
+      "sourceTitle": "Awakenology 中文目录（概念参考；本轮未核验具体篇章）",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验原文，不摘录",
+      "originalRewrite": "原创模拟：互助群管理员说要判断是否值得帮忙，必须把病人完整检查报告发到数百人群里。 应核实具体行为与证据，不根据宗教身份或不同意见推定操纵。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；来源仅作概念参考",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r19-008",
+      "category": "宗教",
+      "title": "宗教文化节报名要求填写政治立场",
+      "prompt": "社区宗教文化节的报名表要求参与者填写与活动无关的政治立场，否则不能入场。",
+      "check": "核对活动安全所需信息与观点登记之间的关系。",
+      "risk": "把参与公共文化活动与敏感观点披露绑定。",
+      "wake": "询问用途与保存期限，主张只收集必要的活动信息。",
+      "counter": "主办方可能想了解参与者背景，但一般不需要登记立场。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念讨论，不证明情境真实发生",
+      "sourceTitle": "Awakenology 中文目录（概念参考；本轮未核验具体篇章）",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验原文，不摘录",
+      "originalRewrite": "原创模拟：社区宗教文化节的报名表要求参与者填写与活动无关的政治立场，否则不能入场。 应核实具体行为与证据，不根据宗教身份或不同意见推定操纵。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；来源仅作概念参考",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r19-009",
+      "category": "宗教",
+      "title": "信仰咨询把不公开求助内容视为不诚实",
+      "prompt": "咨询主持人要求求助者在公开直播中讲出全部家庭争执细节，否则说其不愿面对真相。",
+      "check": "区分自愿分享与被迫公开私人家庭信息。",
+      "risk": "用道德评价削弱当事人的保密选择。",
+      "wake": "可在私密环境讨论并省略第三方身份，明确直播授权可拒绝。",
+      "counter": "主持人可能相信公开见证有帮助，但不应剥夺保密选择。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念讨论，不证明情境真实发生",
+      "sourceTitle": "Awakenology 中文目录（概念参考；本轮未核验具体篇章）",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验原文，不摘录",
+      "originalRewrite": "原创模拟：咨询主持人要求求助者在公开直播中讲出全部家庭争执细节，否则说其不愿面对真相。 应核实具体行为与证据，不根据宗教身份或不同意见推定操纵。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；来源仅作概念参考",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r19-010",
+      "category": "宗教",
+      "title": "寺院文化课程把儿童名单交给商业推销",
+      "prompt": "家长报名传统文化课程后，机构准备将儿童姓名和家长电话提供给付费培训商，称是课程延伸服务。",
+      "check": "核查原报名同意是否覆盖第三方商业营销。",
+      "risk": "借文化教育信任关系扩张个人资料用途。",
+      "wake": "要求独立的营销同意，提供拒绝和删除途径。",
+      "counter": "合作方可能提供有用课程，但应由家长主动选择。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念讨论，不证明情境真实发生",
+      "sourceTitle": "Awakenology 中文目录（概念参考；本轮未核验具体篇章）",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验原文，不摘录",
+      "originalRewrite": "原创模拟：家长报名传统文化课程后，机构准备将儿童姓名和家长电话提供给付费培训商，称是课程延伸服务。 应核实具体行为与证据，不根据宗教身份或不同意见推定操纵。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；来源仅作概念参考",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r19-011",
+      "category": "宗教",
+      "title": "跨信仰公益厨房要求受助者参加宣讲才能领餐",
+      "prompt": "公益厨房现场告知受助者，必须先参加一小时信仰宣讲才能领取已承诺的免费餐食。",
+      "check": "区分自愿参与信仰交流与基本援助附加条件。",
+      "risk": "把急迫生活需求变成改变信仰选择的筹码。",
+      "wake": "明确食物发放不与宗教参与挂钩，宣讲单独自愿报名。",
+      "counter": "主办方可能希望分享信念，但援助应尊重自由选择。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念讨论，不证明情境真实发生",
+      "sourceTitle": "Awakenology 中文目录（概念参考；本轮未核验具体篇章）",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验原文，不摘录",
+      "originalRewrite": "原创模拟：公益厨房现场告知受助者，必须先参加一小时信仰宣讲才能领取已承诺的免费餐食。 应核实具体行为与证据，不根据宗教身份或不同意见推定操纵。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；来源仅作概念参考",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r19-012",
+      "category": "宗教",
+      "title": "宗教团体要求新人签署禁止向外求助协议",
+      "prompt": "新人活动报名文件写明遇到组织内部纠纷只能内部解决，不得向家属、律师或公共机构求助。",
+      "check": "区分内部协调程序与排除外部救济的限制。",
+      "risk": "通过封闭纠纷渠道增加成员依赖。",
+      "wake": "保留合法外部咨询、申诉和退出渠道，不签放弃基本权利的条款。",
+      "counter": "组织可能想先内部调解，但不能因此禁止外部求助。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自主选择"
+      ],
+      "type": "scenario",
+      "source": "原创模拟情境；参考资料仅用于概念讨论，不证明情境真实发生",
+      "sourceTitle": "Awakenology 中文目录（概念参考；本轮未核验具体篇章）",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验原文，不摘录",
+      "originalRewrite": "原创模拟：新人活动报名文件写明遇到组织内部纠纷只能内部解决，不得向家属、律师或公共机构求助。 应核实具体行为与证据，不根据宗教身份或不同意见推定操纵。",
+      "references": [
+        "https://awakenology.org/Chinese/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创模拟案例；无真实事件证据；来源仅作概念参考",
+      "revision": 1
     }
   ]
 }
