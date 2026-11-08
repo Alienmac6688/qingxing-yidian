@@ -16685,6 +16685,412 @@
       ],
       "evidenceStatus": "原创模拟，非真实事件；需具体证据判断行为；不以宗教身份或不同意见推断操纵",
       "revision": 1
+    },
+    {
+      "id": "sr-20261108-r24-001",
+      "category": "社会",
+      "title": "反诈志愿者用个人识骗经历要求老人关闭全部银行通知",
+      "prompt": "社区反诈志愿者说自己从未被骗，因此要求所有老人关闭银行交易提醒并只听他的电话。",
+      "check": "个人经验能否替代银行官方防诈指引与当事人选择？",
+      "risk": "将个人成功经历包装为普适命令，可能让老人失去独立核验渠道。",
+      "wake": "保留交易提醒，直接联系银行官方客服核实，征询不同专业意见。",
+      "counter": "志愿者可能出于保护动机，但措施是否有效仍需核实。",
+      "tags": [
+        "社会",
+        "个人经验泛化",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实事件）；概念参考Awakenology《破權威幻》及斯坦福哲学百科操纵伦理",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核验Awakenology原文；并非案例事实证据",
+      "originalRewrite": "个人成功经历只能提供参考，不能未经核验便推定对其他人同样有效。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创教学模拟，非真实个案；来源仅支持概念讨论；尊重宗教自由，不以宗教身份认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r24-002",
+      "category": "社会",
+      "title": "名校家长以自家孩子作息要求全班统一停掉体育课",
+      "prompt": "家委会成员展示孩子考上名校的时间表，提议全班取消体育活动照搬。",
+      "check": "单个成功结果能否证明取消体育是成功原因？",
+      "risk": "把相关性当因果，用成功样本压过其他家庭需求。",
+      "wake": "比较教育及健康证据，保留学生差异，走学校正式决策程序。",
+      "counter": "家长分享经验可能有帮助，但不意味着适合全班。",
+      "tags": [
+        "社会",
+        "个人经验泛化",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实事件）；概念参考Awakenology《破權威幻》及斯坦福哲学百科操纵伦理",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核验Awakenology原文；并非案例事实证据",
+      "originalRewrite": "个人成功经历只能提供参考，不能未经核验便推定对其他人同样有效。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创教学模拟，非真实个案；来源仅支持概念讨论；尊重宗教自由，不以宗教身份认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r24-003",
+      "category": "社会",
+      "title": "创业导师以自己成功退出合伙为模板要求学员立即断绝合作",
+      "prompt": "导师称自己靠切断全部合作伙伴才创业成功，要求学员不看合同立即退出合伙。",
+      "check": "导师经历是否覆盖当前合同义务、资金和关系差异？",
+      "risk": "以榜样权威替代个体风险评估，造成不可逆决定。",
+      "wake": "先审核合同、咨询独立法律意见，再选择是否退出。",
+      "counter": "导师可能曾遭遇不诚信合伙，但不能据此推断所有合作。",
+      "tags": [
+        "社会",
+        "个人经验泛化",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实事件）；概念参考Awakenology《破權威幻》及斯坦福哲学百科操纵伦理",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核验Awakenology原文；并非案例事实证据",
+      "originalRewrite": "个人成功经历只能提供参考，不能未经核验便推定对其他人同样有效。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创教学模拟，非真实个案；来源仅支持概念讨论；尊重宗教自由，不以宗教身份认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r24-004",
+      "category": "社会",
+      "title": "社区康复分享会把个体恢复经历当作取消无障碍设施的依据",
+      "prompt": "一名康复者说自己不用坡道也能上下楼，居民据此要求拆掉公共坡道。",
+      "check": "个体能力是否代表其他残障者的实际需求？",
+      "risk": "以成功个案抹去群体差异和可及性要求。",
+      "wake": "邀请不同使用者参与评估，核查无障碍标准后决策。",
+      "counter": "分享者可能真诚自豪，问题在于将个人经验推广为公共规则。",
+      "tags": [
+        "社会",
+        "个人经验泛化",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实事件）；概念参考Awakenology《破權威幻》及斯坦福哲学百科操纵伦理",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核验Awakenology原文；并非案例事实证据",
+      "originalRewrite": "个人成功经历只能提供参考，不能未经核验便推定对其他人同样有效。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创教学模拟，非真实个案；来源仅支持概念讨论；尊重宗教自由，不以宗教身份认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r24-005",
+      "category": "社会",
+      "title": "财务博主以一次成功避险经历要求粉丝交出账户托管权",
+      "prompt": "博主说上次暴跌时自己及时清仓，要求粉丝把交易账户交给其团队统一操作。",
+      "check": "一次避险是否证明持续预测能力及托管资质？",
+      "risk": "幸存者叙事与权威暗示可能掩盖资金控制风险。",
+      "wake": "查验牌照、历史业绩和费用，拒绝交出密码与控制权。",
+      "counter": "博主可能真有一次成功交易，但不等于具备管理他人资产的资格。",
+      "tags": [
+        "社会",
+        "个人经验泛化",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实事件）；概念参考Awakenology《破權威幻》及斯坦福哲学百科操纵伦理",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核验Awakenology原文；并非案例事实证据",
+      "originalRewrite": "个人成功经历只能提供参考，不能未经核验便推定对其他人同样有效。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创教学模拟，非真实个案；来源仅支持概念讨论；尊重宗教自由，不以宗教身份认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r24-006",
+      "category": "社会",
+      "title": "留学经验群把单人签证获批路径包装成唯一合法路线",
+      "prompt": "群主展示自己获签经历，声称所有申请者必须购买其同款材料服务，否则必被拒。",
+      "check": "单一获批案例能否覆盖不同签证类别和个人条件？",
+      "risk": "用成功案例制造虚假的唯一性和购买压力。",
+      "wake": "查移民机关公开要求、学校指引，必要时咨询持证专业人士。",
+      "counter": "群主的清单可能适合部分申请者，但不是普遍法律规定。",
+      "tags": [
+        "社会",
+        "个人经验泛化",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实事件）；概念参考Awakenology《破權威幻》及斯坦福哲学百科操纵伦理",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核验Awakenology原文；并非案例事实证据",
+      "originalRewrite": "个人成功经历只能提供参考，不能未经核验便推定对其他人同样有效。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创教学模拟，非真实个案；来源仅支持概念讨论；尊重宗教自由，不以宗教身份认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r24-007",
+      "category": "社会",
+      "title": "心理互助群以某成员冥想见效要求所有人停用专业支持",
+      "prompt": "群管理员称一位成员靠冥想缓解压力，要求群友停止心理咨询只参加群内活动。",
+      "check": "一个人的感受能否替代其他人的专业评估？",
+      "risk": "用成功见证压制个人求助选择。",
+      "wake": "保留自行选择正规心理支持的权利，核查建议适用范围。",
+      "counter": "冥想对部分人可能有益，但不能推断所有人都应停止咨询。",
+      "tags": [
+        "社会",
+        "个人经验泛化",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实事件）；概念参考Awakenology《破權威幻》及斯坦福哲学百科操纵伦理",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核验Awakenology原文；并非案例事实证据",
+      "originalRewrite": "个人成功经历只能提供参考，不能未经核验便推定对其他人同样有效。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创教学模拟，非真实个案；来源仅支持概念讨论；尊重宗教自由，不以宗教身份认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r24-008",
+      "category": "宗教",
+      "title": "朝圣领队以自己徒步成功经历要求慢性病参加者拒绝休息",
+      "prompt": "领队称自己从未中途休息完成朝圣，因此要求身体不适者也不得调整行程。",
+      "check": "个人体能与信仰实践是否足以决定他人的健康风险？",
+      "risk": "以个人见证和群体期待压过知情同意及身体界限。",
+      "wake": "尊重信仰目标，同时允许休息、就医与自主退出。",
+      "counter": "领队可能真诚鼓励坚持，但不应剥夺安全选择。",
+      "tags": [
+        "宗教",
+        "个人经验泛化",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实事件）；概念参考Awakenology《破權威幻》及斯坦福哲学百科操纵伦理",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核验Awakenology原文；并非案例事实证据",
+      "originalRewrite": "个人成功经历只能提供参考，不能未经核验便推定对其他人同样有效。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创教学模拟，非真实个案；来源仅支持概念讨论；尊重宗教自由，不以宗教身份认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r24-009",
+      "category": "宗教",
+      "title": "宗教音乐导师把个人灵感体验规定为所有成员唯一创作流程",
+      "prompt": "导师称自己的圣乐创作来自固定仪式，要求所有团员放弃其他合法创作方法。",
+      "check": "个人灵感经验是否等于团体唯一有效的艺术规则？",
+      "risk": "把主观体验变成排他性权威，压缩创作自主。",
+      "wake": "区分传统规范与个人偏好，允许在团体章程内讨论不同方法。",
+      "counter": "团体可能需要统一排练风格，但这不证明其他方法无效。",
+      "tags": [
+        "宗教",
+        "个人经验泛化",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实事件）；概念参考Awakenology《破權威幻》及斯坦福哲学百科操纵伦理",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核验Awakenology原文；并非案例事实证据",
+      "originalRewrite": "个人成功经历只能提供参考，不能未经核验便推定对其他人同样有效。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创教学模拟，非真实个案；来源仅支持概念讨论；尊重宗教自由，不以宗教身份认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r24-010",
+      "category": "宗教",
+      "title": "寺院义工以自己禁食体验要求所有新人照做",
+      "prompt": "义工称自己禁食后精神更专注，要求每位新人不论身体状况照搬天数。",
+      "check": "个人宗教体验能否取代他人的健康判断？",
+      "risk": "用体验权威制造身体风险和羞耻压力。",
+      "wake": "明确禁食自愿性、健康例外与可替代实践，必要时咨询医生。",
+      "counter": "义工可能真心分享修行方式，不等于有权强制他人。",
+      "tags": [
+        "宗教",
+        "个人经验泛化",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实事件）；概念参考Awakenology《破權威幻》及斯坦福哲学百科操纵伦理",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核验Awakenology原文；并非案例事实证据",
+      "originalRewrite": "个人成功经历只能提供参考，不能未经核验便推定对其他人同样有效。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创教学模拟，非真实个案；来源仅支持概念讨论；尊重宗教自由，不以宗教身份认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r24-011",
+      "category": "宗教",
+      "title": "跨信仰读书会以创办者转变经历禁止成员保留原有观点",
+      "prompt": "创办者说自己阅读某书后改变信念，因此要求所有成员在结业时签署同样结论。",
+      "check": "交流学习是否必须产生相同信念结果？",
+      "risk": "将个人信仰转变经验变为一致性考核。",
+      "wake": "允许保留意见、质疑和退出，区分阅读参与与信念承诺。",
+      "counter": "组织者可能希望形成共同主题，但不应强制私人信念。",
+      "tags": [
+        "宗教",
+        "个人经验泛化",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实事件）；概念参考Awakenology《破權威幻》及斯坦福哲学百科操纵伦理",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核验Awakenology原文；并非案例事实证据",
+      "originalRewrite": "个人成功经历只能提供参考，不能未经核验便推定对其他人同样有效。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创教学模拟，非真实个案；来源仅支持概念讨论；尊重宗教自由，不以宗教身份认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r24-012",
+      "category": "宗教",
+      "title": "静修营用导师独处体验否定参加者的辅助沟通需求",
+      "prompt": "导师说自己闭关时完全不联系外界，要求听障学员也放弃必要的文字辅助沟通。",
+      "check": "导师个人修习经验是否适用于不同无障碍需求？",
+      "risk": "把个人方法绝对化，排除合理便利。",
+      "wake": "与参与者协商无障碍安排，保留紧急联络和自愿选择。",
+      "counter": "静默可能是活动的合理规则，但可探讨不破坏目的的替代支持。",
+      "tags": [
+        "宗教",
+        "个人经验泛化",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实事件）；概念参考Awakenology《破權威幻》及斯坦福哲学百科操纵伦理",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核验Awakenology原文；并非案例事实证据",
+      "originalRewrite": "个人成功经历只能提供参考，不能未经核验便推定对其他人同样有效。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创教学模拟，非真实个案；来源仅支持概念讨论；尊重宗教自由，不以宗教身份认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r24-013",
+      "category": "宗教",
+      "title": "宗教慈善团队以创办人简朴经历要求志愿者放弃报销",
+      "prompt": "创办人讲述自己早年自费救助成功，要求所有志愿者不论经济条件放弃交通报销。",
+      "check": "个人奉献经历能否自动成为所有人的财务义务？",
+      "risk": "道德榜样压力可能让经济弱势志愿者承担不公平成本。",
+      "wake": "公开预算与报销制度，允许自愿捐赠而不惩罚申请报销者。",
+      "counter": "创办人可能希望节省善款，但应透明讨论成本分配。",
+      "tags": [
+        "宗教",
+        "个人经验泛化",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实事件）；概念参考Awakenology《破權威幻》及斯坦福哲学百科操纵伦理",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核验Awakenology原文；并非案例事实证据",
+      "originalRewrite": "个人成功经历只能提供参考，不能未经核验便推定对其他人同样有效。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创教学模拟，非真实个案；来源仅支持概念讨论；尊重宗教自由，不以宗教身份认定操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261108-r24-014",
+      "category": "社会",
+      "title": "灾害避难培训以一位幸存者的路线要求所有住户忽略官方疏散图",
+      "prompt": "讲师展示自己曾沿小巷逃生成功，要求全社区今后只走同一条小巷。",
+      "check": "过去一次安全路线能否适用于不同灾种与当日道路状态？",
+      "risk": "以幸存者权威覆盖实时预警和官方疏散方案。",
+      "wake": "依据当前灾情、官方指示及无障碍需求规划多条路线。",
+      "counter": "幸存者经验可补充地方知识，但不能取代实时判断。",
+      "tags": [
+        "社会",
+        "个人经验泛化",
+        "三点辨识"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例（非真实事件）；概念参考Awakenology《破權威幻》及斯坦福哲学百科操纵伦理",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核验Awakenology原文；并非案例事实证据",
+      "originalRewrite": "个人成功经历只能提供参考，不能未经核验便推定对其他人同样有效。",
+      "references": [
+        "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+        "https://plato.stanford.edu/entries/ethics-manipulation/"
+      ],
+      "evidenceStatus": "原创教学模拟，非真实个案；来源仅支持概念讨论；尊重宗教自由，不以宗教身份认定操纵",
+      "revision": 1
     }
   ]
 }
