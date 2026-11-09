@@ -11,7 +11,7 @@ function text(node,value){node.textContent=String(value??'')}
 function btn(label,click,cls){const b=document.createElement('button');b.textContent=label;if(cls)b.className=cls;b.onclick=click;return b}
 function nav(tab){for(const id of ['home','practice','cases','growth','mine'])$(id).hidden=id!==tab;document.querySelectorAll('[data-nav]').forEach(b=>b.classList.toggle('active',b.dataset.nav===tab));if(tab==='home'||tab==='growth')stats();if(tab==='cases')renderCases();if(tab==='mine')renderCustom();window.scrollTo(0,0)}
 document.querySelectorAll('[data-nav]').forEach(b=>b.addEventListener('click',()=>nav(b.dataset.nav)));
-const labelType={choice:'情境判断',,scenario:'情境题',breakdown:'话术拆解'};
+const labelType={choice:'情境判断',scenario:'情境题',breakdown:'话术拆解'};
 function quiz(c){
  const q=c.quiz;
  if(q&&Array.isArray(q.options)&&q.options.length===3&&Number.isInteger(q.correct))return q;
