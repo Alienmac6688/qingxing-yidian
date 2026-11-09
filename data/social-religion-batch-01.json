@@ -23672,6 +23672,354 @@
       ],
       "evidenceStatus": "原创模拟，非真实事件；情节无独立实证；宗教身份或不同意见本身不构成操纵",
       "revision": 1
+    },
+    {
+      "id": "sr-20261109-r19-001",
+      "category": "社会",
+      "title": "社区AI语音防诈热线索取声纹永久授权",
+      "prompt": "社区反诈热线宣称不录入永久声纹就无法获得防骗提醒。",
+      "check": "防骗服务是否确实需要可长期识别身份的声纹？",
+      "risk": "将公共安全需求转化为超范围生物信息收集。",
+      "wake": "询问必要性、保存期限和非声纹替代渠道。",
+      "counter": "声纹验证可能用于防冒用，但仍需最小化与明确同意。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自愿同意",
+        "证据边界"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟；Awakenology中文目录仅作概念框架参考，未核实具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章原文",
+      "originalRewrite": "原创模拟：社区反诈热线宣称不录入永久声纹就无法获得防骗提醒。 辨识点：防骗服务是否确实需要可长期识别身份的声纹？ 催眠点：将公共安全需求转化为超范围生物信息收集。 催醒点：询问必要性、保存期限和非声纹替代渠道。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；无独立事件证据；宗教身份与不同意见本身不构成操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r19-002",
+      "category": "社会",
+      "title": "灾害避难所将充电插座分配与社交媒体转发绑定",
+      "prompt": "避难所负责人要求居民转发赞助商宣传才能给手机充电。",
+      "check": "应急基本服务与商业宣传是否存在不合理捆绑？",
+      "risk": "利用紧急通信需求施加广告压力。",
+      "wake": "请求公开分配规则，优先保障紧急联络。",
+      "counter": "赞助方可能提供设备，但不应限制基本救助。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自愿同意",
+        "证据边界"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟；Awakenology中文目录仅作概念框架参考，未核实具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章原文",
+      "originalRewrite": "原创模拟：避难所负责人要求居民转发赞助商宣传才能给手机充电。 辨识点：应急基本服务与商业宣传是否存在不合理捆绑？ 催眠点：利用紧急通信需求施加广告压力。 催醒点：请求公开分配规则，优先保障紧急联络。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；无独立事件证据；宗教身份与不同意见本身不构成操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r19-003",
+      "category": "社会",
+      "title": "远程招聘用视频情绪识别分数拒绝申诉",
+      "prompt": "招聘平台称算法能准确看出忠诚度，拒绝公开评分标准或人工复核。",
+      "check": "面部表情是否足以推断忠诚度与工作能力？",
+      "risk": "算法神秘化压缩候选人申诉权。",
+      "wake": "要求说明岗位相关性、评估依据与人工复核。",
+      "counter": "自动化工具可能提高效率，但仍可能存在误差。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自愿同意",
+        "证据边界"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟；Awakenology中文目录仅作概念框架参考，未核实具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章原文",
+      "originalRewrite": "原创模拟：招聘平台称算法能准确看出忠诚度，拒绝公开评分标准或人工复核。 辨识点：面部表情是否足以推断忠诚度与工作能力？ 催眠点：算法神秘化压缩候选人申诉权。 催醒点：要求说明岗位相关性、评估依据与人工复核。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；无独立事件证据；宗教身份与不同意见本身不构成操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r19-004",
+      "category": "社会",
+      "title": "校园互助基金以公开家庭负债明细换取申请资格",
+      "prompt": "学生申请临时生活费援助时被要求在全班群公布家庭债务。",
+      "check": "审核必要信息与向同学公开隐私是否同一回事？",
+      "risk": "用救急需求迫使申请人暴露财务信息。",
+      "wake": "通过受限审核渠道提交必要证明并限制访问。",
+      "counter": "基金确需核实资格，但公开传播并非必然必要。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自愿同意",
+        "证据边界"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟；Awakenology中文目录仅作概念框架参考，未核实具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章原文",
+      "originalRewrite": "原创模拟：学生申请临时生活费援助时被要求在全班群公布家庭债务。 辨识点：审核必要信息与向同学公开隐私是否同一回事？ 催眠点：用救急需求迫使申请人暴露财务信息。 催醒点：通过受限审核渠道提交必要证明并限制访问。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；无独立事件证据；宗教身份与不同意见本身不构成操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r19-005",
+      "category": "社会",
+      "title": "小区电梯维修投票附带人脸数据库同意",
+      "prompt": "物业告知业主只有同意人脸数据商业使用才能参加电梯维修表决。",
+      "check": "维修表决权是否应以无关数据授权为条件？",
+      "risk": "将公共事务参与与商业数据利用捆绑。",
+      "wake": "要求拆分投票与数据授权并提供其他身份核验。",
+      "counter": "物业可能为防重复投票，但可采用侵入性更低的办法。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自愿同意",
+        "证据边界"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟；Awakenology中文目录仅作概念框架参考，未核实具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章原文",
+      "originalRewrite": "原创模拟：物业告知业主只有同意人脸数据商业使用才能参加电梯维修表决。 辨识点：维修表决权是否应以无关数据授权为条件？ 催眠点：将公共事务参与与商业数据利用捆绑。 催醒点：要求拆分投票与数据授权并提供其他身份核验。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；无独立事件证据；宗教身份与不同意见本身不构成操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r19-006",
+      "category": "社会",
+      "title": "二手助听器互助群把拒绝公开诊断者标为骗子",
+      "prompt": "互助群管理员要求求助老人公布完整听力病历，否则列入欺诈名单。",
+      "check": "核实需求是否必须公开完整医疗记录？",
+      "risk": "以防骗名义实施隐私羞辱。",
+      "wake": "采用匿名化资格证明与有限权限审核。",
+      "counter": "管理员可能担忧虚假求助，但应采用比例适当的核验。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "自愿同意",
+        "证据边界"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟；Awakenology中文目录仅作概念框架参考，未核实具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章原文",
+      "originalRewrite": "原创模拟：互助群管理员要求求助老人公布完整听力病历，否则列入欺诈名单。 辨识点：核实需求是否必须公开完整医疗记录？ 催眠点：以防骗名义实施隐私羞辱。 催醒点：采用匿名化资格证明与有限权限审核。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；无独立事件证据；宗教身份与不同意见本身不构成操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r19-007",
+      "category": "宗教",
+      "title": "跨信仰婚礼筹备群要求宾客上传信仰证明",
+      "prompt": "婚礼组织者要求所有宾客上传宗教归属证明，否则不安排座位。",
+      "check": "礼仪协调是否真的需要收集每位宾客的信仰资料？",
+      "risk": "借仪式安排迫使披露私人信仰。",
+      "wake": "仅询问必要饮食与礼仪需求，允许不披露身份。",
+      "counter": "组织者可能为尊重禁忌而协调，但可直接询问具体需求。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自愿同意",
+        "证据边界"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟；Awakenology中文目录仅作概念框架参考，未核实具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章原文",
+      "originalRewrite": "原创模拟：婚礼组织者要求所有宾客上传宗教归属证明，否则不安排座位。 辨识点：礼仪协调是否真的需要收集每位宾客的信仰资料？ 催眠点：借仪式安排迫使披露私人信仰。 催醒点：仅询问必要饮食与礼仪需求，允许不披露身份。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；无独立事件证据；宗教身份与不同意见本身不构成操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r19-008",
+      "category": "宗教",
+      "title": "宗教场所无障碍通道使用需先参加教义测验",
+      "prompt": "一处模拟宗教活动场所要求轮椅访客通过教义测试才能使用坡道。",
+      "check": "基本通行便利是否与信仰认同相关？",
+      "risk": "以便利条件推动非自愿宗教表态。",
+      "wake": "将无障碍服务与宗教学习完全分开。",
+      "counter": "工作人员可能误将课程报名流程套用于设施使用。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自愿同意",
+        "证据边界"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟；Awakenology中文目录仅作概念框架参考，未核实具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章原文",
+      "originalRewrite": "原创模拟：一处模拟宗教活动场所要求轮椅访客通过教义测试才能使用坡道。 辨识点：基本通行便利是否与信仰认同相关？ 催眠点：以便利条件推动非自愿宗教表态。 催醒点：将无障碍服务与宗教学习完全分开。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；无独立事件证据；宗教身份与不同意见本身不构成操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r19-009",
+      "category": "宗教",
+      "title": "静修课程要求参与者签署无限期录音传播许可",
+      "prompt": "静修班在入场时要求所有人授权永久公开个人分享录音，拒签不得领取已付费教材。",
+      "check": "课程教学是否需要无限期公开敏感分享？",
+      "risk": "用沉没成本和入场压力获取广泛授权。",
+      "wake": "分开课程参与、录音与公开传播的同意，并提供撤回说明。",
+      "counter": "录音可能帮助教学，但公开范围应可自主选择。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自愿同意",
+        "证据边界"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟；Awakenology中文目录仅作概念框架参考，未核实具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章原文",
+      "originalRewrite": "原创模拟：静修班在入场时要求所有人授权永久公开个人分享录音，拒签不得领取已付费教材。 辨识点：课程教学是否需要无限期公开敏感分享？ 催眠点：用沉没成本和入场压力获取广泛授权。 催醒点：分开课程参与、录音与公开传播的同意，并提供撤回说明。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；无独立事件证据；宗教身份与不同意见本身不构成操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r19-010",
+      "category": "宗教",
+      "title": "宗教公益厨房要求志愿者交出私人通讯录",
+      "prompt": "公益厨房负责人称便于联系志愿者，要求同步手机全部联系人。",
+      "check": "排班联系是否需要第三方完整通讯录？",
+      "risk": "以善举目的扩大对无关个人的数据收集。",
+      "wake": "只提供本人必要联系方式，使用自愿报名表。",
+      "counter": "组织者可能缺少管理工具，但不能替代联系人同意。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自愿同意",
+        "证据边界"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟；Awakenology中文目录仅作概念框架参考，未核实具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章原文",
+      "originalRewrite": "原创模拟：公益厨房负责人称便于联系志愿者，要求同步手机全部联系人。 辨识点：排班联系是否需要第三方完整通讯录？ 催眠点：以善举目的扩大对无关个人的数据收集。 催醒点：只提供本人必要联系方式，使用自愿报名表。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；无独立事件证据；宗教身份与不同意见本身不构成操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r19-011",
+      "category": "宗教",
+      "title": "宗教青年论坛将匿名提问者公开示众",
+      "prompt": "青年论坛承诺匿名问答，主持人却公开追查质疑教义的提问者。",
+      "check": "是否违反事前明确的匿名承诺？",
+      "risk": "以公开羞辱阻止诚实提问。",
+      "wake": "要求遵守隐私规则、允许安全退出和不同意见。",
+      "counter": "主持人可能担心恶意攻击，但应按内容规则处理。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自愿同意",
+        "证据边界"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟；Awakenology中文目录仅作概念框架参考，未核实具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章原文",
+      "originalRewrite": "原创模拟：青年论坛承诺匿名问答，主持人却公开追查质疑教义的提问者。 辨识点：是否违反事前明确的匿名承诺？ 催眠点：以公开羞辱阻止诚实提问。 催醒点：要求遵守隐私规则、允许安全退出和不同意见。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；无独立事件证据；宗教身份与不同意见本身不构成操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-r19-012",
+      "category": "宗教",
+      "title": "朝圣接驳车把安全带提醒描述为信心不足",
+      "prompt": "朝圣交通组织者称坚持系安全带意味着不够虔诚，劝乘客放弃安全措施。",
+      "check": "个人信念与交通安全规范是否被错误对立？",
+      "risk": "以群体身份压力弱化安全保护。",
+      "wake": "坚持交通安全要求，并可更换合规交通安排。",
+      "counter": "组织者可能意在鼓励信心，但不应以此否定安全措施。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "自愿同意",
+        "证据边界"
+      ],
+      "type": "scenario",
+      "source": "原创教学模拟；Awakenology中文目录仅作概念框架参考，未核实具体篇章",
+      "sourceTitle": "",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未核验具体篇章原文",
+      "originalRewrite": "原创模拟：朝圣交通组织者称坚持系安全带意味着不够虔诚，劝乘客放弃安全措施。 辨识点：个人信念与交通安全规范是否被错误对立？ 催眠点：以群体身份压力弱化安全保护。 催醒点：坚持交通安全要求，并可更换合规交通安排。",
+      "references": [
+        "https://awakenology.org/Chinese/"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；无独立事件证据；宗教身份与不同意见本身不构成操纵",
+      "revision": 1
     }
   ]
 }
