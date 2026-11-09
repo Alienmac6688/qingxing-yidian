@@ -6,5 +6,17 @@
     "case-preview",
     "dynamic-library-count"
   ],
-  "note": "If this file is 404 on GitHub Pages, published branch or deployment has not updated."
+  "note": "Deployment marker only; verify actual HTML/JS/CSS and browser behavior separately.",
+  "version": "V1.6",
+  "mobile_test": {
+    "target_width_px": 375,
+    "status": "not-yet-browser-verified",
+    "checks": [
+      "no horizontal overflow",
+      "cold-start hidden zero stats",
+      "three-step demo",
+      "local data survives reload",
+      "backup export"
+    ]
+  }
 }
