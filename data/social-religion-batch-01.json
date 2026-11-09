@@ -25847,6 +25847,354 @@
       ],
       "evidenceStatus": "原创模拟非真实事件；G2表格是用户提供的二次整理材料，未证明所描写情节真实发生；尊重宗教自由",
       "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v2-0121",
+      "category": "社会",
+      "title": "情绪课程要求学员建立购买锚点",
+      "prompt": "体验课结束时，导师让学员把当下的轻松感与付款页面绑定，并称只有立即报名才能保留这种感觉。",
+      "check": "课程是否把短暂情绪体验和付费决策人为绑定？",
+      "risk": "情绪锚定可能使人忽略费用、退费及实际效果。",
+      "wake": "隔一天再决定，核对课程内容和退费条款。",
+      "counter": "锚点也可能仅是普通的情绪记录练习，须看是否与付费施压结合。",
+      "tags": [
+        "社会",
+        "G2原始资料",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创生活模拟；主题参考用户G2表第121条；表内原文尚未独立核验一手课程",
+      "sourceTitle": "G2《从头复核》原始分析表，第121条",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "仅核对G2表格内容，未独立核验一手课程，故不引用原文",
+      "originalRewrite": "原创情境：体验课结束时，导师让学员把当下的轻松感与付款页面绑定，并称只有立即报名才能保留这种感觉。 辨识点：课程是否把短暂情绪体验和付费决策人为绑定？ 催眠点：情绪锚定可能使人忽略费用、退费及实际效果。 催醒点：隔一天再决定，核对课程内容和退费条款。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟非真实事件；G2是二次整理资料，不能证明该情节真实发生；尊重宗教自由与个人不同意见",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v2-0187",
+      "category": "社会",
+      "title": "身心课程以治本之名否定其他选择",
+      "prompt": "某付费身心训练班称常规支持只能缓解表面问题，只有本班方法才能真正解决根源。",
+      "check": "是否提供可检验的比较证据，还是只宣称自身方法唯一有效？",
+      "risk": "排他性疗效叙事可能延误正规帮助并增加重复付费。",
+      "wake": "对健康问题咨询合格专业人员，核实疗效证据和风险。",
+      "counter": "课程可能强调自己的教学特色，未必要求放弃其他帮助。",
+      "tags": [
+        "社会",
+        "G2原始资料",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创生活模拟；主题参考用户G2表第187条；表内原文尚未独立核验一手课程",
+      "sourceTitle": "G2《从头复核》原始分析表，第187条",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "仅核对G2表格内容，未独立核验一手课程，故不引用原文",
+      "originalRewrite": "原创情境：某付费身心训练班称常规支持只能缓解表面问题，只有本班方法才能真正解决根源。 辨识点：是否提供可检验的比较证据，还是只宣称自身方法唯一有效？ 催眠点：排他性疗效叙事可能延误正规帮助并增加重复付费。 催醒点：对健康问题咨询合格专业人员，核实疗效证据和风险。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟非真实事件；G2是二次整理资料，不能证明该情节真实发生；尊重宗教自由与个人不同意见",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v2-0243",
+      "category": "社会",
+      "title": "远程心理服务宣称跨地域无条件有效",
+      "prompt": "线上咨询广告以讲师个人体验为依据，宣称远程意识干预不受地域限制，招揽海外客户。",
+      "check": "个人经验能否支持跨地域普遍有效的结论？",
+      "risk": "把个体感受推广为普遍功效，可能诱导跨境购买。",
+      "wake": "询问方法、证据、执业资格、跨境法律与退款机制。",
+      "counter": "普通线上谈话确可跨地域开展，但不能据此证明特殊干预功效。",
+      "tags": [
+        "社会",
+        "G2原始资料",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创生活模拟；主题参考用户G2表第243条；表内原文尚未独立核验一手课程",
+      "sourceTitle": "G2《从头复核》原始分析表，第243条",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "仅核对G2表格内容，未独立核验一手课程，故不引用原文",
+      "originalRewrite": "原创情境：线上咨询广告以讲师个人体验为依据，宣称远程意识干预不受地域限制，招揽海外客户。 辨识点：个人经验能否支持跨地域普遍有效的结论？ 催眠点：把个体感受推广为普遍功效，可能诱导跨境购买。 催醒点：询问方法、证据、执业资格、跨境法律与退款机制。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟非真实事件；G2是二次整理资料，不能证明该情节真实发生；尊重宗教自由与个人不同意见",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v2-0310",
+      "category": "社会",
+      "title": "交友顾问教人假装忙碌制造稀缺",
+      "prompt": "恋爱培训教人故意说自己只有十分钟，以迫使对方快速答应约会或购买礼物。",
+      "check": "对方的时间限制是否真实，是否被用来压缩选择空间？",
+      "risk": "人为稀缺可能制造关系压力。",
+      "wake": "核对实际安排，允许自己延迟答复或拒绝。",
+      "counter": "真实的时间紧张很常见，不能单凭一句忙碌认定操纵。",
+      "tags": [
+        "社会",
+        "G2原始资料",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创生活模拟；主题参考用户G2表第310条；表内原文尚未独立核验一手课程",
+      "sourceTitle": "G2《从头复核》原始分析表，第310条",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "仅核对G2表格内容，未独立核验一手课程，故不引用原文",
+      "originalRewrite": "原创情境：恋爱培训教人故意说自己只有十分钟，以迫使对方快速答应约会或购买礼物。 辨识点：对方的时间限制是否真实，是否被用来压缩选择空间？ 催眠点：人为稀缺可能制造关系压力。 催醒点：核对实际安排，允许自己延迟答复或拒绝。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟非真实事件；G2是二次整理资料，不能证明该情节真实发生；尊重宗教自由与个人不同意见",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v2-0515",
+      "category": "宗教",
+      "title": "灵性群要求成员不加筛选相信内在信息",
+      "prompt": "冥想群管理员要求学员把每次浮现的想法都当作可靠指引，尤其涉及转账与离职时不得质疑。",
+      "check": "是否混淆记录主观体验与把体验当外部事实？",
+      "risk": "无条件相信内在信息可能降低重大决定的核验标准。",
+      "wake": "可以记录体验，但转账、就业等决定须查外部事实并留出冷静期。",
+      "counter": "冥想中的开放接纳也可能只是一种非判断练习，并非要求照单全收。",
+      "tags": [
+        "宗教",
+        "G2原始资料",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创生活模拟；主题参考用户G2表第515条；表内原文尚未独立核验一手课程",
+      "sourceTitle": "G2《从头复核》原始分析表，第515条",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "仅核对G2表格内容，未独立核验一手课程，故不引用原文",
+      "originalRewrite": "原创情境：冥想群管理员要求学员把每次浮现的想法都当作可靠指引，尤其涉及转账与离职时不得质疑。 辨识点：是否混淆记录主观体验与把体验当外部事实？ 催眠点：无条件相信内在信息可能降低重大决定的核验标准。 催醒点：可以记录体验，但转账、就业等决定须查外部事实并留出冷静期。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟非真实事件；G2是二次整理资料，不能证明该情节真实发生；尊重宗教自由与个人不同意见",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v2-0638",
+      "category": "社会",
+      "title": "安全课程售卖全天候无漏洞防护",
+      "prompt": "某数字安全培训宣称购买一次配置后即可全年每天防止所有网络攻击，不再需要更新。",
+      "check": "是否给出了不可能失败的全天候保证？",
+      "risk": "绝对安全承诺可能造成过度信任和风险忽视。",
+      "wake": "核查威胁模型、更新机制、审计结果和责任限制。",
+      "counter": "服务商可能用夸张措辞表达持续监控，需核实合同中的真实保障。",
+      "tags": [
+        "社会",
+        "G2原始资料",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创生活模拟；主题参考用户G2表第638条；表内原文尚未独立核验一手课程",
+      "sourceTitle": "G2《从头复核》原始分析表，第638条",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "仅核对G2表格内容，未独立核验一手课程，故不引用原文",
+      "originalRewrite": "原创情境：某数字安全培训宣称购买一次配置后即可全年每天防止所有网络攻击，不再需要更新。 辨识点：是否给出了不可能失败的全天候保证？ 催眠点：绝对安全承诺可能造成过度信任和风险忽视。 催醒点：核查威胁模型、更新机制、审计结果和责任限制。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟非真实事件；G2是二次整理资料，不能证明该情节真实发生；尊重宗教自由与个人不同意见",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v2-0744",
+      "category": "宗教",
+      "title": "灵修咨询收费修正所谓平行时间线",
+      "prompt": "咨询师称客户近期失业是平行时间线纠缠所致，支付额外费用即可修正过去的选择。",
+      "check": "无法独立验证的时间线解释是否被用于具体收费承诺？",
+      "risk": "不可证伪的因果解释可能转移对现实求职问题的关注。",
+      "wake": "保留个人信念，同时优先制定可观察的求职与财务计划。",
+      "counter": "平行时间线也可能只是象征性的自我反思语言。",
+      "tags": [
+        "宗教",
+        "G2原始资料",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创生活模拟；主题参考用户G2表第744条；表内原文尚未独立核验一手课程",
+      "sourceTitle": "G2《从头复核》原始分析表，第744条",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "仅核对G2表格内容，未独立核验一手课程，故不引用原文",
+      "originalRewrite": "原创情境：咨询师称客户近期失业是平行时间线纠缠所致，支付额外费用即可修正过去的选择。 辨识点：无法独立验证的时间线解释是否被用于具体收费承诺？ 催眠点：不可证伪的因果解释可能转移对现实求职问题的关注。 催醒点：保留个人信念，同时优先制定可观察的求职与财务计划。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟非真实事件；G2是二次整理资料，不能证明该情节真实发生；尊重宗教自由与个人不同意见",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v2-0859",
+      "category": "宗教",
+      "title": "团体把寻求外部帮助说成灵性漏洞",
+      "prompt": "成员遇到经济压力，团体负责人称向家人、律师或心理咨询师求助就是修行漏洞。",
+      "check": "是否把合理求助一概贬低并限制成员自主选择？",
+      "risk": "绝对化的内求要求可能造成孤立和资源依赖。",
+      "wake": "按实际问题寻找有资质的专业支持，保留与外界联系。",
+      "counter": "强调自省本身可以有益，问题在于是否阻止必要的外部帮助。",
+      "tags": [
+        "宗教",
+        "G2原始资料",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创生活模拟；主题参考用户G2表第859条；表内原文尚未独立核验一手课程",
+      "sourceTitle": "G2《从头复核》原始分析表，第859条",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "仅核对G2表格内容，未独立核验一手课程，故不引用原文",
+      "originalRewrite": "原创情境：成员遇到经济压力，团体负责人称向家人、律师或心理咨询师求助就是修行漏洞。 辨识点：是否把合理求助一概贬低并限制成员自主选择？ 催眠点：绝对化的内求要求可能造成孤立和资源依赖。 催醒点：按实际问题寻找有资质的专业支持，保留与外界联系。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟非真实事件；G2是二次整理资料，不能证明该情节真实发生；尊重宗教自由与个人不同意见",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v2-1103",
+      "category": "社会",
+      "title": "营销课程宣称只要思考就已被植入指令",
+      "prompt": "培训广告称只要客户想到某句宣传语，就证明品牌指令已成功植入其潜意识。",
+      "check": "是否把普通注意或记忆等同于被控制？",
+      "risk": "夸大心理影响的确定性，可能制造恐惧或虚假营销能力。",
+      "wake": "用可测量的购买行为与对照实验检验宣传效果。",
+      "counter": "这可能是营销隐喻，而不是严格的心理学陈述。",
+      "tags": [
+        "社会",
+        "G2原始资料",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创生活模拟；主题参考用户G2表第1103条；表内原文尚未独立核验一手课程",
+      "sourceTitle": "G2《从头复核》原始分析表，第1103条",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "仅核对G2表格内容，未独立核验一手课程，故不引用原文",
+      "originalRewrite": "原创情境：培训广告称只要客户想到某句宣传语，就证明品牌指令已成功植入其潜意识。 辨识点：是否把普通注意或记忆等同于被控制？ 催眠点：夸大心理影响的确定性，可能制造恐惧或虚假营销能力。 催醒点：用可测量的购买行为与对照实验检验宣传效果。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟非真实事件；G2是二次整理资料，不能证明该情节真实发生；尊重宗教自由与个人不同意见",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v2-1420",
+      "category": "宗教",
+      "title": "梦境解读服务将隐喻包装为客观诊断",
+      "prompt": "付费解梦师称梦境能客观反映客户的多维状态，并据此建议停止一项现实医疗检查。",
+      "check": "象征性解释是否越界成为可检验的健康诊断？",
+      "risk": "把隐喻当诊断依据可能影响现实健康决策。",
+      "wake": "梦可用于个人反思，健康判断仍依靠正规检查。",
+      "counter": "解梦也可能只是文化或个人意义探索，并不必然排斥医疗。",
+      "tags": [
+        "宗教",
+        "G2原始资料",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创生活模拟；主题参考用户G2表第1420条；表内原文尚未独立核验一手课程",
+      "sourceTitle": "G2《从头复核》原始分析表，第1420条",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "仅核对G2表格内容，未独立核验一手课程，故不引用原文",
+      "originalRewrite": "原创情境：付费解梦师称梦境能客观反映客户的多维状态，并据此建议停止一项现实医疗检查。 辨识点：象征性解释是否越界成为可检验的健康诊断？ 催眠点：把隐喻当诊断依据可能影响现实健康决策。 催醒点：梦可用于个人反思，健康判断仍依靠正规检查。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟非真实事件；G2是二次整理资料，不能证明该情节真实发生；尊重宗教自由与个人不同意见",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v2-1699",
+      "category": "社会",
+      "title": "培训失败一律归因学员重建不彻底",
+      "prompt": "高价成长课程承诺改变生活，但学员反馈无效时，老师一概称其重建不彻底并要求续费。",
+      "check": "课程是否允许以失败证据修正教学方法？",
+      "risk": "单向归责可能形成无限续费循环。",
+      "wake": "设定可衡量目标、期限和退款条件，比较其他解释。",
+      "counter": "个体练习投入确会影响效果，但不能成为排除课程问题的万能解释。",
+      "tags": [
+        "社会",
+        "G2原始资料",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创生活模拟；主题参考用户G2表第1699条；表内原文尚未独立核验一手课程",
+      "sourceTitle": "G2《从头复核》原始分析表，第1699条",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "仅核对G2表格内容，未独立核验一手课程，故不引用原文",
+      "originalRewrite": "原创情境：高价成长课程承诺改变生活，但学员反馈无效时，老师一概称其重建不彻底并要求续费。 辨识点：课程是否允许以失败证据修正教学方法？ 催眠点：单向归责可能形成无限续费循环。 催醒点：设定可衡量目标、期限和退款条件，比较其他解释。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟非真实事件；G2是二次整理资料，不能证明该情节真实发生；尊重宗教自由与个人不同意见",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v2-2081",
+      "category": "宗教",
+      "title": "灵性课程把情绪波动归因为附体并要求停药",
+      "prompt": "某灵修导师把学员情绪不稳定归因为附体争夺控制权，要求停止既有治疗并购买清理服务。",
+      "check": "是否用未经证实的超自然因果替代专业评估？",
+      "risk": "可能延误治疗并通过恐惧叙事诱导付费。",
+      "wake": "尊重个人信仰，但不自行停药；寻求合格医疗专业人员评估。",
+      "counter": "宗教仪式可能提供情感支持，但不能替代医疗诊断与治疗。",
+      "tags": [
+        "宗教",
+        "G2原始资料",
+        "三点辨识",
+        "原创模拟"
+      ],
+      "type": "scenario",
+      "source": "原创生活模拟；主题参考用户G2表第2081条；表内原文尚未独立核验一手课程",
+      "sourceTitle": "G2《从头复核》原始分析表，第2081条",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "仅核对G2表格内容，未独立核验一手课程，故不引用原文",
+      "originalRewrite": "原创情境：某灵修导师把学员情绪不稳定归因为附体争夺控制权，要求停止既有治疗并购买清理服务。 辨识点：是否用未经证实的超自然因果替代专业评估？ 催眠点：可能延误治疗并通过恐惧叙事诱导付费。 催醒点：尊重个人信仰，但不自行停药；寻求合格医疗专业人员评估。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟非真实事件；G2是二次整理资料，不能证明该情节真实发生；尊重宗教自由与个人不同意见",
+      "revision": 1
     }
   ]
 }
