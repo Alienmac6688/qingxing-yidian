@@ -1,0 +1,10 @@
+{
+  "release": "home-onboarding-v1.6.1",
+  "features": [
+    "cold-start",
+    "interactive-demo",
+    "case-preview",
+    "dynamic-library-count"
+  ],
+  "note": "If this file is 404 on GitHub Pages, published branch or deployment has not updated."
+}
