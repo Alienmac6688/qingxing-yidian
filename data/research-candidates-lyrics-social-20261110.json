@@ -1,0 +1,279 @@
+{
+  "schemaVersion": 1,
+  "status": "research-candidates-not-loaded",
+  "note": "独立候选批次。由于现有社会宗教文件读取返回空正文，未完成全库语义去重；不得计入线上案例或合并前总数。歌词均为原创模拟，不是现有歌曲原文。",
+  "cases": [
+    {
+      "id": "lyrics-20261110-01",
+      "category": "歌曲歌词",
+      "title": "把离开写成背叛",
+      "prompt": "原创模拟歌词情境：歌曲中的叙述者说，若爱人离开，就等于否定两人过去的一切。",
+      "check": "分清失恋者的情绪表达与要求伴侣必须留下的现实行为。",
+      "risk": "若在现实关系中以否定共同经历来阻止分手，可能制造内疚压力。",
+      "wake": "允许双方承认曾经的感情，同时保留结束关系的权利。",
+      "counter": "歌词也可能只是失恋者夸张的第一人称抒情，并非对听众的行为指令。",
+      "tags": [
+        "歌词与叙事",
+        "证据边界"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟生活情境；分析框架参考 Stanford Encyclopedia of Philosophy《The Ethics of Manipulation》",
+      "articleTitle": "The Ethics of Manipulation",
+      "articleUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "publishedDate": "",
+      "originalExcerpt": "",
+      "originalRewrite": "原创模拟歌词情境：歌曲中的叙述者说，若爱人离开，就等于否定两人过去的一切。",
+      "discernmentPoint": "分清失恋者的情绪表达与要求伴侣必须留下的现实行为。",
+      "hypnosisPoint": "若在现实关系中以否定共同经历来阻止分手，可能制造内疚压力。",
+      "awakeningPoint": "允许双方承认曾经的感情，同时保留结束关系的权利。",
+      "alternativeExplanation": "歌词也可能只是失恋者夸张的第一人称抒情，并非对听众的行为指令。",
+      "evidenceStatus": "原创模拟；理论参考可核验；情境非真实事件",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-20261110-02",
+      "category": "歌曲歌词",
+      "title": "苦等被写成爱情资格",
+      "prompt": "原创模拟歌词情境：一首情歌反复描写只有等候多年的人才配被称为真爱。",
+      "check": "观察歌词是否把一种个人选择说成衡量所有爱情的唯一标准。",
+      "risk": "如果被用来要求别人无限期等待，可能以身份评价施加压力。",
+      "wake": "把等待看成可协商的选择，讨论双方意愿、期限和现实代价。",
+      "counter": "作品可能只是在赞美某段特殊经历的坚持。",
+      "tags": [
+        "歌词与叙事",
+        "证据边界"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟生活情境；分析框架参考 Stanford Encyclopedia of Philosophy《The Ethics of Manipulation》",
+      "articleTitle": "The Ethics of Manipulation",
+      "articleUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "publishedDate": "",
+      "originalExcerpt": "",
+      "originalRewrite": "原创模拟歌词情境：一首情歌反复描写只有等候多年的人才配被称为真爱。",
+      "discernmentPoint": "观察歌词是否把一种个人选择说成衡量所有爱情的唯一标准。",
+      "hypnosisPoint": "如果被用来要求别人无限期等待，可能以身份评价施加压力。",
+      "awakeningPoint": "把等待看成可协商的选择，讨论双方意愿、期限和现实代价。",
+      "alternativeExplanation": "作品可能只是在赞美某段特殊经历的坚持。",
+      "evidenceStatus": "原创模拟；理论参考可核验；情境非真实事件",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-20261110-03",
+      "category": "歌曲歌词",
+      "title": "嫉妒被包装成在乎",
+      "prompt": "原创模拟歌词情境：叙述者把查看恋人手机和限制社交解释为爱得太深。",
+      "check": "区分情绪上的嫉妒与现实中的隐私侵犯、限制行动。",
+      "risk": "将监控合理化为爱情证明，可能弱化对边界的关注。",
+      "wake": "表达不安但尊重隐私；通过对话协商信任和界限。",
+      "counter": "歌词可能是在刻画不可靠的叙述者，甚至是在批判控制欲。",
+      "tags": [
+        "歌词与叙事",
+        "证据边界"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟生活情境；分析框架参考 Stanford Encyclopedia of Philosophy《The Ethics of Manipulation》",
+      "articleTitle": "The Ethics of Manipulation",
+      "articleUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "publishedDate": "",
+      "originalExcerpt": "",
+      "originalRewrite": "原创模拟歌词情境：叙述者把查看恋人手机和限制社交解释为爱得太深。",
+      "discernmentPoint": "区分情绪上的嫉妒与现实中的隐私侵犯、限制行动。",
+      "hypnosisPoint": "将监控合理化为爱情证明，可能弱化对边界的关注。",
+      "awakeningPoint": "表达不安但尊重隐私；通过对话协商信任和界限。",
+      "alternativeExplanation": "歌词可能是在刻画不可靠的叙述者，甚至是在批判控制欲。",
+      "evidenceStatus": "原创模拟；理论参考可核验；情境非真实事件",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-20261110-04",
+      "category": "歌曲歌词",
+      "title": "牺牲叙事与回报要求",
+      "prompt": "原创模拟歌词情境：歌中人物强调自己付出了一切，所以对方应当满足自己的每个愿望。",
+      "check": "核对付出是否出于自愿，是否存在事先明确的承诺。",
+      "risk": "把过去付出变成无限索取的理由，可能产生亏欠压力。",
+      "wake": "感谢付出但拒绝无边界交换，明确双方责任。",
+      "counter": "歌曲可能是受伤者的情绪宣泄，而非要求真实的对等交换。",
+      "tags": [
+        "歌词与叙事",
+        "证据边界"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟生活情境；分析框架参考 Stanford Encyclopedia of Philosophy《The Ethics of Manipulation》",
+      "articleTitle": "The Ethics of Manipulation",
+      "articleUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "publishedDate": "",
+      "originalExcerpt": "",
+      "originalRewrite": "原创模拟歌词情境：歌中人物强调自己付出了一切，所以对方应当满足自己的每个愿望。",
+      "discernmentPoint": "核对付出是否出于自愿，是否存在事先明确的承诺。",
+      "hypnosisPoint": "把过去付出变成无限索取的理由，可能产生亏欠压力。",
+      "awakeningPoint": "感谢付出但拒绝无边界交换，明确双方责任。",
+      "alternativeExplanation": "歌曲可能是受伤者的情绪宣泄，而非要求真实的对等交换。",
+      "evidenceStatus": "原创模拟；理论参考可核验；情境非真实事件",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "social-20261110-01",
+      "category": "社会",
+      "title": "群聊中的截图断章",
+      "prompt": "原创模拟生活情境：群里只转发某人发言的半张截图，并要求所有人立即表态抵制。",
+      "check": "检查原始发言、上下文、截图完整性与传播者身份。",
+      "risk": "限时站队与信息截取可能压缩独立核实空间。",
+      "wake": "先找完整原文和多方说明，暂不转发未经核实的指控。",
+      "counter": "截图也可能真实反映严重问题，及时提醒不必然是操纵。",
+      "tags": [
+        "社会与群体",
+        "证据边界"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟生活情境；分析框架参考 Stanford Encyclopedia of Philosophy《The Ethics of Manipulation》",
+      "articleTitle": "The Ethics of Manipulation",
+      "articleUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "publishedDate": "",
+      "originalExcerpt": "",
+      "originalRewrite": "原创模拟生活情境：群里只转发某人发言的半张截图，并要求所有人立即表态抵制。",
+      "discernmentPoint": "检查原始发言、上下文、截图完整性与传播者身份。",
+      "hypnosisPoint": "限时站队与信息截取可能压缩独立核实空间。",
+      "awakeningPoint": "先找完整原文和多方说明，暂不转发未经核实的指控。",
+      "alternativeExplanation": "截图也可能真实反映严重问题，及时提醒不必然是操纵。",
+      "evidenceStatus": "原创模拟；理论参考可核验；情境非真实事件",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "social-20261110-02",
+      "category": "社会",
+      "title": "公益捐款中的羞耻排行榜",
+      "prompt": "原创模拟生活情境：组织者公开列出未捐款名单，称不捐的人缺乏良心。",
+      "check": "区分公益目标、资金透明度与是否允许自愿拒绝。",
+      "risk": "通过公开羞辱可能把自愿捐赠转变成群体压力。",
+      "wake": "核实受益方与账目，按自身能力自主决定是否参与。",
+      "counter": "组织者可能确有紧迫筹款需要，但仍应尊重个人选择。",
+      "tags": [
+        "社会与群体",
+        "证据边界"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟生活情境；分析框架参考 Stanford Encyclopedia of Philosophy《The Ethics of Manipulation》",
+      "articleTitle": "The Ethics of Manipulation",
+      "articleUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "publishedDate": "",
+      "originalExcerpt": "",
+      "originalRewrite": "原创模拟生活情境：组织者公开列出未捐款名单，称不捐的人缺乏良心。",
+      "discernmentPoint": "区分公益目标、资金透明度与是否允许自愿拒绝。",
+      "hypnosisPoint": "通过公开羞辱可能把自愿捐赠转变成群体压力。",
+      "awakeningPoint": "核实受益方与账目，按自身能力自主决定是否参与。",
+      "alternativeExplanation": "组织者可能确有紧迫筹款需要，但仍应尊重个人选择。",
+      "evidenceStatus": "原创模拟；理论参考可核验；情境非真实事件",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "religion-20261110-01",
+      "category": "宗教",
+      "title": "信仰社群的退出成本",
+      "prompt": "原创模拟生活情境：某社群负责人声称任何暂停参加活动的人都不值得再被朋友联系。",
+      "check": "检查是否存在以断绝社交关系惩罚个人选择的实际规则。",
+      "risk": "以归属感作为退出惩罚，可能限制自由选择。",
+      "wake": "尊重信仰与团体自治，同时明确个人可退出、质疑和维持外部关系。",
+      "counter": "团体也可能只是表达共同价值与参与期待，不能仅凭信仰身份判断。",
+      "tags": [
+        "宗教与自由",
+        "证据边界"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟生活情境；分析框架参考 Stanford Encyclopedia of Philosophy《The Ethics of Manipulation》",
+      "articleTitle": "The Ethics of Manipulation",
+      "articleUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "publishedDate": "",
+      "originalExcerpt": "",
+      "originalRewrite": "原创模拟生活情境：某社群负责人声称任何暂停参加活动的人都不值得再被朋友联系。",
+      "discernmentPoint": "检查是否存在以断绝社交关系惩罚个人选择的实际规则。",
+      "hypnosisPoint": "以归属感作为退出惩罚，可能限制自由选择。",
+      "awakeningPoint": "尊重信仰与团体自治，同时明确个人可退出、质疑和维持外部关系。",
+      "alternativeExplanation": "团体也可能只是表达共同价值与参与期待，不能仅凭信仰身份判断。",
+      "evidenceStatus": "原创模拟；理论参考可核验；情境非真实事件",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "religion-20261110-02",
+      "category": "宗教",
+      "title": "个人见证被当作普遍保证",
+      "prompt": "原创模拟生活情境：有人讲述祈祷后的个人康复经历，旁人据此保证所有人照做都能痊愈。",
+      "check": "区分个人经验、医学因果证据及普遍有效性的证明。",
+      "risk": "将个别见证推广为确定疗效，可能导致不合理的健康决策。",
+      "wake": "尊重个人宗教体验，但医疗决定应参考可靠临床证据。",
+      "counter": "见证者可能仅在分享自身意义感，并没有提出医学承诺。",
+      "tags": [
+        "宗教与自由",
+        "证据边界"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟生活情境；分析框架参考 Stanford Encyclopedia of Philosophy《The Ethics of Manipulation》",
+      "articleTitle": "The Ethics of Manipulation",
+      "articleUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "publishedDate": "",
+      "originalExcerpt": "",
+      "originalRewrite": "原创模拟生活情境：有人讲述祈祷后的个人康复经历，旁人据此保证所有人照做都能痊愈。",
+      "discernmentPoint": "区分个人经验、医学因果证据及普遍有效性的证明。",
+      "hypnosisPoint": "将个别见证推广为确定疗效，可能导致不合理的健康决策。",
+      "awakeningPoint": "尊重个人宗教体验，但医疗决定应参考可靠临床证据。",
+      "alternativeExplanation": "见证者可能仅在分享自身意义感，并没有提出医学承诺。",
+      "evidenceStatus": "原创模拟；理论参考可核验；情境非真实事件",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    }
+  ]
+}
