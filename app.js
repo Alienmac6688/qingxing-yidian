@@ -66,6 +66,18 @@ function editCustom(c){const newTitle=prompt('修改案例标题',c.title);if(ne
 function download(name,content,type){const blob=new Blob([content],{type}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download=name;document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1000)}
 $('export-md').onclick=()=>{const lines=['# 清醒一点 · 我的学习记录','','导出时间：'+new Date().toLocaleString('zh-CN'),''];for(const x of state.discern){const c=all().find(c=>c.id===x.id);lines.push('## '+(c?.title||x.id),'','- 时间：'+new Date(x.at).toLocaleString('zh-CN'),'- 个人观察：'+(x.reason||x.before||'未填写'),'- 复盘判断：'+(x.after||'未选择'),'- 复盘笔记：'+(x.reflection||'未填写'),'- 对参考拆解的意见：'+(x.disagreement||'未填写'),'')}download('qingxing-learning-records.md',lines.join('\\n').replaceAll('\\n','\n'),'text/markdown;charset=utf-8')};
 $('export').onclick=()=>download('qingxing-v12-backup.json',JSON.stringify({app:'qingxing-yidian',schema:2,exportedAt:new Date().toISOString(),state},null,2),'application/json');
+$('clear-all').onclick=()=>{
+ if(!confirm('第一次确认：确定清空本机全部学习记录、复习进度和自建案例吗？此操作不可撤销。'))return;
+ if(!confirm('第二次确认：所有本机学习数据将永久清空。是否继续？'))return;
+ try{localStorage.removeItem(KEY);localStorage.removeItem(legacy)}catch(e){alert('清空失败：浏览器不允许访问本地存储。');return}
+ state=defaultState();active=null;first='';after='';stage=0;selectedIndex=-1;
+ for(const id of ['p-reason','p-after-reason','p-disagree','search','custom-title','custom-prompt','custom-check','custom-counter','custom-wake'])$(id).value='';
+ for(const id of ['category','tag','type','verification','difficulty'])$(id).value='';
+ $('analysis').hidden=true;$('memory').hidden=true;$('p-answer').hidden=true;
+ $('custom-status').textContent='';$('p-fsrs').textContent='';
+ filters();renderCustom();renderCases();stats();next();nav('home');
+ alert('本机学习数据已清空，已恢复全新状态。');
+};
 $('import').onclick=()=>$('import-file').click();$('import-file').onchange=async e=>{try{const file=e.target.files?.[0];if(!file)return;if(file.size>5_000_000)throw Error('文件超过5MB');const data=JSON.parse(await file.text());if(data.app!=='qingxing-yidian'||data.schema!==2||!valid(data.state))throw Error('备份版本或结构不匹配');if(!confirm('导入会覆盖本机数据，建议先导出备份。确定继续？'))return;state=data.state;save();filters();renderCustom();renderCases();stats();alert('导入完成')}catch(err){alert('导入失败：'+err.message)}finally{e.target.value=''}};
 $('anki').onclick=()=>{const esc=x=>'"'+String(x).replaceAll('"','""').replaceAll('\n','<br>')+'"';download('qingxing-anki.csv','Front,Back,Tags\n'+all().map(c=>[c.prompt,`检测：${c.check}<br>可能影响：${c.risk}<br>另一面：${counter(c)}<br>应对：${c.wake}`,c.tags.join(' ')].map(esc).join(',')).join('\n'),'text/csv;charset=utf-8')};
 // V1.1 progress is deliberately not converted into FSRS history: intervals/ease are incompatible.
