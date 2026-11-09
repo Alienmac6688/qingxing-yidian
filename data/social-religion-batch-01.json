@@ -26601,6 +26601,354 @@
       ],
       "evidenceStatus": "一手文章标题与正文可核验；生活情境为原创模拟，非真实事件；不将作者的超常主张当作科学事实；尊重宗教自由及不同意见",
       "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v4-0110",
+      "category": "宗教",
+      "title": "冥想打卡被要求全天维持无我",
+      "prompt": "冥想群管理员规定学员从起床到睡前都要保持“无我状态”，一旦分心就要公开检讨。",
+      "check": "练习建议是否变成全天强制考核？",
+      "risk": "持续自我监控和公开检讨可能制造羞耻与疲惫。",
+      "wake": "自主安排练习时长，允许暂停，不以分心作为道德失败。",
+      "counter": "定时练习提醒也可能只是习惯培养，需看是否有强制惩罚。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟",
+        "G2原始资料"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；灵感来自用户G2《从头复核》第110条；并非真实事件",
+      "sourceTitle": "G2《从头复核》",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "表格二次整理可读取；课程一手原文未独立核验，因此不作原文摘录",
+      "originalRewrite": "原创生活情境：冥想群管理员规定学员从起床到睡前都要保持“无我状态”，一旦分心就要公开检讨。 辨识点：练习建议是否变成全天强制考核？ 催眠点：持续自我监控和公开检讨可能制造羞耻与疲惫。 催醒点：自主安排练习时长，允许暂停，不以分心作为道德失败。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；G2来源为二次整理，尚未核验课程原文；宗教信仰及不同意见本身不构成操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v4-0130",
+      "category": "社会",
+      "title": "项目负责人用身份责任拒绝求助",
+      "prompt": "项目经理常说“我是负责人，没人能帮我”，拒绝团队分工，最终工作积压。",
+      "check": "身份认同是否被误用为必须独自承担全部责任？",
+      "risk": "英雄式责任叙事可能阻断求助和风险上报。",
+      "wake": "列出可委派事项、协作资源和实际责任边界。",
+      "counter": "某些岗位确有最终责任，但不代表必须独自完成。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟",
+        "G2原始资料"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；灵感来自用户G2《从头复核》第130条；并非真实事件",
+      "sourceTitle": "G2《从头复核》",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "表格二次整理可读取；课程一手原文未独立核验，因此不作原文摘录",
+      "originalRewrite": "原创生活情境：项目经理常说“我是负责人，没人能帮我”，拒绝团队分工，最终工作积压。 辨识点：身份认同是否被误用为必须独自承担全部责任？ 催眠点：英雄式责任叙事可能阻断求助和风险上报。 催醒点：列出可委派事项、协作资源和实际责任边界。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；G2来源为二次整理，尚未核验课程原文；宗教信仰及不同意见本身不构成操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v4-0150",
+      "category": "社会",
+      "title": "多人参与的心灵咨询被包装成更准确",
+      "prompt": "咨询平台宣称三位导师同时解读梦境一定比个人解读客观，因此要求购买高价团体套餐。",
+      "check": "参与人数是否被当成准确率的证明？",
+      "risk": "群体共识可能被误认成独立验证。",
+      "wake": "要求盲测设计、预测标准和可重复结果，再决定是否付费。",
+      "counter": "多人讨论可能带来更多视角，但不自动提高事实准确性。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟",
+        "G2原始资料"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；灵感来自用户G2《从头复核》第150条；并非真实事件",
+      "sourceTitle": "G2《从头复核》",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "表格二次整理可读取；课程一手原文未独立核验，因此不作原文摘录",
+      "originalRewrite": "原创生活情境：咨询平台宣称三位导师同时解读梦境一定比个人解读客观，因此要求购买高价团体套餐。 辨识点：参与人数是否被当成准确率的证明？ 催眠点：群体共识可能被误认成独立验证。 催醒点：要求盲测设计、预测标准和可重复结果，再决定是否付费。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；G2来源为二次整理，尚未核验课程原文；宗教信仰及不同意见本身不构成操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v4-0175",
+      "category": "社会",
+      "title": "专注力课程宣称可以屏蔽全部外界信号",
+      "prompt": "学习软件广告称其训练能让用户彻底屏蔽所有外界刺激，保证在嘈杂办公室零分心。",
+      "check": "是否将选择性注意夸大成绝对隔绝？",
+      "risk": "绝对化功效承诺可能误导消费者预期。",
+      "wake": "比较真实环境下的专注表现、限制与退款条件。",
+      "counter": "广告可能使用夸张修辞，需核实实际合同承诺。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟",
+        "G2原始资料"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；灵感来自用户G2《从头复核》第175条；并非真实事件",
+      "sourceTitle": "G2《从头复核》",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "表格二次整理可读取；课程一手原文未独立核验，因此不作原文摘录",
+      "originalRewrite": "原创生活情境：学习软件广告称其训练能让用户彻底屏蔽所有外界刺激，保证在嘈杂办公室零分心。 辨识点：是否将选择性注意夸大成绝对隔绝？ 催眠点：绝对化功效承诺可能误导消费者预期。 催醒点：比较真实环境下的专注表现、限制与退款条件。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；G2来源为二次整理，尚未核验课程原文；宗教信仰及不同意见本身不构成操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v4-0220",
+      "category": "社会",
+      "title": "心理服务用专业术语代替真实安全保障",
+      "prompt": "咨询机构反复使用“绝对安全”“专业保护”等术语，却拒绝说明隐私保存方式和投诉渠道。",
+      "check": "信任感是否有制度、资质和告知程序支持？",
+      "risk": "安全感话术可能掩盖实际保障缺失。",
+      "wake": "索取隐私政策、资格信息、风险说明及退出办法。",
+      "counter": "专业术语也可能是正常说明，不能单凭术语推定欺骗。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟",
+        "G2原始资料"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；灵感来自用户G2《从头复核》第220条；并非真实事件",
+      "sourceTitle": "G2《从头复核》",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "表格二次整理可读取；课程一手原文未独立核验，因此不作原文摘录",
+      "originalRewrite": "原创生活情境：咨询机构反复使用“绝对安全”“专业保护”等术语，却拒绝说明隐私保存方式和投诉渠道。 辨识点：信任感是否有制度、资质和告知程序支持？ 催眠点：安全感话术可能掩盖实际保障缺失。 催醒点：索取隐私政策、资格信息、风险说明及退出办法。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；G2来源为二次整理，尚未核验课程原文；宗教信仰及不同意见本身不构成操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v4-0250",
+      "category": "宗教",
+      "title": "引导者在体验前透露预期答案",
+      "prompt": "静修工作坊先详细描述学员“应该看到的前世画面”，再将相似描述视为独立证据。",
+      "check": "事前提示是否影响了后续体验报告？",
+      "risk": "期待效应可能让受提示内容被误认作独立发现。",
+      "wake": "记录引导词，区分主观体验与可独立核验的历史事实。",
+      "counter": "提供背景知识有教学价值，关键是避免把引导结果当客观证明。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟",
+        "G2原始资料"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；灵感来自用户G2《从头复核》第250条；并非真实事件",
+      "sourceTitle": "G2《从头复核》",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "表格二次整理可读取；课程一手原文未独立核验，因此不作原文摘录",
+      "originalRewrite": "原创生活情境：静修工作坊先详细描述学员“应该看到的前世画面”，再将相似描述视为独立证据。 辨识点：事前提示是否影响了后续体验报告？ 催眠点：期待效应可能让受提示内容被误认作独立发现。 催醒点：记录引导词，区分主观体验与可独立核验的历史事实。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；G2来源为二次整理，尚未核验课程原文；宗教信仰及不同意见本身不构成操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v4-0300",
+      "category": "社会",
+      "title": "职场自查把被操控假设当成既定事实",
+      "prompt": "团队培训要求每个人先假定自己遭同事植入错误观念，再从聊天记录里找“证据”。",
+      "check": "审查用假设是否被偷换成已经发生的事实？",
+      "risk": "单向搜证容易形成确认偏差并损害同事信任。",
+      "wake": "同时寻找支持和反驳证据，允许调查结果为无异常。",
+      "counter": "风险演练可以使用假设，但应明确是假设且有结束标准。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟",
+        "G2原始资料"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；灵感来自用户G2《从头复核》第300条；并非真实事件",
+      "sourceTitle": "G2《从头复核》",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "表格二次整理可读取；课程一手原文未独立核验，因此不作原文摘录",
+      "originalRewrite": "原创生活情境：团队培训要求每个人先假定自己遭同事植入错误观念，再从聊天记录里找“证据”。 辨识点：审查用假设是否被偷换成已经发生的事实？ 催眠点：单向搜证容易形成确认偏差并损害同事信任。 催醒点：同时寻找支持和反驳证据，允许调查结果为无异常。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；G2来源为二次整理，尚未核验课程原文；宗教信仰及不同意见本身不构成操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v4-0350",
+      "category": "社会",
+      "title": "销售培训隐瞒改变客户想法的真实目的",
+      "prompt": "销售主管要求员工以免费职业建议为名接近客户，暗中引导客户购买高价课程。",
+      "check": "是否公开商业利益及劝说目的？",
+      "risk": "隐藏目的可能削弱知情选择。",
+      "wake": "说明销售身份、收费关系和可拒绝选项。",
+      "counter": "提供免费建议本身不必然不当，问题在于是否隐瞒利益。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟",
+        "G2原始资料"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；灵感来自用户G2《从头复核》第350条；并非真实事件",
+      "sourceTitle": "G2《从头复核》",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "表格二次整理可读取；课程一手原文未独立核验，因此不作原文摘录",
+      "originalRewrite": "原创生活情境：销售主管要求员工以免费职业建议为名接近客户，暗中引导客户购买高价课程。 辨识点：是否公开商业利益及劝说目的？ 催眠点：隐藏目的可能削弱知情选择。 催醒点：说明销售身份、收费关系和可拒绝选项。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；G2来源为二次整理，尚未核验课程原文；宗教信仰及不同意见本身不构成操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v4-0410",
+      "category": "宗教",
+      "title": "修行小组把正常恐惧都判作外来植入",
+      "prompt": "成员担心考试失败，带领者直接解释为“外来意识植入”，要求购买清理服务。",
+      "check": "是否先排除正常压力与现实原因？",
+      "risk": "将普通情绪病理化或神秘化可能推动不必要付费。",
+      "wake": "先评估考试准备、睡眠与压力来源；严重困扰可求专业支持。",
+      "counter": "团体可使用象征性语言，但不应将超常解释当作已证实诊断。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟",
+        "G2原始资料"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；灵感来自用户G2《从头复核》第410条；并非真实事件",
+      "sourceTitle": "G2《从头复核》",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "表格二次整理可读取；课程一手原文未独立核验，因此不作原文摘录",
+      "originalRewrite": "原创生活情境：成员担心考试失败，带领者直接解释为“外来意识植入”，要求购买清理服务。 辨识点：是否先排除正常压力与现实原因？ 催眠点：将普通情绪病理化或神秘化可能推动不必要付费。 催醒点：先评估考试准备、睡眠与压力来源；严重困扰可求专业支持。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；G2来源为二次整理，尚未核验课程原文；宗教信仰及不同意见本身不构成操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v4-0590",
+      "category": "宗教",
+      "title": "灵性讨论用所有观点都正确回避事实核验",
+      "prompt": "社群里两位讲师对同一事件提出互相矛盾的具体事实，管理员以“所有说法都真实”拒绝核对。",
+      "check": "哲学上的多视角是否替代可检验的事实判断？",
+      "risk": "全称肯定可能使互斥事实主张免于检验。",
+      "wake": "尊重个人意义，同时对日期、数字和事件独立查证。",
+      "counter": "包容不同体验是合理目标，但不等于事实矛盾自动消失。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟",
+        "G2原始资料"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；灵感来自用户G2《从头复核》第590条；并非真实事件",
+      "sourceTitle": "G2《从头复核》",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "表格二次整理可读取；课程一手原文未独立核验，因此不作原文摘录",
+      "originalRewrite": "原创生活情境：社群里两位讲师对同一事件提出互相矛盾的具体事实，管理员以“所有说法都真实”拒绝核对。 辨识点：哲学上的多视角是否替代可检验的事实判断？ 催眠点：全称肯定可能使互斥事实主张免于检验。 催醒点：尊重个人意义，同时对日期、数字和事件独立查证。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；G2来源为二次整理，尚未核验课程原文；宗教信仰及不同意见本身不构成操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v4-0830",
+      "category": "社会",
+      "title": "设备销售先问神秘植入物的功能",
+      "prompt": "销售直播不先证明所谓“能量植入物”存在，就直接讨论它有多少种危害并推荐检测仪。",
+      "check": "问题是否预设尚未证实的对象存在？",
+      "risk": "预设前提可能让消费者跳过存在性核验。",
+      "wake": "先要求独立证据证明对象存在，再讨论功能与风险。",
+      "counter": "科幻或假设讨论可以探索功能，但销售事实主张须有证据。",
+      "tags": [
+        "社会",
+        "三点辨识",
+        "原创模拟",
+        "G2原始资料"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；灵感来自用户G2《从头复核》第830条；并非真实事件",
+      "sourceTitle": "G2《从头复核》",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "表格二次整理可读取；课程一手原文未独立核验，因此不作原文摘录",
+      "originalRewrite": "原创生活情境：销售直播不先证明所谓“能量植入物”存在，就直接讨论它有多少种危害并推荐检测仪。 辨识点：问题是否预设尚未证实的对象存在？ 催眠点：预设前提可能让消费者跳过存在性核验。 催醒点：先要求独立证据证明对象存在，再讨论功能与风险。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；G2来源为二次整理，尚未核验课程原文；宗教信仰及不同意见本身不构成操纵",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261109-g2-v4-0900",
+      "category": "宗教",
+      "title": "修行课程以内部等级循环证明觉醒",
+      "prompt": "培训机构用自创的意识强度等级判定觉醒，学员质疑测量方法时被告知“等级不够所以看不懂”。",
+      "check": "评价标准是否独立于课程体系并允许反例？",
+      "risk": "内部循环解释可能让测评结果不可证伪。",
+      "wake": "要求清晰定义、可重复测量、外部复核与申诉机制。",
+      "counter": "私人修行目标可以自定，但不应冒充经过验证的客观测量。",
+      "tags": [
+        "宗教",
+        "三点辨识",
+        "原创模拟",
+        "G2原始资料"
+      ],
+      "type": "scenario",
+      "source": "原创模拟生活情境；灵感来自用户G2《从头复核》第900条；并非真实事件",
+      "sourceTitle": "G2《从头复核》",
+      "sourceUrl": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "表格二次整理可读取；课程一手原文未独立核验，因此不作原文摘录",
+      "originalRewrite": "原创生活情境：培训机构用自创的意识强度等级判定觉醒，学员质疑测量方法时被告知“等级不够所以看不懂”。 辨识点：评价标准是否独立于课程体系并允许反例？ 催眠点：内部循环解释可能让测评结果不可证伪。 催醒点：要求清晰定义、可重复测量、外部复核与申诉机制。",
+      "references": [
+        "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit?gid=1642753381"
+      ],
+      "evidenceStatus": "原创模拟，非真实事件；G2来源为二次整理，尚未核验课程原文；宗教信仰及不同意见本身不构成操纵",
+      "revision": 1
     }
   ]
 }
