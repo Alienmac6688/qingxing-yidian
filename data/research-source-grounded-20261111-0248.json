@@ -1,0 +1,637 @@
+{
+  "schemaVersion": 1,
+  "status": "research-candidates-not-loaded",
+  "note": "来源正文已核验，案例均原创模拟；main大文件与其他候选分支未完成全库语义去重，暂不计入线上正式库。",
+  "cases": [
+    {
+      "id": "sr-source-20261111-0248-01",
+      "category": "社会",
+      "title": "培训结业生替所有学员保证就业",
+      "prompt": "原创模拟生活情境：某职业培训机构让一名成功就业的毕业生在招生直播中保证所有报名者三个月内找到工作。",
+      "check": "个体成功与群体就业概率不同。",
+      "risk": "以单例经验替代就业数据，并制造报名紧迫感。",
+      "wake": "核对样本量、就业率定义、退费条款与个人条件。",
+      "counter": "毕业生可能真诚分享经历，并未参与承诺。",
+      "tags": [
+        "原创模拟",
+        "证据边界",
+        "自主判断"
+      ],
+      "type": "breakdown",
+      "source": "思想框架参考 Awakenology《破權威幻》；情境为原创模拟，不是文章报道的事件",
+      "articleTitle": "破權威幻",
+      "articleUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "publishedDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "originalRewrite": "某职业培训机构让一名成功就业的毕业生在招生直播中保证所有报名者三个月内找到工作。",
+      "discernmentPoint": "个体成功与群体就业概率不同。",
+      "hypnosisPoint": "以单例经验替代就业数据，并制造报名紧迫感。",
+      "awakeningPoint": "核对样本量、就业率定义、退费条款与个人条件。",
+      "alternativeExplanation": "毕业生可能真诚分享经历，并未参与承诺。",
+      "evidenceStatus": "文章正文及短摘录已核验；案例为原创模拟，未证实真实发生；文章观点不等于科学实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+        }
+      ]
+    },
+    {
+      "id": "sr-source-20261111-0248-02",
+      "category": "社会",
+      "title": "减肥博主把个人食谱规定成统一标准",
+      "prompt": "原创模拟生活情境：一位减肥博主展示自己的三餐，社群管理员要求每个人照做，否则公开批评缺乏自律。",
+      "check": "个人饮食体验不等于适用于所有身体状况的方案。",
+      "risk": "把经验上升为唯一标准，以羞耻驱动服从。",
+      "wake": "根据自身需求咨询专业人员，允许调整或退出群组。",
+      "counter": "统一食谱可能仅为方便记录的自愿挑战。",
+      "tags": [
+        "原创模拟",
+        "证据边界",
+        "自主判断"
+      ],
+      "type": "breakdown",
+      "source": "思想框架参考 Awakenology《破權威幻》；情境为原创模拟，不是文章报道的事件",
+      "articleTitle": "破權威幻",
+      "articleUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "publishedDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "originalRewrite": "一位减肥博主展示自己的三餐，社群管理员要求每个人照做，否则公开批评缺乏自律。",
+      "discernmentPoint": "个人饮食体验不等于适用于所有身体状况的方案。",
+      "hypnosisPoint": "把经验上升为唯一标准，以羞耻驱动服从。",
+      "awakeningPoint": "根据自身需求咨询专业人员，允许调整或退出群组。",
+      "alternativeExplanation": "统一食谱可能仅为方便记录的自愿挑战。",
+      "evidenceStatus": "文章正文及短摘录已核验；案例为原创模拟，未证实真实发生；文章观点不等于科学实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+        }
+      ]
+    },
+    {
+      "id": "sr-source-20261111-0248-03",
+      "category": "社会",
+      "title": "创业导师用一次成功否定风险提示",
+      "prompt": "原创模拟生活情境：创业分享会里讲者称自己借钱创业成功，因此劝所有听众抵押房屋开店。",
+      "check": "区分事后故事和事前风险概率。",
+      "risk": "以幸存者故事掩盖失败样本与负债后果。",
+      "wake": "要求完整成本、失败率、现金流压力测试。",
+      "counter": "讲者可能只是在鼓励行动，非强迫借款。",
+      "tags": [
+        "原创模拟",
+        "证据边界",
+        "自主判断"
+      ],
+      "type": "breakdown",
+      "source": "思想框架参考 Awakenology《破權威幻》；情境为原创模拟，不是文章报道的事件",
+      "articleTitle": "破權威幻",
+      "articleUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "publishedDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "originalRewrite": "创业分享会里讲者称自己借钱创业成功，因此劝所有听众抵押房屋开店。",
+      "discernmentPoint": "区分事后故事和事前风险概率。",
+      "hypnosisPoint": "以幸存者故事掩盖失败样本与负债后果。",
+      "awakeningPoint": "要求完整成本、失败率、现金流压力测试。",
+      "alternativeExplanation": "讲者可能只是在鼓励行动，非强迫借款。",
+      "evidenceStatus": "文章正文及短摘录已核验；案例为原创模拟，未证实真实发生；文章观点不等于科学实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+        }
+      ]
+    },
+    {
+      "id": "sr-source-20261111-0248-04",
+      "category": "社会",
+      "title": "家长群用状元作息处罚迟睡家庭",
+      "prompt": "原创模拟生活情境：学校家长群转发一位高分学生的作息表，要求所有家庭上传每日执行截图。",
+      "check": "成功学生的作息不是对全部儿童的因果证明。",
+      "risk": "把单一个案包装成权威标准，并扩大到家庭监控。",
+      "wake": "比较孩子的睡眠需求、学习效果及隐私边界。",
+      "counter": "教师可能希望提供参考而非处罚。",
+      "tags": [
+        "原创模拟",
+        "证据边界",
+        "自主判断"
+      ],
+      "type": "breakdown",
+      "source": "思想框架参考 Awakenology《破權威幻》；情境为原创模拟，不是文章报道的事件",
+      "articleTitle": "破權威幻",
+      "articleUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "publishedDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "originalRewrite": "学校家长群转发一位高分学生的作息表，要求所有家庭上传每日执行截图。",
+      "discernmentPoint": "成功学生的作息不是对全部儿童的因果证明。",
+      "hypnosisPoint": "把单一个案包装成权威标准，并扩大到家庭监控。",
+      "awakeningPoint": "比较孩子的睡眠需求、学习效果及隐私边界。",
+      "alternativeExplanation": "教师可能希望提供参考而非处罚。",
+      "evidenceStatus": "文章正文及短摘录已核验；案例为原创模拟，未证实真实发生；文章观点不等于科学实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+        }
+      ]
+    },
+    {
+      "id": "sr-source-20261111-0248-05",
+      "category": "社会",
+      "title": "求职群把质疑招聘截图说成负能量",
+      "prompt": "原创模拟生活情境：兼职群中有人询问合同和工资明细，管理员以破坏积极氛围为由禁言。",
+      "check": "合理核验合同与消极攻击应当分开。",
+      "risk": "用情绪标签压制事实性问题。",
+      "wake": "保存招聘条件并核对合法用工信息，允许公开提问。",
+      "counter": "管理员可能在制止刷屏，但仍应提供核验渠道。",
+      "tags": [
+        "原创模拟",
+        "证据边界",
+        "自主判断"
+      ],
+      "type": "breakdown",
+      "source": "思想框架参考 Awakenology《意識强度檢測點（2）上方區：自主意識區》；情境为原创模拟，不是文章报道的事件",
+      "articleTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "articleUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "publishedDate": "",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalRewrite": "兼职群中有人询问合同和工资明细，管理员以破坏积极氛围为由禁言。",
+      "discernmentPoint": "合理核验合同与消极攻击应当分开。",
+      "hypnosisPoint": "用情绪标签压制事实性问题。",
+      "awakeningPoint": "保存招聘条件并核对合法用工信息，允许公开提问。",
+      "alternativeExplanation": "管理员可能在制止刷屏，但仍应提供核验渠道。",
+      "evidenceStatus": "文章正文及短摘录已核验；案例为原创模拟，未证实真实发生；文章观点不等于科学实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/"
+        }
+      ]
+    },
+    {
+      "id": "sr-source-20261111-0248-06",
+      "category": "社会",
+      "title": "邻里调解只听一户的录音",
+      "prompt": "原创模拟生活情境：邻里噪声纠纷中，协调员只播放投诉方剪辑的十秒录音就要求另一方认错。",
+      "check": "单一片段不足以重建事件前后文。",
+      "risk": "把片段证据当成完整事实，形成舆论压力。",
+      "wake": "核对录制时间、持续时长、其他住户证词及双方说明。",
+      "counter": "短录音可能确实捕捉到一次真实噪声。",
+      "tags": [
+        "原创模拟",
+        "证据边界",
+        "自主判断"
+      ],
+      "type": "breakdown",
+      "source": "思想框架参考 Awakenology《本源全層面vs小我單一層面》；情境为原创模拟，不是文章报道的事件",
+      "articleTitle": "本源全層面vs小我單一層面",
+      "articleUrl": "https://awakenology.org/%E6%9C%AC%E6%BA%90%E5%85%A8%E5%B1%A4%E9%9D%A2vs%E5%B0%8F%E6%88%91%E5%96%AE%E4%B8%80%E5%B1%A4%E9%9D%A2/",
+      "publishedDate": "2021-12-06",
+      "originalExcerpt": "如同看電視只看單一頻道",
+      "originalRewrite": "邻里噪声纠纷中，协调员只播放投诉方剪辑的十秒录音就要求另一方认错。",
+      "discernmentPoint": "单一片段不足以重建事件前后文。",
+      "hypnosisPoint": "把片段证据当成完整事实，形成舆论压力。",
+      "awakeningPoint": "核对录制时间、持续时长、其他住户证词及双方说明。",
+      "alternativeExplanation": "短录音可能确实捕捉到一次真实噪声。",
+      "evidenceStatus": "文章正文及短摘录已核验；案例为原创模拟，未证实真实发生；文章观点不等于科学实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "本源全層面vs小我單一層面",
+          "url": "https://awakenology.org/%E6%9C%AC%E6%BA%90%E5%85%A8%E5%B1%A4%E9%9D%A2vs%E5%B0%8F%E6%88%91%E5%96%AE%E4%B8%80%E5%B1%A4%E9%9D%A2/"
+        }
+      ]
+    },
+    {
+      "id": "sr-source-20261111-0248-07",
+      "category": "社会",
+      "title": "环保群把退出一次活动等同不关心地球",
+      "prompt": "原创模拟生活情境：志愿者因照顾家人缺席清洁活动，被群内投票标为不环保成员。",
+      "check": "支持环保与每次到场是不同层面的判断。",
+      "risk": "用道德标签代替具体参与条件。",
+      "wake": "允许多种贡献方式，区分一次缺席与长期态度。",
+      "counter": "组织者可能只是在统计出勤而非人格评价。",
+      "tags": [
+        "原创模拟",
+        "证据边界",
+        "自主判断"
+      ],
+      "type": "breakdown",
+      "source": "思想框架参考 Awakenology《本源全層面vs小我單一層面》；情境为原创模拟，不是文章报道的事件",
+      "articleTitle": "本源全層面vs小我單一層面",
+      "articleUrl": "https://awakenology.org/%E6%9C%AC%E6%BA%90%E5%85%A8%E5%B1%A4%E9%9D%A2vs%E5%B0%8F%E6%88%91%E5%96%AE%E4%B8%80%E5%B1%A4%E9%9D%A2/",
+      "publishedDate": "2021-12-06",
+      "originalExcerpt": "如同看電視只看單一頻道",
+      "originalRewrite": "志愿者因照顾家人缺席清洁活动，被群内投票标为不环保成员。",
+      "discernmentPoint": "支持环保与每次到场是不同层面的判断。",
+      "hypnosisPoint": "用道德标签代替具体参与条件。",
+      "awakeningPoint": "允许多种贡献方式，区分一次缺席与长期态度。",
+      "alternativeExplanation": "组织者可能只是在统计出勤而非人格评价。",
+      "evidenceStatus": "文章正文及短摘录已核验；案例为原创模拟，未证实真实发生；文章观点不等于科学实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "本源全層面vs小我單一層面",
+          "url": "https://awakenology.org/%E6%9C%AC%E6%BA%90%E5%85%A8%E5%B1%A4%E9%9D%A2vs%E5%B0%8F%E6%88%91%E5%96%AE%E4%B8%80%E5%B1%A4%E9%9D%A2/"
+        }
+      ]
+    },
+    {
+      "id": "sr-source-20261111-0248-08",
+      "category": "社会",
+      "title": "社区互助表只显示受助金额不显示成本",
+      "prompt": "原创模拟生活情境：社区群发布受助者领取金额排行榜，借此断言某家庭占用最多资源，却不列家庭人口和特殊需要。",
+      "check": "金额排序不是需求合理性的完整衡量。",
+      "risk": "选择性披露数据制造不公平印象。",
+      "wake": "在保护隐私前提下核查资格、需求及分配规则。",
+      "counter": "发布者可能仅为透明公示而遗漏背景。",
+      "tags": [
+        "原创模拟",
+        "证据边界",
+        "自主判断"
+      ],
+      "type": "breakdown",
+      "source": "思想框架参考 Awakenology《本源全層面vs小我單一層面》；情境为原创模拟，不是文章报道的事件",
+      "articleTitle": "本源全層面vs小我單一層面",
+      "articleUrl": "https://awakenology.org/%E6%9C%AC%E6%BA%90%E5%85%A8%E5%B1%A4%E9%9D%A2vs%E5%B0%8F%E6%88%91%E5%96%AE%E4%B8%80%E5%B1%A4%E9%9D%A2/",
+      "publishedDate": "2021-12-06",
+      "originalExcerpt": "如同看電視只看單一頻道",
+      "originalRewrite": "社区群发布受助者领取金额排行榜，借此断言某家庭占用最多资源，却不列家庭人口和特殊需要。",
+      "discernmentPoint": "金额排序不是需求合理性的完整衡量。",
+      "hypnosisPoint": "选择性披露数据制造不公平印象。",
+      "awakeningPoint": "在保护隐私前提下核查资格、需求及分配规则。",
+      "alternativeExplanation": "发布者可能仅为透明公示而遗漏背景。",
+      "evidenceStatus": "文章正文及短摘录已核验；案例为原创模拟，未证实真实发生；文章观点不等于科学实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "本源全層面vs小我單一層面",
+          "url": "https://awakenology.org/%E6%9C%AC%E6%BA%90%E5%85%A8%E5%B1%A4%E9%9D%A2vs%E5%B0%8F%E6%88%91%E5%96%AE%E4%B8%80%E5%B1%A4%E9%9D%A2/"
+        }
+      ]
+    },
+    {
+      "id": "sr-source-20261111-0248-09",
+      "category": "宗教",
+      "title": "朝圣经验分享被包装成人人必须复制",
+      "prompt": "原创模拟生活情境：某宗教旅行社把一位参与者的深刻体验宣传为所有信徒必须报名同一收费路线。",
+      "check": "个人宗教体验不自动构成普遍义务。",
+      "risk": "把自愿体验升级为消费要求。",
+      "wake": "核对宗教团体正式规定、费用与自愿退出权。",
+      "counter": "旅行社可能只是营销，信徒仍可自由选择。",
+      "tags": [
+        "原创模拟",
+        "证据边界",
+        "自主判断"
+      ],
+      "type": "breakdown",
+      "source": "思想框架参考 Awakenology《破權威幻》；情境为原创模拟，不是文章报道的事件",
+      "articleTitle": "破權威幻",
+      "articleUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "publishedDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "originalRewrite": "某宗教旅行社把一位参与者的深刻体验宣传为所有信徒必须报名同一收费路线。",
+      "discernmentPoint": "个人宗教体验不自动构成普遍义务。",
+      "hypnosisPoint": "把自愿体验升级为消费要求。",
+      "awakeningPoint": "核对宗教团体正式规定、费用与自愿退出权。",
+      "alternativeExplanation": "旅行社可能只是营销，信徒仍可自由选择。",
+      "evidenceStatus": "文章正文及短摘录已核验；案例为原创模拟，未证实真实发生；文章观点不等于科学实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+        }
+      ]
+    },
+    {
+      "id": "sr-source-20261111-0248-10",
+      "category": "宗教",
+      "title": "寺院义工轮班被解释成信仰高低",
+      "prompt": "原创模拟生活情境：寺院义工负责人根据值班次数评价个人信仰纯度，并公开贴出低分名单。",
+      "check": "服务时间不等于内在信念。",
+      "risk": "以公开排名迫使超出能力的无偿劳动。",
+      "wake": "区分自愿服务安排和对人格的评判。",
+      "counter": "值班表可能只是行政排班而非信仰审判。",
+      "tags": [
+        "原创模拟",
+        "证据边界",
+        "自主判断"
+      ],
+      "type": "breakdown",
+      "source": "思想框架参考 Awakenology《意識强度檢測點（2）上方區：自主意識區》；情境为原创模拟，不是文章报道的事件",
+      "articleTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "articleUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "publishedDate": "",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalRewrite": "寺院义工负责人根据值班次数评价个人信仰纯度，并公开贴出低分名单。",
+      "discernmentPoint": "服务时间不等于内在信念。",
+      "hypnosisPoint": "以公开排名迫使超出能力的无偿劳动。",
+      "awakeningPoint": "区分自愿服务安排和对人格的评判。",
+      "alternativeExplanation": "值班表可能只是行政排班而非信仰审判。",
+      "evidenceStatus": "文章正文及短摘录已核验；案例为原创模拟，未证实真实发生；文章观点不等于科学实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/"
+        }
+      ]
+    },
+    {
+      "id": "sr-source-20261111-0248-11",
+      "category": "宗教",
+      "title": "宗教学习群禁止核对原始译文",
+      "prompt": "原创模拟生活情境：读书群里有人询问某句教义的原文与不同译本，管理员要求只转发指定讲义。",
+      "check": "询问文本出处不等于攻击宗教。",
+      "risk": "把信息渠道收窄为唯一解释并处罚核验。",
+      "wake": "比较原典、译本和解释传统，尊重不同信仰立场。",
+      "counter": "指定教材可能是为了课程进度而非禁止研究。",
+      "tags": [
+        "原创模拟",
+        "证据边界",
+        "自主判断"
+      ],
+      "type": "breakdown",
+      "source": "思想框架参考 Awakenology《意識强度檢測點（2）上方區：自主意識區》；情境为原创模拟，不是文章报道的事件",
+      "articleTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "articleUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "publishedDate": "",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalRewrite": "读书群里有人询问某句教义的原文与不同译本，管理员要求只转发指定讲义。",
+      "discernmentPoint": "询问文本出处不等于攻击宗教。",
+      "hypnosisPoint": "把信息渠道收窄为唯一解释并处罚核验。",
+      "awakeningPoint": "比较原典、译本和解释传统，尊重不同信仰立场。",
+      "alternativeExplanation": "指定教材可能是为了课程进度而非禁止研究。",
+      "evidenceStatus": "文章正文及短摘录已核验；案例为原创模拟，未证实真实发生；文章观点不等于科学实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/"
+        }
+      ]
+    },
+    {
+      "id": "sr-source-20261111-0248-12",
+      "category": "宗教",
+      "title": "祈祷见证被用于保证疾病治愈",
+      "prompt": "原创模拟生活情境：活动主持人讲述一名参与者康复经历，随后声称只要参加付费祈祷就不必就医。",
+      "check": "个人康复见证不能证明普遍医疗效果。",
+      "risk": "将宗教希望转化为放弃医疗的压力。",
+      "wake": "保留宗教实践自由，同时以医学证据决定诊疗。",
+      "counter": "主持人可能原意是精神安慰，需核实其实际说法。",
+      "tags": [
+        "原创模拟",
+        "证据边界",
+        "自主判断"
+      ],
+      "type": "breakdown",
+      "source": "思想框架参考 Awakenology《破權威幻》；情境为原创模拟，不是文章报道的事件",
+      "articleTitle": "破權威幻",
+      "articleUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "publishedDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "originalRewrite": "活动主持人讲述一名参与者康复经历，随后声称只要参加付费祈祷就不必就医。",
+      "discernmentPoint": "个人康复见证不能证明普遍医疗效果。",
+      "hypnosisPoint": "将宗教希望转化为放弃医疗的压力。",
+      "awakeningPoint": "保留宗教实践自由，同时以医学证据决定诊疗。",
+      "alternativeExplanation": "主持人可能原意是精神安慰，需核实其实际说法。",
+      "evidenceStatus": "文章正文及短摘录已核验；案例为原创模拟，未证实真实发生；文章观点不等于科学实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+        }
+      ]
+    },
+    {
+      "id": "sr-source-20261111-0248-13",
+      "category": "宗教",
+      "title": "宗教群以梦境报告决定成员是否可信",
+      "prompt": "原创模拟生活情境：某灵修小组要求成员每周提交梦境，拒绝提交者被标注不诚实。",
+      "check": "私人体验是否分享应由本人决定。",
+      "risk": "用无法客观核验的私人叙述作为服从测试。",
+      "wake": "明确隐私与退出边界，不把沉默当成欺骗。",
+      "counter": "记录梦境也可能是自愿的个人修习。",
+      "tags": [
+        "原创模拟",
+        "证据边界",
+        "自主判断"
+      ],
+      "type": "breakdown",
+      "source": "思想框架参考 Awakenology《意識强度檢測點（2）上方區：自主意識區》；情境为原创模拟，不是文章报道的事件",
+      "articleTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "articleUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "publishedDate": "",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalRewrite": "某灵修小组要求成员每周提交梦境，拒绝提交者被标注不诚实。",
+      "discernmentPoint": "私人体验是否分享应由本人决定。",
+      "hypnosisPoint": "用无法客观核验的私人叙述作为服从测试。",
+      "awakeningPoint": "明确隐私与退出边界，不把沉默当成欺骗。",
+      "alternativeExplanation": "记录梦境也可能是自愿的个人修习。",
+      "evidenceStatus": "文章正文及短摘录已核验；案例为原创模拟，未证实真实发生；文章观点不等于科学实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/"
+        }
+      ]
+    },
+    {
+      "id": "sr-source-20261111-0248-14",
+      "category": "宗教",
+      "title": "跨宗教对话只截取一句发言",
+      "prompt": "原创模拟生活情境：跨宗教交流后，一段被剪辑的视频把一位参与者的提问说成侮辱另一信仰。",
+      "check": "提问语境与剪辑片段必须区分。",
+      "risk": "借片段制造敌意与群体压力。",
+      "wake": "查看完整发言、征询双方解释，避免依据身份推断意图。",
+      "counter": "原发言也可能确有冒犯，需具体核对。",
+      "tags": [
+        "原创模拟",
+        "证据边界",
+        "自主判断"
+      ],
+      "type": "breakdown",
+      "source": "思想框架参考 Awakenology《本源全層面vs小我單一層面》；情境为原创模拟，不是文章报道的事件",
+      "articleTitle": "本源全層面vs小我單一層面",
+      "articleUrl": "https://awakenology.org/%E6%9C%AC%E6%BA%90%E5%85%A8%E5%B1%A4%E9%9D%A2vs%E5%B0%8F%E6%88%91%E5%96%AE%E4%B8%80%E5%B1%A4%E9%9D%A2/",
+      "publishedDate": "2021-12-06",
+      "originalExcerpt": "如同看電視只看單一頻道",
+      "originalRewrite": "跨宗教交流后，一段被剪辑的视频把一位参与者的提问说成侮辱另一信仰。",
+      "discernmentPoint": "提问语境与剪辑片段必须区分。",
+      "hypnosisPoint": "借片段制造敌意与群体压力。",
+      "awakeningPoint": "查看完整发言、征询双方解释，避免依据身份推断意图。",
+      "alternativeExplanation": "原发言也可能确有冒犯，需具体核对。",
+      "evidenceStatus": "文章正文及短摘录已核验；案例为原创模拟，未证实真实发生；文章观点不等于科学实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "本源全層面vs小我單一層面",
+          "url": "https://awakenology.org/%E6%9C%AC%E6%BA%90%E5%85%A8%E5%B1%A4%E9%9D%A2vs%E5%B0%8F%E6%88%91%E5%96%AE%E4%B8%80%E5%B1%A4%E9%9D%A2/"
+        }
+      ]
+    },
+    {
+      "id": "sr-source-20261111-0248-15",
+      "category": "古零框架应用",
+      "title": "反权威讲师不允许学员复核费用",
+      "prompt": "原创模拟生活情境：自称反权威的课程讲师要求学员不质疑收费明细，称质疑说明还没觉醒。",
+      "check": "反权威口号本身不保证透明。",
+      "risk": "以觉醒身份标签免除自己接受审查。",
+      "wake": "索取书面费用、课程内容和退款规则。",
+      "counter": "讲师可能是在反对人身攻击而非禁止财务提问。",
+      "tags": [
+        "原创模拟",
+        "证据边界",
+        "自主判断"
+      ],
+      "type": "breakdown",
+      "source": "思想框架参考 Awakenology《破權威幻》；情境为原创模拟，不是文章报道的事件",
+      "articleTitle": "破權威幻",
+      "articleUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "publishedDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "originalRewrite": "自称反权威的课程讲师要求学员不质疑收费明细，称质疑说明还没觉醒。",
+      "discernmentPoint": "反权威口号本身不保证透明。",
+      "hypnosisPoint": "以觉醒身份标签免除自己接受审查。",
+      "awakeningPoint": "索取书面费用、课程内容和退款规则。",
+      "alternativeExplanation": "讲师可能是在反对人身攻击而非禁止财务提问。",
+      "evidenceStatus": "文章正文及短摘录已核验；案例为原创模拟，未证实真实发生；文章观点不等于科学实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+        }
+      ]
+    },
+    {
+      "id": "sr-source-20261111-0248-16",
+      "category": "古零框架应用",
+      "title": "独立思考打卡群只接受一种答案",
+      "prompt": "原创模拟生活情境：独立思考训练营每日出题，却将不同解释一律标记为思想受控。",
+      "check": "独立思考应允许有证据的不同结论。",
+      "risk": "把一致性伪装成独立性。",
+      "wake": "公开评分依据，允许申诉、反证和修订。",
+      "counter": "题目可能是基础知识测验，存在明确标准答案。",
+      "tags": [
+        "原创模拟",
+        "证据边界",
+        "自主判断"
+      ],
+      "type": "breakdown",
+      "source": "思想框架参考 Awakenology《意識强度檢測點（2）上方區：自主意識區》；情境为原创模拟，不是文章报道的事件",
+      "articleTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "articleUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "publishedDate": "",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalRewrite": "独立思考训练营每日出题，却将不同解释一律标记为思想受控。",
+      "discernmentPoint": "独立思考应允许有证据的不同结论。",
+      "hypnosisPoint": "把一致性伪装成独立性。",
+      "awakeningPoint": "公开评分依据，允许申诉、反证和修订。",
+      "alternativeExplanation": "题目可能是基础知识测验，存在明确标准答案。",
+      "evidenceStatus": "文章正文及短摘录已核验；案例为原创模拟，未证实真实发生；文章观点不等于科学实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/"
+        }
+      ]
+    },
+    {
+      "id": "sr-source-20261111-0248-17",
+      "category": "古零框架应用",
+      "title": "观察训练把直觉误判当作必然事实",
+      "prompt": "原创模拟生活情境：某观察社群成员凭第一印象认定邻居有恶意，管理员鼓励直接公开指控。",
+      "check": "主观直觉与可核实事实不同。",
+      "risk": "用自我确信取代证据核查。",
+      "wake": "记录观察、寻找反证并避免伤害性指控。",
+      "counter": "直觉可能提示需要注意的风险，但不等于定论。",
+      "tags": [
+        "原创模拟",
+        "证据边界",
+        "自主判断"
+      ],
+      "type": "breakdown",
+      "source": "思想框架参考 Awakenology《意識强度檢測點（2）上方區：自主意識區》；情境为原创模拟，不是文章报道的事件",
+      "articleTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "articleUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "publishedDate": "",
+      "originalExcerpt": "保持合理懷疑，不輕易下判斷。",
+      "originalRewrite": "某观察社群成员凭第一印象认定邻居有恶意，管理员鼓励直接公开指控。",
+      "discernmentPoint": "主观直觉与可核实事实不同。",
+      "hypnosisPoint": "用自我确信取代证据核查。",
+      "awakeningPoint": "记录观察、寻找反证并避免伤害性指控。",
+      "alternativeExplanation": "直觉可能提示需要注意的风险，但不等于定论。",
+      "evidenceStatus": "文章正文及短摘录已核验；案例为原创模拟，未证实真实发生；文章观点不等于科学实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/"
+        }
+      ]
+    },
+    {
+      "id": "sr-source-20261111-0248-18",
+      "category": "古零框架应用",
+      "title": "团队复盘只采纳领导看到的那一面",
+      "prompt": "原创模拟生活情境：志愿团队复盘活动时，负责人只认可自己亲历的前台工作，否认后台后勤贡献。",
+      "check": "个人视角并非活动全貌。",
+      "risk": "以职位权威替代跨岗位证据。",
+      "wake": "收集不同岗位记录与参与者反馈后再评估。",
+      "counter": "负责人可能因信息不足而非故意贬低。",
+      "tags": [
+        "原创模拟",
+        "证据边界",
+        "自主判断"
+      ],
+      "type": "breakdown",
+      "source": "思想框架参考 Awakenology《本源全層面vs小我單一層面》；情境为原创模拟，不是文章报道的事件",
+      "articleTitle": "本源全層面vs小我單一層面",
+      "articleUrl": "https://awakenology.org/%E6%9C%AC%E6%BA%90%E5%85%A8%E5%B1%A4%E9%9D%A2vs%E5%B0%8F%E6%88%91%E5%96%AE%E4%B8%80%E5%B1%A4%E9%9D%A2/",
+      "publishedDate": "2021-12-06",
+      "originalExcerpt": "如同看電視只看單一頻道",
+      "originalRewrite": "志愿团队复盘活动时，负责人只认可自己亲历的前台工作，否认后台后勤贡献。",
+      "discernmentPoint": "个人视角并非活动全貌。",
+      "hypnosisPoint": "以职位权威替代跨岗位证据。",
+      "awakeningPoint": "收集不同岗位记录与参与者反馈后再评估。",
+      "alternativeExplanation": "负责人可能因信息不足而非故意贬低。",
+      "evidenceStatus": "文章正文及短摘录已核验；案例为原创模拟，未证实真实发生；文章观点不等于科学实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "本源全層面vs小我單一層面",
+          "url": "https://awakenology.org/%E6%9C%AC%E6%BA%90%E5%85%A8%E5%B1%A4%E9%9D%A2vs%E5%B0%8F%E6%88%91%E5%96%AE%E4%B8%80%E5%B1%A4%E9%9D%A2/"
+        }
+      ]
+    }
+  ]
+}
