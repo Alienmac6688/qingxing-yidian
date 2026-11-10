@@ -1,0 +1,439 @@
+{
+  "schemaVersion": 1,
+  "status": "research-candidates-not-loaded",
+  "note": "未能取得main正式案例正文，无法完成全库语义去重；请勿计入线上案例。全部为原创模拟，非真实案例。",
+  "cases": [
+    {
+      "id": "research-20261110-1446-01",
+      "category": "social",
+      "title": "医院陪护群的公开孝心打卡",
+      "prompt": "陪护群要求家属每天晒病床照片证明孝心",
+      "check": "谁有权要求公开患者信息，患者是否同意",
+      "risk": "用公开展示替代实际照护，制造不晒就是不孝的压力",
+      "wake": "先征求患者同意，用私密沟通协调照护",
+      "counter": "组织者也可能只想确认排班，可改用不含隐私的签到",
+      "tags": [
+        "social",
+        "原创模拟",
+        "自主判断"
+      ],
+      "type": "simulated",
+      "source": "Awakenology（框架参考，本文未取得可核验正文）",
+      "revision": "research-only",
+      "articleTitle": "",
+      "articleUrl": "",
+      "publishedDate": "",
+      "originalExcerpt": "",
+      "originalRewrite": "陪护群要求家属每天晒病床照片证明孝心",
+      "discernmentPoint": "谁有权要求公开患者信息，患者是否同意",
+      "hypnosisPoint": "用公开展示替代实际照护，制造不晒就是不孝的压力",
+      "awakeningPoint": "先征求患者同意，用私密沟通协调照护",
+      "alternativeExplanation": "组织者也可能只想确认排班，可改用不含隐私的签到",
+      "evidenceStatus": "原创模拟；情境未经实证核验；框架来源待核实",
+      "caseKind": "original-simulation",
+      "references": [
+        {
+          "title": "Awakenology 中文目录（待核实）",
+          "url": "https://awakenology.org/Chinese/",
+          "status": "not-verified-this-run"
+        }
+      ]
+    },
+    {
+      "id": "research-20261110-1446-02",
+      "category": "social",
+      "title": "失业互助群的简历接龙",
+      "prompt": "互助群要求成员公开身份证与完整履历才能获得内推",
+      "check": "内推是否确实需要公开身份信息",
+      "risk": "把求职机会与过量个人资料绑定",
+      "wake": "只向可信招聘方定向提供必要资料",
+      "counter": "管理员可能为了防诈骗，但公开收集并非唯一办法",
+      "tags": [
+        "social",
+        "原创模拟",
+        "自主判断"
+      ],
+      "type": "simulated",
+      "source": "Awakenology（框架参考，本文未取得可核验正文）",
+      "revision": "research-only",
+      "articleTitle": "",
+      "articleUrl": "",
+      "publishedDate": "",
+      "originalExcerpt": "",
+      "originalRewrite": "互助群要求成员公开身份证与完整履历才能获得内推",
+      "discernmentPoint": "内推是否确实需要公开身份信息",
+      "hypnosisPoint": "把求职机会与过量个人资料绑定",
+      "awakeningPoint": "只向可信招聘方定向提供必要资料",
+      "alternativeExplanation": "管理员可能为了防诈骗，但公开收集并非唯一办法",
+      "evidenceStatus": "原创模拟；情境未经实证核验；框架来源待核实",
+      "caseKind": "original-simulation",
+      "references": [
+        {
+          "title": "Awakenology 中文目录（待核实）",
+          "url": "https://awakenology.org/Chinese/",
+          "status": "not-verified-this-run"
+        }
+      ]
+    },
+    {
+      "id": "research-20261110-1446-03",
+      "category": "social",
+      "title": "社区防灾演练的羞辱式排名",
+      "prompt": "物业将未参加演练住户姓名贴在公告栏并称不负责",
+      "check": "是否提供替代参与方式与合理豁免",
+      "risk": "把公共安全合作转成公开羞辱",
+      "wake": "公开演练信息与参与渠道，不公开个人名单",
+      "counter": "物业可能担忧灾害准备不足，安全目标合理",
+      "tags": [
+        "social",
+        "原创模拟",
+        "自主判断"
+      ],
+      "type": "simulated",
+      "source": "Awakenology（框架参考，本文未取得可核验正文）",
+      "revision": "research-only",
+      "articleTitle": "",
+      "articleUrl": "",
+      "publishedDate": "",
+      "originalExcerpt": "",
+      "originalRewrite": "物业将未参加演练住户姓名贴在公告栏并称不负责",
+      "discernmentPoint": "是否提供替代参与方式与合理豁免",
+      "hypnosisPoint": "把公共安全合作转成公开羞辱",
+      "awakeningPoint": "公开演练信息与参与渠道，不公开个人名单",
+      "alternativeExplanation": "物业可能担忧灾害准备不足，安全目标合理",
+      "evidenceStatus": "原创模拟；情境未经实证核验；框架来源待核实",
+      "caseKind": "original-simulation",
+      "references": [
+        {
+          "title": "Awakenology 中文目录（待核实）",
+          "url": "https://awakenology.org/Chinese/",
+          "status": "not-verified-this-run"
+        }
+      ]
+    },
+    {
+      "id": "research-20261110-1446-04",
+      "category": "social",
+      "title": "宠物救助筹款的倒计时恐吓",
+      "prompt": "救助帖宣称十分钟不转款就等于亲手放弃动物",
+      "check": "急迫性、收款方、费用单据能否核验",
+      "risk": "利用内疚和时限阻断核查",
+      "wake": "核实医院及收款渠道后自主捐助",
+      "counter": "动物救治确实可能紧急，不能仅因催促认定诈骗",
+      "tags": [
+        "social",
+        "原创模拟",
+        "自主判断"
+      ],
+      "type": "simulated",
+      "source": "Awakenology（框架参考，本文未取得可核验正文）",
+      "revision": "research-only",
+      "articleTitle": "",
+      "articleUrl": "",
+      "publishedDate": "",
+      "originalExcerpt": "",
+      "originalRewrite": "救助帖宣称十分钟不转款就等于亲手放弃动物",
+      "discernmentPoint": "急迫性、收款方、费用单据能否核验",
+      "hypnosisPoint": "利用内疚和时限阻断核查",
+      "awakeningPoint": "核实医院及收款渠道后自主捐助",
+      "alternativeExplanation": "动物救治确实可能紧急，不能仅因催促认定诈骗",
+      "evidenceStatus": "原创模拟；情境未经实证核验；框架来源待核实",
+      "caseKind": "original-simulation",
+      "references": [
+        {
+          "title": "Awakenology 中文目录（待核实）",
+          "url": "https://awakenology.org/Chinese/",
+          "status": "not-verified-this-run"
+        }
+      ]
+    },
+    {
+      "id": "research-20261110-1446-05",
+      "category": "social",
+      "title": "AI配音亲友催款",
+      "prompt": "语音消息模仿亲属声线要求立即转账且禁止回拨",
+      "check": "是否能通过独立渠道核验身份",
+      "risk": "以熟悉声音和保密要求绕过核实",
+      "wake": "挂断并通过已知号码联系本人",
+      "counter": "亲属真实求助也可能仓促，重点是独立验证",
+      "tags": [
+        "social",
+        "原创模拟",
+        "自主判断"
+      ],
+      "type": "simulated",
+      "source": "Awakenology（框架参考，本文未取得可核验正文）",
+      "revision": "research-only",
+      "articleTitle": "",
+      "articleUrl": "",
+      "publishedDate": "",
+      "originalExcerpt": "",
+      "originalRewrite": "语音消息模仿亲属声线要求立即转账且禁止回拨",
+      "discernmentPoint": "是否能通过独立渠道核验身份",
+      "hypnosisPoint": "以熟悉声音和保密要求绕过核实",
+      "awakeningPoint": "挂断并通过已知号码联系本人",
+      "alternativeExplanation": "亲属真实求助也可能仓促，重点是独立验证",
+      "evidenceStatus": "原创模拟；情境未经实证核验；框架来源待核实",
+      "caseKind": "original-simulation",
+      "references": [
+        {
+          "title": "Awakenology 中文目录（待核实）",
+          "url": "https://awakenology.org/Chinese/",
+          "status": "not-verified-this-run"
+        }
+      ]
+    },
+    {
+      "id": "research-20261110-1446-06",
+      "category": "social",
+      "title": "社区二手群的集体封杀威胁",
+      "prompt": "卖家要求买家删差评否则号召群友拒绝交易",
+      "check": "评价是否有事实依据及申诉渠道",
+      "risk": "把不同意见变成被群体排斥的威胁",
+      "wake": "保存证据，依据平台规则申诉",
+      "counter": "卖家可能遇到恶意评价，但威胁不等于合理澄清",
+      "tags": [
+        "social",
+        "原创模拟",
+        "自主判断"
+      ],
+      "type": "simulated",
+      "source": "Awakenology（框架参考，本文未取得可核验正文）",
+      "revision": "research-only",
+      "articleTitle": "",
+      "articleUrl": "",
+      "publishedDate": "",
+      "originalExcerpt": "",
+      "originalRewrite": "卖家要求买家删差评否则号召群友拒绝交易",
+      "discernmentPoint": "评价是否有事实依据及申诉渠道",
+      "hypnosisPoint": "把不同意见变成被群体排斥的威胁",
+      "awakeningPoint": "保存证据，依据平台规则申诉",
+      "alternativeExplanation": "卖家可能遇到恶意评价，但威胁不等于合理澄清",
+      "evidenceStatus": "原创模拟；情境未经实证核验；框架来源待核实",
+      "caseKind": "original-simulation",
+      "references": [
+        {
+          "title": "Awakenology 中文目录（待核实）",
+          "url": "https://awakenology.org/Chinese/",
+          "status": "not-verified-this-run"
+        }
+      ]
+    },
+    {
+      "id": "research-20261110-1446-07",
+      "category": "social",
+      "title": "校园志愿时长与毕业焦虑",
+      "prompt": "社团暗示不购买指定培训就拿不到必要志愿证明",
+      "check": "学校正式规定与社团商业利益是否分离",
+      "risk": "利用毕业焦虑推销无关服务",
+      "wake": "向学校核对要求并选择合法替代渠道",
+      "counter": "培训可能有真实内容，但不应虚构毕业条件",
+      "tags": [
+        "social",
+        "原创模拟",
+        "自主判断"
+      ],
+      "type": "simulated",
+      "source": "Awakenology（框架参考，本文未取得可核验正文）",
+      "revision": "research-only",
+      "articleTitle": "",
+      "articleUrl": "",
+      "publishedDate": "",
+      "originalExcerpt": "",
+      "originalRewrite": "社团暗示不购买指定培训就拿不到必要志愿证明",
+      "discernmentPoint": "学校正式规定与社团商业利益是否分离",
+      "hypnosisPoint": "利用毕业焦虑推销无关服务",
+      "awakeningPoint": "向学校核对要求并选择合法替代渠道",
+      "alternativeExplanation": "培训可能有真实内容，但不应虚构毕业条件",
+      "evidenceStatus": "原创模拟；情境未经实证核验；框架来源待核实",
+      "caseKind": "original-simulation",
+      "references": [
+        {
+          "title": "Awakenology 中文目录（待核实）",
+          "url": "https://awakenology.org/Chinese/",
+          "status": "not-verified-this-run"
+        }
+      ]
+    },
+    {
+      "id": "research-20261110-1446-08",
+      "category": "religion",
+      "title": "祈祷群的私人病历索取",
+      "prompt": "宗教群管理员称只有公开病历才能获得集体代祷",
+      "check": "分享病情是否完全自愿、是否有隐私替代",
+      "risk": "把获得精神支持与披露敏感资料绑定",
+      "wake": "可匿名请求祝福，保留个人医疗隐私",
+      "counter": "组织者可能想具体关怀，祈祷本身不构成操纵",
+      "tags": [
+        "religion",
+        "原创模拟",
+        "自主判断"
+      ],
+      "type": "simulated",
+      "source": "Awakenology（框架参考，本文未取得可核验正文）",
+      "revision": "research-only",
+      "articleTitle": "",
+      "articleUrl": "",
+      "publishedDate": "",
+      "originalExcerpt": "",
+      "originalRewrite": "宗教群管理员称只有公开病历才能获得集体代祷",
+      "discernmentPoint": "分享病情是否完全自愿、是否有隐私替代",
+      "hypnosisPoint": "把获得精神支持与披露敏感资料绑定",
+      "awakeningPoint": "可匿名请求祝福，保留个人医疗隐私",
+      "alternativeExplanation": "组织者可能想具体关怀，祈祷本身不构成操纵",
+      "evidenceStatus": "原创模拟；情境未经实证核验；框架来源待核实",
+      "caseKind": "original-simulation",
+      "references": [
+        {
+          "title": "Awakenology 中文目录（待核实）",
+          "url": "https://awakenology.org/Chinese/",
+          "status": "not-verified-this-run"
+        }
+      ]
+    },
+    {
+      "id": "research-20261110-1446-09",
+      "category": "religion",
+      "title": "信仰学习班的亲属断联建议",
+      "prompt": "带领者要求新人暂时停止与所有质疑课程的亲友联系",
+      "check": "是否允许独立咨询、退出及保持社会联系",
+      "risk": "通过隔离外部反馈强化单一解释",
+      "wake": "保持多方沟通，审查具体伤害证据",
+      "counter": "短期减少冲突有时有益，关键在是否强制隔离",
+      "tags": [
+        "religion",
+        "原创模拟",
+        "自主判断"
+      ],
+      "type": "simulated",
+      "source": "Awakenology（框架参考，本文未取得可核验正文）",
+      "revision": "research-only",
+      "articleTitle": "",
+      "articleUrl": "",
+      "publishedDate": "",
+      "originalExcerpt": "",
+      "originalRewrite": "带领者要求新人暂时停止与所有质疑课程的亲友联系",
+      "discernmentPoint": "是否允许独立咨询、退出及保持社会联系",
+      "hypnosisPoint": "通过隔离外部反馈强化单一解释",
+      "awakeningPoint": "保持多方沟通，审查具体伤害证据",
+      "alternativeExplanation": "短期减少冲突有时有益，关键在是否强制隔离",
+      "evidenceStatus": "原创模拟；情境未经实证核验；框架来源待核实",
+      "caseKind": "original-simulation",
+      "references": [
+        {
+          "title": "Awakenology 中文目录（待核实）",
+          "url": "https://awakenology.org/Chinese/",
+          "status": "not-verified-this-run"
+        }
+      ]
+    },
+    {
+      "id": "research-20261110-1446-10",
+      "category": "religion",
+      "title": "宗教节庆募款的功德积分榜",
+      "prompt": "活动展示捐款排名并暗示低金额者信心不足",
+      "check": "是否明确自愿、金额用途与财务公开",
+      "risk": "将经济能力等同精神价值并制造比较压力",
+      "wake": "按自身能力决定，要求透明账目",
+      "counter": "公开募款进度可能为透明，不必然是强迫",
+      "tags": [
+        "religion",
+        "原创模拟",
+        "自主判断"
+      ],
+      "type": "simulated",
+      "source": "Awakenology（框架参考，本文未取得可核验正文）",
+      "revision": "research-only",
+      "articleTitle": "",
+      "articleUrl": "",
+      "publishedDate": "",
+      "originalExcerpt": "",
+      "originalRewrite": "活动展示捐款排名并暗示低金额者信心不足",
+      "discernmentPoint": "是否明确自愿、金额用途与财务公开",
+      "hypnosisPoint": "将经济能力等同精神价值并制造比较压力",
+      "awakeningPoint": "按自身能力决定，要求透明账目",
+      "alternativeExplanation": "公开募款进度可能为透明，不必然是强迫",
+      "evidenceStatus": "原创模拟；情境未经实证核验；框架来源待核实",
+      "caseKind": "original-simulation",
+      "references": [
+        {
+          "title": "Awakenology 中文目录（待核实）",
+          "url": "https://awakenology.org/Chinese/",
+          "status": "not-verified-this-run"
+        }
+      ]
+    },
+    {
+      "id": "research-20261110-1446-11",
+      "category": "lyrics",
+      "title": "歌曲评论区的爱情忠诚考试",
+      "prompt": "粉丝把虚构歌词中的永不离开变成对伴侣的现实要求",
+      "check": "歌词叙事与现实关系边界是否被混淆",
+      "risk": "把艺术夸张转成道德考试",
+      "wake": "尊重作品表达，也尊重现实中的自主选择",
+      "counter": "粉丝可能只是情绪共鸣，不一定真的要求别人服从",
+      "tags": [
+        "lyrics",
+        "原创模拟",
+        "自主判断"
+      ],
+      "type": "simulated",
+      "source": "Awakenology（框架参考，本文未取得可核验正文）",
+      "revision": "research-only",
+      "articleTitle": "",
+      "articleUrl": "",
+      "publishedDate": "",
+      "originalExcerpt": "",
+      "originalRewrite": "粉丝把虚构歌词中的永不离开变成对伴侣的现实要求",
+      "discernmentPoint": "歌词叙事与现实关系边界是否被混淆",
+      "hypnosisPoint": "把艺术夸张转成道德考试",
+      "awakeningPoint": "尊重作品表达，也尊重现实中的自主选择",
+      "alternativeExplanation": "粉丝可能只是情绪共鸣，不一定真的要求别人服从",
+      "evidenceStatus": "原创模拟；情境未经实证核验；框架来源待核实",
+      "caseKind": "original-simulation",
+      "references": [
+        {
+          "title": "Awakenology 中文目录（待核实）",
+          "url": "https://awakenology.org/Chinese/",
+          "status": "not-verified-this-run"
+        }
+      ]
+    },
+    {
+      "id": "research-20261110-1446-12",
+      "category": "lyrics",
+      "title": "励志副歌的睡眠羞耻",
+      "prompt": "短视频剪辑把原创励志副歌解读为每天睡六小时才配成功",
+      "check": "作品是否真的提出医学或职业建议",
+      "risk": "把疲惫包装成进取的唯一证据",
+      "wake": "依据健康和实际成效调整作息",
+      "counter": "歌曲可能只是强调努力，并非否定休息",
+      "tags": [
+        "lyrics",
+        "原创模拟",
+        "自主判断"
+      ],
+      "type": "simulated",
+      "source": "Awakenology（框架参考，本文未取得可核验正文）",
+      "revision": "research-only",
+      "articleTitle": "",
+      "articleUrl": "",
+      "publishedDate": "",
+      "originalExcerpt": "",
+      "originalRewrite": "短视频剪辑把原创励志副歌解读为每天睡六小时才配成功",
+      "discernmentPoint": "作品是否真的提出医学或职业建议",
+      "hypnosisPoint": "把疲惫包装成进取的唯一证据",
+      "awakeningPoint": "依据健康和实际成效调整作息",
+      "alternativeExplanation": "歌曲可能只是强调努力，并非否定休息",
+      "evidenceStatus": "原创模拟；情境未经实证核验；框架来源待核实",
+      "caseKind": "original-simulation",
+      "references": [
+        {
+          "title": "Awakenology 中文目录（待核实）",
+          "url": "https://awakenology.org/Chinese/",
+          "status": "not-verified-this-run"
+        }
+      ]
+    }
+  ]
+}
