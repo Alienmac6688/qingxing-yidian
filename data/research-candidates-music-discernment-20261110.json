@@ -1,0 +1,440 @@
+{
+  "schemaVersion": 1,
+  "status": "research-candidates-not-loaded",
+  "sourceVerification": "Awakenology《破權威幻》2026-10-25 正文已核验；未读取古零公众号正文",
+  "dedup": "与main 886条正式案例及已读取的8条歌词/社会候选进行标题与ID去重；未穷尽其他分支语义去重",
+  "cases": [
+    {
+      "id": "sr-music-20261110-01",
+      "category": "社会",
+      "title": "演唱会应援集资的公开羞辱",
+      "prompt": "原创模拟情境：粉丝群称不参加应援集资的人不配喜欢歌手，并公开未付款名单。",
+      "check": "检查应援是否自愿、账目是否公开、拒绝者是否遭羞辱。",
+      "risk": "用偶像认同施加经济压力，可能压缩自主决定。",
+      "wake": "按预算决定是否参与，要求透明账目并保护付款隐私。",
+      "counter": "粉丝自发筹资可以合理，但公开羞辱与强迫不是必要条件。",
+      "tags": [
+        "社会",
+        "音乐与社会",
+        "辨识点→催眠点→催醒点"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实个案；分析框架参考 Awakenology《破權威幻》，不代表该文章记载此情境",
+      "articleTitle": "破權威幻",
+      "articleUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "publishedDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "originalRewrite": "不把个人经验或权威话语直接当作他人必须遵守的唯一规则。",
+      "discernmentPoint": "检查应援是否自愿、账目是否公开、拒绝者是否遭羞辱。",
+      "hypnosisPoint": "用偶像认同施加经济压力，可能压缩自主决定。",
+      "awakeningPoint": "按预算决定是否参与，要求透明账目并保护付款隐私。",
+      "alternativeExplanation": "粉丝自发筹资可以合理，但公开羞辱与强迫不是必要条件。",
+      "evidenceStatus": "来源文章正文已核验；生活情境为原创模拟；具体机制未经个案实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "publishedDate": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": "sr-music-20261110-02",
+      "category": "社会",
+      "title": "粉丝投票的借贷冲榜",
+      "prompt": "原创模拟情境：应援负责人建议学生借钱购买投票资格，称不冲榜就辜负歌手。",
+      "check": "区分娱乐消费与超出偿还能力的借贷。",
+      "risk": "用集体荣誉诱导负债和冲动消费。",
+      "wake": "设定消费上限，不为排行榜承担不必要债务。",
+      "counter": "合法的粉丝投票可以是娱乐，关键在自愿与风险披露。",
+      "tags": [
+        "社会",
+        "音乐与社会",
+        "辨识点→催眠点→催醒点"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实个案；分析框架参考 Awakenology《破權威幻》，不代表该文章记载此情境",
+      "articleTitle": "破權威幻",
+      "articleUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "publishedDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "originalRewrite": "不把个人经验或权威话语直接当作他人必须遵守的唯一规则。",
+      "discernmentPoint": "区分娱乐消费与超出偿还能力的借贷。",
+      "hypnosisPoint": "用集体荣誉诱导负债和冲动消费。",
+      "awakeningPoint": "设定消费上限，不为排行榜承担不必要债务。",
+      "alternativeExplanation": "合法的粉丝投票可以是娱乐，关键在自愿与风险披露。",
+      "evidenceStatus": "来源文章正文已核验；生活情境为原创模拟；具体机制未经个案实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "publishedDate": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": "sr-music-20261110-03",
+      "category": "社会",
+      "title": "音乐培训班的天赋恐吓",
+      "prompt": "原创模拟情境：声乐老师说若今天不买高价课，孩子一生的音乐天赋就会消失。",
+      "check": "核对课程目标、教师资质及所谓不可逆期限。",
+      "risk": "制造家长对错失天赋的恐惧来促成付款。",
+      "wake": "试听比较并询问独立教师，不在恐惧中签约。",
+      "counter": "早期训练可能有益，但不代表必须购买特定课程。",
+      "tags": [
+        "社会",
+        "音乐与社会",
+        "辨识点→催眠点→催醒点"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实个案；分析框架参考 Awakenology《破權威幻》，不代表该文章记载此情境",
+      "articleTitle": "破權威幻",
+      "articleUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "publishedDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "originalRewrite": "不把个人经验或权威话语直接当作他人必须遵守的唯一规则。",
+      "discernmentPoint": "核对课程目标、教师资质及所谓不可逆期限。",
+      "hypnosisPoint": "制造家长对错失天赋的恐惧来促成付款。",
+      "awakeningPoint": "试听比较并询问独立教师，不在恐惧中签约。",
+      "alternativeExplanation": "早期训练可能有益，但不代表必须购买特定课程。",
+      "evidenceStatus": "来源文章正文已核验；生活情境为原创模拟；具体机制未经个案实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "publishedDate": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": "sr-music-20261110-04",
+      "category": "社会",
+      "title": "原创歌曲版权的口头放弃",
+      "prompt": "原创模拟情境：校园乐队组织者说大家是朋友，写歌的人不用看合同就把全部版权交给主办方。",
+      "check": "分清合作演出授权与永久版权转让。",
+      "risk": "借友情和团结降低作者审查合同的意愿。",
+      "wake": "确认署名、授权范围、收益分配及撤回条件。",
+      "counter": "团队需要明确版权安排，但不必依赖未经审阅的口头承诺。",
+      "tags": [
+        "社会",
+        "音乐与社会",
+        "辨识点→催眠点→催醒点"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实个案；分析框架参考 Awakenology《破權威幻》，不代表该文章记载此情境",
+      "articleTitle": "破權威幻",
+      "articleUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "publishedDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "originalRewrite": "不把个人经验或权威话语直接当作他人必须遵守的唯一规则。",
+      "discernmentPoint": "分清合作演出授权与永久版权转让。",
+      "hypnosisPoint": "借友情和团结降低作者审查合同的意愿。",
+      "awakeningPoint": "确认署名、授权范围、收益分配及撤回条件。",
+      "alternativeExplanation": "团队需要明确版权安排，但不必依赖未经审阅的口头承诺。",
+      "evidenceStatus": "来源文章正文已核验；生活情境为原创模拟；具体机制未经个案实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "publishedDate": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": "sr-music-20261110-05",
+      "category": "社会",
+      "title": "音乐节免费票的个人数据交换",
+      "prompt": "原创模拟情境：活动页面称免费领取音乐节门票，但要求上传整本通讯录且不解释用途。",
+      "check": "核对门票资格与收集数据的必要性。",
+      "risk": "以稀缺福利诱导过量个人信息授权。",
+      "wake": "只提供必要信息，阅读隐私政策并寻找官方购票渠道。",
+      "counter": "实名票务可能需要身份核验，但通常不意味着需要全部联系人。",
+      "tags": [
+        "社会",
+        "音乐与社会",
+        "辨识点→催眠点→催醒点"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实个案；分析框架参考 Awakenology《破權威幻》，不代表该文章记载此情境",
+      "articleTitle": "破權威幻",
+      "articleUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "publishedDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "originalRewrite": "不把个人经验或权威话语直接当作他人必须遵守的唯一规则。",
+      "discernmentPoint": "核对门票资格与收集数据的必要性。",
+      "hypnosisPoint": "以稀缺福利诱导过量个人信息授权。",
+      "awakeningPoint": "只提供必要信息，阅读隐私政策并寻找官方购票渠道。",
+      "alternativeExplanation": "实名票务可能需要身份核验，但通常不意味着需要全部联系人。",
+      "evidenceStatus": "来源文章正文已核验；生活情境为原创模拟；具体机制未经个案实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "publishedDate": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": "sr-music-20261110-06",
+      "category": "社会",
+      "title": "直播打赏的情感债务",
+      "prompt": "原创模拟情境：音乐主播说老粉今天不送礼物就是忘恩负义，随后展示未打赏用户名。",
+      "check": "区分自愿支持与公开施压。",
+      "risk": "利用长期陪伴关系制造内疚和羞耻。",
+      "wake": "明确娱乐预算，不因主播情绪指责付款。",
+      "counter": "创作者有合理收入诉求，但应允许观众拒绝。",
+      "tags": [
+        "社会",
+        "音乐与社会",
+        "辨识点→催眠点→催醒点"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实个案；分析框架参考 Awakenology《破權威幻》，不代表该文章记载此情境",
+      "articleTitle": "破權威幻",
+      "articleUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "publishedDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "originalRewrite": "不把个人经验或权威话语直接当作他人必须遵守的唯一规则。",
+      "discernmentPoint": "区分自愿支持与公开施压。",
+      "hypnosisPoint": "利用长期陪伴关系制造内疚和羞耻。",
+      "awakeningPoint": "明确娱乐预算，不因主播情绪指责付款。",
+      "alternativeExplanation": "创作者有合理收入诉求，但应允许观众拒绝。",
+      "evidenceStatus": "来源文章正文已核验；生活情境为原创模拟；具体机制未经个案实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "publishedDate": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": "sr-music-20261110-07",
+      "category": "社会",
+      "title": "翻唱合作的收益不透明",
+      "prompt": "原创模拟情境：短视频合唱项目以曝光机会为由，要求参与者签无限期独家使用授权却不公布收益规则。",
+      "check": "检查合作协议、版权归属和平台收入条款。",
+      "risk": "把未来曝光当作不确定回报换取确定权利。",
+      "wake": "协商授权期限、用途和署名，保留书面记录。",
+      "counter": "非商业公益合作可以无报酬，但授权范围仍需清楚。",
+      "tags": [
+        "社会",
+        "音乐与社会",
+        "辨识点→催眠点→催醒点"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实个案；分析框架参考 Awakenology《破權威幻》，不代表该文章记载此情境",
+      "articleTitle": "破權威幻",
+      "articleUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "publishedDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "originalRewrite": "不把个人经验或权威话语直接当作他人必须遵守的唯一规则。",
+      "discernmentPoint": "检查合作协议、版权归属和平台收入条款。",
+      "hypnosisPoint": "把未来曝光当作不确定回报换取确定权利。",
+      "awakeningPoint": "协商授权期限、用途和署名，保留书面记录。",
+      "alternativeExplanation": "非商业公益合作可以无报酬，但授权范围仍需清楚。",
+      "evidenceStatus": "来源文章正文已核验；生活情境为原创模拟；具体机制未经个案实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "publishedDate": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": "sr-music-20261110-08",
+      "category": "社会",
+      "title": "歌词截图被用作现实指控",
+      "prompt": "原创模拟情境：群聊截取一段愤怒歌词，声称创作者在现实中一定实施过歌词描写的行为。",
+      "check": "区分虚构叙事、角色视角与可核实的现实证据。",
+      "risk": "把艺术表达直接等同事实可能引发错误指控。",
+      "wake": "查作品背景及独立证据，避免仅凭歌词推断行为。",
+      "counter": "歌词可能反映个人经历，但不能单凭文字确定真实事件。",
+      "tags": [
+        "社会",
+        "音乐与社会",
+        "辨识点→催眠点→催醒点"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实个案；分析框架参考 Awakenology《破權威幻》，不代表该文章记载此情境",
+      "articleTitle": "破權威幻",
+      "articleUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "publishedDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "originalRewrite": "不把个人经验或权威话语直接当作他人必须遵守的唯一规则。",
+      "discernmentPoint": "区分虚构叙事、角色视角与可核实的现实证据。",
+      "hypnosisPoint": "把艺术表达直接等同事实可能引发错误指控。",
+      "awakeningPoint": "查作品背景及独立证据，避免仅凭歌词推断行为。",
+      "alternativeExplanation": "歌词可能反映个人经历，但不能单凭文字确定真实事件。",
+      "evidenceStatus": "来源文章正文已核验；生活情境为原创模拟；具体机制未经个案实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "publishedDate": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": "sr-music-20261110-09",
+      "category": "宗教",
+      "title": "宗教合唱募款的账目保密",
+      "prompt": "原创模拟情境：宗教合唱演出负责人说善款属于神圣事务，任何人不得询问演出收入去向。",
+      "check": "区分信仰意义与资金管理责任。",
+      "risk": "以神圣语言阻止财务核验可能增加滥用风险。",
+      "wake": "要求适度公开收入、支出和监督机制。",
+      "counter": "宗教音乐活动的募款可以正当，财务透明并不否定信仰。",
+      "tags": [
+        "宗教",
+        "音乐与社会",
+        "辨识点→催眠点→催醒点"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实个案；分析框架参考 Awakenology《破權威幻》，不代表该文章记载此情境",
+      "articleTitle": "破權威幻",
+      "articleUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "publishedDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "originalRewrite": "不把个人经验或权威话语直接当作他人必须遵守的唯一规则。",
+      "discernmentPoint": "区分信仰意义与资金管理责任。",
+      "hypnosisPoint": "以神圣语言阻止财务核验可能增加滥用风险。",
+      "awakeningPoint": "要求适度公开收入、支出和监督机制。",
+      "alternativeExplanation": "宗教音乐活动的募款可以正当，财务透明并不否定信仰。",
+      "evidenceStatus": "来源文章正文已核验；生活情境为原创模拟；具体机制未经个案实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "publishedDate": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": "sr-music-20261110-10",
+      "category": "宗教",
+      "title": "灵性音乐疗愈的停药暗示",
+      "prompt": "原创模拟情境：音乐疗愈班宣传称听指定频率的歌可以取代医生处方，并要求学员停止复诊。",
+      "check": "核对医学证据与治疗风险，区分放松体验和疾病治疗。",
+      "risk": "以疗愈承诺影响医疗决定可能造成健康风险。",
+      "wake": "音乐可作为辅助放松，医疗调整应咨询专业医生。",
+      "counter": "音乐确可帮助部分人放松，但不证明可以替代正规治疗。",
+      "tags": [
+        "宗教",
+        "音乐与社会",
+        "辨识点→催眠点→催醒点"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实个案；分析框架参考 Awakenology《破權威幻》，不代表该文章记载此情境",
+      "articleTitle": "破權威幻",
+      "articleUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "publishedDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "originalRewrite": "不把个人经验或权威话语直接当作他人必须遵守的唯一规则。",
+      "discernmentPoint": "核对医学证据与治疗风险，区分放松体验和疾病治疗。",
+      "hypnosisPoint": "以疗愈承诺影响医疗决定可能造成健康风险。",
+      "awakeningPoint": "音乐可作为辅助放松，医疗调整应咨询专业医生。",
+      "alternativeExplanation": "音乐确可帮助部分人放松，但不证明可以替代正规治疗。",
+      "evidenceStatus": "来源文章正文已核验；生活情境为原创模拟；具体机制未经个案实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "publishedDate": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": "sr-music-20261110-11",
+      "category": "宗教",
+      "title": "礼拜音乐创作的唯一启示",
+      "prompt": "原创模拟情境：一名合唱指导说只有自己听到的旋律来自神圣启示，其他成员不得讨论编曲。",
+      "check": "区分个人宗教体验与团队创作规则。",
+      "risk": "将个人灵感绝对化可能压制正常协商。",
+      "wake": "尊重体验同时明确共同创作和反馈机制。",
+      "counter": "宗教创作允许特定传统风格，但不必取消成员表达。",
+      "tags": [
+        "宗教",
+        "音乐与社会",
+        "辨识点→催眠点→催醒点"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实个案；分析框架参考 Awakenology《破權威幻》，不代表该文章记载此情境",
+      "articleTitle": "破權威幻",
+      "articleUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "publishedDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "originalRewrite": "不把个人经验或权威话语直接当作他人必须遵守的唯一规则。",
+      "discernmentPoint": "区分个人宗教体验与团队创作规则。",
+      "hypnosisPoint": "将个人灵感绝对化可能压制正常协商。",
+      "awakeningPoint": "尊重体验同时明确共同创作和反馈机制。",
+      "alternativeExplanation": "宗教创作允许特定传统风格，但不必取消成员表达。",
+      "evidenceStatus": "来源文章正文已核验；生活情境为原创模拟；具体机制未经个案实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "publishedDate": "2026-10-25"
+        }
+      ]
+    },
+    {
+      "id": "sr-music-20261110-12",
+      "category": "宗教",
+      "title": "宗教音乐营的耳塞禁令",
+      "prompt": "原创模拟情境：宗教音乐营要求听觉敏感的学员摘下耳塞，声称忍受巨大音量才表示虔诚。",
+      "check": "核查音量安全、健康需要和合理便利。",
+      "risk": "把安全防护解释为信仰不足可能造成不必要伤害。",
+      "wake": "允许耳塞、安静区或退出活动，不以身体风险证明忠诚。",
+      "counter": "共同歌唱可以有情感价值，但不应取消合理防护。",
+      "tags": [
+        "宗教",
+        "音乐与社会",
+        "辨识点→催眠点→催醒点"
+      ],
+      "type": "scenario",
+      "source": "原创模拟案例，非真实个案；分析框架参考 Awakenology《破權威幻》，不代表该文章记载此情境",
+      "articleTitle": "破權威幻",
+      "articleUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "publishedDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "originalRewrite": "不把个人经验或权威话语直接当作他人必须遵守的唯一规则。",
+      "discernmentPoint": "核查音量安全、健康需要和合理便利。",
+      "hypnosisPoint": "把安全防护解释为信仰不足可能造成不必要伤害。",
+      "awakeningPoint": "允许耳塞、安静区或退出活动，不以身体风险证明忠诚。",
+      "alternativeExplanation": "共同歌唱可以有情感价值，但不应取消合理防护。",
+      "evidenceStatus": "来源文章正文已核验；生活情境为原创模拟；具体机制未经个案实证",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+          "publishedDate": "2026-10-25"
+        }
+      ]
+    }
+  ]
+}
