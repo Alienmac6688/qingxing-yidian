@@ -1,0 +1,463 @@
+{
+  "schemaVersion": 1,
+  "status": "research-candidates-not-loaded",
+  "note": "12条原创模拟，非真实歌曲歌词；未完成全部分支语义去重，不计入线上正式库。",
+  "cases": [
+    {
+      "id": "lyrics-20261110-b01",
+      "category": "歌曲歌词",
+      "title": "把沉默写成默认同意",
+      "prompt": "原创模拟歌词情境：情歌叙述者认为对方没有明确拒绝，就意味着愿意复合。",
+      "check": "沉默不等于同意，确认对方是否有自由表达的空间。",
+      "risk": "现实中借歌词的浪漫叙事忽视明确同意，可能越过关系边界。",
+      "wake": "以明确、可撤回的同意作为关系互动前提。",
+      "counter": "歌曲可能是在表达不确定和渴望，并非建议现实追求。",
+      "tags": [
+        "歌曲歌词",
+        "艺术与现实边界"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析方法参考斯坦福哲学百科《The Ethics of Manipulation》，Awakenology《破權威幻》仅作思想框架参考",
+      "articleTitle": "The Ethics of Manipulation",
+      "articleUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "publishedDate": "2026-03-31",
+      "originalExcerpt": "",
+      "originalRewrite": "情歌叙述者认为对方没有明确拒绝，就意味着愿意复合。",
+      "discernmentPoint": "沉默不等于同意，确认对方是否有自由表达的空间。",
+      "hypnosisPoint": "现实中借歌词的浪漫叙事忽视明确同意，可能越过关系边界。",
+      "awakeningPoint": "以明确、可撤回的同意作为关系互动前提。",
+      "alternativeExplanation": "歌曲可能是在表达不确定和渴望，并非建议现实追求。",
+      "evidenceStatus": "模拟情境非真实歌曲；学术参考网页已核验；未核验任何真实歌词",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        },
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/破權威幻/"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-20261110-b02",
+      "category": "歌曲歌词",
+      "title": "把贫穷写成爱情测验",
+      "prompt": "原创模拟歌词情境：歌词角色要求伴侣拒绝工作机会来证明不嫌贫爱富。",
+      "check": "区分共同承担经济压力和要求对方放弃职业自主。",
+      "risk": "把正常职业选择变成忠诚考试，可能制造负罪感。",
+      "wake": "讨论共同预算、异地方案和各自的发展权。",
+      "counter": "可能是对阶层差距的文学性表达。",
+      "tags": [
+        "歌曲歌词",
+        "艺术与现实边界"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析方法参考斯坦福哲学百科《The Ethics of Manipulation》，Awakenology《破權威幻》仅作思想框架参考",
+      "articleTitle": "The Ethics of Manipulation",
+      "articleUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "publishedDate": "2026-03-31",
+      "originalExcerpt": "",
+      "originalRewrite": "歌词角色要求伴侣拒绝工作机会来证明不嫌贫爱富。",
+      "discernmentPoint": "区分共同承担经济压力和要求对方放弃职业自主。",
+      "hypnosisPoint": "把正常职业选择变成忠诚考试，可能制造负罪感。",
+      "awakeningPoint": "讨论共同预算、异地方案和各自的发展权。",
+      "alternativeExplanation": "可能是对阶层差距的文学性表达。",
+      "evidenceStatus": "模拟情境非真实歌曲；学术参考网页已核验；未核验任何真实歌词",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        },
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/破權威幻/"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-20261110-b03",
+      "category": "歌曲歌词",
+      "title": "把秘密恋情写成隔离家人",
+      "prompt": "原创模拟歌词情境：歌词人物把不告诉任何亲友作为爱情纯粹的证据。",
+      "check": "保护隐私和被迫切断支持网络是两回事。",
+      "risk": "以纯爱之名要求长期断联，可能削弱外部支持。",
+      "wake": "双方协商隐私边界，同时保留可信任的求助渠道。",
+      "counter": "保密也可能出于现实安全或社会压力。",
+      "tags": [
+        "歌曲歌词",
+        "艺术与现实边界"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析方法参考斯坦福哲学百科《The Ethics of Manipulation》，Awakenology《破權威幻》仅作思想框架参考",
+      "articleTitle": "The Ethics of Manipulation",
+      "articleUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "publishedDate": "2026-03-31",
+      "originalExcerpt": "",
+      "originalRewrite": "歌词人物把不告诉任何亲友作为爱情纯粹的证据。",
+      "discernmentPoint": "保护隐私和被迫切断支持网络是两回事。",
+      "hypnosisPoint": "以纯爱之名要求长期断联，可能削弱外部支持。",
+      "awakeningPoint": "双方协商隐私边界，同时保留可信任的求助渠道。",
+      "alternativeExplanation": "保密也可能出于现实安全或社会压力。",
+      "evidenceStatus": "模拟情境非真实歌曲；学术参考网页已核验；未核验任何真实歌词",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        },
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/破權威幻/"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-20261110-b04",
+      "category": "歌曲歌词",
+      "title": "把失眠写成深情凭证",
+      "prompt": "原创模拟歌词情境：歌词将连续不睡觉等待消息描述为爱的最高等级。",
+      "check": "失眠的情绪体验不等于健康的爱情标准。",
+      "risk": "若把牺牲睡眠当作忠诚要求，可能伤害身心。",
+      "wake": "允许延迟回复、保障休息、建立合理联系约定。",
+      "counter": "歌词可能只是夸张呈现思念。",
+      "tags": [
+        "歌曲歌词",
+        "艺术与现实边界"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析方法参考斯坦福哲学百科《The Ethics of Manipulation》，Awakenology《破權威幻》仅作思想框架参考",
+      "articleTitle": "The Ethics of Manipulation",
+      "articleUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "publishedDate": "2026-03-31",
+      "originalExcerpt": "",
+      "originalRewrite": "歌词将连续不睡觉等待消息描述为爱的最高等级。",
+      "discernmentPoint": "失眠的情绪体验不等于健康的爱情标准。",
+      "hypnosisPoint": "若把牺牲睡眠当作忠诚要求，可能伤害身心。",
+      "awakeningPoint": "允许延迟回复、保障休息、建立合理联系约定。",
+      "alternativeExplanation": "歌词可能只是夸张呈现思念。",
+      "evidenceStatus": "模拟情境非真实歌曲；学术参考网页已核验；未核验任何真实歌词",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        },
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/破權威幻/"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-20261110-b05",
+      "category": "歌曲歌词",
+      "title": "把戒断朋友写成重新做人",
+      "prompt": "原创模拟歌词情境：歌词叙事中恋人要求主角删除所有旧朋友才算新开始。",
+      "check": "改变不良社交习惯不等于放弃全部独立关系。",
+      "risk": "用改造自我为由实施社交隔离，可能形成依赖。",
+      "wake": "针对具体风险关系讨论，而非全面清空朋友圈。",
+      "counter": "旧友也可能确实涉及危险行为，需逐项评估。",
+      "tags": [
+        "歌曲歌词",
+        "艺术与现实边界"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析方法参考斯坦福哲学百科《The Ethics of Manipulation》，Awakenology《破權威幻》仅作思想框架参考",
+      "articleTitle": "The Ethics of Manipulation",
+      "articleUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "publishedDate": "2026-03-31",
+      "originalExcerpt": "",
+      "originalRewrite": "歌词叙事中恋人要求主角删除所有旧朋友才算新开始。",
+      "discernmentPoint": "改变不良社交习惯不等于放弃全部独立关系。",
+      "hypnosisPoint": "用改造自我为由实施社交隔离，可能形成依赖。",
+      "awakeningPoint": "针对具体风险关系讨论，而非全面清空朋友圈。",
+      "alternativeExplanation": "旧友也可能确实涉及危险行为，需逐项评估。",
+      "evidenceStatus": "模拟情境非真实歌曲；学术参考网页已核验；未核验任何真实歌词",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        },
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/破權威幻/"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-20261110-b06",
+      "category": "歌曲歌词",
+      "title": "把奢侈礼物写成唯一诚意",
+      "prompt": "原创模拟歌词情境：歌曲主人公以礼物价格衡量爱意和歉意。",
+      "check": "昂贵礼物与修复信任的行为并不等价。",
+      "risk": "将经济付出作为赎罪门槛，可能带来财务压力。",
+      "wake": "以沟通、行为改变和双方可承受的表达代替攀比。",
+      "counter": "作品可能讽刺消费主义或描写人物缺点。",
+      "tags": [
+        "歌曲歌词",
+        "艺术与现实边界"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析方法参考斯坦福哲学百科《The Ethics of Manipulation》，Awakenology《破權威幻》仅作思想框架参考",
+      "articleTitle": "The Ethics of Manipulation",
+      "articleUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "publishedDate": "2026-03-31",
+      "originalExcerpt": "",
+      "originalRewrite": "歌曲主人公以礼物价格衡量爱意和歉意。",
+      "discernmentPoint": "昂贵礼物与修复信任的行为并不等价。",
+      "hypnosisPoint": "将经济付出作为赎罪门槛，可能带来财务压力。",
+      "awakeningPoint": "以沟通、行为改变和双方可承受的表达代替攀比。",
+      "alternativeExplanation": "作品可能讽刺消费主义或描写人物缺点。",
+      "evidenceStatus": "模拟情境非真实歌曲；学术参考网页已核验；未核验任何真实歌词",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        },
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/破權威幻/"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-20261110-b07",
+      "category": "歌曲歌词",
+      "title": "把舞台掌声写成自我价值",
+      "prompt": "原创模拟歌词情境：励志歌词角色只有在全场鼓掌时才认为自己值得被爱。",
+      "check": "外部认可和内在价值需要区分。",
+      "risk": "若现实宣传把排名掌声当作人格价值，容易诱发羞耻与攀比。",
+      "wake": "建立多元评价标准，允许普通、失败与休息。",
+      "counter": "舞台夸张表达可能是表演者的真实心情。",
+      "tags": [
+        "歌曲歌词",
+        "艺术与现实边界"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析方法参考斯坦福哲学百科《The Ethics of Manipulation》，Awakenology《破權威幻》仅作思想框架参考",
+      "articleTitle": "The Ethics of Manipulation",
+      "articleUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "publishedDate": "2026-03-31",
+      "originalExcerpt": "",
+      "originalRewrite": "励志歌词角色只有在全场鼓掌时才认为自己值得被爱。",
+      "discernmentPoint": "外部认可和内在价值需要区分。",
+      "hypnosisPoint": "若现实宣传把排名掌声当作人格价值，容易诱发羞耻与攀比。",
+      "awakeningPoint": "建立多元评价标准，允许普通、失败与休息。",
+      "alternativeExplanation": "舞台夸张表达可能是表演者的真实心情。",
+      "evidenceStatus": "模拟情境非真实歌曲；学术参考网页已核验；未核验任何真实歌词",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        },
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/破權威幻/"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-20261110-b08",
+      "category": "歌曲歌词",
+      "title": "把逆境写成禁止求助",
+      "prompt": "原创模拟歌词情境：歌词叙述者宣称真正强者绝不向他人求助。",
+      "check": "自立不等于拒绝专业帮助和社会支持。",
+      "risk": "把求助污名化可能让人延误必要支持。",
+      "wake": "识别困难性质，适时向可信人员和专业机构求助。",
+      "counter": "作品也可能是在强调责任感而非反对求助。",
+      "tags": [
+        "歌曲歌词",
+        "艺术与现实边界"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析方法参考斯坦福哲学百科《The Ethics of Manipulation》，Awakenology《破權威幻》仅作思想框架参考",
+      "articleTitle": "The Ethics of Manipulation",
+      "articleUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "publishedDate": "2026-03-31",
+      "originalExcerpt": "",
+      "originalRewrite": "歌词叙述者宣称真正强者绝不向他人求助。",
+      "discernmentPoint": "自立不等于拒绝专业帮助和社会支持。",
+      "hypnosisPoint": "把求助污名化可能让人延误必要支持。",
+      "awakeningPoint": "识别困难性质，适时向可信人员和专业机构求助。",
+      "alternativeExplanation": "作品也可能是在强调责任感而非反对求助。",
+      "evidenceStatus": "模拟情境非真实歌曲；学术参考网页已核验；未核验任何真实歌词",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        },
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/破權威幻/"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-20261110-b09",
+      "category": "歌曲歌词",
+      "title": "把故乡写成不得离开",
+      "prompt": "原创模拟歌词情境：怀旧歌曲中的长辈角色将外出求学称为抛弃家乡。",
+      "check": "文化归属感与个人迁移自由可以并存。",
+      "risk": "用集体羞耻阻止升学迁居可能剥夺选择。",
+      "wake": "允许保留乡情同时追求教育与工作机会。",
+      "counter": "歌曲可能是在记录离别悲伤，而非命令听众留下。",
+      "tags": [
+        "歌曲歌词",
+        "艺术与现实边界"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析方法参考斯坦福哲学百科《The Ethics of Manipulation》，Awakenology《破權威幻》仅作思想框架参考",
+      "articleTitle": "The Ethics of Manipulation",
+      "articleUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "publishedDate": "2026-03-31",
+      "originalExcerpt": "",
+      "originalRewrite": "怀旧歌曲中的长辈角色将外出求学称为抛弃家乡。",
+      "discernmentPoint": "文化归属感与个人迁移自由可以并存。",
+      "hypnosisPoint": "用集体羞耻阻止升学迁居可能剥夺选择。",
+      "awakeningPoint": "允许保留乡情同时追求教育与工作机会。",
+      "alternativeExplanation": "歌曲可能是在记录离别悲伤，而非命令听众留下。",
+      "evidenceStatus": "模拟情境非真实歌曲；学术参考网页已核验；未核验任何真实歌词",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        },
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/破權威幻/"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-20261110-b10",
+      "category": "歌曲歌词",
+      "title": "把道歉写成无限惩罚",
+      "prompt": "原创模拟歌词情境：情歌人物认为犯错者应永久接受羞辱才算悔改。",
+      "check": "承担责任不等于无限期丧失尊严。",
+      "risk": "现实中借悔过之名持续羞辱可能形成控制。",
+      "wake": "明确补救行动、边界与是否继续关系的自由。",
+      "counter": "作品可能以极端修辞表达受伤者愤怒。",
+      "tags": [
+        "歌曲歌词",
+        "艺术与现实边界"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析方法参考斯坦福哲学百科《The Ethics of Manipulation》，Awakenology《破權威幻》仅作思想框架参考",
+      "articleTitle": "The Ethics of Manipulation",
+      "articleUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "publishedDate": "2026-03-31",
+      "originalExcerpt": "",
+      "originalRewrite": "情歌人物认为犯错者应永久接受羞辱才算悔改。",
+      "discernmentPoint": "承担责任不等于无限期丧失尊严。",
+      "hypnosisPoint": "现实中借悔过之名持续羞辱可能形成控制。",
+      "awakeningPoint": "明确补救行动、边界与是否继续关系的自由。",
+      "alternativeExplanation": "作品可能以极端修辞表达受伤者愤怒。",
+      "evidenceStatus": "模拟情境非真实歌曲；学术参考网页已核验；未核验任何真实歌词",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        },
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/破權威幻/"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-20261110-b11",
+      "category": "歌曲歌词",
+      "title": "把合唱一致写成思想一致",
+      "prompt": "原创模拟歌词情境：歌曲活动主持人要求所有参与者签署同一观点才准合唱。",
+      "check": "共同演唱不代表对全部观点的认可。",
+      "risk": "以参与资格强迫政治或宗教立场表态，可能制造从众压力。",
+      "wake": "允许自愿参与、保留不同意见及退出选择。",
+      "counter": "组织者可能只是希望节目主题一致，应核对规则是否自愿。",
+      "tags": [
+        "歌曲歌词",
+        "艺术与现实边界"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析方法参考斯坦福哲学百科《The Ethics of Manipulation》，Awakenology《破權威幻》仅作思想框架参考",
+      "articleTitle": "The Ethics of Manipulation",
+      "articleUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "publishedDate": "2026-03-31",
+      "originalExcerpt": "",
+      "originalRewrite": "歌曲活动主持人要求所有参与者签署同一观点才准合唱。",
+      "discernmentPoint": "共同演唱不代表对全部观点的认可。",
+      "hypnosisPoint": "以参与资格强迫政治或宗教立场表态，可能制造从众压力。",
+      "awakeningPoint": "允许自愿参与、保留不同意见及退出选择。",
+      "alternativeExplanation": "组织者可能只是希望节目主题一致，应核对规则是否自愿。",
+      "evidenceStatus": "模拟情境非真实歌曲；学术参考网页已核验；未核验任何真实歌词",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        },
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/破權威幻/"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-20261110-b12",
+      "category": "歌曲歌词",
+      "title": "把旋律感动写成疗效证明",
+      "prompt": "原创模拟歌词情境：疗愈歌曲宣传称听众流泪便证明疾病已经痊愈。",
+      "check": "情绪共鸣不等于医学疗效。",
+      "risk": "用强烈情绪代替医疗证据可能误导治疗选择。",
+      "wake": "将音乐作为可选择的支持方式，疾病治疗仍依据专业诊断。",
+      "counter": "音乐可能确实带来主观安慰，但不能据此证明治愈。",
+      "tags": [
+        "歌曲歌词",
+        "艺术与现实边界"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析方法参考斯坦福哲学百科《The Ethics of Manipulation》，Awakenology《破權威幻》仅作思想框架参考",
+      "articleTitle": "The Ethics of Manipulation",
+      "articleUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "publishedDate": "2026-03-31",
+      "originalExcerpt": "",
+      "originalRewrite": "疗愈歌曲宣传称听众流泪便证明疾病已经痊愈。",
+      "discernmentPoint": "情绪共鸣不等于医学疗效。",
+      "hypnosisPoint": "用强烈情绪代替医疗证据可能误导治疗选择。",
+      "awakeningPoint": "将音乐作为可选择的支持方式，疾病治疗仍依据专业诊断。",
+      "alternativeExplanation": "音乐可能确实带来主观安慰，但不能据此证明治愈。",
+      "evidenceStatus": "模拟情境非真实歌曲；学术参考网页已核验；未核验任何真实歌词",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        },
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/破權威幻/"
+        }
+      ]
+    }
+  ]
+}
