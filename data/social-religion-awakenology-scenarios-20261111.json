@@ -1,0 +1,450 @@
+{
+  "schema": 1,
+  "status": "loaded-by-app-after-integration",
+  "cases": [
+    {
+      "id": "sr-20261111-aw-batch-01",
+      "category": "社会",
+      "title": "公司AI面试用沉默秒数推断员工服从度",
+      "prompt": "原创模拟：招聘方把候选人思考停顿时间当成“不服从”分数，拒绝解释测量依据。",
+      "check": "停顿时长是否有经验证的岗位相关性？",
+      "risk": "用不透明的行为指标替代岗位能力证据。",
+      "wake": "要求岗位相关标准、可解释性及人工复核。",
+      "counter": "面试时间管理可能有合理要求，但不能直接等同人格忠诚。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "独立判断",
+        "证据核查"
+      ],
+      "type": "breakdown",
+      "source": "原创生活情境，借用 Awakenology 对思维固化、独立思考、尊重他人等概念的讨论；不代表来源记载此事件或其形而上学论断已获科学证实",
+      "sourceTitle": "意識强度檢測點（1）中央區：心智控制區",
+      "sourceUrl": "https://awakenology.org/意識强度檢測點1中央區心智控制區/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "无直接引文",
+      "originalRewrite": "招聘方把候选人思考停顿时间当成“不服从”分数，拒绝解释测量依据。",
+      "discernmentPoint": "停顿时长是否有经验证的岗位相关性？",
+      "hypnosisPoint": "用不透明的行为指标替代岗位能力证据。",
+      "awakeningPoint": "要求岗位相关标准、可解释性及人工复核。",
+      "alternativeExplanation": "面试时间管理可能有合理要求，但不能直接等同人格忠诚。",
+      "evidenceStatus": "原创模拟，非已证实真实事件；引用页面的观点可核验，具体情境与推论为原创",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "意識强度檢測點（1）中央區：心智控制區",
+          "url": "https://awakenology.org/意識强度檢測點1中央區心智控制區/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-aw-batch-02",
+      "category": "社会",
+      "title": "线上课程把连续签到天数当成独立思考能力",
+      "prompt": "原创模拟：培训平台以连续签到纪录宣称能测量学员的独立思考程度。",
+      "check": "签到是否只是参与指标而非思考能力测量？",
+      "risk": "把可计数行为误作复杂心理能力的证据。",
+      "wake": "分开记录参与度和可审查的思辨成果。",
+      "counter": "签到提醒可能帮助建立学习习惯。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "独立判断",
+        "证据核查"
+      ],
+      "type": "breakdown",
+      "source": "原创生活情境，借用 Awakenology 对思维固化、独立思考、尊重他人等概念的讨论；不代表来源记载此事件或其形而上学论断已获科学证实",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/意識强度檢測點2上方區自主意識區/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "无直接引文",
+      "originalRewrite": "培训平台以连续签到纪录宣称能测量学员的独立思考程度。",
+      "discernmentPoint": "签到是否只是参与指标而非思考能力测量？",
+      "hypnosisPoint": "把可计数行为误作复杂心理能力的证据。",
+      "awakeningPoint": "分开记录参与度和可审查的思辨成果。",
+      "alternativeExplanation": "签到提醒可能帮助建立学习习惯。",
+      "evidenceStatus": "原创模拟，非已证实真实事件；引用页面的观点可核验，具体情境与推论为原创",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/意識强度檢測點2上方區自主意識區/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-aw-batch-03",
+      "category": "社会",
+      "title": "直播招聘把弹幕喝彩当作岗位安全证明",
+      "prompt": "原创模拟：主播让观众刷“放心”弹幕，宣称足以证明海外工作岗位没有风险。",
+      "check": "弹幕是否包含合同、雇主、签证和劳动条件证据？",
+      "risk": "把群体情绪当作安全认证。",
+      "wake": "独立核验公司登记、合同、合法工作资格和求助渠道。",
+      "counter": "弹幕也可能是观众真实鼓励，但不具审核效力。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "独立判断",
+        "证据核查"
+      ],
+      "type": "breakdown",
+      "source": "原创生活情境，借用 Awakenology 对思维固化、独立思考、尊重他人等概念的讨论；不代表来源记载此事件或其形而上学论断已获科学证实",
+      "sourceTitle": "意識强度檢測點（1）中央區：心智控制區",
+      "sourceUrl": "https://awakenology.org/意識强度檢測點1中央區心智控制區/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "无直接引文",
+      "originalRewrite": "主播让观众刷“放心”弹幕，宣称足以证明海外工作岗位没有风险。",
+      "discernmentPoint": "弹幕是否包含合同、雇主、签证和劳动条件证据？",
+      "hypnosisPoint": "把群体情绪当作安全认证。",
+      "awakeningPoint": "独立核验公司登记、合同、合法工作资格和求助渠道。",
+      "alternativeExplanation": "弹幕也可能是观众真实鼓励，但不具审核效力。",
+      "evidenceStatus": "原创模拟，非已证实真实事件；引用页面的观点可核验，具体情境与推论为原创",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "意識强度檢測點（1）中央區：心智控制區",
+          "url": "https://awakenology.org/意識强度檢測點1中央區心智控制區/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-aw-batch-04",
+      "category": "社会",
+      "title": "AI作文评分把学生质疑题目判作情绪失控",
+      "prompt": "原创模拟：学校的自动评分系统把学生提出题目歧义的文字归为情绪不稳定。",
+      "check": "质疑是否针对题目事实和逻辑，而非失控行为？",
+      "risk": "用心理标签压制合理异议。",
+      "wake": "保留评分依据、人工复核和申诉通道。",
+      "counter": "学生表达方式可能确需改进，仍应分开评价论证与态度。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "独立判断",
+        "证据核查"
+      ],
+      "type": "breakdown",
+      "source": "原创生活情境，借用 Awakenology 对思维固化、独立思考、尊重他人等概念的讨论；不代表来源记载此事件或其形而上学论断已获科学证实",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/意識强度檢測點2上方區自主意識區/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "无直接引文",
+      "originalRewrite": "学校的自动评分系统把学生提出题目歧义的文字归为情绪不稳定。",
+      "discernmentPoint": "质疑是否针对题目事实和逻辑，而非失控行为？",
+      "hypnosisPoint": "用心理标签压制合理异议。",
+      "awakeningPoint": "保留评分依据、人工复核和申诉通道。",
+      "alternativeExplanation": "学生表达方式可能确需改进，仍应分开评价论证与态度。",
+      "evidenceStatus": "原创模拟，非已证实真实事件；引用页面的观点可核验，具体情境与推论为原创",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/意識强度檢測點2上方區自主意識區/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-aw-batch-05",
+      "category": "社会",
+      "title": "职场团建以心率一致率判定团队忠诚",
+      "prompt": "原创模拟：公司要求佩戴手环并根据集体运动心率同步程度公布忠诚排名。",
+      "check": "生理指标与忠诚是否存在可靠联系和知情同意？",
+      "risk": "把身体反应转化成道德评价。",
+      "wake": "自愿参与并保护健康数据，改用工作协作的可观察指标。",
+      "counter": "团建可能旨在促进健康和合作，但不应以心率推断忠诚。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "独立判断",
+        "证据核查"
+      ],
+      "type": "breakdown",
+      "source": "原创生活情境，借用 Awakenology 对思维固化、独立思考、尊重他人等概念的讨论；不代表来源记载此事件或其形而上学论断已获科学证实",
+      "sourceTitle": "意識强度檢測點（1）中央區：心智控制區",
+      "sourceUrl": "https://awakenology.org/意識强度檢測點1中央區心智控制區/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "无直接引文",
+      "originalRewrite": "公司要求佩戴手环并根据集体运动心率同步程度公布忠诚排名。",
+      "discernmentPoint": "生理指标与忠诚是否存在可靠联系和知情同意？",
+      "hypnosisPoint": "把身体反应转化成道德评价。",
+      "awakeningPoint": "自愿参与并保护健康数据，改用工作协作的可观察指标。",
+      "alternativeExplanation": "团建可能旨在促进健康和合作，但不应以心率推断忠诚。",
+      "evidenceStatus": "原创模拟，非已证实真实事件；引用页面的观点可核验，具体情境与推论为原创",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "意識强度檢測點（1）中央區：心智控制區",
+          "url": "https://awakenology.org/意識强度檢測點1中央區心智控制區/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-aw-batch-06",
+      "category": "社会",
+      "title": "旅行博主用一张照片宣称所有当地人敌视游客",
+      "prompt": "原创模拟：短视频只展示一次争执就称某地居民都排斥外来游客。",
+      "check": "个别事件是否被泛化为整个群体？",
+      "risk": "以单一画面制造群体敌意和刻板印象。",
+      "wake": "核对完整视频、背景和不同来源。",
+      "counter": "争执可能确实发生，个案仍值得调查。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "独立判断",
+        "证据核查"
+      ],
+      "type": "breakdown",
+      "source": "原创生活情境，借用 Awakenology 对思维固化、独立思考、尊重他人等概念的讨论；不代表来源记载此事件或其形而上学论断已获科学证实",
+      "sourceTitle": "意識强度檢測點（1）中央區：心智控制區",
+      "sourceUrl": "https://awakenology.org/意識强度檢測點1中央區心智控制區/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "无直接引文",
+      "originalRewrite": "短视频只展示一次争执就称某地居民都排斥外来游客。",
+      "discernmentPoint": "个别事件是否被泛化为整个群体？",
+      "hypnosisPoint": "以单一画面制造群体敌意和刻板印象。",
+      "awakeningPoint": "核对完整视频、背景和不同来源。",
+      "alternativeExplanation": "争执可能确实发生，个案仍值得调查。",
+      "evidenceStatus": "原创模拟，非已证实真实事件；引用页面的观点可核验，具体情境与推论为原创",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "意識强度檢測點（1）中央區：心智控制區",
+          "url": "https://awakenology.org/意識强度檢測點1中央區心智控制區/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-aw-batch-07",
+      "category": "宗教",
+      "title": "宗教读书会把提问次数当作信仰纯度",
+      "prompt": "原创模拟：读书会主持人用成员提出问题的次数给出信仰纯度排名。",
+      "check": "提问是否被误判为不虔诚？",
+      "risk": "把探索性提问变成羞耻与服从测试。",
+      "wake": "允许自愿提问与不提问，不以行为次数评判人格。",
+      "counter": "主持人可能希望讨论有序，但可采用公平发言规则。",
+      "tags": [
+        "宗教",
+        "原创模拟",
+        "独立判断",
+        "证据核查"
+      ],
+      "type": "breakdown",
+      "source": "原创生活情境，借用 Awakenology 对思维固化、独立思考、尊重他人等概念的讨论；不代表来源记载此事件或其形而上学论断已获科学证实",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/意識强度檢測點2上方區自主意識區/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "无直接引文",
+      "originalRewrite": "读书会主持人用成员提出问题的次数给出信仰纯度排名。",
+      "discernmentPoint": "提问是否被误判为不虔诚？",
+      "hypnosisPoint": "把探索性提问变成羞耻与服从测试。",
+      "awakeningPoint": "允许自愿提问与不提问，不以行为次数评判人格。",
+      "alternativeExplanation": "主持人可能希望讨论有序，但可采用公平发言规则。",
+      "evidenceStatus": "原创模拟，非已证实真实事件；引用页面的观点可核验，具体情境与推论为原创",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/意識强度檢測點2上方區自主意識區/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-aw-batch-08",
+      "category": "宗教",
+      "title": "宗教公益活动用祈祷音量分配志愿岗位",
+      "prompt": "原创模拟：活动组织者按祈祷声音大小安排志愿服务岗位，称声音小的人缺少奉献精神。",
+      "check": "声音大小是否反映信仰或服务能力？",
+      "risk": "用公开表演的强度替代真实贡献与自主选择。",
+      "wake": "根据能力、意愿和任务需求分配岗位，尊重安静表达。",
+      "counter": "大声祈祷对一些人是真诚表达，不必因此被否定。",
+      "tags": [
+        "宗教",
+        "原创模拟",
+        "独立判断",
+        "证据核查"
+      ],
+      "type": "breakdown",
+      "source": "原创生活情境，借用 Awakenology 对思维固化、独立思考、尊重他人等概念的讨论；不代表来源记载此事件或其形而上学论断已获科学证实",
+      "sourceTitle": "意識强度檢測點（1）中央區：心智控制區",
+      "sourceUrl": "https://awakenology.org/意識强度檢測點1中央區心智控制區/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "无直接引文",
+      "originalRewrite": "活动组织者按祈祷声音大小安排志愿服务岗位，称声音小的人缺少奉献精神。",
+      "discernmentPoint": "声音大小是否反映信仰或服务能力？",
+      "hypnosisPoint": "用公开表演的强度替代真实贡献与自主选择。",
+      "awakeningPoint": "根据能力、意愿和任务需求分配岗位，尊重安静表达。",
+      "alternativeExplanation": "大声祈祷对一些人是真诚表达，不必因此被否定。",
+      "evidenceStatus": "原创模拟，非已证实真实事件；引用页面的观点可核验，具体情境与推论为原创",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "意識强度檢測點（1）中央區：心智控制區",
+          "url": "https://awakenology.org/意識强度檢測點1中央區心智控制區/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-aw-batch-09",
+      "category": "宗教",
+      "title": "跨信仰讲座以答题速度推断灵性成熟",
+      "prompt": "原创模拟：讲座要求参与者快速回答复杂价值问题，并把迟疑者归为灵性落后。",
+      "check": "思考时间是否合理且与结论质量分开？",
+      "risk": "以速度压力制造虚假能力等级。",
+      "wake": "允许充分思考、不同观点和退出测评。",
+      "counter": "限时问答可以用于互动，但不能证明灵性等级。",
+      "tags": [
+        "宗教",
+        "原创模拟",
+        "独立判断",
+        "证据核查"
+      ],
+      "type": "breakdown",
+      "source": "原创生活情境，借用 Awakenology 对思维固化、独立思考、尊重他人等概念的讨论；不代表来源记载此事件或其形而上学论断已获科学证实",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/意識强度檢測點2上方區自主意識區/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "无直接引文",
+      "originalRewrite": "讲座要求参与者快速回答复杂价值问题，并把迟疑者归为灵性落后。",
+      "discernmentPoint": "思考时间是否合理且与结论质量分开？",
+      "hypnosisPoint": "以速度压力制造虚假能力等级。",
+      "awakeningPoint": "允许充分思考、不同观点和退出测评。",
+      "alternativeExplanation": "限时问答可以用于互动，但不能证明灵性等级。",
+      "evidenceStatus": "原创模拟，非已证实真实事件；引用页面的观点可核验，具体情境与推论为原创",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/意識强度檢測點2上方區自主意識區/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-aw-batch-10",
+      "category": "宗教",
+      "title": "宗教社区把慈善服务照片数量当作善心证据",
+      "prompt": "原创模拟：社区公开统计每人发布的服务自拍数量，称未上传照片的人缺少善心。",
+      "check": "服务质量与被帮助者隐私是否被忽视？",
+      "risk": "把社交曝光当成道德资格。",
+      "wake": "尊重匿名行善与受助者隐私，评价实际需求是否得到满足。",
+      "counter": "活动照片可能用于透明披露，但不应成为强制忠诚测验。",
+      "tags": [
+        "宗教",
+        "原创模拟",
+        "独立判断",
+        "证据核查"
+      ],
+      "type": "breakdown",
+      "source": "原创生活情境，借用 Awakenology 对思维固化、独立思考、尊重他人等概念的讨论；不代表来源记载此事件或其形而上学论断已获科学证实",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/意識强度檢測點2上方區自主意識區/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "无直接引文",
+      "originalRewrite": "社区公开统计每人发布的服务自拍数量，称未上传照片的人缺少善心。",
+      "discernmentPoint": "服务质量与被帮助者隐私是否被忽视？",
+      "hypnosisPoint": "把社交曝光当成道德资格。",
+      "awakeningPoint": "尊重匿名行善与受助者隐私，评价实际需求是否得到满足。",
+      "alternativeExplanation": "活动照片可能用于透明披露，但不应成为强制忠诚测验。",
+      "evidenceStatus": "原创模拟，非已证实真实事件；引用页面的观点可核验，具体情境与推论为原创",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/意識强度檢測點2上方區自主意識區/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-aw-batch-11",
+      "category": "社会",
+      "title": "远程团队把摄像头注视时长当成诚信证据",
+      "prompt": "原创模拟：公司以员工视频会议凝视镜头的分钟数评价诚信。",
+      "check": "眼神与诚实是否存在可靠的因果证据？",
+      "risk": "把非语言表现误当道德特征。",
+      "wake": "改用可核验工作成果，并为视力、神经差异等提供便利。",
+      "counter": "镜头互动可能改善沟通，但不应直接推断诚信。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "独立判断",
+        "证据核查"
+      ],
+      "type": "breakdown",
+      "source": "原创生活情境，借用 Awakenology 对思维固化、独立思考、尊重他人等概念的讨论；不代表来源记载此事件或其形而上学论断已获科学证实",
+      "sourceTitle": "意識强度檢測點（1）中央區：心智控制區",
+      "sourceUrl": "https://awakenology.org/意識强度檢測點1中央區心智控制區/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "无直接引文",
+      "originalRewrite": "公司以员工视频会议凝视镜头的分钟数评价诚信。",
+      "discernmentPoint": "眼神与诚实是否存在可靠的因果证据？",
+      "hypnosisPoint": "把非语言表现误当道德特征。",
+      "awakeningPoint": "改用可核验工作成果，并为视力、神经差异等提供便利。",
+      "alternativeExplanation": "镜头互动可能改善沟通，但不应直接推断诚信。",
+      "evidenceStatus": "原创模拟，非已证实真实事件；引用页面的观点可核验，具体情境与推论为原创",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "意識强度檢測點（1）中央區：心智控制區",
+          "url": "https://awakenology.org/意識强度檢測點1中央區心智控制區/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-aw-batch-12",
+      "category": "宗教",
+      "title": "宗教音乐排练以音准偏差判定信念纯净",
+      "prompt": "原创模拟：合唱负责人把成员唱错音高解释为信念不够纯净，要求公开悔过。",
+      "check": "音准问题是否只是训练、听力或状态差异？",
+      "risk": "把技术性失误道德化并施加羞耻。",
+      "wake": "按音乐训练解决音准问题，信仰实践保持自愿。",
+      "counter": "负责人可能重视演出质量，正常纠音并非操纵。",
+      "tags": [
+        "宗教",
+        "原创模拟",
+        "独立判断",
+        "证据核查"
+      ],
+      "type": "breakdown",
+      "source": "原创生活情境，借用 Awakenology 对思维固化、独立思考、尊重他人等概念的讨论；不代表来源记载此事件或其形而上学论断已获科学证实",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/意識强度檢測點2上方區自主意識區/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "无直接引文",
+      "originalRewrite": "合唱负责人把成员唱错音高解释为信念不够纯净，要求公开悔过。",
+      "discernmentPoint": "音准问题是否只是训练、听力或状态差异？",
+      "hypnosisPoint": "把技术性失误道德化并施加羞耻。",
+      "awakeningPoint": "按音乐训练解决音准问题，信仰实践保持自愿。",
+      "alternativeExplanation": "负责人可能重视演出质量，正常纠音并非操纵。",
+      "evidenceStatus": "原创模拟，非已证实真实事件；引用页面的观点可核验，具体情境与推论为原创",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/意識强度檢測點2上方區自主意識區/"
+        }
+      ]
+    }
+  ]
+}
