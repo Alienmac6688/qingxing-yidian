@@ -112,6 +112,13 @@ for(const file of ['research-candidates-real-classic-songs-20261111.json','resea
  }).catch(e=>console.warn('歌曲歌词案例加载失败: '+file,e));
 }
 fetch('./data/g2-cong-tou-fu-he-source.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{if(!Array.isArray(data.rows))throw Error('G2 source schema mismatch');const known=new Set(seed.map(c=>c.id));const cards=data.rows.filter(row=>row&&Array.isArray(row.values)&&row.values.length===6).map(row=>{const v=row.values.map(x=>String(x??'').trim()),n=v[0];return {id:'g2-source-'+n,category:'G2催眠辨识',title:'G2 #'+n+' · '+(v[3]||v[2].slice(0,38)||'原文辨识'),prompt:v[2]||'该条原文未提供',check:v[3]||'核对原文语境和证据',risk:v[4]||'暂无对应催眠点分析，不能据此断定存在操纵。',wake:v[5]||'保留独立判断，结合上下文核实。',counter:'原文可能是修辞、个人经验或课程观点；需结合语境，不能直接认定为操纵。',tags:['G2原文','催眠辨识'],type:'breakdown',source:v[1]||'G2从头复核原始资料（具体来源未注明）',revision:1}}).filter(c=>!known.has(c.id));seed=seed.concat(cards);filters();stats();renderCases();}).catch(e=>console.warn('G2原文辨识资料加载失败',e));
+// Incremental social/religious case batch: non-blocking, deduplicated by ID.
+fetch('./data/research-candidates-social-religion-20261111-1945.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
+ if(!Array.isArray(data.cases))throw Error('schema mismatch');
+ const known=new Set(seed.map(c=>c.id));
+ seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)&&['社会','宗教'].includes(c.category)));
+ filters();stats();renderCases();
+}).catch(e=>console.warn('社会宗教增量案例加载失败',e));
 // All share links use the same canonical URL. Check published assets when returning to the tab
 // and periodically while visible; ask before reloading so unfinished exercises are not lost.
 const LIVE_FILES=['./app.js','./data/social-religion-batch-01.json','./data/research-candidates-real-classic-songs-20261111.json','./data/research-candidates-lyrics-20261111-c.json'];
