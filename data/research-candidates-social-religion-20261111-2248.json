@@ -1,0 +1,450 @@
+{
+  "schemaVersion": 1,
+  "status": "incremental-scenarios",
+  "cases": [
+    {
+      "id": "sr-20261111-2248-01",
+      "category": "社会",
+      "title": "夜班交接群以已读时间推断员工是否诚实",
+      "prompt": "原创模拟：夜班经理把员工凌晨三点未立即回复群消息列为撒谎证据，拒绝核对实际交接记录。",
+      "check": "已读时间能否证明工作交接事实？",
+      "risk": "把通讯软件状态冒充人格测量。",
+      "wake": "依据交接日志与岗位职责核对，提供申诉机会。",
+      "counter": "紧急岗位可能有明确响应时限，但应事先告知。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "知情同意",
+        "独立判断"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；参考《The Ethics of Manipulation》中的操纵与自主性概念，非来源报道事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文",
+      "originalRewrite": "夜班经理把员工凌晨三点未立即回复群消息列为撒谎证据，拒绝核对实际交接记录。",
+      "discernmentPoint": "已读时间能否证明工作交接事实？",
+      "hypnosisPoint": "把通讯软件状态冒充人格测量。",
+      "awakeningPoint": "依据交接日志与岗位职责核对，提供申诉机会。",
+      "alternativeExplanation": "紧急岗位可能有明确响应时限，但应事先告知。",
+      "evidenceStatus": "原创模拟，非真实事件；学术资料仅供分析框架参考",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-2248-02",
+      "category": "社会",
+      "title": "社区防暑站把领取饮水与公开拍照绑定",
+      "prompt": "原创模拟：高温日的免费饮水站要求每位领水者举身份证拍宣传照，否则不能领取。",
+      "check": "供水为什么需要公开身份影像？",
+      "risk": "用基本需求迫使个人同意宣传。",
+      "wake": "提供不拍照领取渠道，单独征求影像授权。",
+      "counter": "活动方可能需要统计人数，但可采用匿名计数。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "知情同意",
+        "独立判断"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；参考《The Ethics of Manipulation》中的操纵与自主性概念，非来源报道事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文",
+      "originalRewrite": "高温日的免费饮水站要求每位领水者举身份证拍宣传照，否则不能领取。",
+      "discernmentPoint": "供水为什么需要公开身份影像？",
+      "hypnosisPoint": "用基本需求迫使个人同意宣传。",
+      "awakeningPoint": "提供不拍照领取渠道，单独征求影像授权。",
+      "alternativeExplanation": "活动方可能需要统计人数，但可采用匿名计数。",
+      "evidenceStatus": "原创模拟，非真实事件；学术资料仅供分析框架参考",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-2248-03",
+      "category": "社会",
+      "title": "学校AI翻译作业把方言口音标为道德缺陷",
+      "prompt": "原创模拟：课堂语音软件将带方言口音的学生评为态度不端正，老师据此公开批评。",
+      "check": "识别准确率与学习态度是否被混淆？",
+      "risk": "把技术误差包装成道德评价。",
+      "wake": "保留录音复核并采用多元评价标准。",
+      "counter": "发音清晰度可以是教学目标，但不应推断品格。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "知情同意",
+        "独立判断"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；参考《The Ethics of Manipulation》中的操纵与自主性概念，非来源报道事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文",
+      "originalRewrite": "课堂语音软件将带方言口音的学生评为态度不端正，老师据此公开批评。",
+      "discernmentPoint": "识别准确率与学习态度是否被混淆？",
+      "hypnosisPoint": "把技术误差包装成道德评价。",
+      "awakeningPoint": "保留录音复核并采用多元评价标准。",
+      "alternativeExplanation": "发音清晰度可以是教学目标，但不应推断品格。",
+      "evidenceStatus": "原创模拟，非真实事件；学术资料仅供分析框架参考",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-2248-04",
+      "category": "社会",
+      "title": "互助养老群用定位共享换取探访资格",
+      "prompt": "原创模拟：社区老人探访活动规定所有志愿者必须全天公开实时定位，未同意者不得参加。",
+      "check": "探访安全是否需要全天候追踪？",
+      "risk": "以公益身份施压过度采集个人位置。",
+      "wake": "采用签到、紧急联系人等最小必要方案。",
+      "counter": "高风险探访确实可能需要工作时段位置保障。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "知情同意",
+        "独立判断"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；参考《The Ethics of Manipulation》中的操纵与自主性概念，非来源报道事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文",
+      "originalRewrite": "社区老人探访活动规定所有志愿者必须全天公开实时定位，未同意者不得参加。",
+      "discernmentPoint": "探访安全是否需要全天候追踪？",
+      "hypnosisPoint": "以公益身份施压过度采集个人位置。",
+      "awakeningPoint": "采用签到、紧急联系人等最小必要方案。",
+      "alternativeExplanation": "高风险探访确实可能需要工作时段位置保障。",
+      "evidenceStatus": "原创模拟，非真实事件；学术资料仅供分析框架参考",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-2248-05",
+      "category": "社会",
+      "title": "短租平台把拒绝人脸营销授权者标为危险房客",
+      "prompt": "原创模拟：房东要求租客同意将人脸素材用于广告，否则在房东群发布危险名单。",
+      "check": "入住核验与广告授权是否被混为一谈？",
+      "risk": "将不相关的商业授权伪装成安全要求。",
+      "wake": "分开处理法定身份核验和可撤回的广告许可。",
+      "counter": "合法身份核验可能必要，但广告使用并非同一目的。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "知情同意",
+        "独立判断"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；参考《The Ethics of Manipulation》中的操纵与自主性概念，非来源报道事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文",
+      "originalRewrite": "房东要求租客同意将人脸素材用于广告，否则在房东群发布危险名单。",
+      "discernmentPoint": "入住核验与广告授权是否被混为一谈？",
+      "hypnosisPoint": "将不相关的商业授权伪装成安全要求。",
+      "awakeningPoint": "分开处理法定身份核验和可撤回的广告许可。",
+      "alternativeExplanation": "合法身份核验可能必要，但广告使用并非同一目的。",
+      "evidenceStatus": "原创模拟，非真实事件；学术资料仅供分析框架参考",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-2248-06",
+      "category": "社会",
+      "title": "公益翻译众包用机器评分禁止纠错",
+      "prompt": "原创模拟：公益字幕群宣称AI评分绝对客观，志愿者指出明显错译后被禁止再提交修订。",
+      "check": "评分是否允许查看原文和纠错证据？",
+      "risk": "把工具权威化以封闭事实讨论。",
+      "wake": "公开版本对照、修订记录和人工复审。",
+      "counter": "项目为赶进度可能设截止时间，但应保留错误反馈。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "知情同意",
+        "独立判断"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；参考《The Ethics of Manipulation》中的操纵与自主性概念，非来源报道事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文",
+      "originalRewrite": "公益字幕群宣称AI评分绝对客观，志愿者指出明显错译后被禁止再提交修订。",
+      "discernmentPoint": "评分是否允许查看原文和纠错证据？",
+      "hypnosisPoint": "把工具权威化以封闭事实讨论。",
+      "awakeningPoint": "公开版本对照、修订记录和人工复审。",
+      "alternativeExplanation": "项目为赶进度可能设截止时间，但应保留错误反馈。",
+      "evidenceStatus": "原创模拟，非真实事件；学术资料仅供分析框架参考",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-2248-07",
+      "category": "宗教",
+      "title": "寺院素食义卖把过敏询问说成不够虔诚",
+      "prompt": "原创模拟：义卖摊位对询问花生过敏原的访客说不应怀疑供养食物，拒绝提供配料信息。",
+      "check": "食物安全问题为何被解释成信仰不足？",
+      "risk": "以宗教情感压制合理健康询问。",
+      "wake": "公开配料与交叉接触风险，尊重不购买决定。",
+      "counter": "志愿者可能确实不了解配方，应核实而非推断恶意。",
+      "tags": [
+        "宗教",
+        "原创模拟",
+        "知情同意",
+        "独立判断"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；参考《The Ethics of Manipulation》中的操纵与自主性概念，非来源报道事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文",
+      "originalRewrite": "义卖摊位对询问花生过敏原的访客说不应怀疑供养食物，拒绝提供配料信息。",
+      "discernmentPoint": "食物安全问题为何被解释成信仰不足？",
+      "hypnosisPoint": "以宗教情感压制合理健康询问。",
+      "awakeningPoint": "公开配料与交叉接触风险，尊重不购买决定。",
+      "alternativeExplanation": "志愿者可能确实不了解配方，应核实而非推断恶意。",
+      "evidenceStatus": "原创模拟，非真实事件；学术资料仅供分析框架参考",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-2248-08",
+      "category": "宗教",
+      "title": "宗教图书馆借书要求公开私人忏悔记录",
+      "prompt": "原创模拟：社区宗教图书馆把借阅普通书籍与提交私人忏悔内容绑定，并在志愿者群分享。",
+      "check": "借阅管理是否需要敏感个人陈述？",
+      "risk": "将获取文化资源与私人信仰披露捆绑。",
+      "wake": "采用常规借阅登记，敏感分享须明确自愿与保密。",
+      "counter": "某些自愿辅导活动可能涉及私人分享，但不应作为普通借书门槛。",
+      "tags": [
+        "宗教",
+        "原创模拟",
+        "知情同意",
+        "独立判断"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；参考《The Ethics of Manipulation》中的操纵与自主性概念，非来源报道事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文",
+      "originalRewrite": "社区宗教图书馆把借阅普通书籍与提交私人忏悔内容绑定，并在志愿者群分享。",
+      "discernmentPoint": "借阅管理是否需要敏感个人陈述？",
+      "hypnosisPoint": "将获取文化资源与私人信仰披露捆绑。",
+      "awakeningPoint": "采用常规借阅登记，敏感分享须明确自愿与保密。",
+      "alternativeExplanation": "某些自愿辅导活动可能涉及私人分享，但不应作为普通借书门槛。",
+      "evidenceStatus": "原创模拟，非真实事件；学术资料仅供分析框架参考",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-2248-09",
+      "category": "宗教",
+      "title": "跨信仰婚礼筹备群以转发次数评判家属尊重",
+      "prompt": "原创模拟：筹备者要求双方家属每天转发宗教仪式介绍，不转发就被称作故意侮辱婚姻。",
+      "check": "尊重是否必须通过公开传播来证明？",
+      "risk": "把社交媒体行为变成情感忠诚测试。",
+      "wake": "允许私下沟通和不公开表达的尊重方式。",
+      "counter": "转发也可能只是方便告知仪式安排。",
+      "tags": [
+        "宗教",
+        "原创模拟",
+        "知情同意",
+        "独立判断"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；参考《The Ethics of Manipulation》中的操纵与自主性概念，非来源报道事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文",
+      "originalRewrite": "筹备者要求双方家属每天转发宗教仪式介绍，不转发就被称作故意侮辱婚姻。",
+      "discernmentPoint": "尊重是否必须通过公开传播来证明？",
+      "hypnosisPoint": "把社交媒体行为变成情感忠诚测试。",
+      "awakeningPoint": "允许私下沟通和不公开表达的尊重方式。",
+      "alternativeExplanation": "转发也可能只是方便告知仪式安排。",
+      "evidenceStatus": "原创模拟，非真实事件；学术资料仅供分析框架参考",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-2248-10",
+      "category": "宗教",
+      "title": "宗教遗产导览把历史考证问题视作冒犯",
+      "prompt": "原创模拟：参观者询问古建筑修建年代，讲解员要求其先公开道歉才可继续参观。",
+      "check": "历史事实讨论是否被不当转化为人格审判？",
+      "risk": "以神圣感阻止可核查的知识提问。",
+      "wake": "区分礼仪规范和史料争议，提供资料来源。",
+      "counter": "游客提问方式可能不礼貌，应分别评价方式和问题本身。",
+      "tags": [
+        "宗教",
+        "原创模拟",
+        "知情同意",
+        "独立判断"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；参考《The Ethics of Manipulation》中的操纵与自主性概念，非来源报道事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文",
+      "originalRewrite": "参观者询问古建筑修建年代，讲解员要求其先公开道歉才可继续参观。",
+      "discernmentPoint": "历史事实讨论是否被不当转化为人格审判？",
+      "hypnosisPoint": "以神圣感阻止可核查的知识提问。",
+      "awakeningPoint": "区分礼仪规范和史料争议，提供资料来源。",
+      "alternativeExplanation": "游客提问方式可能不礼貌，应分别评价方式和问题本身。",
+      "evidenceStatus": "原创模拟，非真实事件；学术资料仅供分析框架参考",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-2248-11",
+      "category": "宗教",
+      "title": "信仰青年运动会把受伤退出写成背弃集体",
+      "prompt": "原创模拟：青年活动中受伤者要求停止比赛，组织者以背叛信仰为由施压继续参赛。",
+      "check": "身体安全和参与自愿是否得到尊重？",
+      "risk": "把身体风险转化为道德服从压力。",
+      "wake": "优先医疗评估，明确退出权并提供替补。",
+      "counter": "组织者可能担心团队人数不足，但不能忽视伤情。",
+      "tags": [
+        "宗教",
+        "原创模拟",
+        "知情同意",
+        "独立判断"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；参考《The Ethics of Manipulation》中的操纵与自主性概念，非来源报道事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文",
+      "originalRewrite": "青年活动中受伤者要求停止比赛，组织者以背叛信仰为由施压继续参赛。",
+      "discernmentPoint": "身体安全和参与自愿是否得到尊重？",
+      "hypnosisPoint": "把身体风险转化为道德服从压力。",
+      "awakeningPoint": "优先医疗评估，明确退出权并提供替补。",
+      "alternativeExplanation": "组织者可能担心团队人数不足，但不能忽视伤情。",
+      "evidenceStatus": "原创模拟，非真实事件；学术资料仅供分析框架参考",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-2248-12",
+      "category": "宗教",
+      "title": "宗教线上讲座以摄像头常开判定诚心",
+      "prompt": "原创模拟：讲座规定摄像头关闭者一律没有诚心，并公布名单，未考虑居家隐私与网络条件。",
+      "check": "摄像头状态能否证明内在信念？",
+      "risk": "用技术可见性替代内心状态判断。",
+      "wake": "提供匿名提问、语音或文字参与选项。",
+      "counter": "互动课程可能需要一定出席核验，但不宜据此断定信念。",
+      "tags": [
+        "宗教",
+        "原创模拟",
+        "知情同意",
+        "独立判断"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；参考《The Ethics of Manipulation》中的操纵与自主性概念，非来源报道事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文",
+      "originalRewrite": "讲座规定摄像头关闭者一律没有诚心，并公布名单，未考虑居家隐私与网络条件。",
+      "discernmentPoint": "摄像头状态能否证明内在信念？",
+      "hypnosisPoint": "用技术可见性替代内心状态判断。",
+      "awakeningPoint": "提供匿名提问、语音或文字参与选项。",
+      "alternativeExplanation": "互动课程可能需要一定出席核验，但不宜据此断定信念。",
+      "evidenceStatus": "原创模拟，非真实事件；学术资料仅供分析框架参考",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    }
+  ]
+}
