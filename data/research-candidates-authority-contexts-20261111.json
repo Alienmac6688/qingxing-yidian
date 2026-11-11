@@ -1,0 +1,305 @@
+{
+  "schemaVersion": 1,
+  "status": "research-candidates-not-loaded",
+  "sourceMainIndexCount": 886,
+  "sourceMainIndexSha": "d6418d7c4999ab6dd874d3db1375182905f378a0",
+  "note": "待与其他候选分支交叉语义审核；不可视为正式上线",
+  "cases": [
+    {
+      "id": "sr-20261111-aw-test-01",
+      "category": "社会",
+      "title": "旧书修复师把自己的除霉方法规定为所有藏书唯一方案",
+      "prompt": "原创模拟：图书馆志愿者面对不同年代、纸质和霉变程度的藏书，资深修复师要求照搬他当年的除霉流程，否则视为不尊重经验。",
+      "check": "辨识点：先核查纸张材质、霉变种类和安全规范，再决定是否适用旧方法。",
+      "risk": "催眠点：把个人成功经验升级成普遍权威，压制材质差异与专业复核。",
+      "wake": "催醒点：将方法视为待验证假设，记录小样测试结果，必要时请文保人员评估。",
+      "counter": "资深修复师可能确实积累了有效经验，标准流程也可能出于安全和效率考虑。",
+      "tags": [
+        "社会",
+        "破权威幻",
+        "经验外推",
+        "原创模拟"
+      ],
+      "type": "breakdown",
+      "source": "Awakenology《破權威幻》观点启发；情境为原创模拟",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核验短引文",
+      "originalRewrite": "作者强调他人的成功经验不等于个人可直接复制的经验；本案例把这一观点转写成具体生活情境。",
+      "discernmentPoint": "先核查纸张材质、霉变种类和安全规范，再决定是否适用旧方法。",
+      "hypnosisPoint": "把个人成功经验升级成普遍权威，压制材质差异与专业复核。",
+      "awakeningPoint": "将方法视为待验证假设，记录小样测试结果，必要时请文保人员评估。",
+      "alternativeExplanation": "资深修复师可能确实积累了有效经验，标准流程也可能出于安全和效率考虑。",
+      "evidenceStatus": "原创模拟；非真实事件；来源为作者观点而非独立科学证据",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-aw-test-02",
+      "category": "社会",
+      "title": "社区种子交换会把上一季高产经验当成全部土壤的强制配方",
+      "prompt": "原创模拟：种子交换会主持人以自己去年丰收为由，要求所有参与者不论土壤酸碱和日照条件都按同一施肥比例操作。",
+      "check": "辨识点：分清经验适用条件、土壤检测结果与宣传承诺。",
+      "risk": "催眠点：用单次丰收结果替代对环境差异和失败样本的考察。",
+      "wake": "催醒点：允许不同地块的小规模对照种植，公开产量与失败记录。",
+      "counter": "统一说明可能是给初学者提供起点，并非刻意操纵。",
+      "tags": [
+        "社会",
+        "破权威幻",
+        "经验外推",
+        "原创模拟"
+      ],
+      "type": "breakdown",
+      "source": "Awakenology《破權威幻》观点启发；情境为原创模拟",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核验短引文",
+      "originalRewrite": "作者强调他人的成功经验不等于个人可直接复制的经验；本案例把这一观点转写成具体生活情境。",
+      "discernmentPoint": "分清经验适用条件、土壤检测结果与宣传承诺。",
+      "hypnosisPoint": "用单次丰收结果替代对环境差异和失败样本的考察。",
+      "awakeningPoint": "允许不同地块的小规模对照种植，公开产量与失败记录。",
+      "alternativeExplanation": "统一说明可能是给初学者提供起点，并非刻意操纵。",
+      "evidenceStatus": "原创模拟；非真实事件；来源为作者观点而非独立科学证据",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-aw-test-03",
+      "category": "社会",
+      "title": "夜校学习群把某位考生的凌晨四点作息定为全班纪律",
+      "prompt": "原创模拟：夜校群主展示一名高分考生的作息表，要求有夜班和照护责任的学员也每天四点起床打卡，未达标者被公开批评。",
+      "check": "辨识点：成绩是否足以证明某一作息对所有人有效，是否考虑睡眠与工作差异。",
+      "risk": "催眠点：借成功榜样将个体生活安排道德化，制造群体羞耻。",
+      "wake": "催醒点：以学习效果、睡眠和个人时间约束为依据设计可调整计划。",
+      "counter": "统一打卡可能意在促进互助，但应有退出和调整空间。",
+      "tags": [
+        "社会",
+        "破权威幻",
+        "经验外推",
+        "原创模拟"
+      ],
+      "type": "breakdown",
+      "source": "Awakenology《破權威幻》观点启发；情境为原创模拟",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核验短引文",
+      "originalRewrite": "作者强调他人的成功经验不等于个人可直接复制的经验；本案例把这一观点转写成具体生活情境。",
+      "discernmentPoint": "成绩是否足以证明某一作息对所有人有效，是否考虑睡眠与工作差异。",
+      "hypnosisPoint": "借成功榜样将个体生活安排道德化，制造群体羞耻。",
+      "awakeningPoint": "以学习效果、睡眠和个人时间约束为依据设计可调整计划。",
+      "alternativeExplanation": "统一打卡可能意在促进互助，但应有退出和调整空间。",
+      "evidenceStatus": "原创模拟；非真实事件；来源为作者观点而非独立科学证据",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-aw-test-04",
+      "category": "社会",
+      "title": "旧楼防潮改造群把一户成功案例当成全楼免检测理由",
+      "prompt": "原创模拟：居民群转发某户除湿成功照片，负责人据此要求整栋楼采用相同封墙方案，拒绝测量其他楼层的渗水来源。",
+      "check": "辨识点：单户效果能否代表全楼结构与水源，是否有检测报告。",
+      "risk": "催眠点：将局部案例外推成统一决策，排除不一致证据。",
+      "wake": "催醒点：先分楼层测湿、查漏和评估通风，再决定施工。",
+      "counter": "统一施工可能降低成本，但不应跳过必要检测。",
+      "tags": [
+        "社会",
+        "破权威幻",
+        "经验外推",
+        "原创模拟"
+      ],
+      "type": "breakdown",
+      "source": "Awakenology《破權威幻》观点启发；情境为原创模拟",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核验短引文",
+      "originalRewrite": "作者强调他人的成功经验不等于个人可直接复制的经验；本案例把这一观点转写成具体生活情境。",
+      "discernmentPoint": "单户效果能否代表全楼结构与水源，是否有检测报告。",
+      "hypnosisPoint": "将局部案例外推成统一决策，排除不一致证据。",
+      "awakeningPoint": "先分楼层测湿、查漏和评估通风，再决定施工。",
+      "alternativeExplanation": "统一施工可能降低成本，但不应跳过必要检测。",
+      "evidenceStatus": "原创模拟；非真实事件；来源为作者观点而非独立科学证据",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-aw-test-05",
+      "category": "宗教",
+      "title": "寺院花园维护把前任住持的种植习惯当作不可讨论的教义",
+      "prompt": "原创模拟：寺院园艺志愿者提出适合当地气候的节水植物，管理者以历任住持都种同一品种为由，称讨论替换就是否定信仰。",
+      "check": "辨识点：园艺习惯与宗教教义是否被混为一谈，是否允许询问传统由来。",
+      "risk": "催眠点：用宗教权威为具体技术决策提供不可质疑的保护。",
+      "wake": "催醒点：尊重仪式与传统的同时，公开讨论植物养护和水资源条件。",
+      "counter": "某些植物可能有真实仪式象征意义，应先理解传统再协商。",
+      "tags": [
+        "宗教",
+        "破权威幻",
+        "经验外推",
+        "原创模拟"
+      ],
+      "type": "breakdown",
+      "source": "Awakenology《破權威幻》观点启发；情境为原创模拟",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核验短引文",
+      "originalRewrite": "作者强调他人的成功经验不等于个人可直接复制的经验；本案例把这一观点转写成具体生活情境。",
+      "discernmentPoint": "园艺习惯与宗教教义是否被混为一谈，是否允许询问传统由来。",
+      "hypnosisPoint": "用宗教权威为具体技术决策提供不可质疑的保护。",
+      "awakeningPoint": "尊重仪式与传统的同时，公开讨论植物养护和水资源条件。",
+      "alternativeExplanation": "某些植物可能有真实仪式象征意义，应先理解传统再协商。",
+      "evidenceStatus": "原创模拟；非真实事件；来源为作者观点而非独立科学证据",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-aw-test-06",
+      "category": "宗教",
+      "title": "教堂管风琴维修以一位师傅的旧工法排斥安全复检",
+      "prompt": "原创模拟：教堂维修负责人称前任技师几十年都这样修，拒绝新技师检查老化电路，并把安全质疑说成对教会不忠。",
+      "check": "辨识点：宗教归属感是否被用于回避电气安全证据。",
+      "risk": "催眠点：把对组织的忠诚与技术判断绑定，借历史成功掩盖设备老化。",
+      "wake": "催醒点：安排独立安全检查，区分宗教活动安排与维修标准。",
+      "counter": "旧工法可能确有工艺价值，但不等于可以省略现代安全检查。",
+      "tags": [
+        "宗教",
+        "破权威幻",
+        "经验外推",
+        "原创模拟"
+      ],
+      "type": "breakdown",
+      "source": "Awakenology《破權威幻》观点启发；情境为原创模拟",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核验短引文",
+      "originalRewrite": "作者强调他人的成功经验不等于个人可直接复制的经验；本案例把这一观点转写成具体生活情境。",
+      "discernmentPoint": "宗教归属感是否被用于回避电气安全证据。",
+      "hypnosisPoint": "把对组织的忠诚与技术判断绑定，借历史成功掩盖设备老化。",
+      "awakeningPoint": "安排独立安全检查，区分宗教活动安排与维修标准。",
+      "alternativeExplanation": "旧工法可能确有工艺价值，但不等于可以省略现代安全检查。",
+      "evidenceStatus": "原创模拟；非真实事件；来源为作者观点而非独立科学证据",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-aw-test-07",
+      "category": "宗教",
+      "title": "跨信仰读书会把创办人的笔记顺序当成唯一理解路径",
+      "prompt": "原创模拟：跨信仰读书会要求所有成员按创办人的笔记顺序阅读经典，拒绝成员直接阅读原典或比较不同译本，称偏离就是思想混乱。",
+      "check": "辨识点：辅助笔记与原典之间是否保留可追溯的区别。",
+      "risk": "催眠点：以创办者的学习成功经验排斥自主阅读与文本核对。",
+      "wake": "催醒点：开放原典、译本与不同解释，允许成员说明自己的阅读路径。",
+      "counter": "统一阅读顺序也可能方便初学者讨论，关键在能否自愿选择。",
+      "tags": [
+        "宗教",
+        "破权威幻",
+        "经验外推",
+        "原创模拟"
+      ],
+      "type": "breakdown",
+      "source": "Awakenology《破權威幻》观点启发；情境为原创模拟",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核验短引文",
+      "originalRewrite": "作者强调他人的成功经验不等于个人可直接复制的经验；本案例把这一观点转写成具体生活情境。",
+      "discernmentPoint": "辅助笔记与原典之间是否保留可追溯的区别。",
+      "hypnosisPoint": "以创办者的学习成功经验排斥自主阅读与文本核对。",
+      "awakeningPoint": "开放原典、译本与不同解释，允许成员说明自己的阅读路径。",
+      "alternativeExplanation": "统一阅读顺序也可能方便初学者讨论，关键在能否自愿选择。",
+      "evidenceStatus": "原创模拟；非真实事件；来源为作者观点而非独立科学证据",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-aw-test-08",
+      "category": "社会",
+      "title": "社区手语课程把讲师个人学习顺序当成听障学员的统一考核",
+      "prompt": "原创模拟：课程讲师要求不同语言背景的听障学员严格照搬自己当年的手语学习顺序，并将提出调整的学员标为缺乏毅力。",
+      "check": "辨识点：讲师经历是否代表所有学习者的语言基础和沟通需求。",
+      "risk": "催眠点：用成功经验为统一考核背书，忽略无障碍差异。",
+      "wake": "催醒点：结合学习者反馈与实际沟通效果调整课程，保留申诉渠道。",
+      "counter": "固定课程进度可能便于教学管理，但应合理照顾差异。",
+      "tags": [
+        "社会",
+        "破权威幻",
+        "经验外推",
+        "原创模拟"
+      ],
+      "type": "breakdown",
+      "source": "Awakenology《破權威幻》观点启发；情境为原创模拟",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "但，這只是他的成功經驗，不是你的成功經驗。",
+      "excerptStatus": "已核验短引文",
+      "originalRewrite": "作者强调他人的成功经验不等于个人可直接复制的经验；本案例把这一观点转写成具体生活情境。",
+      "discernmentPoint": "讲师经历是否代表所有学习者的语言基础和沟通需求。",
+      "hypnosisPoint": "用成功经验为统一考核背书，忽略无障碍差异。",
+      "awakeningPoint": "结合学习者反馈与实际沟通效果调整课程，保留申诉渠道。",
+      "alternativeExplanation": "固定课程进度可能便于教学管理，但应合理照顾差异。",
+      "evidenceStatus": "原创模拟；非真实事件；来源为作者观点而非独立科学证据",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+        }
+      ]
+    }
+  ]
+}
