@@ -1,0 +1,295 @@
+{
+  "schemaVersion": 1,
+  "status": "research-candidates-not-loaded",
+  "note": "歌曲歌词原创模拟，已与正式库886条及两组已知歌词候选标题去重；其他分支完整语义去重和正式加载待验收",
+  "cases": [
+    {
+      "id": "lyrics-20261111-c01",
+      "category": "歌曲歌词",
+      "title": "把反复播放写成命中注定",
+      "prompt": "原创模拟歌词叙事：主角因某首歌反复在推荐页出现，便认定歌词在向自己传达必须复合的命令。",
+      "check": "区分推荐算法、个人联想与对方真实意愿。",
+      "risk": "把重复曝光和情绪共鸣误认作外部命令或命运证据。",
+      "wake": "关闭自动推荐，直接核实关系边界，允许对方拒绝。",
+      "counter": "重复播放也可能只是算法和听歌习惯的自然结果。",
+      "tags": [
+        "歌曲歌词",
+        "原创模拟",
+        "辨识训练"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；参考《The Ethics of Manipulation》的概念框架，不代表该文记载了此事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文",
+      "originalRewrite": "原创模拟歌词叙事：主角因某首歌反复在推荐页出现，便认定歌词在向自己传达必须复合的命令。",
+      "discernmentPoint": "区分推荐算法、个人联想与对方真实意愿。",
+      "hypnosisPoint": "把重复曝光和情绪共鸣误认作外部命令或命运证据。",
+      "awakeningPoint": "关闭自动推荐，直接核实关系边界，允许对方拒绝。",
+      "alternativeExplanation": "重复播放也可能只是算法和听歌习惯的自然结果。",
+      "evidenceStatus": "原创模拟；非真实歌曲或真实事件；学术参考不构成事实证明",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-20261111-c02",
+      "category": "歌曲歌词",
+      "title": "把热搜榜首写成人人赞同",
+      "prompt": "原创模拟歌曲宣传：歌词旁的宣传文案称“全网都这么想”，鼓动听众把异议者视为不合群。",
+      "check": "榜单反映播放与传播，不等于所有人的观点。",
+      "risk": "借多数人幻觉和从众压力替代独立判断。",
+      "wake": "核查榜单统计口径，允许喜欢歌曲却不同意其主张。",
+      "counter": "宣传语可能只是夸张修辞，未必有组织操纵。",
+      "tags": [
+        "歌曲歌词",
+        "原创模拟",
+        "辨识训练"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；参考《The Ethics of Manipulation》的概念框架，不代表该文记载了此事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文",
+      "originalRewrite": "原创模拟歌曲宣传：歌词旁的宣传文案称“全网都这么想”，鼓动听众把异议者视为不合群。",
+      "discernmentPoint": "榜单反映播放与传播，不等于所有人的观点。",
+      "hypnosisPoint": "借多数人幻觉和从众压力替代独立判断。",
+      "awakeningPoint": "核查榜单统计口径，允许喜欢歌曲却不同意其主张。",
+      "alternativeExplanation": "宣传语可能只是夸张修辞，未必有组织操纵。",
+      "evidenceStatus": "原创模拟；非真实歌曲或真实事件；学术参考不构成事实证明",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-20261111-c03",
+      "category": "歌曲歌词",
+      "title": "把酒后失控写成真性情",
+      "prompt": "原创模拟歌曲：叙事者把酒后辱骂伴侣描绘成“只有醉了才敢说爱”。",
+      "check": "行为造成的伤害是否被浪漫化？",
+      "risk": "用深情叙事替伤害行为开脱。",
+      "wake": "区分情绪表达与责任，评估安全边界。",
+      "counter": "艺术作品可能在刻画有缺陷人物，而非倡导模仿。",
+      "tags": [
+        "歌曲歌词",
+        "原创模拟",
+        "辨识训练"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；参考《The Ethics of Manipulation》的概念框架，不代表该文记载了此事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文",
+      "originalRewrite": "原创模拟歌曲：叙事者把酒后辱骂伴侣描绘成“只有醉了才敢说爱”。",
+      "discernmentPoint": "行为造成的伤害是否被浪漫化？",
+      "hypnosisPoint": "用深情叙事替伤害行为开脱。",
+      "awakeningPoint": "区分情绪表达与责任，评估安全边界。",
+      "alternativeExplanation": "艺术作品可能在刻画有缺陷人物，而非倡导模仿。",
+      "evidenceStatus": "原创模拟；非真实歌曲或真实事件；学术参考不构成事实证明",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-20261111-c04",
+      "category": "歌曲歌词",
+      "title": "把偷拍追踪写成守护",
+      "prompt": "原创模拟歌曲：主角持续记录暗恋对象的路线，歌词称“我只是在远处保护你”。",
+      "check": "是否取得被记录者同意？",
+      "risk": "把侵犯隐私包装为温柔守护。",
+      "wake": "尊重隐私、停止追踪，建立明确同意。",
+      "counter": "歌词可能故意塑造不可靠叙述者以引发批判。",
+      "tags": [
+        "歌曲歌词",
+        "原创模拟",
+        "辨识训练"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；参考《The Ethics of Manipulation》的概念框架，不代表该文记载了此事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文",
+      "originalRewrite": "原创模拟歌曲：主角持续记录暗恋对象的路线，歌词称“我只是在远处保护你”。",
+      "discernmentPoint": "是否取得被记录者同意？",
+      "hypnosisPoint": "把侵犯隐私包装为温柔守护。",
+      "awakeningPoint": "尊重隐私、停止追踪，建立明确同意。",
+      "alternativeExplanation": "歌词可能故意塑造不可靠叙述者以引发批判。",
+      "evidenceStatus": "原创模拟；非真实歌曲或真实事件；学术参考不构成事实证明",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-20261111-c05",
+      "category": "歌曲歌词",
+      "title": "把父母梦想写成孩子天命",
+      "prompt": "原创模拟歌曲：父母唱出孩子必须继承自己的职业，才算没有辜负家庭。",
+      "check": "孩子的意愿和能力是否被独立考虑？",
+      "risk": "以孝顺和宿命论压缩个人职业选择。",
+      "wake": "允许讨论现实责任，也允许孩子选择不同道路。",
+      "counter": "歌曲也可能只是表达家族传承的情感期待。",
+      "tags": [
+        "歌曲歌词",
+        "原创模拟",
+        "辨识训练"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；参考《The Ethics of Manipulation》的概念框架，不代表该文记载了此事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文",
+      "originalRewrite": "原创模拟歌曲：父母唱出孩子必须继承自己的职业，才算没有辜负家庭。",
+      "discernmentPoint": "孩子的意愿和能力是否被独立考虑？",
+      "hypnosisPoint": "以孝顺和宿命论压缩个人职业选择。",
+      "awakeningPoint": "允许讨论现实责任，也允许孩子选择不同道路。",
+      "alternativeExplanation": "歌曲也可能只是表达家族传承的情感期待。",
+      "evidenceStatus": "原创模拟；非真实歌曲或真实事件；学术参考不构成事实证明",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-20261111-c06",
+      "category": "歌曲歌词",
+      "title": "把失败考试写成人生终局",
+      "prompt": "原创模拟歌曲：一次考试落榜被反复唱成“从此不配拥有未来”。",
+      "check": "一次结果是否被无限泛化？",
+      "risk": "灾难化叙事把暂时挫折变成固定身份。",
+      "wake": "区分单次成绩与长期能力，制定补救与替代路径。",
+      "counter": "悲伤歌曲可能只是短时宣泄，不代表听众会认同。",
+      "tags": [
+        "歌曲歌词",
+        "原创模拟",
+        "辨识训练"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；参考《The Ethics of Manipulation》的概念框架，不代表该文记载了此事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文",
+      "originalRewrite": "原创模拟歌曲：一次考试落榜被反复唱成“从此不配拥有未来”。",
+      "discernmentPoint": "一次结果是否被无限泛化？",
+      "hypnosisPoint": "灾难化叙事把暂时挫折变成固定身份。",
+      "awakeningPoint": "区分单次成绩与长期能力，制定补救与替代路径。",
+      "alternativeExplanation": "悲伤歌曲可能只是短时宣泄，不代表听众会认同。",
+      "evidenceStatus": "原创模拟；非真实歌曲或真实事件；学术参考不构成事实证明",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-20261111-c07",
+      "category": "歌曲歌词",
+      "title": "把粉丝消费写成陪伴义务",
+      "prompt": "原创模拟歌曲宣传：粉丝若不购买全部版本和周边，就被说成辜负歌手的努力。",
+      "check": "支持作品是否必须消费？",
+      "risk": "利用愧疚与群体身份绑架购买。",
+      "wake": "支持可包含聆听、评论或不消费，预算由个人决定。",
+      "counter": "自愿购买周边也可能是正常的文化消费。",
+      "tags": [
+        "歌曲歌词",
+        "原创模拟",
+        "辨识训练"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；参考《The Ethics of Manipulation》的概念框架，不代表该文记载了此事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文",
+      "originalRewrite": "原创模拟歌曲宣传：粉丝若不购买全部版本和周边，就被说成辜负歌手的努力。",
+      "discernmentPoint": "支持作品是否必须消费？",
+      "hypnosisPoint": "利用愧疚与群体身份绑架购买。",
+      "awakeningPoint": "支持可包含聆听、评论或不消费，预算由个人决定。",
+      "alternativeExplanation": "自愿购买周边也可能是正常的文化消费。",
+      "evidenceStatus": "原创模拟；非真实歌曲或真实事件；学术参考不构成事实证明",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-20261111-c08",
+      "category": "歌曲歌词",
+      "title": "把节奏同步写成绝对服从",
+      "prompt": "原创模拟演唱会情境：领唱要求全场随节奏举手，并称不跟随者是团体的敌人。",
+      "check": "参与表演互动是否可自由拒绝？",
+      "risk": "把现场同步动作转化为思想忠诚测试。",
+      "wake": "区分自愿互动和强制服从，保留退出空间。",
+      "counter": "普通演唱会的整齐互动本身不代表操纵。",
+      "tags": [
+        "歌曲歌词",
+        "原创模拟",
+        "辨识训练"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；参考《The Ethics of Manipulation》的概念框架，不代表该文记载了此事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文",
+      "originalRewrite": "原创模拟演唱会情境：领唱要求全场随节奏举手，并称不跟随者是团体的敌人。",
+      "discernmentPoint": "参与表演互动是否可自由拒绝？",
+      "hypnosisPoint": "把现场同步动作转化为思想忠诚测试。",
+      "awakeningPoint": "区分自愿互动和强制服从，保留退出空间。",
+      "alternativeExplanation": "普通演唱会的整齐互动本身不代表操纵。",
+      "evidenceStatus": "原创模拟；非真实歌曲或真实事件；学术参考不构成事实证明",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    }
+  ]
+}
