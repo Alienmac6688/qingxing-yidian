@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "status": "research-candidates-not-loaded",
+  "note": "真实经典歌曲歌词辨识；不复制受版权保护的歌词；与正式库标题去重；未完成其他候选分支的全量语义审核",
+  "cases": [
+    {
+      "id": "lyrics-real-20261111-01",
+      "category": "歌曲歌词",
+      "title": "经典歌曲辨识｜听妈妈的话（周杰伦）",
+      "prompt": "真实歌曲《听妈妈的话》（周杰伦）。核验歌曲及歌词来源后，分析其可被误读的观念，而非断言作品存在操纵意图。",
+      "check": "对父母的感恩是否被误用为任何决定都必须服从？",
+      "risk": "潜在误读：把亲情和孝顺等同无条件放弃独立判断。",
+      "wake": "感谢照顾与保留自主决定可以同时成立；重大选择应核对事实、风险与本人意愿。",
+      "counter": "作品本意可合理理解为歌颂母爱和童年成长，不是在要求所有家庭无条件服从。",
+      "tags": [
+        "真实歌曲",
+        "经典歌曲",
+        "歌词辨识",
+        "潜在误读"
+      ],
+      "type": "breakdown",
+      "source": "真实歌曲：听妈妈的话；来源链接为歌曲页面或歌曲背景报道；分析为原创解释，不代表歌手意图。",
+      "sourceTitle": "《听妈妈的话》— 周杰伦",
+      "sourceUrl": "https://music-tw.line.me/track/1018307002",
+      "sourceDate": "2006-09-05",
+      "originalExcerpt": "",
+      "excerptStatus": "未转载歌词；已核验来源中的作品信息与歌词主题",
+      "originalRewrite": "以儿童视角回顾母亲的培养与辛劳，表达亲情、感恩和成长后的理解。",
+      "discernmentPoint": "对父母的感恩是否被误用为任何决定都必须服从？",
+      "hypnosisPoint": "潜在误读：把亲情和孝顺等同无条件放弃独立判断。",
+      "awakeningPoint": "感谢照顾与保留自主决定可以同时成立；重大选择应核对事实、风险与本人意愿。",
+      "alternativeExplanation": "作品本意可合理理解为歌颂母爱和童年成长，不是在要求所有家庭无条件服从。",
+      "evidenceStatus": "真实歌曲存在及主题已核验；催眠点仅为潜在误读的原创分析，不是实证操纵结论",
+      "caseKind": "real-song-interpretation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "《听妈妈的话》歌曲或背景资料",
+          "url": "https://music-tw.line.me/track/1018307002"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-real-20261111-02",
+      "category": "歌曲歌词",
+      "title": "经典歌曲辨识｜倔强（五月天）",
+      "prompt": "真实歌曲《倔强》（五月天）。核验歌曲及歌词来源后，分析其可被误读的观念，而非断言作品存在操纵意图。",
+      "check": "坚持的是经过验证的目标，还是仅因不愿认错而拒绝调整？",
+      "risk": "潜在误读：把任何妥协、修正计划都当成投降。",
+      "wake": "保留价值目标，同时允许依据新证据调整方法；坚持与修正并不矛盾。",
+      "counter": "歌曲鼓励逆境中的自主和韧性，并未主张忽视现实或拒绝证据。",
+      "tags": [
+        "真实歌曲",
+        "经典歌曲",
+        "歌词辨识",
+        "潜在误读"
+      ],
+      "type": "breakdown",
+      "source": "真实歌曲：倔强；来源链接为歌曲页面或歌曲背景报道；分析为原创解释，不代表歌手意图。",
+      "sourceTitle": "《倔强》— 五月天",
+      "sourceUrl": "https://music-tw.line.me/track/1017132002",
+      "sourceDate": "2004-11-05",
+      "originalExcerpt": "",
+      "excerptStatus": "未转载歌词；已核验来源中的作品信息与歌词主题",
+      "originalRewrite": "强调面对质疑仍坚持自我与梦想的勇气。",
+      "discernmentPoint": "坚持的是经过验证的目标，还是仅因不愿认错而拒绝调整？",
+      "hypnosisPoint": "潜在误读：把任何妥协、修正计划都当成投降。",
+      "awakeningPoint": "保留价值目标，同时允许依据新证据调整方法；坚持与修正并不矛盾。",
+      "alternativeExplanation": "歌曲鼓励逆境中的自主和韧性，并未主张忽视现实或拒绝证据。",
+      "evidenceStatus": "真实歌曲存在及主题已核验；催眠点仅为潜在误读的原创分析，不是实证操纵结论",
+      "caseKind": "real-song-interpretation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "《倔强》歌曲或背景资料",
+          "url": "https://music-tw.line.me/track/1017132002"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-real-20261111-03",
+      "category": "歌曲歌词",
+      "title": "经典歌曲辨识｜我的未来不是梦（张雨生）",
+      "prompt": "真实歌曲《我的未来不是梦》（张雨生）。核验歌曲及歌词来源后，分析其可被误读的观念，而非断言作品存在操纵意图。",
+      "check": "奋斗是否被理解为只要努力就必然成功？",
+      "risk": "潜在误读：将结果完全归因个人努力，忽略资源、环境、健康和运气。",
+      "wake": "把努力落实为可检验行动，同时承认结构性条件并调整目标与路径。",
+      "counter": "这是一首鼓励信心的歌曲，不是关于成功概率的统计承诺。",
+      "tags": [
+        "真实歌曲",
+        "经典歌曲",
+        "歌词辨识",
+        "潜在误读"
+      ],
+      "type": "breakdown",
+      "source": "真实歌曲：我的未来不是梦；来源链接为歌曲页面或歌曲背景报道；分析为原创解释，不代表歌手意图。",
+      "sourceTitle": "《我的未来不是梦》— 张雨生",
+      "sourceUrl": "https://ent.cnr.cn/zx/20180717/t20180717_524303255.shtml",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未转载歌词；已核验来源中的作品信息与歌词主题",
+      "originalRewrite": "以年轻人努力奋斗、相信未来的叙事鼓励面对挫折。",
+      "discernmentPoint": "奋斗是否被理解为只要努力就必然成功？",
+      "hypnosisPoint": "潜在误读：将结果完全归因个人努力，忽略资源、环境、健康和运气。",
+      "awakeningPoint": "把努力落实为可检验行动，同时承认结构性条件并调整目标与路径。",
+      "alternativeExplanation": "这是一首鼓励信心的歌曲，不是关于成功概率的统计承诺。",
+      "evidenceStatus": "真实歌曲存在及主题已核验；催眠点仅为潜在误读的原创分析，不是实证操纵结论",
+      "caseKind": "real-song-interpretation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "《我的未来不是梦》歌曲或背景资料",
+          "url": "https://ent.cnr.cn/zx/20180717/t20180717_524303255.shtml"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-real-20261111-04",
+      "category": "歌曲歌词",
+      "title": "经典歌曲辨识｜本草纲目（周杰伦）",
+      "prompt": "真实歌曲《本草纲目》（周杰伦）。核验歌曲及歌词来源后，分析其可被误读的观念，而非断言作品存在操纵意图。",
+      "check": "文化认同是否被误当成所有传统医学主张都自动有效？",
+      "risk": "潜在误读：用民族自豪感代替对具体医疗效果和安全性的科学证据。",
+      "wake": "文化欣赏与医学验证分开；医疗判断依据合格证据与专业意见。",
+      "counter": "歌词中的中药意象主要承担文化表达和押韵功能，不等于实际医疗建议。",
+      "tags": [
+        "真实歌曲",
+        "经典歌曲",
+        "歌词辨识",
+        "潜在误读"
+      ],
+      "type": "breakdown",
+      "source": "真实歌曲：本草纲目；来源链接为歌曲页面或歌曲背景报道；分析为原创解释，不代表歌手意图。",
+      "sourceTitle": "《本草纲目》— 周杰伦",
+      "sourceUrl": "https://music-tw.line.me/track/1018307004",
+      "sourceDate": "2006-09-05",
+      "originalExcerpt": "",
+      "excerptStatus": "未转载歌词；已核验来源中的作品信息与歌词主题",
+      "originalRewrite": "将传统药材、汉字、文化自信与节奏说唱结合，表达对文化的自豪。",
+      "discernmentPoint": "文化认同是否被误当成所有传统医学主张都自动有效？",
+      "hypnosisPoint": "潜在误读：用民族自豪感代替对具体医疗效果和安全性的科学证据。",
+      "awakeningPoint": "文化欣赏与医学验证分开；医疗判断依据合格证据与专业意见。",
+      "alternativeExplanation": "歌词中的中药意象主要承担文化表达和押韵功能，不等于实际医疗建议。",
+      "evidenceStatus": "真实歌曲存在及主题已核验；催眠点仅为潜在误读的原创分析，不是实证操纵结论",
+      "caseKind": "real-song-interpretation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "《本草纲目》歌曲或背景资料",
+          "url": "https://music-tw.line.me/track/1018307004"
+        }
+      ]
+    },
+    {
+      "id": "lyrics-real-20261111-05",
+      "category": "歌曲歌词",
+      "title": "经典歌曲辨识｜千里之外（周杰伦、费玉清）",
+      "prompt": "真实歌曲《千里之外》（周杰伦、费玉清）。核验歌曲及歌词来源后，分析其可被误读的观念，而非断言作品存在操纵意图。",
+      "check": "审美化的等待是否被当作现实关系中的义务？",
+      "risk": "潜在误读：把长久等待视为证明爱情的唯一标准。",
+      "wake": "尊重双方选择，区分诗意表达与现实承诺；允许结束无回应的关系。",
+      "counter": "作品主要是抒情叙事，漫长等待可以只是文学意象而非行为规范。",
+      "tags": [
+        "真实歌曲",
+        "经典歌曲",
+        "歌词辨识",
+        "潜在误读"
+      ],
+      "type": "breakdown",
+      "source": "真实歌曲：千里之外；来源链接为歌曲页面或歌曲背景报道；分析为原创解释，不代表歌手意图。",
+      "sourceTitle": "《千里之外》— 周杰伦、费玉清",
+      "sourceUrl": "https://music-tw.line.me/track/1018307003",
+      "sourceDate": "2006-09-05",
+      "originalExcerpt": "",
+      "excerptStatus": "未转载歌词；已核验来源中的作品信息与歌词主题",
+      "originalRewrite": "用离别、等待与时空距离描写难以圆满的爱情。",
+      "discernmentPoint": "审美化的等待是否被当作现实关系中的义务？",
+      "hypnosisPoint": "潜在误读：把长久等待视为证明爱情的唯一标准。",
+      "awakeningPoint": "尊重双方选择，区分诗意表达与现实承诺；允许结束无回应的关系。",
+      "alternativeExplanation": "作品主要是抒情叙事，漫长等待可以只是文学意象而非行为规范。",
+      "evidenceStatus": "真实歌曲存在及主题已核验；催眠点仅为潜在误读的原创分析，不是实证操纵结论",
+      "caseKind": "real-song-interpretation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "《千里之外》歌曲或背景资料",
+          "url": "https://music-tw.line.me/track/1018307003"
+        }
+      ]
+    }
+  ]
+}
