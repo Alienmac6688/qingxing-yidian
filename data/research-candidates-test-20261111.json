@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "status": "research-candidates-not-loaded",
+  "note": "新增写入及复读测试；正式库尚未加载；需继续核对其他候选分支语义重复",
+  "cases": [
+    {
+      "id": "sr-20261111-test-01",
+      "category": "社会",
+      "title": "社区树木修剪群把反对砍树者标成不关心儿童安全",
+      "prompt": "原创模拟：小区讨论修剪遮挡路灯的树木，管理员将提出替代修剪方案的居民公开标为“不顾孩子安全”，并拒绝展示树木评估报告。",
+      "check": "辨识点：讨论的是具体枝条风险、照明和修剪方案，还是把不同方案偷换成道德立场？",
+      "risk": "催眠点：用儿童安全的道德压力制造虚假二选一，阻断对评估报告和替代方案的核查。",
+      "wake": "催醒点：要求公开专业评估、事故记录、修剪与砍伐成本，允许居民在相同事实基础上比较方案。",
+      "counter": "也可能确有紧急倒伏危险；应先核查专业风险评估和应急处置必要性。",
+      "tags": [
+        "社会",
+        "社区治理",
+        "道德施压",
+        "证据核查"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析框架参考 Stanford Encyclopedia of Philosophy《The Ethics of Manipulation》",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "无直接引文",
+      "originalRewrite": "将讨论技术治理方案时的道德标签化改写为可核查的社区情境。",
+      "discernmentPoint": "具体风险证据是否被道德标签替代",
+      "hypnosisPoint": "把不同意见等同漠视儿童安全",
+      "awakeningPoint": "公开评估并比较替代方案",
+      "alternativeExplanation": "可能存在真实紧急安全风险",
+      "evidenceStatus": "原创模拟；非真实事件；学术文献仅支持分析概念，不证明情境发生",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-test-02",
+      "category": "宗教",
+      "title": "跨宗教婚礼筹备把不参加特定仪式等同不尊重伴侣",
+      "prompt": "原创模拟：一对伴侣筹备跨宗教婚礼，亲友声称不参加某一宗教仪式就代表不爱对方，并要求双方隐瞒各自的真实信仰选择。",
+      "check": "辨识点：仪式是否经双方知情、自愿同意？是否允许尊重但不参与？",
+      "risk": "催眠点：把爱与尊重偷换成必须参加指定仪式，利用亲密关系压力剥夺选择空间。",
+      "wake": "催醒点：明确区分尊重信仰、参加仪式和作出宗教承诺；由双方协商可接受的仪式边界。",
+      "counter": "亲友也可能出于善意希望家庭和睦，仪式要求本身不必然构成操纵；关键在是否允许拒绝和协商。",
+      "tags": [
+        "宗教",
+        "宗教自由",
+        "婚礼",
+        "自愿同意"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析框架参考 Stanford Encyclopedia of Philosophy《The Ethics of Manipulation》",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "无直接引文",
+      "originalRewrite": "将跨信仰家庭的礼仪协商压力构造成原创情境，不指称任何宗教传统本身有问题。",
+      "discernmentPoint": "是否尊重双方的知情同意和拒绝权",
+      "hypnosisPoint": "将不参与仪式等同不爱伴侣",
+      "awakeningPoint": "区分礼仪尊重与宗教承诺并协商",
+      "alternativeExplanation": "亲友可能善意促进家庭关系",
+      "evidenceStatus": "原创模拟；非真实事件；学术文献仅支持分析概念，不证明情境发生",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    }
+  ]
+}
