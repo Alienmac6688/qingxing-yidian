@@ -1,0 +1,451 @@
+{
+  "schemaVersion": 1,
+  "status": "loaded-after-app-integration",
+  "note": "12条原创模拟；已与正式886条和本轮已知候选标题去重；不把宗教身份或不同意见视为操纵",
+  "cases": [
+    {
+      "id": "sr-20261111-1945-01",
+      "category": "社会",
+      "title": "业主群将消防通道照片的拍摄者列入黑名单",
+      "prompt": "原创模拟：物业群有人拍摄消防通道被占用，管理员不核实占道问题，却公布拍摄者姓名并要求全楼抵制。",
+      "check": "焦点是消防通道是否被占用，还是举报者的身份？",
+      "risk": "用公开羞辱转移对公共安全事实的核查。",
+      "wake": "保存原始照片与时间，按消防管理渠道核实并保护举报者隐私。",
+      "counter": "管理员可能担心偷拍侵犯隐私；应分别核查拍摄范围和占道事实。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "自主判断",
+        "可核查"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析参考《破權威幻》，不代表该文记载此事件",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；情境为原创模拟",
+      "originalRewrite": "物业群有人拍摄消防通道被占用，管理员不核实占道问题，却公布拍摄者姓名并要求全楼抵制。",
+      "discernmentPoint": "焦点是消防通道是否被占用，还是举报者的身份？",
+      "hypnosisPoint": "用公开羞辱转移对公共安全事实的核查。",
+      "awakeningPoint": "保存原始照片与时间，按消防管理渠道核实并保护举报者隐私。",
+      "alternativeExplanation": "管理员可能担心偷拍侵犯隐私；应分别核查拍摄范围和占道事实。",
+      "evidenceStatus": "原创模拟，非已发生事件；参考来源仅提供分析观点，不能证明情境真实或超自然主张",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-1945-02",
+      "category": "社会",
+      "title": "社区共享雨伞押金公示完整支付流水",
+      "prompt": "原创模拟：志愿团队为证明雨伞押金透明，把归还者的姓名、手机号和完整支付流水公开在群里。",
+      "check": "透明财务是否需要暴露个人交易隐私？",
+      "risk": "借透明口号让参与者放弃数据最小化原则。",
+      "wake": "只公布匿名化收支汇总，保留独立审计和申诉渠道。",
+      "counter": "团队可能缺乏财务经验，并非故意窃取隐私。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "自主判断",
+        "可核查"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析参考《意識强度檢測點（2）上方區：自主意識區》，不代表该文记载此事件",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；情境为原创模拟",
+      "originalRewrite": "志愿团队为证明雨伞押金透明，把归还者的姓名、手机号和完整支付流水公开在群里。",
+      "discernmentPoint": "透明财务是否需要暴露个人交易隐私？",
+      "hypnosisPoint": "借透明口号让参与者放弃数据最小化原则。",
+      "awakeningPoint": "只公布匿名化收支汇总，保留独立审计和申诉渠道。",
+      "alternativeExplanation": "团队可能缺乏财务经验，并非故意窃取隐私。",
+      "evidenceStatus": "原创模拟，非已发生事件；参考来源仅提供分析观点，不能证明情境真实或超自然主张",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-1945-03",
+      "category": "社会",
+      "title": "学校家长会把不签照片授权者排除毕业合影",
+      "prompt": "原创模拟：家长会将儿童肖像商业授权与毕业集体照报名放在同一张表上，不签商业授权便不能参加合影。",
+      "check": "集体活动参与资格是否被捆绑商业使用同意？",
+      "risk": "利用毕业仪式的情感压力获得超范围授权。",
+      "wake": "将活动报名和肖像商业授权拆分，明确用途、期限和撤回办法。",
+      "counter": "组织者可能误把统一表单当作简化流程，应允许独立选择。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "自主判断",
+        "可核查"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析参考《The Ethics of Manipulation》，不代表该文记载此事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；情境为原创模拟",
+      "originalRewrite": "家长会将儿童肖像商业授权与毕业集体照报名放在同一张表上，不签商业授权便不能参加合影。",
+      "discernmentPoint": "集体活动参与资格是否被捆绑商业使用同意？",
+      "hypnosisPoint": "利用毕业仪式的情感压力获得超范围授权。",
+      "awakeningPoint": "将活动报名和肖像商业授权拆分，明确用途、期限和撤回办法。",
+      "alternativeExplanation": "组织者可能误把统一表单当作简化流程，应允许独立选择。",
+      "evidenceStatus": "原创模拟，非已发生事件；参考来源仅提供分析观点，不能证明情境真实或超自然主张",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-1945-04",
+      "category": "社会",
+      "title": "外卖站点用路况互助群收集骑手私人行程",
+      "prompt": "原创模拟：站点以共享危险路段为由要求骑手全天上传与工作无关的私人出行轨迹。",
+      "check": "安全提醒是否需要全天私人定位？",
+      "risk": "把安全协作扩大为无边界监控。",
+      "wake": "仅采集工作时段必要路况信息，明确保存期限和访问权限。",
+      "counter": "站点可能真有事故预防需求，但仍需比例原则。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "自主判断",
+        "可核查"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析参考《意識强度檢測點（2）上方區：自主意識區》，不代表该文记载此事件",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；情境为原创模拟",
+      "originalRewrite": "站点以共享危险路段为由要求骑手全天上传与工作无关的私人出行轨迹。",
+      "discernmentPoint": "安全提醒是否需要全天私人定位？",
+      "hypnosisPoint": "把安全协作扩大为无边界监控。",
+      "awakeningPoint": "仅采集工作时段必要路况信息，明确保存期限和访问权限。",
+      "alternativeExplanation": "站点可能真有事故预防需求，但仍需比例原则。",
+      "evidenceStatus": "原创模拟，非已发生事件；参考来源仅提供分析观点，不能证明情境真实或超自然主张",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-1945-05",
+      "category": "社会",
+      "title": "招聘宣讲将不愿公开工资的求职者评为不坦诚",
+      "prompt": "原创模拟：招聘直播间要求候选人公开上一份工作的工资条，否则被主持人标记为缺乏诚信。",
+      "check": "薪资核验是否存在更少披露的替代方式？",
+      "risk": "将合理保护隐私说成道德缺陷，制造羞耻压力。",
+      "wake": "按岗位合法需要核验必要信息，允许遮盖无关个人数据。",
+      "counter": "部分岗位可能有合法背景核验需求，应核查具体依据。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "自主判断",
+        "可核查"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析参考《The Ethics of Manipulation》，不代表该文记载此事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；情境为原创模拟",
+      "originalRewrite": "招聘直播间要求候选人公开上一份工作的工资条，否则被主持人标记为缺乏诚信。",
+      "discernmentPoint": "薪资核验是否存在更少披露的替代方式？",
+      "hypnosisPoint": "将合理保护隐私说成道德缺陷，制造羞耻压力。",
+      "awakeningPoint": "按岗位合法需要核验必要信息，允许遮盖无关个人数据。",
+      "alternativeExplanation": "部分岗位可能有合法背景核验需求，应核查具体依据。",
+      "evidenceStatus": "原创模拟，非已发生事件；参考来源仅提供分析观点，不能证明情境真实或超自然主张",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-1945-06",
+      "category": "社会",
+      "title": "租房维修群把询问报价者踢出表决",
+      "prompt": "原创模拟：租客要求查看空调维修报价明细，房东代表以破坏团结为由取消其维修方案表决资格。",
+      "check": "提出财务问题是否被误认为不合作？",
+      "risk": "以团结标签压制合理询价和程序参与。",
+      "wake": "公开可比报价及维修责任依据，保障提出问题者的参与权。",
+      "counter": "紧急抢修可能无法充分比价，但应事后说明。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "自主判断",
+        "可核查"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析参考《破權威幻》，不代表该文记载此事件",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；情境为原创模拟",
+      "originalRewrite": "租客要求查看空调维修报价明细，房东代表以破坏团结为由取消其维修方案表决资格。",
+      "discernmentPoint": "提出财务问题是否被误认为不合作？",
+      "hypnosisPoint": "以团结标签压制合理询价和程序参与。",
+      "awakeningPoint": "公开可比报价及维修责任依据，保障提出问题者的参与权。",
+      "alternativeExplanation": "紧急抢修可能无法充分比价，但应事后说明。",
+      "evidenceStatus": "原创模拟，非已发生事件；参考来源仅提供分析观点，不能证明情境真实或超自然主张",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-1945-07",
+      "category": "社会",
+      "title": "公益义卖把未转发海报的志愿者标记为冷漠",
+      "prompt": "原创模拟：公益义卖要求志愿者每天在私人社交账号转发筹款海报，未转发就被公开评为没有爱心。",
+      "check": "志愿服务是否包含对私人账号的强制使用？",
+      "risk": "把善意参与变成可见度竞赛和道德考核。",
+      "wake": "明确自愿宣传边界，按实际服务而非转发次数评价。",
+      "counter": "组织者可能只是希望扩大传播，仍应尊重拒绝权。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "自主判断",
+        "可核查"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析参考《The Ethics of Manipulation》，不代表该文记载此事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；情境为原创模拟",
+      "originalRewrite": "公益义卖要求志愿者每天在私人社交账号转发筹款海报，未转发就被公开评为没有爱心。",
+      "discernmentPoint": "志愿服务是否包含对私人账号的强制使用？",
+      "hypnosisPoint": "把善意参与变成可见度竞赛和道德考核。",
+      "awakeningPoint": "明确自愿宣传边界，按实际服务而非转发次数评价。",
+      "alternativeExplanation": "组织者可能只是希望扩大传播，仍应尊重拒绝权。",
+      "evidenceStatus": "原创模拟，非已发生事件；参考来源仅提供分析观点，不能证明情境真实或超自然主张",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-1945-08",
+      "category": "宗教",
+      "title": "跨信仰家庭聚餐要求儿童当众宣布唯一归属",
+      "prompt": "原创模拟：亲友在跨信仰家庭聚餐中要求未成年孩子当众选定一种信仰，否则取消其参加家庭活动的资格。",
+      "check": "孩子是否有符合年龄的探索和表达空间？",
+      "risk": "利用家庭归属感施加即时身份选择压力。",
+      "wake": "允许孩子不回答，区分亲情参与与信仰承诺。",
+      "counter": "亲友可能出于传统仪式习惯，并不必然怀有控制意图。",
+      "tags": [
+        "宗教",
+        "原创模拟",
+        "自主判断",
+        "可核查"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析参考《意識强度檢測點（2）上方區：自主意識區》，不代表该文记载此事件",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；情境为原创模拟",
+      "originalRewrite": "亲友在跨信仰家庭聚餐中要求未成年孩子当众选定一种信仰，否则取消其参加家庭活动的资格。",
+      "discernmentPoint": "孩子是否有符合年龄的探索和表达空间？",
+      "hypnosisPoint": "利用家庭归属感施加即时身份选择压力。",
+      "awakeningPoint": "允许孩子不回答，区分亲情参与与信仰承诺。",
+      "alternativeExplanation": "亲友可能出于传统仪式习惯，并不必然怀有控制意图。",
+      "evidenceStatus": "原创模拟，非已发生事件；参考来源仅提供分析观点，不能证明情境真实或超自然主张",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-1945-09",
+      "category": "宗教",
+      "title": "宗教公益厨房把餐食资格绑定参加祈祷直播",
+      "prompt": "原创模拟：公益厨房志愿者要求领取免费餐食者先打开手机参加指定祈祷直播，否则延后发餐。",
+      "check": "基本援助是否被附加与需求无关的宗教参与条件？",
+      "risk": "利用受助者资源紧缺的处境换取宗教参与。",
+      "wake": "保障基本餐食不附带宗教条件；祈祷活动保持自愿。",
+      "counter": "组织可能真诚希望分享信仰，但应避免以食物为交换。",
+      "tags": [
+        "宗教",
+        "原创模拟",
+        "自主判断",
+        "可核查"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析参考《The Ethics of Manipulation》，不代表该文记载此事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；情境为原创模拟",
+      "originalRewrite": "公益厨房志愿者要求领取免费餐食者先打开手机参加指定祈祷直播，否则延后发餐。",
+      "discernmentPoint": "基本援助是否被附加与需求无关的宗教参与条件？",
+      "hypnosisPoint": "利用受助者资源紧缺的处境换取宗教参与。",
+      "awakeningPoint": "保障基本餐食不附带宗教条件；祈祷活动保持自愿。",
+      "alternativeExplanation": "组织可能真诚希望分享信仰，但应避免以食物为交换。",
+      "evidenceStatus": "原创模拟，非已发生事件；参考来源仅提供分析观点，不能证明情境真实或超自然主张",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-1945-10",
+      "category": "宗教",
+      "title": "寺庙文物讲解将捐赠金额与历史真实性挂钩",
+      "prompt": "原创模拟：某文物讲解活动把捐款较多者的家族故事列为官方历史，拒绝展示原始碑文。",
+      "check": "史料解释是否依赖可核验文献，还是捐赠额？",
+      "risk": "用机构权威与捐款等级替代史料核证。",
+      "wake": "提供碑文拓片、版本说明及研究争议，捐款与史实分开。",
+      "counter": "捐赠者口述也可能是有效线索，但需独立交叉验证。",
+      "tags": [
+        "宗教",
+        "原创模拟",
+        "自主判断",
+        "可核查"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析参考《破權威幻》，不代表该文记载此事件",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；情境为原创模拟",
+      "originalRewrite": "某文物讲解活动把捐款较多者的家族故事列为官方历史，拒绝展示原始碑文。",
+      "discernmentPoint": "史料解释是否依赖可核验文献，还是捐赠额？",
+      "hypnosisPoint": "用机构权威与捐款等级替代史料核证。",
+      "awakeningPoint": "提供碑文拓片、版本说明及研究争议，捐款与史实分开。",
+      "alternativeExplanation": "捐赠者口述也可能是有效线索，但需独立交叉验证。",
+      "evidenceStatus": "原创模拟，非已发生事件；参考来源仅提供分析观点，不能证明情境真实或超自然主张",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-1945-11",
+      "category": "宗教",
+      "title": "宗教青年营把退出讨论视为公开羞辱的理由",
+      "prompt": "原创模拟：青年营在讨论结束后允许自愿发言，却要求提前离场者在全组面前解释其信仰是否坚定。",
+      "check": "离开活动的权利是否被附加人格审判？",
+      "risk": "利用群体目光和羞耻感阻止自由退出。",
+      "wake": "公布合理活动安排，允许无需公开私人信念的退出。",
+      "counter": "组织者可能关心安全签到，应采用中立的离场登记。",
+      "tags": [
+        "宗教",
+        "原创模拟",
+        "自主判断",
+        "可核查"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析参考《意識强度檢測點（2）上方區：自主意識區》，不代表该文记载此事件",
+      "sourceTitle": "意識强度檢測點（2）上方區：自主意識區",
+      "sourceUrl": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；情境为原创模拟",
+      "originalRewrite": "青年营在讨论结束后允许自愿发言，却要求提前离场者在全组面前解释其信仰是否坚定。",
+      "discernmentPoint": "离开活动的权利是否被附加人格审判？",
+      "hypnosisPoint": "利用群体目光和羞耻感阻止自由退出。",
+      "awakeningPoint": "公布合理活动安排，允许无需公开私人信念的退出。",
+      "alternativeExplanation": "组织者可能关心安全签到，应采用中立的离场登记。",
+      "evidenceStatus": "原创模拟，非已发生事件；参考来源仅提供分析观点，不能证明情境真实或超自然主张",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "意識强度檢測點（2）上方區：自主意識區",
+          "url": "https://awakenology.org/%E6%84%8F%E8%AD%98%E5%BC%BA%E5%BA%A6%E6%AA%A2%E6%B8%AC%E9%BB%9E2%E4%B8%8A%E6%96%B9%E5%8D%80%E8%87%AA%E4%B8%BB%E6%84%8F%E8%AD%98%E5%8D%80/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261111-1945-12",
+      "category": "宗教",
+      "title": "宗教慈善账目将质疑支出者认定为不敬",
+      "prompt": "原创模拟：慈善筹款群中成员询问采购发票，负责人不提供账目，反而声称核查支出是对神圣事业不敬。",
+      "check": "宗教价值能否替代资金用途的客观核查？",
+      "risk": "以神圣性保护财务决策免于监督。",
+      "wake": "公开去隐私化的采购凭证、审核流程及申诉渠道。",
+      "counter": "部分凭证可能涉及受助者隐私，可做必要遮盖而非完全拒绝。",
+      "tags": [
+        "宗教",
+        "原创模拟",
+        "自主判断",
+        "可核查"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析参考《破權威幻》，不代表该文记载此事件",
+      "sourceTitle": "破權威幻",
+      "sourceUrl": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/",
+      "sourceDate": "2026-10-25",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；情境为原创模拟",
+      "originalRewrite": "慈善筹款群中成员询问采购发票，负责人不提供账目，反而声称核查支出是对神圣事业不敬。",
+      "discernmentPoint": "宗教价值能否替代资金用途的客观核查？",
+      "hypnosisPoint": "以神圣性保护财务决策免于监督。",
+      "awakeningPoint": "公开去隐私化的采购凭证、审核流程及申诉渠道。",
+      "alternativeExplanation": "部分凭证可能涉及受助者隐私，可做必要遮盖而非完全拒绝。",
+      "evidenceStatus": "原创模拟，非已发生事件；参考来源仅提供分析观点，不能证明情境真实或超自然主张",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "破權威幻",
+          "url": "https://awakenology.org/%E7%A0%B4%E6%AC%8A%E5%A8%81%E5%B9%BB/"
+        }
+      ]
+    }
+  ]
+}
