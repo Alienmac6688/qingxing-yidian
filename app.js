@@ -126,6 +126,13 @@ fetch('./data/research-candidates-social-religion-20261111-2048.json',{cache:'no
  seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)&&['社会','宗教'].includes(c.category)));
  filters();stats();renderCases();
 }).catch(e=>console.warn('社会宗教新增案例加载失败',e));
+// Incremental social/religious scenarios; independently loaded and ID-deduplicated.
+fetch('./data/research-candidates-social-religion-20261111-2143.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
+ if(!Array.isArray(data.cases))throw Error('schema mismatch');
+ const known=new Set(seed.map(c=>c.id));
+ seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)&&['社会','宗教'].includes(c.category)));
+ filters();stats();renderCases();
+}).catch(e=>console.warn('社会宗教新增案例加载失败',e));
 // All share links use the same canonical URL. Check published assets when returning to the tab
 // and periodically while visible; ask before reloading so unfinished exercises are not lost.
 const LIVE_FILES=['./app.js','./data/social-religion-batch-01.json','./data/research-candidates-real-classic-songs-20261111.json','./data/research-candidates-lyrics-20261111-c.json'];
