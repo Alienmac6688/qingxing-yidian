@@ -37,7 +37,7 @@ for name in paths:
             continue
         cases.append((name, case))
 def normalize(value):
-    return re.sub(r"[\\W_]+", "", unicodedata.normalize("NFKC", str(value)).casefold())
+    return re.sub(r"[^\w]+", "", unicodedata.normalize("NFKC", str(value)).casefold())
 ids, exact_titles, fingerprints = {}, {}, {}
 for name, case in cases:
     cid = case.get("id")
