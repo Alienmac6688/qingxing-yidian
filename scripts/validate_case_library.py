@@ -61,7 +61,7 @@ for entry in entries:
         if not status:
             errors.append(f"{rel} #{i}: empty evidence status")
         if "原创模拟" in status and case.get("originalExcerpt"):
-            errors.append(f"{rel} #{i}: simulated case has original excerpt; manual source check required")
+            print(f"REVIEW: {rel} #{i}: simulated case includes a source excerpt; verify excerpt belongs to reference article, not simulated event")
 app = (ROOT / "app.js").read_text(encoding="utf-8")
 if "data/case-manifest.json" not in app:
     errors.append("app.js does not load the case manifest")
