@@ -1,0 +1,28 @@
+name: Case Library Validation
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'app.js'
+      - 'data/**'
+      - 'scripts/validate_case_library.py'
+      - '.github/workflows/case-validation.yml'
+  pull_request:
+    paths:
+      - 'app.js'
+      - 'data/**'
+      - 'scripts/validate_case_library.py'
+      - '.github/workflows/case-validation.yml'
+  workflow_dispatch:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate app JavaScript syntax
+        run: node --check app.js
+      - name: Validate case manifest, references and unique IDs
+        run: python scripts/validate_case_library.py
