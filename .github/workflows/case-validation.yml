@@ -6,6 +6,8 @@ on:
       - 'app.js'
       - 'data/**'
       - 'scripts/validate_case_library.py'
+      - 'scripts/audit_case_library.py'
+      - 'scripts/audit_case_library.py'
       - '.github/workflows/case-validation.yml'
   pull_request:
     paths:
@@ -26,3 +28,12 @@ jobs:
         run: node --check app.js
       - name: Validate case manifest, references and unique IDs
         run: python scripts/validate_case_library.py
+      - name: Cross-file audit and semantic review candidates
+        run: python scripts/audit_case_library.py
+      - name: Upload audit report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: case-audit-report
+          path: case-audit-report.json
+          if-no-files-found: ignore
