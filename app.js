@@ -264,4 +264,13 @@ fetch('./data/research-candidates-social-religion-20261112-1646.json',{cache:'no
  filters();stats();renderCases();
 }).catch(e=>console.warn('16:46社会宗教案例加载失败',e));
 
+}
+// Social/religious original simulations 2026-11-12 17:47; nonblocking, ID-deduplicated.
+fetch('./data/research-candidates-social-religion-20261112-1747.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
+ if(!Array.isArray(data.cases))throw Error('schema mismatch');
+ const known=new Set(seed.map(c=>c.id));
+ seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)&&['社会','宗教'].includes(c.category)));
+ filters();stats();renderCases();
+}).catch(e=>console.warn('17:47社会宗教案例加载失败',e));
+
 })();
