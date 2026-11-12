@@ -113,97 +113,32 @@ for(const file of ['research-candidates-real-classic-songs-20261111.json','resea
 }
 fetch('./data/g2-cong-tou-fu-he-source.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{if(!Array.isArray(data.rows))throw Error('G2 source schema mismatch');const known=new Set(seed.map(c=>c.id));const cards=data.rows.filter(row=>row&&Array.isArray(row.values)&&row.values.length===6).map(row=>{const v=row.values.map(x=>String(x??'').trim()),n=v[0];return {id:'g2-source-'+n,category:'G2催眠辨识',title:'G2 #'+n+' · '+(v[3]||v[2].slice(0,38)||'原文辨识'),prompt:v[2]||'该条原文未提供',check:v[3]||'核对原文语境和证据',risk:v[4]||'暂无对应催眠点分析，不能据此断定存在操纵。',wake:v[5]||'保留独立判断，结合上下文核实。',counter:'原文可能是修辞、个人经验或课程观点；需结合语境，不能直接认定为操纵。',tags:['G2原文','催眠辨识'],type:'breakdown',source:v[1]||'G2从头复核原始资料（具体来源未注明）',revision:1}}).filter(c=>!known.has(c.id));seed=seed.concat(cards);filters();stats();renderCases();}).catch(e=>console.warn('G2原文辨识资料加载失败',e));
 // Incremental social/religious case batch: non-blocking, deduplicated by ID.
-fetch('./data/research-candidates-social-religion-20261111-1945.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
- if(!Array.isArray(data.cases))throw Error('schema mismatch');
- const known=new Set(seed.map(c=>c.id));
- seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)&&['社会','宗教'].includes(c.category)));
- filters();stats();renderCases();
-}).catch(e=>console.warn('社会宗教增量案例加载失败',e));
+
 // Additional original scenarios; nonblocking and ID-deduplicated.
-fetch('./data/research-candidates-social-religion-20261111-2048.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
- if(!Array.isArray(data.cases))throw Error('schema mismatch');
- const known=new Set(seed.map(c=>c.id));
- seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)&&['社会','宗教'].includes(c.category)));
- filters();stats();renderCases();
-}).catch(e=>console.warn('社会宗教新增案例加载失败',e));
+
 // Incremental social/religious scenarios; independently loaded and ID-deduplicated.
-fetch('./data/research-candidates-social-religion-20261111-2143.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
- if(!Array.isArray(data.cases))throw Error('schema mismatch');
- const known=new Set(seed.map(c=>c.id));
- seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)&&['社会','宗教'].includes(c.category)));
- filters();stats();renderCases();
-}).catch(e=>console.warn('社会宗教新增案例加载失败',e));
+
 // Social/religious original scenario batch 22:48; non-blocking, ID-deduplicated.
-fetch('./data/research-candidates-social-religion-20261111-2248.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
- if(!Array.isArray(data.cases))throw Error('schema mismatch');
- const known=new Set(seed.map(c=>c.id));
- seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)&&['社会','宗教'].includes(c.category)));
- filters();stats();renderCases();
-}).catch(e=>console.warn('22:48社会宗教案例加载失败',e));
+
 
 // Social/religious batch 23:46, independent nonblocking load with ID deduplication.
-fetch('./data/research-candidates-social-religion-20261111-2346.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
- if(!Array.isArray(data.cases))throw Error('schema mismatch');
- const known=new Set(seed.map(c=>c.id));
- seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)&&['社会','宗教'].includes(c.category)));
- filters();stats();renderCases();
-}).catch(e=>console.warn('23:46社会宗教案例加载失败',e));
+
 // Social/religious scenarios 2026-11-12 00:44; nonblocking, ID-deduplicated.
-fetch('./data/research-candidates-social-religion-20261112-0044.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
- if(!Array.isArray(data.cases))throw Error('schema mismatch');
- const known=new Set(seed.map(c=>c.id));
- seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)&&['社会','宗教'].includes(c.category)));
- filters();stats();renderCases();
-}).catch(e=>console.warn('00:44社会宗教案例加载失败',e));
+
 // Social/religious scenarios 2026-11-12 01:42; nonblocking, ID-deduplicated.
-fetch('./data/research-candidates-social-religion-20261112-0142.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
- if(!Array.isArray(data.cases))throw Error('schema mismatch');
- const known=new Set(seed.map(c=>c.id));
- seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)&&['社会','宗教'].includes(c.category)));
- filters();stats();renderCases();
-}).catch(e=>console.warn('01:42社会宗教案例加载失败',e));
+
 // Social/religious original scenarios 2026-11-12 02:43; nonblocking, ID-deduplicated.
-fetch('./data/research-candidates-social-religion-20261112-0243.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
- if(!Array.isArray(data.cases))throw Error('schema mismatch');
- const known=new Set(seed.map(c=>c.id));
- seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)&&['社会','宗教'].includes(c.category)));
- filters();stats();renderCases();
-}).catch(e=>console.warn('02:43社会宗教案例加载失败',e));
+
 // Social/religious original scenarios 2026-11-12 03:44; nonblocking and ID-deduplicated.
-fetch('./data/research-candidates-social-religion-20261112-0344.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
- if(!Array.isArray(data.cases))throw Error('schema mismatch');
- const known=new Set(seed.map(c=>c.id));
- seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)&&['社会','宗教'].includes(c.category)));
- filters();stats();renderCases();
-}).catch(e=>console.warn('03:44社会宗教案例加载失败',e));
+
 // Social/religious original scenarios 2026-11-12 04:43; nonblocking and ID-deduplicated.
-fetch('./data/research-candidates-social-religion-20261112-0443.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
- if(!Array.isArray(data.cases))throw Error('schema mismatch');
- const known=new Set(seed.map(c=>c.id));
- seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)&&['社会','宗教'].includes(c.category)));
- filters();stats();renderCases();
-}).catch(e=>console.warn('04:43社会宗教案例加载失败',e));
+
 // Social/religious original simulations 2026-11-12 05:46; nonblocking and ID-deduplicated.
-fetch('./data/research-candidates-social-religion-20261112-0546.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
- if(!Array.isArray(data.cases))throw Error('schema mismatch');
- const known=new Set(seed.map(c=>c.id));
- seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)&&['社会','宗教'].includes(c.category)));
- filters();stats();renderCases();
-}).catch(e=>console.warn('05:46社会宗教案例加载失败',e));
+
 // Social/religious original simulations 2026-11-12 06:44; nonblocking and ID-deduplicated.
-fetch('./data/research-candidates-social-religion-20261112-0644.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
- if(!Array.isArray(data.cases))throw Error('schema mismatch');
- const known=new Set(seed.map(c=>c.id));
- seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)&&['社会','宗教'].includes(c.category)));
- filters();stats();renderCases();
-}).catch(e=>console.warn('06:44社会宗教案例加载失败',e));
+
 // Original social/religious simulations 2026-11-12 07:46; nonblocking, ID-deduplicated.
-fetch('./data/research-candidates-social-religion-20261112-0746.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
- if(!Array.isArray(data.cases))throw Error('schema mismatch');
- const known=new Set(seed.map(c=>c.id));
- seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)&&['社会','宗教'].includes(c.category)));
- filters();stats();renderCases();
-}).catch(e=>console.warn('07:46社会宗教案例加载失败',e));
+
 // All share links use the same canonical URL. Check published assets when returning to the tab
 // and periodically while visible; ask before reloading so unfinished exercises are not lost.
 const LIVE_FILES=['./app.js','./data/social-religion-batch-01.json','./data/research-candidates-real-classic-songs-20261111.json','./data/research-candidates-lyrics-20261111-c.json'];
@@ -233,43 +168,50 @@ setInterval(checkPublishedUpdates,120000);
 if('serviceWorker'in navigator&&location.protocol.startsWith('http'))navigator.serviceWorker.register('./sw.js',{updateViaCache:'none'}).then(reg=>{reg.update().catch(()=>{});}).catch(()=>{});
 
 // Social/religious original simulations 2026-11-12 08:46; nonblocking and ID-deduplicated.
-fetch('./data/research-candidates-social-religion-20261112-0846.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
- if(!Array.isArray(data.cases))throw Error('schema mismatch');
- const known=new Set(seed.map(c=>c.id));
- seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)&&['社会','宗教'].includes(c.category)));
- filters();stats();renderCases();
-}).catch(e=>console.warn('08:46社会宗教案例加载失败',e));
+
 
 // Original social/religious simulations 2026-11-12 09:46; nonblocking, ID-deduplicated.
-fetch('./data/research-candidates-social-religion-20261112-0946.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
- if(!Array.isArray(data.cases))throw Error('schema mismatch');
- const known=new Set(seed.map(c=>c.id));
- seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)&&['社会','宗教'].includes(c.category)));
- filters();stats();renderCases();
-}).catch(e=>console.warn('09:46社会宗教案例加载失败',e));
+
 
 // Social/religious original simulations 2026-11-12 10:46; deduplicated by ID.
-fetch('./data/research-candidates-social-religion-20261112-1046.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
- if(!Array.isArray(data.cases))throw Error('schema mismatch');
- const known=new Set(seed.map(c=>c.id));
- seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)&&['社会','宗教'].includes(c.category)));
- filters();stats();renderCases();
-}).catch(e=>console.warn('10:46社会宗教案例加载失败',e));
+
 
 // Social/religious original simulations 2026-11-12 16:46; nonblocking, ID-deduplicated.
-fetch('./data/research-candidates-social-religion-20261112-1646.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
- if(!Array.isArray(data.cases))throw Error('schema mismatch');
- const known=new Set(seed.map(c=>c.id));
- seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)&&['社会','宗教'].includes(c.category)));
- filters();stats();renderCases();
-}).catch(e=>console.warn('16:46社会宗教案例加载失败',e));
+
 
 // Social/religious original simulations 2026-11-12 17:47; nonblocking, ID-deduplicated.
-fetch('./data/research-candidates-social-religion-20261112-1747.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
- if(!Array.isArray(data.cases))throw Error('schema mismatch');
- const known=new Set(seed.map(c=>c.id));
- seed=seed.concat(data.cases.filter(c=>c&&typeof c.id==='string'&&!known.has(c.id)&&['社会','宗教'].includes(c.category)));
- filters();stats();renderCases();
-}).catch(e=>console.warn('17:47社会宗教案例加载失败',e));
+
+
+
+// Manifest-driven incremental case loader: new batches only update data/case-manifest.json.
+// Validate each file independently; failure in one batch does not block the others.
+async function loadCaseManifest(){
+ try{
+  const response=await fetch('./data/case-manifest.json',{cache:'no-store'});
+  if(!response.ok)throw Error('manifest HTTP '+response.status);
+  const manifest=await response.json();
+  if(manifest.schemaVersion!==1||!Array.isArray(manifest.files))throw Error('invalid case manifest');
+  const known=new Set(seed.map(c=>c.id));
+  const results=await Promise.allSettled(manifest.files.map(async entry=>{
+   if(!entry||!/^data\\/research-candidates-social-religion-[\\w-]+\\.json$/.test(entry.path))throw Error('invalid manifest path');
+   const r=await fetch('./'+entry.path,{cache:'no-cache'});
+   if(!r.ok)throw Error(entry.path+' HTTP '+r.status);
+   const data=await r.json();
+   if(!Array.isArray(data.cases))throw Error(entry.path+' invalid cases');
+   return data.cases;
+  }));
+  let changed=false;
+  for(let i=0;i<results.length;i++){
+   const result=results[i];
+   if(result.status!=='fulfilled'){console.warn('案例批次加载失败',manifest.files[i].path,result.reason);continue}
+   for(const c of result.value){
+    if(!c||typeof c.id!=='string'||!['社会','宗教'].includes(c.category)||known.has(c.id))continue;
+    known.add(c.id);seed.push(c);changed=true;
+   }
+  }
+  if(changed){filters();stats();renderCases()}
+ }catch(e){console.warn('案例清单加载失败',e)}
+}
+loadCaseManifest();
 
 })();
