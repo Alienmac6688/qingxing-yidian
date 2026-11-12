@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "description": "Incremental social and religious case batches. Add paths here; do not edit app.js for each batch.",
+  "files": [
+    {
+      "path": "data/research-candidates-social-religion-20261111-1945.json",
+      "category": [
+        "社会",
+        "宗教"
+      ]
+    },
+    {
+      "path": "data/research-candidates-social-religion-20261111-2048.json",
+      "category": [
+        "社会",
+        "宗教"
+      ]
+    },
+    {
+      "path": "data/research-candidates-social-religion-20261111-2143.json",
+      "category": [
+        "社会",
+        "宗教"
+      ]
+    },
+    {
+      "path": "data/research-candidates-social-religion-20261111-2248.json",
+      "category": [
+        "社会",
+        "宗教"
+      ]
+    },
+    {
+      "path": "data/research-candidates-social-religion-20261111-2346.json",
+      "category": [
+        "社会",
+        "宗教"
+      ]
+    },
+    {
+      "path": "data/research-candidates-social-religion-20261112-0044.json",
+      "category": [
+        "社会",
+        "宗教"
+      ]
+    },
+    {
+      "path": "data/research-candidates-social-religion-20261112-0142.json",
+      "category": [
+        "社会",
+        "宗教"
+      ]
+    },
+    {
+      "path": "data/research-candidates-social-religion-20261112-0243.json",
+      "category": [
+        "社会",
+        "宗教"
+      ]
+    },
+    {
+      "path": "data/research-candidates-social-religion-20261112-0344.json",
+      "category": [
+        "社会",
+        "宗教"
+      ]
+    },
+    {
+      "path": "data/research-candidates-social-religion-20261112-0443.json",
+      "category": [
+        "社会",
+        "宗教"
+      ]
+    },
+    {
+      "path": "data/research-candidates-social-religion-20261112-0546.json",
+      "category": [
+        "社会",
+        "宗教"
+      ]
+    },
+    {
+      "path": "data/research-candidates-social-religion-20261112-0644.json",
+      "category": [
+        "社会",
+        "宗教"
+      ]
+    },
+    {
+      "path": "data/research-candidates-social-religion-20261112-0746.json",
+      "category": [
+        "社会",
+        "宗教"
+      ]
+    },
+    {
+      "path": "data/research-candidates-social-religion-20261112-0846.json",
+      "category": [
+        "社会",
+        "宗教"
+      ]
+    },
+    {
+      "path": "data/research-candidates-social-religion-20261112-0946.json",
+      "category": [
+        "社会",
+        "宗教"
+      ]
+    },
+    {
+      "path": "data/research-candidates-social-religion-20261112-1046.json",
+      "category": [
+        "社会",
+        "宗教"
+      ]
+    },
+    {
+      "path": "data/research-candidates-social-religion-20261112-1646.json",
+      "category": [
+        "社会",
+        "宗教"
+      ]
+    },
+    {
+      "path": "data/research-candidates-social-religion-20261112-1747.json",
+      "category": [
+        "社会",
+        "宗教"
+      ]
+    }
+  ]
+}
