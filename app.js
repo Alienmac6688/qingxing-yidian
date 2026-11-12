@@ -193,7 +193,7 @@ async function loadCaseManifest(){
   if(manifest.schemaVersion!==1||!Array.isArray(manifest.files))throw Error('invalid case manifest');
   const known=new Set(seed.map(c=>c.id));
   const results=await Promise.allSettled(manifest.files.map(async entry=>{
-   if(!entry||!/^data\\/research-candidates-social-religion-[\\w-]+\\.json$/.test(entry.path))throw Error('invalid manifest path');
+   if(!entry||!(typeof entry.path==='string'&&entry.path.startsWith('data/research-candidates-social-religion-')&&entry.path.endsWith('.json')&&!entry.path.includes('..')))throw Error('invalid manifest path');
    const r=await fetch('./'+entry.path,{cache:'no-cache'});
    if(!r.ok)throw Error(entry.path+' HTTP '+r.status);
    const data=await r.json();
