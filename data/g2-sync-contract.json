@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "mode": "staged-read-only",
+  "description": "Canonical case contract for future Google Sheets -> reviewed GitHub export. No automatic write/deploy until validated.",
+  "sourceSpreadsheet": {
+    "id": "14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA",
+    "url": "https://docs.google.com/spreadsheets/d/14RIFZ39LkEpoUENUbkcRhiBBYTWvj7a7KE3Y0CBttgA/edit",
+    "tabs": [
+      {
+        "name": "从头复核",
+        "sheetId": 1642753381
+      },
+      {
+        "name": "逐句证据对照",
+        "sheetId": 1872045067
+      },
+      {
+        "name": "一页总览",
+        "sheetId": 1373462103
+      },
+      {
+        "name": "细分对照",
+        "sheetId": 1555984910
+      },
+      {
+        "name": "原表索引",
+        "sheetId": 285019732
+      }
+    ],
+    "sourceColumns": [
+      "序号",
+      "原始信息来源",
+      "原文",
+      "检测点",
+      "催眠",
+      "催醒"
+    ],
+    "preserveExistingTabs": true
+  },
+  "categories": [
+    "G2原始资料",
+    "ima古零公众号",
+    "Awakenology",
+    "元吾氏其他资料",
+    "社会",
+    "宗教",
+    "歌曲歌词"
+  ],
+  "requiredFields": [
+    "id",
+    "category",
+    "sourceType",
+    "sourceTitle",
+    "sourceUrl",
+    "originalExcerpt",
+    "originalRewrite",
+    "recognitionPoint",
+    "hypnosisPoint",
+    "awakeningPoint",
+    "alternativeExplanation",
+    "evidenceStatus"
+  ],
+  "optionalFields": [
+    "publishedAt",
+    "sourceRow",
+    "sourceSheet",
+    "scenarioType",
+    "reviewedAt",
+    "contentHash"
+  ],
+  "evidenceStatuses": [
+    "原文已核验",
+    "来源待核验",
+    "原创模拟",
+    "真实案例已核验"
+  ],
+  "rules": {
+    "noInferredPublicationDates": true,
+    "noInventedQuotations": true,
+    "originalScenariosLabeled": true,
+    "religiousIdentityNotManipulationEvidence": true,
+    "deduplicateBy": [
+      "id",
+      "normalizedTitle",
+      "normalizedExcerpt",
+      "semanticSimilarity"
+    ],
+    "writePolicy": "reviewed entries only; PR + CI; no direct overwrite of source spreadsheet",
+    "conflictPolicy": "re-read main and source before publishing; fail closed on concurrent change",
+    "syncDirection": "Google Sheets approved records -> GitHub reviewed data -> app",
+    "credentials": "GitHub Actions secrets or OAuth, never committed",
+    "initialPublish": "disabled until cross-system counts and audit verified"
+  }
+}
