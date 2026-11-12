@@ -7,13 +7,13 @@ on:
       - 'data/**'
       - 'scripts/validate_case_library.py'
       - 'scripts/audit_case_library.py'
-      - 'scripts/audit_case_library.py'
       - '.github/workflows/case-validation.yml'
   pull_request:
     paths:
       - 'app.js'
       - 'data/**'
       - 'scripts/validate_case_library.py'
+      - 'scripts/audit_case_library.py'
       - '.github/workflows/case-validation.yml'
   workflow_dispatch:
 jobs:
