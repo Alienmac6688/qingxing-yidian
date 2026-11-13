@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "cases": [
+    {
+      "id": "sr-20261113-1848-01",
+      "category": "社会",
+      "title": "社区药品互助群把AI照片识别结果当作药品安全保证",
+      "prompt": "原创模拟：邻里药品互助群管理员仅凭聊天机器人识别包装照片，就宣称一批来源不明的药品安全有效，并要求质疑者停止询问批号和有效期。",
+      "check": "是否有药品来源、批准信息、有效期及专业人员核验，AI识图能否替代这些证据？",
+      "risk": "把工具输出包装成确定性专业结论，并用群体压力阻断核查。",
+      "wake": "停止分发来源不明药品，保留包装和批号，向药师或监管机构核验；紧急用药应寻求正规医疗帮助。",
+      "counter": "管理员可能急于帮助邻居而误信AI，并不必然有欺骗意图。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "自主判断",
+        "证据核查"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；《The Ethics of Manipulation》仅作为伦理分析线索，来源正文本轮未核实，不构成事件证据",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；本轮未核验来源正文",
+      "originalRewrite": "邻里药品互助群管理员仅凭聊天机器人识别包装照片，就宣称一批来源不明的药品安全有效，并要求质疑者停止询问批号和有效期。",
+      "discernmentPoint": "是否有药品来源、批准信息、有效期及专业人员核验，AI识图能否替代这些证据？",
+      "hypnosisPoint": "把工具输出包装成确定性专业结论，并用群体压力阻断核查。",
+      "awakeningPoint": "停止分发来源不明药品，保留包装和批号，向药师或监管机构核验；紧急用药应寻求正规医疗帮助。",
+      "alternativeExplanation": "管理员可能急于帮助邻居而误信AI，并不必然有欺骗意图。",
+      "evidenceStatus": "原创模拟，非真实事件；分析来源本轮未复核",
+      "caseKind": "original-simulation",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261113-1848-02",
+      "category": "宗教",
+      "title": "宗教文物认养活动把捐赠收据默认变成永久公开署名",
+      "prompt": "原创模拟：宗教文化遗产修复项目允许匿名捐赠，却在电子收据的小字中默认同意把捐赠者姓名永久刻入公开数字纪念墙，拒绝者被说成不尊重传统。",
+      "check": "捐赠、公开署名和长期展示是否分别征得明确同意，能否撤回？",
+      "risk": "借文化归属与尊重传统的道德压力，把公益支持扩大为不可逆的个人信息公开。",
+      "wake": "把捐赠与署名设为独立选项，明确展示期限、删除渠道及匿名捐赠路径。",
+      "counter": "组织者可能认为公开鸣谢是惯例或财务透明要求，但不等于获得永久展示授权。",
+      "tags": [
+        "宗教",
+        "原创模拟",
+        "自主判断",
+        "证据核查"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；《The Ethics of Manipulation》仅作为伦理分析线索，来源正文本轮未核实，不构成事件证据",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；本轮未核验来源正文",
+      "originalRewrite": "宗教文化遗产修复项目允许匿名捐赠，却在电子收据的小字中默认同意把捐赠者姓名永久刻入公开数字纪念墙，拒绝者被说成不尊重传统。",
+      "discernmentPoint": "捐赠、公开署名和长期展示是否分别征得明确同意，能否撤回？",
+      "hypnosisPoint": "借文化归属与尊重传统的道德压力，把公益支持扩大为不可逆的个人信息公开。",
+      "awakeningPoint": "把捐赠与署名设为独立选项，明确展示期限、删除渠道及匿名捐赠路径。",
+      "alternativeExplanation": "组织者可能认为公开鸣谢是惯例或财务透明要求，但不等于获得永久展示授权。",
+      "evidenceStatus": "原创模拟，非真实事件；分析来源本轮未复核",
+      "caseKind": "original-simulation",
+      "revision": 1
+    }
+  ]
+}
