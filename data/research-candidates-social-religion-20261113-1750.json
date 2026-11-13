@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "cases": [
+    {
+      "id": "sr-20261113-1750-01",
+      "category": "社会",
+      "title": "公司心理健康问卷把跳过敏感题自动标为工作风险",
+      "prompt": "公司以员工关怀为名发放心理健康问卷，未说明数据流向；跳过家庭冲突和睡眠问题的员工被系统自动列为高风险，并将标签发送给直属主管。",
+      "check": "是否告知用途、共享对象、保存期限及拒答后果？风险标签有无人工复核？",
+      "risk": "将自愿健康关怀变成隐性绩效监控，用风险标签压缩拒答空间。",
+      "wake": "将健康支持与绩效管理隔离，明确自愿、最小收集、访问权限与纠错渠道。",
+      "counter": "组织可能确实希望尽早提供帮助，但自动标签不能代替知情同意和专业评估。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "知情同意",
+        "隐私边界"
+      ],
+      "type": "breakdown",
+      "source": "原创生活情境；Stanford Encyclopedia of Philosophy《The Ethics of Manipulation》仅为伦理分析框架，不是事件事实证据",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "originalRewrite": "公司以员工关怀为名发放心理健康问卷，未说明数据流向；跳过家庭冲突和睡眠问题的员工被系统自动列为高风险，并将标签发送给直属主管。",
+      "discernmentPoint": "是否告知用途、共享对象、保存期限及拒答后果？风险标签有无人工复核？",
+      "hypnosisPoint": "将自愿健康关怀变成隐性绩效监控，用风险标签压缩拒答空间。",
+      "awakeningPoint": "将健康支持与绩效管理隔离，明确自愿、最小收集、访问权限与纠错渠道。",
+      "alternativeExplanation": "组织可能确实希望尽早提供帮助，但自动标签不能代替知情同意和专业评估。",
+      "evidenceStatus": "原创模拟，非真实事件；学术框架已核验，具体情境无直接事件证据",
+      "caseKind": "original-simulation",
+      "revision": 1
+    },
+    {
+      "id": "sr-20261113-1750-02",
+      "category": "宗教",
+      "title": "线上祈祷日记的纪念功能默认公开逝者私人草稿",
+      "prompt": "某宗教社群应用提供纪念已故成员的页面，管理员将其生前保存在私密区的未发布祈祷草稿自动公开，并称家属拒绝公开是不尊重遗愿。",
+      "check": "逝者生前是否授权公开？家属能否申请隐藏？纪念目的是否足以推定隐私同意？",
+      "risk": "把纪念与尊重的道德语言转化为未经授权的数据公开压力。",
+      "wake": "区分公开发表内容与私人草稿，先核验授权、限制可见范围并建立撤回和申诉机制。",
+      "counter": "管理员可能出于纪念和保存文化记忆的善意，但善意不能自动替代授权。",
+      "tags": [
+        "宗教",
+        "原创模拟",
+        "知情同意",
+        "隐私边界"
+      ],
+      "type": "breakdown",
+      "source": "原创生活情境；Stanford Encyclopedia of Philosophy《The Ethics of Manipulation》仅为伦理分析框架，不是事件事实证据",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "originalRewrite": "某宗教社群应用提供纪念已故成员的页面，管理员将其生前保存在私密区的未发布祈祷草稿自动公开，并称家属拒绝公开是不尊重遗愿。",
+      "discernmentPoint": "逝者生前是否授权公开？家属能否申请隐藏？纪念目的是否足以推定隐私同意？",
+      "hypnosisPoint": "把纪念与尊重的道德语言转化为未经授权的数据公开压力。",
+      "awakeningPoint": "区分公开发表内容与私人草稿，先核验授权、限制可见范围并建立撤回和申诉机制。",
+      "alternativeExplanation": "管理员可能出于纪念和保存文化记忆的善意，但善意不能自动替代授权。",
+      "evidenceStatus": "原创模拟，非真实事件；学术框架已核验，具体情境无直接事件证据",
+      "caseKind": "original-simulation",
+      "revision": 1
+    }
+  ]
+}
