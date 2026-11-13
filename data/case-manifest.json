@@ -148,6 +148,13 @@
         "社会",
         "宗教"
       ]
+    },
+    {
+      "path": "data/research-candidates-social-religion-20261114-0543.json",
+      "category": [
+        "社会",
+        "宗教"
+      ]
     }
   ]
 }
