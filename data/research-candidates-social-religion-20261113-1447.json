@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "cases": [
+    {
+      "id": "sr-20261113-1447-01",
+      "category": "社会",
+      "title": "养老陪伴App把取消自动续费描述为抛弃长辈",
+      "prompt": "原创模拟：某陪伴App的退订页不展示取消按钮，而连续弹出“取消就是不关心父母”的提示；继续付款按钮突出，取消入口隐藏在多级菜单。",
+      "check": "是否能不受羞辱地查看价格、续费周期与退订入口？",
+      "risk": "用亲情负罪感替代清晰的服务价值与知情选择。",
+      "wake": "核对自动续费条款，保留退订截图，通过官方渠道取消并核查扣款。",
+      "counter": "平台可能希望提醒服务中断的实际影响，但不应隐瞒取消路径。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "自主判断",
+        "知情同意"
+      ],
+      "type": "breakdown",
+      "source": "原创生活情境；理论参考Stanford Encyclopedia of Philosophy《The Ethics of Manipulation》，不是该文记载的事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "originalRewrite": "某陪伴App的退订页不展示取消按钮，而连续弹出“取消就是不关心父母”的提示；继续付款按钮突出，取消入口隐藏在多级菜单。",
+      "discernmentPoint": "是否能不受羞辱地查看价格、续费周期与退订入口？",
+      "hypnosisPoint": "用亲情负罪感替代清晰的服务价值与知情选择。",
+      "awakeningPoint": "核对自动续费条款，保留退订截图，通过官方渠道取消并核查扣款。",
+      "alternativeExplanation": "平台可能希望提醒服务中断的实际影响，但不应隐瞒取消路径。",
+      "evidenceStatus": "原创模拟，非真实事件；学术来源仅为分析框架，不证明情境发生",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261113-1447-02",
+      "category": "社会",
+      "title": "公司匿名意见箱把沉默自动统计为满意",
+      "prompt": "原创模拟：公司发起匿名调查，系统将未填写的员工默认记为“支持管理方案”，随后公布“全员赞同”并用该结果阻止异议。",
+      "check": "参与人数、未回答人数和支持人数是否分别公开？",
+      "risk": "把没有表达意见伪装成明确同意，制造虚假的多数压力。",
+      "wake": "要求公开统计口径与原始匿名汇总，保留弃权及反对选项。",
+      "counter": "组织者可能把未回应误设为默认值，需先核查系统配置与纠正机制。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "自主判断",
+        "知情同意"
+      ],
+      "type": "breakdown",
+      "source": "原创生活情境；理论参考Stanford Encyclopedia of Philosophy《The Ethics of Manipulation》，不是该文记载的事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "originalRewrite": "公司发起匿名调查，系统将未填写的员工默认记为“支持管理方案”，随后公布“全员赞同”并用该结果阻止异议。",
+      "discernmentPoint": "参与人数、未回答人数和支持人数是否分别公开？",
+      "hypnosisPoint": "把没有表达意见伪装成明确同意，制造虚假的多数压力。",
+      "awakeningPoint": "要求公开统计口径与原始匿名汇总，保留弃权及反对选项。",
+      "alternativeExplanation": "组织者可能把未回应误设为默认值，需先核查系统配置与纠正机制。",
+      "evidenceStatus": "原创模拟，非真实事件；学术来源仅为分析框架，不证明情境发生",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261113-1447-03",
+      "category": "宗教",
+      "title": "线上追思纪念页将一次献花默认为长期扣费",
+      "prompt": "原创模拟：某宗教文化追思网页让访客点击虚拟献花，结算时默认开启每月自动捐款，页面以“中止纪念就是遗忘亲人”劝阻取消。",
+      "check": "一次性纪念行为是否被明确区分于长期付费授权？",
+      "risk": "利用哀伤与道德内疚弱化对续费的审查。",
+      "wake": "逐项核对金额、周期和取消方式；纪念行为与捐款意愿分别确认。",
+      "counter": "持续维护纪念网页可能需要经费，但续费应单独、清楚取得同意。",
+      "tags": [
+        "宗教",
+        "原创模拟",
+        "自主判断",
+        "知情同意"
+      ],
+      "type": "breakdown",
+      "source": "原创生活情境；理论参考Stanford Encyclopedia of Philosophy《The Ethics of Manipulation》，不是该文记载的事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "originalRewrite": "某宗教文化追思网页让访客点击虚拟献花，结算时默认开启每月自动捐款，页面以“中止纪念就是遗忘亲人”劝阻取消。",
+      "discernmentPoint": "一次性纪念行为是否被明确区分于长期付费授权？",
+      "hypnosisPoint": "利用哀伤与道德内疚弱化对续费的审查。",
+      "awakeningPoint": "逐项核对金额、周期和取消方式；纪念行为与捐款意愿分别确认。",
+      "alternativeExplanation": "持续维护纪念网页可能需要经费，但续费应单独、清楚取得同意。",
+      "evidenceStatus": "原创模拟，非真实事件；学术来源仅为分析框架，不证明情境发生",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261113-1447-04",
+      "category": "宗教",
+      "title": "跨信仰公益讲座将报名邮件自动变成宗教宣誓证明",
+      "prompt": "原创模拟：社区联合举办文化讲座，报名系统将“接收活动通知”勾选记录导出成“认同本团体教义”的名单，主持人据此宣称参会者集体改宗。",
+      "check": "活动通知同意、文化参与和宗教认同是否被错误混同？",
+      "risk": "利用表单语义转换制造不存在的信仰承诺与群体压力。",
+      "wake": "公开原表单、纠正记录，允许撤回不准确的身份标签。",
+      "counter": "可能是数据字段映射错误，而非故意施压；应先核查流程与纠错响应。",
+      "tags": [
+        "宗教",
+        "原创模拟",
+        "自主判断",
+        "知情同意"
+      ],
+      "type": "breakdown",
+      "source": "原创生活情境；理论参考Stanford Encyclopedia of Philosophy《The Ethics of Manipulation》，不是该文记载的事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "2026-03-31",
+      "originalExcerpt": "",
+      "originalRewrite": "社区联合举办文化讲座，报名系统将“接收活动通知”勾选记录导出成“认同本团体教义”的名单，主持人据此宣称参会者集体改宗。",
+      "discernmentPoint": "活动通知同意、文化参与和宗教认同是否被错误混同？",
+      "hypnosisPoint": "利用表单语义转换制造不存在的信仰承诺与群体压力。",
+      "awakeningPoint": "公开原表单、纠正记录，允许撤回不准确的身份标签。",
+      "alternativeExplanation": "可能是数据字段映射错误，而非故意施压；应先核查流程与纠错响应。",
+      "evidenceStatus": "原创模拟，非真实事件；学术来源仅为分析框架，不证明情境发生",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    }
+  ]
+}
