@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "status": "research-candidates-not-loaded",
+  "note": "原创模拟；本批ID和标题唯一；已比对近期PR主题，完整跨库语义去重未完成；不可视为真实事件",
+  "cases": [
+    {
+      "id": "sim-20261119-1948-01",
+      "category": "社会",
+      "title": "图书馆预约排队人数被说成实际到馆使用人数",
+      "prompt": "原创模拟情境：公共图书馆公告称新阅览室预约量达到一万人次，因而已经服务了一万人次读者；但统计中包含取消与重复预约。",
+      "check": "预约人次、实际签到、独立访客与完成使用是否分别统计？",
+      "risk": "将意向指标当成实际使用成果，掩盖空置或服务障碍。",
+      "wake": "分别公开预约、取消、签到与使用时长的匿名汇总，邀请读者反馈未到馆原因。",
+      "counter": "管理人员可能采用系统默认报表，并非有意夸大。",
+      "tags": [
+        "原创模拟",
+        "辨识练习",
+        "社会"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；Awakenology中文目录仅作辨识框架参考，不是事件证据",
+      "sourceTitle": "Awakenology 中文目錄（框架参考）",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "模拟案例无事件原文",
+      "originalRewrite": "公共图书馆公告称新阅览室预约量达到一万人次，因而已经服务了一万人次读者；但统计中包含取消与重复预约。",
+      "discernmentPoint": "预约人次、实际签到、独立访客与完成使用是否分别统计？",
+      "hypnosisPoint": "将意向指标当成实际使用成果，掩盖空置或服务障碍。",
+      "awakeningPoint": "分别公开预约、取消、签到与使用时长的匿名汇总，邀请读者反馈未到馆原因。",
+      "alternativeExplanation": "管理人员可能采用系统默认报表，并非有意夸大。",
+      "evidenceStatus": "原创模拟；未发生事实核验；待全库语义去重及人工审核",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "Awakenology 中文目錄（框架参考，非事件证据）",
+          "url": "https://awakenology.org/Chinese/"
+        }
+      ]
+    },
+    {
+      "id": "sim-20261119-1948-02",
+      "category": "社会",
+      "title": "学校防暑预警只引用操场平均温度",
+      "prompt": "原创模拟情境：学校公告说操场平均气温不高，所有户外社团都无需调整训练；但部分学生在无阴影的塑胶跑道上长时间活动。",
+      "check": "平均气温能否代表日晒、湿度、活动强度与个体暴露风险？",
+      "risk": "用总体均值抹平高暴露场景，削弱个别学生提出休息的正当性。",
+      "wake": "核对热指数或WBGT、场地与时段差异，设置可调整的休息与补水安排。",
+      "counter": "学校可能缺少分区传感器，公告原意只是通报整体天气。",
+      "tags": [
+        "原创模拟",
+        "辨识练习",
+        "社会"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；Awakenology中文目录仅作辨识框架参考，不是事件证据",
+      "sourceTitle": "Awakenology 中文目錄（框架参考）",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "模拟案例无事件原文",
+      "originalRewrite": "学校公告说操场平均气温不高，所有户外社团都无需调整训练；但部分学生在无阴影的塑胶跑道上长时间活动。",
+      "discernmentPoint": "平均气温能否代表日晒、湿度、活动强度与个体暴露风险？",
+      "hypnosisPoint": "用总体均值抹平高暴露场景，削弱个别学生提出休息的正当性。",
+      "awakeningPoint": "核对热指数或WBGT、场地与时段差异，设置可调整的休息与补水安排。",
+      "alternativeExplanation": "学校可能缺少分区传感器，公告原意只是通报整体天气。",
+      "evidenceStatus": "原创模拟；未发生事实核验；待全库语义去重及人工审核",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "Awakenology 中文目錄（框架参考，非事件证据）",
+          "url": "https://awakenology.org/Chinese/"
+        }
+      ]
+    },
+    {
+      "id": "sim-20261119-1948-03",
+      "category": "宗教",
+      "title": "宗教场所无障碍直播被等同于现场平等参与",
+      "prompt": "原创模拟情境：某宗教团体称已提供活动直播，因此行动不便者与现场参与者享有完全相同的参与机会；但线上无法提问或参与现场讨论。",
+      "check": "观看直播与提问、互动、参与决策是否是同一种权利？",
+      "risk": "把单向接收内容替代双向参与，忽略不同参与者的真实需求。",
+      "wake": "征询参与者意愿，提供线上提问、字幕及其他合理便利，并允许不参加。",
+      "counter": "直播可能是经费有限时的初步改善，而非故意排除任何群体。",
+      "tags": [
+        "原创模拟",
+        "辨识练习",
+        "宗教"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；Awakenology中文目录仅作辨识框架参考，不是事件证据",
+      "sourceTitle": "Awakenology 中文目錄（框架参考）",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "模拟案例无事件原文",
+      "originalRewrite": "某宗教团体称已提供活动直播，因此行动不便者与现场参与者享有完全相同的参与机会；但线上无法提问或参与现场讨论。",
+      "discernmentPoint": "观看直播与提问、互动、参与决策是否是同一种权利？",
+      "hypnosisPoint": "把单向接收内容替代双向参与，忽略不同参与者的真实需求。",
+      "awakeningPoint": "征询参与者意愿，提供线上提问、字幕及其他合理便利，并允许不参加。",
+      "alternativeExplanation": "直播可能是经费有限时的初步改善，而非故意排除任何群体。",
+      "evidenceStatus": "原创模拟；未发生事实核验；待全库语义去重及人工审核",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "Awakenology 中文目錄（框架参考，非事件证据）",
+          "url": "https://awakenology.org/Chinese/"
+        }
+      ]
+    },
+    {
+      "id": "sim-20261119-1948-04",
+      "category": "社会",
+      "title": "社区食品救助把领取券发放量当作实际领取餐食量",
+      "prompt": "原创模拟情境：社区发放三千张食品领取券后宣布已经提供三千份餐食，但部分券过期未兑换。",
+      "check": "发券数量、兑换数量与实际交付餐食是否分别有记录？",
+      "risk": "用承诺或资格凭证替代实际交付，影响对饥饿需求的判断。",
+      "wake": "公布匿名化兑换率、未兑换原因与补领机制，避免公开个人身份。",
+      "counter": "发券公告可能是在描述可获得的资源额度，而不是已经完成的发放。",
+      "tags": [
+        "原创模拟",
+        "辨识练习",
+        "社会"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；Awakenology中文目录仅作辨识框架参考，不是事件证据",
+      "sourceTitle": "Awakenology 中文目錄（框架参考）",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "模拟案例无事件原文",
+      "originalRewrite": "社区发放三千张食品领取券后宣布已经提供三千份餐食，但部分券过期未兑换。",
+      "discernmentPoint": "发券数量、兑换数量与实际交付餐食是否分别有记录？",
+      "hypnosisPoint": "用承诺或资格凭证替代实际交付，影响对饥饿需求的判断。",
+      "awakeningPoint": "公布匿名化兑换率、未兑换原因与补领机制，避免公开个人身份。",
+      "alternativeExplanation": "发券公告可能是在描述可获得的资源额度，而不是已经完成的发放。",
+      "evidenceStatus": "原创模拟；未发生事实核验；待全库语义去重及人工审核",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "Awakenology 中文目錄（框架参考，非事件证据）",
+          "url": "https://awakenology.org/Chinese/"
+        }
+      ]
+    }
+  ]
+}
