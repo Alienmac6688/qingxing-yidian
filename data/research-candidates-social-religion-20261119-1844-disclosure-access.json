@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "status": "research-candidates-not-loaded",
+  "note": "原创模拟；已对本轮ID标题去重，完整跨库语义去重未完成；不得作为真实事件",
+  "cases": [
+    {
+      "id": "sim-20261119-1844-01",
+      "category": "社会",
+      "title": "社区翻译热线把接通率当作问题解决率",
+      "prompt": "原创模拟情境：社区公告称多语言求助热线接通率达98%，因此所有外籍居民的办事困难已得到解决。",
+      "check": "接通率是否包含通话中断、无法翻译及未完成的转介？",
+      "risk": "将渠道可达性偷换为服务结果，遮蔽未解决个案。",
+      "wake": "分开公布接通、有效沟通、转介完成和当事人确认解决的比例；允许匿名反馈。",
+      "counter": "公告可能只想说明热线较容易拨通，而非刻意隐瞒后续成效。",
+      "tags": [
+        "原创模拟",
+        "辨识练习",
+        "社会"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；Awakenology中文目录仅作辨识框架索引，不是事件证据",
+      "sourceTitle": "Awakenology 中文目錄（框架参考）",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "模拟案例无事件原文",
+      "originalRewrite": "社区公告称多语言求助热线接通率达98%，因此所有外籍居民的办事困难已得到解决。",
+      "discernmentPoint": "接通率是否包含通话中断、无法翻译及未完成的转介？",
+      "hypnosisPoint": "将渠道可达性偷换为服务结果，遮蔽未解决个案。",
+      "awakeningPoint": "分开公布接通、有效沟通、转介完成和当事人确认解决的比例；允许匿名反馈。",
+      "alternativeExplanation": "公告可能只想说明热线较容易拨通，而非刻意隐瞒后续成效。",
+      "evidenceStatus": "原创模拟；未发生事实核验；待跨库语义去重及人工审核",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "Awakenology 中文目錄（框架参考，非事件证据）",
+          "url": "https://awakenology.org/Chinese/"
+        }
+      ]
+    },
+    {
+      "id": "sim-20261119-1844-02",
+      "category": "社会",
+      "title": "无障碍坡道验收忽略实际通行路线",
+      "prompt": "原创模拟情境：物业宣布大楼已安装无障碍坡道，所以所有轮椅使用者都能独立进入；但坡道尽头的门需要较大力量才能打开。",
+      "check": "单一设施合格是否代表完整出入路径可独立使用？",
+      "risk": "用局部设施存在代替真实使用体验，排除受影响者反馈。",
+      "wake": "邀请不同使用者测试完整路线，核对门力、转弯空间与替代通道，再公布改进记录。",
+      "counter": "物业可能依据承包商的局部验收报告作出过度概括，并非故意排斥。",
+      "tags": [
+        "原创模拟",
+        "辨识练习",
+        "社会"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；Awakenology中文目录仅作辨识框架索引，不是事件证据",
+      "sourceTitle": "Awakenology 中文目錄（框架参考）",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "模拟案例无事件原文",
+      "originalRewrite": "物业宣布大楼已安装无障碍坡道，所以所有轮椅使用者都能独立进入；但坡道尽头的门需要较大力量才能打开。",
+      "discernmentPoint": "单一设施合格是否代表完整出入路径可独立使用？",
+      "hypnosisPoint": "用局部设施存在代替真实使用体验，排除受影响者反馈。",
+      "awakeningPoint": "邀请不同使用者测试完整路线，核对门力、转弯空间与替代通道，再公布改进记录。",
+      "alternativeExplanation": "物业可能依据承包商的局部验收报告作出过度概括，并非故意排斥。",
+      "evidenceStatus": "原创模拟；未发生事实核验；待跨库语义去重及人工审核",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "Awakenology 中文目錄（框架参考，非事件证据）",
+          "url": "https://awakenology.org/Chinese/"
+        }
+      ]
+    },
+    {
+      "id": "sim-20261119-1844-03",
+      "category": "宗教",
+      "title": "宗教节庆志愿服务报名被误作持续个人资料授权",
+      "prompt": "原创模拟情境：一名参加节庆志愿服务的人填写了当天紧急联系人，组织者随后把联系人加入长期募捐群并称报名即表示同意。",
+      "check": "活动安全所需的紧急联系人是否被明确告知将用于后续募捐？",
+      "risk": "把一次性安全用途扩张为持续营销授权，利用参与者对组织的信任。",
+      "wake": "分开征求可撤回的用途授权，删除不必要资料；尊重参与和不参与宗教活动的选择。",
+      "counter": "组织者也可能误解表单用途或沿用旧流程，需先核对告知文本和实际处理。",
+      "tags": [
+        "原创模拟",
+        "辨识练习",
+        "宗教"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；Awakenology中文目录仅作辨识框架索引，不是事件证据",
+      "sourceTitle": "Awakenology 中文目錄（框架参考）",
+      "sourceUrl": "https://awakenology.org/Chinese/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "模拟案例无事件原文",
+      "originalRewrite": "一名参加节庆志愿服务的人填写了当天紧急联系人，组织者随后把联系人加入长期募捐群并称报名即表示同意。",
+      "discernmentPoint": "活动安全所需的紧急联系人是否被明确告知将用于后续募捐？",
+      "hypnosisPoint": "把一次性安全用途扩张为持续营销授权，利用参与者对组织的信任。",
+      "awakeningPoint": "分开征求可撤回的用途授权，删除不必要资料；尊重参与和不参与宗教活动的选择。",
+      "alternativeExplanation": "组织者也可能误解表单用途或沿用旧流程，需先核对告知文本和实际处理。",
+      "evidenceStatus": "原创模拟；未发生事实核验；待跨库语义去重及人工审核",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "Awakenology 中文目錄（框架参考，非事件证据）",
+          "url": "https://awakenology.org/Chinese/"
+        }
+      ]
+    }
+  ]
+}
