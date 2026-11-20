@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "status": "draft-review",
+  "note": "4条原创模拟，需全库及跨PR语义复核；不以宗教身份判断操纵",
+  "cases": [
+    {
+      "id": "sr-20261120-1047-01",
+      "category": "社会",
+      "title": "线上求职平台把撤回申请按钮藏在付费会员页面",
+      "prompt": "原创模拟：求职者免费提交申请后想撤回个人简历，平台却将撤回入口放在会员升级页旁，并让人误以为必须先付费。",
+      "check": "撤回申请是否真有付费前提？平台的隐私说明与实际入口是否一致？",
+      "risk": "把退出流程的摩擦与付费入口并置，可能削弱自主选择。",
+      "wake": "先核对平台规则、保留页面截图，要求免费撤回或删除个人数据并使用正式申诉渠道。",
+      "counter": "也可能是界面设计缺陷，不能仅凭页面位置认定经营者故意诱导。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "自主判断",
+        "可核查"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析参考《The Ethics of Manipulation》，不代表该文记载此事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；情境为原创模拟",
+      "originalRewrite": "求职者免费提交申请后想撤回个人简历，平台却将撤回入口放在会员升级页旁，并让人误以为必须先付费。",
+      "discernmentPoint": "撤回申请是否真有付费前提？平台的隐私说明与实际入口是否一致？",
+      "hypnosisPoint": "把退出流程的摩擦与付费入口并置，可能削弱自主选择。",
+      "awakeningPoint": "先核对平台规则、保留页面截图，要求免费撤回或删除个人数据并使用正式申诉渠道。",
+      "alternativeExplanation": "也可能是界面设计缺陷，不能仅凭页面位置认定经营者故意诱导。",
+      "evidenceStatus": "原创模拟，非已发生事件；参考文献仅为分析框架，未核验现实事件",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261120-1047-02",
+      "category": "社会",
+      "title": "租房中介用样板房全景图替代待租房实际采光",
+      "prompt": "原创模拟：中介展示一套采光很好的样板房全景图，房源说明却未明确照片不是即将签约的那间房。",
+      "check": "图片展示对象与合同标的是否一致？能否核对房号、朝向和现场采光？",
+      "risk": "把相似房型的视觉印象转移到具体房源，可能影响租赁决策。",
+      "wake": "索取目标房屋当日照片、平面图和实地看房机会，核对合同地址后再决定。",
+      "counter": "中介可能按统一户型展示，并非刻意隐瞒；关键在于是否清晰标注。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "自主判断",
+        "可核查"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析参考《The Ethics of Manipulation》，不代表该文记载此事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；情境为原创模拟",
+      "originalRewrite": "中介展示一套采光很好的样板房全景图，房源说明却未明确照片不是即将签约的那间房。",
+      "discernmentPoint": "图片展示对象与合同标的是否一致？能否核对房号、朝向和现场采光？",
+      "hypnosisPoint": "把相似房型的视觉印象转移到具体房源，可能影响租赁决策。",
+      "awakeningPoint": "索取目标房屋当日照片、平面图和实地看房机会，核对合同地址后再决定。",
+      "alternativeExplanation": "中介可能按统一户型展示，并非刻意隐瞒；关键在于是否清晰标注。",
+      "evidenceStatus": "原创模拟，非已发生事件；参考文献仅为分析框架，未核验现实事件",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261120-1047-03",
+      "category": "宗教",
+      "title": "宗教团体将线上祷告提醒默认设为深夜语音来电",
+      "prompt": "原创模拟：某宗教团体的线上活动报名页面，把深夜语音提醒设为默认开启，参与者只想看直播却频繁接到来电。",
+      "check": "参加活动是否等于同意任何时间的电话提醒？是否存在独立取消选项？",
+      "risk": "将参加宗教活动与高干扰通知捆绑，可能压缩参与者的实际选择空间。",
+      "wake": "分别设置直播报名和通知偏好，允许静音、退出及明确的时间段选择。",
+      "counter": "组织者可能为照顾跨时区成员而设置提醒，不能因其宗教性质推断恶意。",
+      "tags": [
+        "宗教",
+        "原创模拟",
+        "自主判断",
+        "可核查"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析参考《The Ethics of Manipulation》，不代表该文记载此事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；情境为原创模拟",
+      "originalRewrite": "某宗教团体的线上活动报名页面，把深夜语音提醒设为默认开启，参与者只想看直播却频繁接到来电。",
+      "discernmentPoint": "参加活动是否等于同意任何时间的电话提醒？是否存在独立取消选项？",
+      "hypnosisPoint": "将参加宗教活动与高干扰通知捆绑，可能压缩参与者的实际选择空间。",
+      "awakeningPoint": "分别设置直播报名和通知偏好，允许静音、退出及明确的时间段选择。",
+      "alternativeExplanation": "组织者可能为照顾跨时区成员而设置提醒，不能因其宗教性质推断恶意。",
+      "evidenceStatus": "原创模拟，非已发生事件；参考文献仅为分析框架，未核验现实事件",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    },
+    {
+      "id": "sr-20261120-1047-04",
+      "category": "社会",
+      "title": "公共运动场预约页面把排队人数显示为已使用人数",
+      "prompt": "原创模拟：运动场管理方展示很高的排队人数并称场地利用率接近满额，但排队者中有人重复预约或最终未到场。",
+      "check": "候补登记、实际到场与场地占用时长是不是不同统计口径？",
+      "risk": "用需求指标替代实际利用指标，可能使公众误判资源配置。",
+      "wake": "要求分别公开去重候补人数、实际签到及占用时段，并注明统计日期。",
+      "counter": "管理方可能仅想表达需求旺盛；是否误导要结合页面原始措辞判断。",
+      "tags": [
+        "社会",
+        "原创模拟",
+        "自主判断",
+        "可核查"
+      ],
+      "type": "breakdown",
+      "source": "原创模拟；分析参考《The Ethics of Manipulation》，不代表该文记载此事件",
+      "sourceTitle": "The Ethics of Manipulation",
+      "sourceUrl": "https://plato.stanford.edu/entries/ethics-manipulation/",
+      "sourceDate": "",
+      "originalExcerpt": "",
+      "excerptStatus": "未引用原文；情境为原创模拟",
+      "originalRewrite": "运动场管理方展示很高的排队人数并称场地利用率接近满额，但排队者中有人重复预约或最终未到场。",
+      "discernmentPoint": "候补登记、实际到场与场地占用时长是不是不同统计口径？",
+      "hypnosisPoint": "用需求指标替代实际利用指标，可能使公众误判资源配置。",
+      "awakeningPoint": "要求分别公开去重候补人数、实际签到及占用时段，并注明统计日期。",
+      "alternativeExplanation": "管理方可能仅想表达需求旺盛；是否误导要结合页面原始措辞判断。",
+      "evidenceStatus": "原创模拟，非已发生事件；参考文献仅为分析框架，未核验现实事件",
+      "caseKind": "original-simulation",
+      "revision": 1,
+      "references": [
+        {
+          "title": "The Ethics of Manipulation",
+          "url": "https://plato.stanford.edu/entries/ethics-manipulation/"
+        }
+      ]
+    }
+  ]
+}
